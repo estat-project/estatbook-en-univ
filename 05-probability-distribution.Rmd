@@ -2,7 +2,7 @@
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 5. Probability Distribution
+# Chapter 5. Probability Distribution
 
        ❮   **Chapter 4**       
 
@@ -18,9 +18,9 @@
 -   [  5.4.2 Exponential Distribution](../chapter05/050402.html)
 -   [5.5 Exercise](../chapter05/0505.html)
 
-###### [[\[book\]]{.underline}](book05.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](book05.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-### CHAPTER OBJECTIVES
+## CHAPTER OBJECTIVES
 
 Similar events occur repeatedly in our everyday life. We describe a
 chance of the event using a concept of the probability.
@@ -48,11 +48,11 @@ such as Normal Distribution, and Exponential Distribution are described.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 5. Probability Distribution
+# Chapter 5. Probability Distribution
 
              
 
-### 5.1 Definition of Probability
+## 5.1 Definition of Probability
 
 ::: presentation-video-link
 [presentation](0501.pdf){.presentation-link target="_blank"}   
@@ -266,11 +266,11 @@ large numbers**.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 5. Probability Distribution
+# Chapter 5. Probability Distribution
 
              
 
-### 5.2 Calculation of Probability
+## 5.2 Calculation of Probability
 
 ::: presentation-video-link
 [presentation](0502.pdf){.presentation-link target="_blank"}   
@@ -784,7 +784,7 @@ then $\small P(A^C )$ can be calculated as follows. $$ \small
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -984,11 +984,11 @@ P(B\|A)?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 5. Probability Distribution
+# Chapter 5. Probability Distribution
 
              
 
-### 5.3 Discrete Random Variable
+## 5.3 Discrete Random Variable
 
 ::: presentation-video-link
 [presentation](0503.pdf){.presentation-link target="_blank"}   
@@ -1335,7 +1335,7 @@ probability distributions.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -1448,11 +1448,11 @@ $\small E(X^2)$=25, and what is the variance $\small V(X)$?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 5. Probability Distribution
+# Chapter 5. Probability Distribution
 
              
 
-#### 5.3.1 Binomial Distribution
+### 5.3.1 Binomial Distribution
 
 ::: presentation-video-link
 [presentation](050301.pdf){.presentation-link target="_blank"}   
@@ -1992,7 +1992,7 @@ mean $np$ and variance $np(1-p)$ which is described in Section 5.4.2.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -2054,11 +2054,11 @@ are correct when answering 10 questions?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 5. Probability Distribution
+# Chapter 5. Probability Distribution
 
              
 
-#### 5.3.2 Poisson Distribution
+### 5.3.2 Poisson Distribution
 
 ::: presentation-video-link
 [presentation](050302.pdf){.presentation-link target="_blank"}   
@@ -2327,11 +2327,11 @@ book of mathematical statistics.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 5. Probability Distribution
+# Chapter 5. Probability Distribution
 
              
 
-#### 5.3.3 Geometric Distribution
+### 5.3.3 Geometric Distribution
 
 ::: presentation-video-link
 [presentation](050303.pdf){.presentation-link target="_blank"}   
@@ -2559,11 +2559,11 @@ trial.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 5. Probability Distribution
+# Chapter 5. Probability Distribution
 
              
 
-#### 5.3.4 Hypergeometric Distribution
+### 5.3.4 Hypergeometric Distribution
 
 ::: presentation-video-link
 [presentation](050304.pdf){.presentation-link target="_blank"}   
@@ -2759,11 +2759,11 @@ products in the sample using 『eStatU』.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 5. Probability Distribution
+# Chapter 5. Probability Distribution
 
              
 
-### 5.4 Continuous Random Variable
+## 5.4 Continuous Random Variable
 
 ::: presentation-video-link
 [presentation](0504.pdf){.presentation-link target="_blank"}   
@@ -2915,7 +2915,7 @@ $\quad \small  P(15 \lt X \lt 20) = (20 - 15) × \frac {1}{20} = 0.25$
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -3071,11 +3071,11 @@ the value of the cumulative distribution function F(x) if 1 ≤ x \< 2?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 5. Probability Distribution
+# Chapter 5. Probability Distribution
 
              
 
-#### 5.4.1 Normal Distribution
+### 5.4.1 Normal Distribution
 
 ::: presentation-video-link
 [presentation](050401.pdf){.presentation-link target="_blank"}   
@@ -3179,7 +3179,7 @@ values outside of this interval.
 :::
 :::
 
-#### Probability Calculation of the Normal Distribution
+### Probability Calculation of the Normal Distribution
 
 ::: mainTable
 The normal distribution is the most frequently used distribution in
@@ -3744,7 +3744,7 @@ range to get B grade?
 </div>
 :::
 
-#### Normal Approximation of Binomial Distribution
+### Normal Approximation of Binomial Distribution
 
 ::: mainTable
 In case of large $n$ (approximately 100 or more) in a binomial
@@ -3786,7 +3786,7 @@ $\small P( 3 \lt X \lt 7) = P( \frac{3-5}{\sqrt{4.75}} \lt Z \lt \frac{7-5}{\sqr
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -3870,11 +3870,11 @@ $P( -∞ < Z < z )$
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 5. Probability Distribution
+# Chapter 5. Probability Distribution
 
              
 
-#### 5.4.2 Exponential Distribution
+### 5.4.2 Exponential Distribution
 
 ::: presentation-video-link
 [presentation](050402.pdf){.presentation-link target="_blank"}   
@@ -4053,11 +4053,11 @@ hours or more?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 5. Probability Distribution
+# Chapter 5. Probability Distribution
 
               **Chapter 6**   ❯
 
-### 5.5 Exercise
+## 5.5 Exercise
 
 ::: mainTablePink
 5.1   Calculate the following.

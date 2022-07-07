@@ -2,7 +2,7 @@
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 11. Testing Hypothesis for Categorical Data
+# Chapter 11. Testing Hypothesis for Categorical Data
 
        ❮   **Chapter 10**       
 
@@ -17,9 +17,9 @@
 -   [  11.2.2 Homogeneity Test](../chapter11/110202.html)
 -   [11.3 Exercise](../chapter11/1103.html)
 
-###### [[\[book\]]{.underline}](book11.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](book11.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-### CHAPTER OBJECTIVES
+## CHAPTER OBJECTIVES
 
 The hypothesis tests that we have studied from Chapter 7 to Chapter 10
 are for continuous data. In this chapter, we describe testing hypothesis
@@ -37,11 +37,11 @@ contingence table of two categorical data.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 11. Testing Hypothesis for Categorical Data
+# Chapter 11. Testing Hypothesis for Categorical Data
 
              
 
-### 11.1 Goodness of Fit Test
+## 11.1 Goodness of Fit Test
 
 ::: presentation-video-link
 [presentation](1101.pdf){.presentation-link target="_blank"}   
@@ -60,7 +60,7 @@ distributions (Section 11.1.1) and the goodness of fit test for
 continuous distribution (Section 11.1.2).
 :::
 
-#### 11.1.1 Goodness of Fit Test for Categorical Distribution
+### 11.1.1 Goodness of Fit Test for Categorical Distribution
 
 ::: mainTable
 Consider the goodness of fit test for a categorical distribution using
@@ -344,11 +344,11 @@ from these data that the known market share is incorrect? Use
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 11. Testing Hypothesis for Categorical Data
+# Chapter 11. Testing Hypothesis for Categorical Data
 
              
 
-#### 11.1.2 Goodness of Fit Test for Continuous Distribution
+### 11.1.2 Goodness of Fit Test for Continuous Distribution
 
 ::: presentation-video-link
 [presentation](110102.pdf){.presentation-link target="_blank"}   
@@ -681,7 +681,7 @@ significance level of 5% using『eStat』.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -727,11 +727,11 @@ of fit test?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 11. Testing Hypothesis for Categorical Data
+# Chapter 11. Testing Hypothesis for Categorical Data
 
              
 
-### 11.2 Testing Hypothesis for Contingency Table
+## 11.2 Testing Hypothesis for Contingency Table
 
 ::: presentation-video-link
 [presentation](1102.pdf){.presentation-link target="_blank"}   
@@ -751,7 +751,7 @@ and homogeneity test according to the sampling method for obtaining the
 data.
 :::
 
-#### 11.2.1 Independence Test
+### 11.2.1 Independence Test
 
 ::: mainTable
 The independence test of the contingency table is to investigate whether
@@ -1295,11 +1295,11 @@ viewing are related? Check the test result using『eStatU』.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 11. Testing Hypothesis for Categorical Data
+# Chapter 11. Testing Hypothesis for Categorical Data
 
              
 
-#### 11.2.2 Homogeneity Test
+### 11.2.2 Homogeneity Test
 
 ::: presentation-video-link
 [presentation](110202.pdf){.presentation-link target="_blank"}   
@@ -1476,7 +1476,7 @@ result using 『eStatU』.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -1538,11 +1538,11 @@ for a contingency table?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 11. Testing Hypothesis for Categorical Data
+# Chapter 11. Testing Hypothesis for Categorical Data
 
               **Chapter 12**   ❯
 
-### 11.3 Exercise
+## 11.3 Exercise
 
 ::: mainTablePink
 ::: textL30M30

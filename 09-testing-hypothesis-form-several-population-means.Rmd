@@ -2,7 +2,7 @@
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 9. Testing Hypothesis for Several Population Means
+# Chapter 9. Testing Hypothesis for Several Population Means
 
        ❮   **Chapter 8**       
 
@@ -17,9 +17,9 @@
     Factors](../chapter09/0903.html)
 -   [9.4 Exercise](../chapter09/0904.html)
 
-###### [[\[book\]]{.underline}](book09.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](book09.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-### CHAPTER OBJECTIVES
+## CHAPTER OBJECTIVES
 
 In testing hypothesis of the population mean described in chapters 7 and
 8, the number of populations was one or two. However, many cases are
@@ -43,14 +43,14 @@ introduced.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 9. Testing Hypothesis for Several Population Means
+# Chapter 9. Testing Hypothesis for Several Population Means
 
       
 :::
 
       
 
-### 9.1 Analysis of Variance for Single Factor Experiments
+## 9.1 Analysis of Variance for Single Factor Experiments
 
 ::: presentation-video-link
 [presentation](0901.pdf){.presentation-link target="_blank"}   
@@ -580,11 +580,11 @@ followings using 『eStat』 ,
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 9. Testing Hypothesis for Several Population Means
+# Chapter 9. Testing Hypothesis for Several Population Means
 
              
 
-#### 9.1.1 Multiple Comparison
+### 9.1.1 Multiple Comparison
 
 ::: presentation-video-link
 [presentation](090101-02.pdf){.presentation-link target="_blank"}   
@@ -809,7 +809,7 @@ Use『eStat』 .
 :::
 :::
 
-#### 9.1.2 Residual Analysis
+### 9.1.2 Residual Analysis
 
 ::: mainTable
 Another statistical analysis related to the ANOVA is a residual
@@ -873,7 +873,7 @@ apply the residual analysis using 『eStat』.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -1035,11 +1035,11 @@ ANOVA table, what is your conclusion with the 5％ significance level?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 9. Testing Hypothesis for Several Population Means
+# Chapter 9. Testing Hypothesis for Several Population Means
 
              
 
-### 9.2 Design of Experiments for Sampling
+## 9.2 Design of Experiments for Sampling
 
 ::: presentation-video-link
 [presentation](0902.pdf){.presentation-link target="_blank"}   
@@ -1056,7 +1056,7 @@ cautious about sampling. This section discusses how to design
 experiments for collecting small number of data from experiments.
 
 ::: mainTable
-#### 9.2.1 Completely Randomized Design
+### 9.2.1 Completely Randomized Design
 
 ::: mainTable
 In order to identify the differences accurately that may exist among
@@ -1105,7 +1105,7 @@ analysis of variance technique is called an analysis of the single
 factor design.
 :::
 
-#### 9.2.2 Randomized Block Design
+### 9.2.2 Randomized Block Design
 
 ::: mainTable
 In the experiments of completely randomized design for measuring the
@@ -1422,7 +1422,7 @@ level.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -1487,11 +1487,11 @@ experimental design is used to reduce the effect of drivers?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 9. Testing Hypothesis for Several Population Means
+# Chapter 9. Testing Hypothesis for Several Population Means
 
              
 
-### 9.3 Analysis of Variance for Two Factors
+## 9.3 Analysis of Variance for Two Factors
 
 ::: presentation-video-link
 [presentation](0903.pdf){.presentation-link target="_blank"}   
@@ -2034,7 +2034,7 @@ several factors.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -2062,11 +2062,11 @@ the level of the factor B?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 9. Testing Hypothesis for Several Population Means
+# Chapter 9. Testing Hypothesis for Several Population Means
 
               **Chapter 10**   ❯
 
-### 9.4 Exercise
+## 9.4 Exercise
 
 ::: mainTablePink
 ::: textL30M30

@@ -2,7 +2,7 @@
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 3. Visualization of Quantitative Data
+# Chapter 3. Visualization of Quantitative Data
 
        ❮   **Chapter 2**       
 
@@ -17,9 +17,9 @@
     Variables](../chapter03/0303.html)
 -   [3.4 Exercise](../chapter03/0304.html)
 
-###### [[\[book\]]{.underline}](book03.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](book03.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-### CHAPTER OBJECTIVES
+## CHAPTER OBJECTIVES
 
 In this chapter, we introduce graphs to visualize the quantitative data
 such as dot graph, histogram, stem and leaf plot and scatter plot.
@@ -37,11 +37,11 @@ using the scatter plot of 『eStat』.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 3. Visualization of Quantitative Data
+# Chapter 3. Visualization of Quantitative Data
 
       
 
-### 3.1 Visualization of Quantitative Data
+## 3.1 Visualization of Quantitative Data
 
 ::: presentation-video-link
 [presentation](0301.pdf){.presentation-link target="_blank"}   
@@ -146,11 +146,11 @@ an extension of the dot graph.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 3. Visualization of Quantitative Data
+# Chapter 3. Visualization of Quantitative Data
 
              
 
-### 3.2 Visualization of Single Quantitative Variable
+## 3.2 Visualization of Single Quantitative Variable
 
 ::: presentation-video-link
 [presentation](0302.pdf){.presentation-link target="_blank"}   
@@ -161,7 +161,7 @@ In case of the quantitative data, raw data are directly used to
 visualize the data. Visualization of the quantitative data is discussed
 by separating cases of the data without group and with group.
 
-#### 3.2.1 Visualization of Quantitative Data without Group
+### 3.2.1 Visualization of Quantitative Data without Group
 
 ::: mainTable
 If the quantitative data are the sample data from a population,
@@ -389,7 +389,7 @@ Analyze the graphs.
 </div>
 :::
 
-#### 3.2.2 Visualization of Quantitative Data with Group
+### 3.2.2 Visualization of Quantitative Data with Group
 
 ::: mainTable
 If you can visualize the quantitative data by several groups using the
@@ -728,11 +728,11 @@ the insect counts by the types of sprays.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 3. Visualization of Quantitative Data
+# Chapter 3. Visualization of Quantitative Data
 
              
 
-### 3.3 Visualization of Two Quantitative Varaibles
+## 3.3 Visualization of Two Quantitative Varaibles
 
 ::: presentation-video-link
 [presentation](0303.pdf){.presentation-link target="_blank"}   
@@ -967,14 +967,14 @@ the number of cylinders.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 3. Visualization of Quantitative Data
+# Chapter 3. Visualization of Quantitative Data
 
               **Chapter 4**   ❯
 
-### 3.4 Exercise
+## 3.4 Exercise
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -1068,7 +1068,7 @@ variable?
 :::
 
 ::: mainTablePink
-#### Exercise
+### Exercise
 
 3.1 Consider the data at the following location of 『eStat』.
 

@@ -2,7 +2,7 @@
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 10. Nonparametric Testing Hypothesis
+# Chapter 10. Nonparametric Testing Hypothesis
 
        ❮   **Chapter 9**       
 
@@ -24,9 +24,9 @@
     Test](../chapter10/100302.html)
 -   [10.4 Exercise](../chapter10/1004.html)
 
-###### [[\[book\]]{.underline}](book10.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](book10.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-### CHAPTER OBJECTIVES
+## CHAPTER OBJECTIVES
 
 The hypothesis tests from Chapters 7 through 9 are based on assumptions
 such that the populations of continuous data follow the normal
@@ -52,11 +52,11 @@ several populations such as the Kruskal-Wallis Test and Friedman Test.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 10. Nonparametric Testing Hypothesis
+# Chapter 10. Nonparametric Testing Hypothesis
 
              
 
-### 10.1 Nonparametric Test for Location of Single Population
+## 10.1 Nonparametric Test for Location of Single Population
 
 ::: presentation-video-link
 [presentation](1001.pdf){.presentation-link target="_blank"}   
@@ -107,7 +107,7 @@ hypothesis tests. Those interested in the nonparametric estimation
 should refer to the relevant literature.
 :::
 
-#### 10.1.1 Sign Test
+### 10.1.1 Sign Test
 
 ::: mainTable
 Let\'s take a look at the sign test with the following examples.
@@ -477,11 +477,11 @@ Table 10.1.2 Decision rule of the sign test (large sample case)
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 10. Nonparametric Testing Hypothesis
+# Chapter 10. Nonparametric Testing Hypothesis
 
              
 
-#### 10.1.2 Wilcoxon Signed Rank Sum Test
+### 10.1.2 Wilcoxon Signed Rank Sum Test
 
 ::: presentation-video-link
 [presentation](100102.pdf){.presentation-link target="_blank"}   
@@ -893,7 +893,7 @@ no tie, size of $j^{th}$ tie group is 1 and $t_j$ = 1.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -986,11 +986,11 @@ nonparametric tests?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 10. Nonparametric Testing Hypothesis
+# Chapter 10. Nonparametric Testing Hypothesis
 
              
 
-### 10.2 Nonparametric Test for Comparing Locations of Two Populations
+## 10.2 Nonparametric Test for Comparing Locations of Two Populations
 
 ::: presentation-video-link
 [presentation](1002.pdf){.presentation-link target="_blank"}   
@@ -1020,7 +1020,7 @@ location parameters of two populations for the samples drawn
 independently from each population and for the samples drawn as paired.
 :::
 
-#### 10.2.1 Independent Samples: Wilcoxon Rank Sum Test
+### 10.2.1 Independent Samples: Wilcoxon Rank Sum Test
 
 ::: mainTable
 Let\'s take a look at the Wilcoxon rank sum test with the following
@@ -1525,11 +1525,11 @@ tie, size of $j^{th}$ tie group is 1 and $t_j$ = 1.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 10. Nonparametric Testing Hypothesis
+# Chapter 10. Nonparametric Testing Hypothesis
 
              
 
-#### 10.2.2 Paired Samples: Wilcoxon Signed Rank Sum Test
+### 10.2.2 Paired Samples: Wilcoxon Signed Rank Sum Test
 
 ::: presentation-video-link
 [presentation](100202.pdf){.presentation-link target="_blank"}   
@@ -1951,7 +1951,7 @@ distribution approximation formula shown in Table 10.1.6.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -1995,11 +1995,11 @@ of two populations using a nonparametric test?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 10. Nonparametric Testing Hypothesis
+# Chapter 10. Nonparametric Testing Hypothesis
 
              
 
-### 10.3 Nonparametric Test for Comparing Locations of Several Populations
+## 10.3 Nonparametric Test for Comparing Locations of Several Populations
 
 ::: presentation-video-link
 [presentation](1003.pdf){.presentation-link target="_blank"}   
@@ -2028,7 +2028,7 @@ appropriate method if data were selected from a population that did not
 follow a normal distribution.
 :::
 
-#### 10.3.1 Completely Randomized Design: Kruskal-Wallis Test
+### 10.3.1 Completely Randomized Design: Kruskal-Wallis Test
 
 ::: mainTable
 The Kruskal--Wallis test extends the Wilcoxon rank sum test for two
@@ -2658,11 +2658,11 @@ Method C: 94 94 88 87 89
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 10. Nonparametric Testing Hypothesis
+# Chapter 10. Nonparametric Testing Hypothesis
 
              
 
-#### 10.3.2 Randomized block design: Friedman Test
+### 10.3.2 Randomized block design: Friedman Test
 
 ::: presentation-video-link
 [presentation](100302.pdf){.presentation-link target="_blank"}   
@@ -3100,7 +3100,7 @@ Table 10.3.8 Ranking in each of the block
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -3162,11 +3162,11 @@ Kruskal-Wallis test?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 10. Nonparametric Testing Hypothesis
+# Chapter 10. Nonparametric Testing Hypothesis
 
               **Chapter11**   ❯
 
-### 10.4 Exercise
+## 10.4 Exercise
 
 ::: mainTablePink
 ::: textL30M30

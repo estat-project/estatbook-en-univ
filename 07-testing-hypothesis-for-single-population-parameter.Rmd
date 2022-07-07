@@ -2,7 +2,7 @@
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 7. Testing Hypothesis for Single Population Parameter
+# Chapter 7. Testing Hypothesis for Single Population Parameter
 
        ❮   **Chapter 6**       
 
@@ -18,9 +18,9 @@
 -   [  7.4.2 Testing Hypothesis with α and β](../chapter07/0704.html)
 -   [7.5 Exercise](../chapter07/0705.html)
 
-###### [[\[book\]]{.underline}](book07.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](book07.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-### CHAPTER OBJECTIVES
+## CHAPTER OBJECTIVES
 
 Estimation of population parameters using sample distributions was
 discussed in Chapter 6.
@@ -44,14 +44,14 @@ error is also introduced.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 7. Testing Hypothesis for Single Population Parameter
+# Chapter 7. Testing Hypothesis for Single Population Parameter
 
       
 :::
 
       
 
-### 7.1 Testing Hypothesis for a Population Mean
+## 7.1 Testing Hypothesis for a Population Mean
 
 ::: presentation-video-link
 [presentation](0701.pdf){.presentation-link target="_blank"}   
@@ -720,7 +720,7 @@ will be explained in detail in section 7.4.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -867,13 +867,13 @@ region
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 7. Testing Hypothesis for Single Population Parameter
+# Chapter 7. Testing Hypothesis for Single Population Parameter
 
       
 
       
 
-### 7.2 Testing Hypothesis for a Population Variance
+## 7.2 Testing Hypothesis for a Population Variance
 
 ::: presentation-video-link
 [presentation](0702.pdf){.presentation-link target="_blank"}   
@@ -1116,7 +1116,7 @@ process out of control with the significance level of 0.05?
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -1146,11 +1146,11 @@ of the two sided test with the significance level of α?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 7. Testing Hypothesis for Single Population Parameter
+# Chapter 7. Testing Hypothesis for Single Population Parameter
 
              
 
-### 7.3 Testing Hypothesis for a Population Proportion
+## 7.3 Testing Hypothesis for a Population Proportion
 
 ::: presentation-video-link
 [presentation](0703.pdf){.presentation-link target="_blank"}   
@@ -1314,7 +1314,7 @@ the Sign Test in Chapter 10.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -1343,11 +1343,11 @@ hypothesis you want to test?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 7. Testing Hypothesis for Single Population Parameter
+# Chapter 7. Testing Hypothesis for Single Population Parameter
 
              
 
-### 7.4 Testing Hypothesis with α and β simultaneously
+## 7.4 Testing Hypothesis with α and β simultaneously
 
 ::: presentation-video-link
 [presentation](0704.pdf){.presentation-link target="_blank"}   
@@ -1370,7 +1370,7 @@ size, a testing hypothesis that takes into account both α and β can be
 performed.
 :::
 
-#### 7.4.1 Type 2 Error and Power of a Test
+### 7.4.1 Type 2 Error and Power of a Test
 
 ::: mainTable
 Consider the following example to find out how to calculate the
@@ -1711,7 +1711,7 @@ approximate the power function.
 </div>
 :::
 
-#### 7.4.2 Testing Hypothesis with α and β
+### 7.4.2 Testing Hypothesis with α and β
 
 ::: mainTable
 If the sample size is not predetermined and the analyst can determine
@@ -1812,7 +1812,7 @@ find $n, C$ using 『eStatU』.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -1855,11 +1855,11 @@ find $n, C$ using 『eStatU』.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 7. Testing Hypothesis for Single Population Parameter
+# Chapter 7. Testing Hypothesis for Single Population Parameter
 
               **Chapter 8**   ❯
 
-### 7.5 Exercise
+## 7.5 Exercise
 
 ::: mainTablePink
 ::: textL30M30

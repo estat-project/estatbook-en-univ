@@ -2,7 +2,7 @@
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 8. Testing Hypothesis for Two Population Parameters
+# Chapter 8. Testing Hypothesis for Two Population Parameters
 
        ❮   **Chapter 7**       
 
@@ -16,9 +16,9 @@
     Proportions](../chapter08/0803.html)
 -   [8.4 Exercise](../chapter08/0804.html)
 
-###### [[\[book\]]{.underline}](book08.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](book08.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-### CHAPTER OBJECTIVES
+## CHAPTER OBJECTIVES
 
 In Chapter 7, we discussed how to test hypotheses about parameters in a
 single population.
@@ -41,11 +41,11 @@ proportions when samples are large enough.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 8. Testing Hypothesis for Two Population Parameters
+# Chapter 8. Testing Hypothesis for Two Population Parameters
 
              
 
-### 8.1 Testing Hypothesis for Two Population Means
+## 8.1 Testing Hypothesis for Two Population Means
 
 ::: presentation-video-link
 [presentation](080101.pdf){.presentation-link target="_blank"}   
@@ -78,7 +78,7 @@ independently from each population or not (referred to as paired
 samples).
 :::
 
-#### 8.1.1 Two Independent Samples
+### 8.1.1 Two Independent Samples
 
 ::: mainTable
 Generally, testing hypothesis for two population means can be divided
@@ -434,7 +434,7 @@ using 『eStat』.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -536,11 +536,11 @@ means are equal or not when sample sizes are small?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 8. Testing Hypothesis for Two Population Parameters
+# Chapter 8. Testing Hypothesis for Two Population Parameters
 
              
 
-#### 8.1.2 Paired Sample
+### 8.1.2 Paired Sample
 
 ::: presentation-video-link
 [presentation](080102.pdf){.presentation-link target="_blank"}   
@@ -802,7 +802,7 @@ population mean husband's age or not. Use the significance level of
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -842,11 +842,11 @@ What is the name of this kind of data?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 8. Testing Hypothesis for Two Population Parameters
+# Chapter 8. Testing Hypothesis for Two Population Parameters
 
              
 
-### 8.2 Testing Hypothesis for Two Population Variances
+## 8.2 Testing Hypothesis for Two Population Variances
 
 ::: presentation-video-link
 [presentation](0802.pdf){.presentation-link target="_blank"}   
@@ -1084,7 +1084,7 @@ tire life of two products are the same at the 5% significance level.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -1112,11 +1112,11 @@ variances are equal or not when populations are normally distributed?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 8. Testing Hypothesis for Two Population Parameters
+# Chapter 8. Testing Hypothesis for Two Population Parameters
 
              
 
-### 8.3 Testing Hypothesis for Two Population Proportions
+## 8.3 Testing Hypothesis for Two Population Proportions
 
 ::: presentation-video-link
 [presentation](0803.pdf){.presentation-link target="_blank"}   
@@ -1324,7 +1324,7 @@ independent samples when we compare two population proportions.
 :::
 
 ::: mainTablePink
-#### Multiple Choice Exercise
+### Multiple Choice Exercise
 
 \*\*\* Choose one answer and click \[Submit\] button
 
@@ -1391,11 +1391,11 @@ two groups?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-## Chapter 8. Testing Hypothesis for Two Population Parameters
+# Chapter 8. Testing Hypothesis for Two Population Parameters
 
               **Chapter 9**   ❯
 
-### 8.4 Exercise
+## 8.4 Exercise
 
 ::: mainTablePink
 ::: textL30M30
