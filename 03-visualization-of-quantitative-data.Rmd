@@ -16,7 +16,7 @@
 
 
 
-##### [[\[book\]]{.underline}](book03.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](pdf/book03.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
 **CHAPTER OBJECTIVES
 
@@ -42,7 +42,7 @@ using the scatter plot of 『eStat』.
 ## 3.1 Visualization of Quantitative Data
 
 ::: presentation-video-link
-[presentation](0301.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0301.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/-OlsEFOcRMk){.video-link target="_blank"}
 :::
 
@@ -150,7 +150,7 @@ an extension of the dot graph.
 ## 3.2 Visualization of Single Quantitative Variable
 
 ::: presentation-video-link
-[presentation](0302.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0302.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/j_13J_lIAok){.video-link target="_blank"}
 :::
 
@@ -731,7 +731,7 @@ the insect counts by the types of sprays.
 ## 3.3 Visualization of Two Quantitative Varaibles
 
 ::: presentation-video-link
-[presentation](0303.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0303.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/M8slek6jD94){.video-link target="_blank"}
 :::
 
@@ -971,7 +971,7 @@ the number of cylinders.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 3.1 A class of students is as tall as follows. What is this data called?

@@ -15,7 +15,7 @@
 
 
 
-##### [[\[book\]]{.underline}](book05.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](pdf/book05.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
 **CHAPTER OBJECTIVES
 
@@ -51,7 +51,7 @@ such as Normal Distribution, and Exponential Distribution are described.
 ## 5.1 Definition of Probability
 
 ::: presentation-video-link
-[presentation](0501.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0501.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/F-pJi4L3fMw){.video-link target="_blank"}
 :::
 
@@ -262,7 +262,7 @@ large numbers**.
 ## 5.2 Calculation of Probability
 
 ::: presentation-video-link
-[presentation](0502.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0502.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/CNga9xRKVwg){.video-link target="_blank"}
 :::
 
@@ -775,7 +775,7 @@ then $\small P(A^C )$ can be calculated as follows. $$ \small
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 5.1 When two events A and B are mutually exclusive, what is the
@@ -979,7 +979,7 @@ P(B\|A)?
 ## 5.3 Discrete Random Variable
 
 ::: presentation-video-link
-[presentation](0503.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0503.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/DDISKMo7Iho){.video-link target="_blank"}
 :::
 
@@ -1325,7 +1325,7 @@ probability distributions.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 5.12 What is the standard deviation when we multiply five times each of
@@ -1442,7 +1442,7 @@ $\small E(X^2)$=25, and what is the variance $\small V(X)$?
 ### 5.3.1 Binomial Distribution
 
 ::: presentation-video-link
-[presentation](050301.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/050301.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/HtpDnuM12ys){.video-link target="_blank"}
 :::
 
@@ -1971,7 +1971,7 @@ mean $np$ and variance $np(1-p)$ which is described in Section 5.4.2.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 5.26 What is the mean and variance of the binomial distribution
@@ -2037,7 +2037,7 @@ are correct when answering 10 questions?
 ### 5.3.2 Poisson Distribution
 
 ::: presentation-video-link
-[presentation](050302.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/050302.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/ljIcZIJSTQo){.video-link target="_blank"}
 :::
 
@@ -2299,7 +2299,7 @@ book of mathematical statistics.
 ### 5.3.3 Geometric Distribution
 
 ::: presentation-video-link
-[presentation](050303.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/050303.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/SPWZNCW2mdg){.video-link target="_blank"}
 :::
 
@@ -2526,7 +2526,7 @@ trial.
 ### 5.3.4 Hypergeometric Distribution
 
 ::: presentation-video-link
-[presentation](050304.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/050304.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/WRVXMF0xlm0){.video-link target="_blank"}
 :::
 
@@ -2725,7 +2725,7 @@ products in the sample using 『eStatU』.
 ## 5.4 Continuous Random Variable
 
 ::: presentation-video-link
-[presentation](0504.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0504.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/hBynC_wR19E){.video-link target="_blank"}
 :::
 
@@ -2876,7 +2876,7 @@ $\quad \small  P(15 \lt X \lt 20) = (20 - 15) × \frac {1}{20} = 0.25$
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 5.18 Which one of the followings is suitable as a probability
@@ -3036,7 +3036,7 @@ the value of the cumulative distribution function F(x) if 1 ≤ x \< 2?
 ### 5.4.1 Normal Distribution
 
 ::: presentation-video-link
-[presentation](050401.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/050401.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/GQ43bFGRcU8){.video-link target="_blank"}
 :::
 
@@ -3746,7 +3746,7 @@ $\small P( 3 \lt X \lt 7) = P( \frac{3-5}{\sqrt{4.75}} \lt Z \lt \frac{7-5}{\sqr
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 5.29 According to the nature of the normal distribution, what is the
@@ -3834,7 +3834,7 @@ $P( -∞ < Z < z )$
 ### 5.4.2 Exponential Distribution
 
 ::: presentation-video-link
-[presentation](050402.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/050402.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/kYBBzATB9VI){.video-link target="_blank"}
 :::
 

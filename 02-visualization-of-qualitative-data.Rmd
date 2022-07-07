@@ -23,7 +23,7 @@
 
 
 
-##### [[\[book\]]{.underline}](book02.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](pdf/book02.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
 **CHAPTER OBJECTIVES
 
@@ -50,7 +50,7 @@ variable by a group is also discussed.
 ## 2.1 Visualization of Qualitative Data
 
 ::: presentation-video-link
-[presentation](0201.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0201.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/2GpZCkUi0lM){.video-link target="_blank"}
 :::
 
@@ -193,7 +193,7 @@ and the case of an analysis varible with the group variable.
 ## 2.2 Visualization of Summary Data
 
 ::: presentation-video-link
-[presentation](0202.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0202.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/1wNOF7ewKdw){.video-link target="_blank"}
 :::
 
@@ -1057,7 +1057,7 @@ characteristics.
 ## 2.3 Visualization of Raw Data
 
 ::: presentation-video-link
-[presentation](0203.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0203.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/ntqyCxJ-_sg){.video-link target="_blank"}
 :::
 
@@ -1441,7 +1441,7 @@ gender.
 ## 2.4 Word Cloud
 
 ::: presentation-video-link
-[presentation](0204.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0204.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/lVjwz0VcJCs){.video-link target="_blank"}
 :::
 
@@ -1580,7 +1580,7 @@ president John F. Kennedy and analyze important words.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 2.1 How do you call the following form of organized data?

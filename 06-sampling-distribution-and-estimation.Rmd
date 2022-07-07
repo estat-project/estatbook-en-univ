@@ -29,7 +29,7 @@
 
 
 
-##### [[\[book\]]{.underline}](book06.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](pdf/book06.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
 **CHAPTER OBJECTIVES
 
@@ -62,7 +62,7 @@ population mean and population proportion.
 ## 6.1 Simple Random Sampling
 
 ::: presentation-video-link
-[presentation](0601.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0601.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/9y_TRAs08bk){.video-link target="_blank"}
 :::
 
@@ -206,7 +206,7 @@ Select ten students randomly using 『eStatU』 without replacement.
 ## 6.2 Sampling Distribution of Sample Means and Estimation of the Population Mean
 
 ::: presentation-video-link
-[presentation](060201.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/060201.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/uVXqqTDdYa8){.video-link target="_blank"}
 :::
 
@@ -523,7 +523,7 @@ closer to normal as the sample size increases.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 6.1 When the population size is infinite and variance is $\sigma^2$,
@@ -589,7 +589,7 @@ population?
 ### 6.2.2 Estimation of the Population Mean
 
 ::: presentation-video-link
-[presentation](060202.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/060202.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/l5tBWw6E4cM){.video-link target="_blank"}
 :::
 
@@ -1087,7 +1087,7 @@ questions in \[Practice 6.2.1\] using 『eStatU』.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 6.4 Which distribution is used to estimate the population mean in a
@@ -1251,7 +1251,7 @@ $t_{24: 0.05} = 2.064, t_{24: 0.01} = 2.797, t_{25: 0.05} = 2.060, t_{25: 0.01} 
 ## 6.3 Sampling Distribution of Sample Variances and Estimation of the Population Variance
 
 ::: presentation-video-link
-[presentation](060301.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/060301.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/tp65U_JACQg){.video-link target="_blank"}
 :::
 
@@ -1463,7 +1463,7 @@ distribution with $n-1$ degrees of freedom as follows. $$
 ### 6.3.2 Estimation of the Population Variance
 
 ::: presentation-video-link
-[presentation](060302.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/060302.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/VwHehPGGBx4){.video-link target="_blank"}
 :::
 
@@ -1647,7 +1647,7 @@ variance of oxygen consumed.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 6.12 What is the most appropriate sample statistic to estimate the
@@ -1699,7 +1699,7 @@ the following is an unbiased estimator of the population variance?
 ## 6.4 Sampling Distribution of Sample Proportions and Estimation of the Population Proportion
 
 ::: presentation-video-link
-[presentation](060401.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/060401.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/flhKiXkixCE){.video-link target="_blank"}
 :::
 
@@ -1847,7 +1847,7 @@ $\quad \small P(\hat p \gt 0.02) = P( Z \gt \frac{0.02-0.03}{0.00985} ) = P(Z \g
 ### 6.4.2 Estimation of the Population Proportion
 
 ::: presentation-video-link
-[presentation](060402.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/060402.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/HpVrvVEIGQk){.video-link target="_blank"}
 :::
 
@@ -1991,7 +1991,7 @@ the mobile rate for those who have transferred using 『eStatU』.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 6.14 400 voters are randomly selected from a city and polled. 240 voters
@@ -2042,7 +2042,7 @@ interval that support the candidate A?
 ## 6.5 Determination of the Sample Size
 
 ::: presentation-video-link
-[presentation](0605.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0605.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/KmwDF6NGkBo){.video-link target="_blank"}
 :::
 

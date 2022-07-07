@@ -16,7 +16,7 @@
 
 
 
-##### [[\[book\]]{.underline}](book07.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](pdf/book07.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
 **CHAPTER OBJECTIVES
 
@@ -51,7 +51,7 @@ error is also introduced.
 ## 7.1 Testing Hypothesis for a Population Mean
 
 ::: presentation-video-link
-[presentation](0701.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0701.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/ba0JTGsChY8){.video-link target="_blank"}
 :::
 
@@ -715,7 +715,7 @@ will be explained in detail in section 7.4.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 7.1 What is the type 1 error?
@@ -868,7 +868,7 @@ region
 ## 7.2 Testing Hypothesis for a Population Variance
 
 ::: presentation-video-link
-[presentation](0702.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0702.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/3SDaVzGqPL0){.video-link target="_blank"}
 :::
 
@@ -1108,7 +1108,7 @@ process out of control with the significance level of 0.05?
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 7.9 If $\small H_0 ; \sigma^2 = \sigma^2_0$, what is the decision rule
@@ -1142,7 +1142,7 @@ of the two sided test with the significance level of α?
 ## 7.3 Testing Hypothesis for a Population Proportion
 
 ::: presentation-video-link
-[presentation](0703.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0703.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/R4gwLC8emuM){.video-link target="_blank"}
 :::
 
@@ -1301,7 +1301,7 @@ the Sign Test in Chapter 10.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 7.10 When a coin was thrown 10,000 times to check whether it was normal,
@@ -1334,7 +1334,7 @@ hypothesis you want to test?
 ## 7.4 Testing Hypothesis with α and β simultaneously
 
 ::: presentation-video-link
-[presentation](0704.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0704.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/yITE-O5zW70){.video-link target="_blank"}
 :::
 
@@ -1798,7 +1798,7 @@ find $n, C$ using 『eStatU』.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 7.11 What is the power of a test?

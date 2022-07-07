@@ -21,7 +21,7 @@
 
 
 
-##### [[\[book\]]{.underline}](book04.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](pdf/book04.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
 **CHAPTER OBJECTIVES
 
@@ -52,7 +52,7 @@ data and a box plot.
 ## 4.1 Frequency Table for Single Variable
 
 ::: presentation-video-link
-[presentation](0401.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0401.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/R761krGIxBM){.video-link target="_blank"}
 :::
 
@@ -357,7 +357,7 @@ table using 『eStat』.
 ## 4.2 Contingency Table for Two Variables
 
 ::: presentation-video-link
-[presentation](0402.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0402.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/Vvn1IikPr9M){.video-link target="_blank"}
 :::
 
@@ -647,7 +647,7 @@ Create a contingency table of oral cleanliness by brushing method.
 ## 4.3 Summary Measures for Quantitative Variable
 
 ::: presentation-video-link
-[presentation](040301.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/040301.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/Nk8VnTiKybo){.video-link target="_blank"}
 :::
 
@@ -994,7 +994,7 @@ credits was relatively poor C.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 4.1 Which of the following data is an average of 28, a median of 30, and
@@ -1152,7 +1152,7 @@ weights?
 ### 4.3.2 Measures of Dispersion
 
 ::: presentation-video-link
-[presentation](040302.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/040302.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/QRodnAJRAZI){.video-link target="_blank"}
 :::
 
@@ -1641,7 +1641,7 @@ the graphs and the basic statistics.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 4.9 Which of the following statistical analysis is wrong if the 1st

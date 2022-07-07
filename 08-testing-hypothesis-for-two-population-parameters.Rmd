@@ -13,7 +13,7 @@
 
 
 
-##### [[\[book\]]{.underline}](book08.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](pdf/book08.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
 **CHAPTER OBJECTIVES
 
@@ -44,7 +44,7 @@ proportions when samples are large enough.
 ## 8.1 Testing Hypothesis for Two Population Means
 
 ::: presentation-video-link
-[presentation](080101.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/080101.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/S21BDljaOKM){.video-link target="_blank"}
 :::
 
@@ -428,7 +428,7 @@ using 『eStat』.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 8.1 One professor claims that \'A student who studies in the morning
@@ -534,7 +534,7 @@ means are equal or not when sample sizes are small?
 ### 8.1.2 Paired Sample
 
 ::: presentation-video-link
-[presentation](080102.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/080102.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/LmjMNOvDB7A){.video-link target="_blank"}
 :::
 
@@ -795,7 +795,7 @@ population mean husband's age or not. Use the significance level of
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 8.6 16 couples are randomly selected to compare their ages as follows:
@@ -839,7 +839,7 @@ What is the name of this kind of data?
 ## 8.2 Testing Hypothesis for Two Population Variances
 
 ::: presentation-video-link
-[presentation](0802.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0802.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/y5x9ZOQ-F0o){.video-link target="_blank"}
 :::
 
@@ -1074,7 +1074,7 @@ tire life of two products are the same at the 5% significance level.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 8.7 Which sampling distribution is used to test whether two population
@@ -1106,7 +1106,7 @@ variances are equal or not when populations are normally distributed?
 ## 8.3 Testing Hypothesis for Two Population Proportions
 
 ::: presentation-video-link
-[presentation](0803.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0803.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/-lI78tN44X8){.video-link target="_blank"}
 :::
 
@@ -1311,7 +1311,7 @@ independent samples when we compare two population proportions.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 8.8 Which sampling distribution is used to test whether two population

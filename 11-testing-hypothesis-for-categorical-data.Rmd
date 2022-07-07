@@ -15,7 +15,7 @@
 
 
 
-##### [[\[book\]]{.underline}](book11.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](pdf/book11.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
 **CHAPTER OBJECTIVES
 
@@ -41,7 +41,7 @@ contingence table of two categorical data.
 ## 11.1 Goodness of Fit Test
 
 ::: presentation-video-link
-[presentation](1101.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/1101.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/yMDHeJOkeU0){.video-link target="_blank"}
 :::
 
@@ -347,7 +347,7 @@ from these data that the known market share is incorrect? Use
 ### 11.1.2 Goodness of Fit Test for Continuous Distribution
 
 ::: presentation-video-link
-[presentation](110102.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/110102.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/Zhdv1QwFfcE){.video-link target="_blank"}
 :::
 
@@ -679,7 +679,7 @@ significance level of 5% using『eStat』.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 11.1 What tests do you need to investigate whether the sample data
@@ -729,7 +729,7 @@ of fit test?
 ## 11.2 Testing Hypothesis for Contingency Table
 
 ::: presentation-video-link
-[presentation](1102.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/1102.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/ywGsZrMH-Wo){.video-link target="_blank"}
 :::
 
@@ -1296,7 +1296,7 @@ viewing are related? Check the test result using『eStatU』.
 ### 11.2.2 Homogeneity Test
 
 ::: presentation-video-link
-[presentation](110202.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/110202.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/vZhgpWGFhVI){.video-link target="_blank"}
 :::
 
@@ -1472,7 +1472,7 @@ result using 『eStatU』.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 11.3 How do you test the hypothesis that the two categorical variables

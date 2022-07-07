@@ -13,7 +13,7 @@
 
 
 
-##### [[\[book\]]{.underline}](book13.pdf){target="_blank"}   
+##### [[\[book\]]{.underline}](pdf/book13.pdf){target="_blank"}   
 
 **CHAPTER OBJECTIVES
 

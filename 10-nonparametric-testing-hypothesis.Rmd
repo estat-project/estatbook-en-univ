@@ -22,7 +22,7 @@
 
 
 
-##### [[\[book\]]{.underline}](book10.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](pdf/book10.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
 **CHAPTER OBJECTIVES
 
@@ -56,7 +56,7 @@ several populations such as the Kruskal-Wallis Test and Friedman Test.
 ## 10.1 Nonparametric Test for Location of Single Population
 
 ::: presentation-video-link
-[presentation](1001.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/1001.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/NLHCId7YoqM){.video-link target="_blank"}
 :::
 
@@ -480,7 +480,7 @@ Table 10.1.2 Decision rule of the sign test (large sample case)
 ### 10.1.2 Wilcoxon Signed Rank Sum Test
 
 ::: presentation-video-link
-[presentation](100102.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/100102.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/2pMOLvDTth8){.video-link target="_blank"}
 :::
 
@@ -891,7 +891,7 @@ no tie, size of $j^{th}$ tie group is 1 and $t_j$ = 1.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 10.1 What is NOT the reason to have a nonparametric test?
@@ -988,7 +988,7 @@ nonparametric tests?
 ## 10.2 Nonparametric Test for Comparing Locations of Two Populations
 
 ::: presentation-video-link
-[presentation](1002.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/1002.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/_w0ebMxObrg){.video-link target="_blank"}
 :::
 
@@ -1526,7 +1526,7 @@ tie, size of $j^{th}$ tie group is 1 and $t_j$ = 1.
 ### 10.2.2 Paired Samples: Wilcoxon Signed Rank Sum Test
 
 ::: presentation-video-link
-[presentation](100202.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/100202.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/tCXKHkEJalU){.video-link target="_blank"}
 :::
 
@@ -1947,7 +1947,7 @@ distribution approximation formula shown in Table 10.1.6.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 10.6 Which of the following nonparametric tests is for testing the
@@ -1995,7 +1995,7 @@ of two populations using a nonparametric test?
 ## 10.3 Nonparametric Test for Comparing Locations of Several Populations
 
 ::: presentation-video-link
-[presentation](1003.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/1003.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/iXLAS-UTiIk){.video-link target="_blank"}
 :::
 
@@ -2657,7 +2657,7 @@ Method C: 94 94 88 87 89
 ### 10.3.2 Randomized block design: Friedman Test
 
 ::: presentation-video-link
-[presentation](100302.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/100302.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/eNWkdslAKLg){.video-link target="_blank"}
 :::
 
@@ -3094,7 +3094,7 @@ Table 10.3.8 Ranking in each of the block
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 10.8 Which of the following nonparametric tests is for tesing the

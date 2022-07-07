@@ -9,7 +9,7 @@
 
 
 
-##### [[\[book\]]{.underline}](book12.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](pdf/book12.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
 **CHAPTER OBJECTIVES
 
@@ -35,7 +35,7 @@ regression analysis and multiple regression analysis are discussed.
 ## 12.1 Correlation Analysis
 
 ::: presentation-video-link
-[presentation](1201.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/1201.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/dPCZ1w59Vm8){.video-link target="_blank"}
 :::
 
@@ -549,7 +549,7 @@ certain intensity.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 12.1 The variables X and Y have a strong relationship with a quadratic
@@ -847,7 +847,7 @@ correlation coefficient $r$?
 ## 12.2 Simple Linear Regression Analysis
 
 ::: presentation-video-link
-[presentation](1202.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/1202.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/wn0Dl3dLgko){.video-link target="_blank"}
 :::
 
@@ -1828,7 +1828,7 @@ along with the mouse.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 12.15 Find the regression line between $x$ and $y$ using the following
@@ -2002,7 +2002,7 @@ what is the value of the sample correlation coefficient $r$?
 ## 12.3 Multiple Linear Regression Analysis
 
 ::: presentation-video-link
-[presentation](1203.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/1203.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/TPj8hNA3RGU){.video-link target="_blank"}
 :::
 

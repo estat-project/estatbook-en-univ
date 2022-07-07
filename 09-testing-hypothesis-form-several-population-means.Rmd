@@ -15,7 +15,7 @@
 
 
 
-##### [[\[book\]]{.underline}](book09.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+##### [[\[book\]]{.underline}](pdf/book09.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
 **CHAPTER OBJECTIVES
 
@@ -50,7 +50,7 @@ introduced.
 ## 9.1 Analysis of Variance for Single Factor Experiments
 
 ::: presentation-video-link
-[presentation](0901.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0901.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/az6KJp26dFA){.video-link target="_blank"}
 :::
 
@@ -577,7 +577,7 @@ followings using 『eStat』 ,
 ### 9.1.1 Multiple Comparison
 
 ::: presentation-video-link
-[presentation](090101-02.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/090101-02.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/Re_gHPIkeNE){.video-link target="_blank"}
 :::
 
@@ -865,7 +865,7 @@ apply the residual analysis using 『eStat』.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 9.1 Who first announced the ANOVA method?
@@ -1031,7 +1031,7 @@ ANOVA table, what is your conclusion with the 5％ significance level?
 ## 9.2 Design of Experiments for Sampling
 
 ::: presentation-video-link
-[presentation](0902.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0902.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/wj_uwiO1JVg){.video-link target="_blank"}
 :::
 
@@ -1413,7 +1413,7 @@ level.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 9.9 What is the name of variable which effects response variable in the
@@ -1482,7 +1482,7 @@ experimental design is used to reduce the effect of drivers?
 ## 9.3 Analysis of Variance for Two Factors
 
 ::: presentation-video-link
-[presentation](0903.pdf){.presentation-link target="_blank"}   
+[presentation](pdf/0903.pdf){.presentation-link target="_blank"}   
 [video](https://youtu.be/Cp5_Qydpb74){.video-link target="_blank"}
 :::
 
@@ -2024,7 +2024,7 @@ several factors.
 ::: mainTablePink
 ### Multiple Choice Exercise
 
-\*\*\* Choose one answer and click \[Submit\] button
+Choose one answer and click Submit button
 
 ::: textL30M30
 9.12 What is called the effect of a factor A that varies depending on
