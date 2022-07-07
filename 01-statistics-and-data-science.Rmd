@@ -1,11 +1,5 @@
 # Chapter 1. Statistics and Data Science
 
-
-
-
-
-
-
 [book](pdf/book01.pdf){target="_blank"}
 [eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 

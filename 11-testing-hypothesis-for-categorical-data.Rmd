@@ -2,20 +2,8 @@
 
 # Chapter 11. Testing Hypothesis for Categorical Data
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-##### [[\[book\]]{.underline}](pdf/book11.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+[book](pdf/book11.pdf){target="_blank"}
+[eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
 **CHAPTER OBJECTIVES**
 
