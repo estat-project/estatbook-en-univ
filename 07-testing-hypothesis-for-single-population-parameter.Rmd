@@ -136,7 +136,7 @@ The area of {$\small \overline X < C$} is called an acceptance region of
 $\small H_0$ and the area {$\small \overline X ≥ C$} is called a
 rejection region of $\small H_0$ (\<Figure 7.1.1\>).
 
-![](../Figure/Fig070101.png){.imgFig400300}
+![](Figure/Fig070101.png){.imgFig400300}
 
 ::: figText
 \<Figure 7.1.1\> Acceptance and rejection region of $H_{0}$
@@ -182,7 +182,7 @@ sample means in Chapter 6. \<Figure 7.1.2\> shows the distribution of
 populations for two hypotheses, and the distribution of all possible
 sample means for each population.
 
-![](../Figure/Fig070102.png){.imgFig400300}
+![](Figure/Fig070102.png){.imgFig400300}
 
 ::: figText
 \<Figure 7.1.2\> Testing Hypothesis
@@ -485,7 +485,7 @@ is large enough.
 
 <div>
 
-![](../Figure/Fig070103.png){.imgFig600400}
+![](Figure/Fig070103.png){.imgFig600400}
 
 ::: figText
 \<Figure 7.1.3\> 『eStatU』 Testing Hypothes for μ
@@ -501,7 +501,7 @@ calculated and the testing result using 『eStatU』 will appear as in
 \<Figure 7.1.4\>.
 :::
 
-![](../Figure/Fig070104.png){.imgFig600400}
+![](Figure/Fig070104.png){.imgFig600400}
 
 ::: figText
 \<Figure 7.1.4\> 『eStatU』 Testing Hypothes for μ - Right Tail Test
@@ -512,7 +512,7 @@ If you select the two-tail test at \[Hypothesis\] of \<Figure 7.1.3\>,
 testing result using 『eStatU』 is as \<Figure 7.1.5\>.
 :::
 
-![](../Figure/Fig070105.png){.imgFig600400}
+![](Figure/Fig070105.png){.imgFig600400}
 
 ::: figText
 \<Figure 7.1.5\> 『eStatU』 Testing Hypothes for μ - Two Tails Test
@@ -557,7 +557,7 @@ the \[Execute\] button.
 
 <div>
 
-![](../Figure/Fig070106.png){.imgFig600400}
+![](Figure/Fig070106.png){.imgFig600400}
 
 ::: figText
 \<Figure 7.1.6\> Testing hypothesis for μ with $t$ distribution using
@@ -610,7 +610,7 @@ will result in a dot graph with 95% confidence interval as in \<Figure
 
 <div>
 
-![](../Figure/Fig070107.png){.imgFig150200}
+![](Figure/Fig070107.png){.imgFig150200}
 
 ::: figText
 \<Figure 7.1.7\> Data input
@@ -620,7 +620,7 @@ will result in a dot graph with 95% confidence interval as in \<Figure
 
 </div>
 
-![](../Figure/Fig070108.png){.imgFig600540}
+![](Figure/Fig070108.png){.imgFig600540}
 
 ::: figText
 \<Figure 7.1.8\> Dot graph and confidence interval
@@ -633,13 +633,13 @@ be used to check whether the sample data comes from a normal
 distribution. The options such as \[Normal Q-Q Plot\] and \[Normality
 Test\] will be explained in chapter 11.
 
-![](../Figure/Fig070109.png){.imgFig400100}
+![](Figure/Fig070109.png){.imgFig400100}
 
 ::: figText
 \<Figure 7.1.9\> Options for testing hypothesis of population mean
 :::
 
-![](../Figure/Fig070110.png){.imgFig600540}
+![](Figure/Fig070110.png){.imgFig600540}
 
 ::: figText
 \<Figure 7.1.10\> Histogram and Normal Distribution
@@ -650,13 +650,13 @@ and the significance level of 5%. Then press the \[t-Test\] button to
 display the hypothesis test graph as shown in \<Figure 7.1.11\> and a
 test result in the Log Area as in \<Figure 7.1.12\>.
 
-![](../Figure/Fig070111.png){.imgFig600540}
+![](Figure/Fig070111.png){.imgFig600540}
 
 ::: figText
 \<Figure 7.1.11\> Testing hypothesis for population mean
 :::
 
-![](../Figure/Fig070112.png){.imgFig400300}
+![](Figure/Fig070112.png){.imgFig400300}
 
 ::: figText
 \<Figure 7.1.12\> Testing hypothesis for population mean
@@ -984,7 +984,7 @@ sample size $n$ = 25 and sample variance $\small s^2 = 0.15^2 = 0.0225$.
 
 <div>
 
-![](../Figure/Fig070201.png){.imgFig600400}
+![](Figure/Fig070201.png){.imgFig600400}
 
 ::: figText
 \<Figure 7.2.1\> Testing hypothesis for $\sigma^2$ using 『eStatU』
@@ -1000,7 +1000,7 @@ $\sigma^2$ is calculated and testing result will be shown as \<Figure
 7.2.2\>.
 :::
 
-![](../Figure/Fig070202.png){.imgFig600400}
+![](Figure/Fig070202.png){.imgFig600400}
 
 ::: figText
 \<Figure 7.2.2\> Testing hypothesis for $\sigma^2$
@@ -1039,7 +1039,7 @@ After entering data as shown in \<Figure 7.2.3\> on the sheet in
 
 <div>
 
-![](../Figure/Fig070203.png){.imgFig150200}
+![](Figure/Fig070203.png){.imgFig150200}
 
 ::: figText
 \<Figure 7.2.3\> 『eStat』 data input
@@ -1049,7 +1049,7 @@ After entering data as shown in \<Figure 7.2.3\> on the sheet in
 
 </div>
 
-![](../Figure/Fig070204.png){.imgFig600400}
+![](Figure/Fig070204.png){.imgFig600400}
 
 ::: figText
 \<Figure 7.2.4\> Dot graph and (Mean) ± (Std Dev) for Testing hypothesis
@@ -1062,19 +1062,19 @@ right-sided test, significance level as 5%. By clicking \[$\chi^2$
 test\] button, the result of the testing hypothesis will be shown as
 \<Figure 7.2.6\> and the result table as \<Figure 7.2.7\>.
 
-![](../Figure/Fig070205.png){.imgFig500100}
+![](Figure/Fig070205.png){.imgFig500100}
 
 ::: figText
 \<Figure 7.2.5\> Option menu for testing hypothesis for $\sigma^2$
 :::
 
-![](../Figure/Fig070206.png){.imgFig600540}
+![](Figure/Fig070206.png){.imgFig600540}
 
 ::: figText
 \<Figure 7.2.6\> Testing hypothesis for $\sigma^2$
 :::
 
-![](../Figure/Fig070207.png){.imgFig600400}
+![](Figure/Fig070207.png){.imgFig600400}
 
 ::: figText
 \<Figure 7.2.7\> Testing hypothesis for $\sigma^2$
@@ -1265,7 +1265,7 @@ testing result will be shown as in \<Figure 7.3.2\>.
 
 <div>
 
-![](../Figure/Fig070301.png){.imgFig600400}
+![](Figure/Fig070301.png){.imgFig600400}
 
 ::: figText
 \<Figure 7.3.1\> Data input for testing hypothesis of $p$ using
@@ -1276,7 +1276,7 @@ testing result will be shown as in \<Figure 7.3.2\>.
 
 </div>
 
-![](../Figure/Fig070302.png){.imgFig600400}
+![](Figure/Fig070302.png){.imgFig600400}
 
 ::: figText
 \<Figure 7.3.2\> Testing hypothesis for $p$ using 『eStatU』
@@ -1418,7 +1418,7 @@ the probability of the type 2 error β, will be shown as in \<Figure
 
 <div>
 
-![](../Figure/Fig070401.png){.imgFig400300}
+![](Figure/Fig070401.png){.imgFig400300}
 
 ::: figText
 \<Figure 7.4.1\> Testing hypothesis for μ with α using 『eStatU』
@@ -1428,7 +1428,7 @@ the probability of the type 2 error β, will be shown as in \<Figure
 
 </div>
 
-![](../Figure/Fig070402.png){.imgFig600400}
+![](Figure/Fig070402.png){.imgFig600400}
 
 ::: figText
 \<Figure 7.4.2\> Calculation of β and power using 『eStatU』
@@ -1650,7 +1650,7 @@ Hence if we calculate the probability of the type 2 error as \[Example
 The power function can be approximated by connecting points of (, 1 - )
 in each test as \<Figure 7.4.3\>.
 
-![](../Figure/Fig070403.png){.imgFig600400}
+![](Figure/Fig070403.png){.imgFig600400}
 
 ::: figText
 \<Figure 7.4.3\> Power function of \[Example 7.4.1\]
@@ -1768,7 +1768,7 @@ input box window as \<Figure 7.4.4\>.
 
 <div>
 
-![](../Figure/Fig070404.png){.imgFig400300}
+![](Figure/Fig070404.png){.imgFig400300}
 
 ::: figText
 \<Figure 7.4.4\> Testing hypothesis for with using 『eStatU』
@@ -1782,7 +1782,7 @@ If you click the \[Execute\] button, you will see the test result of
 『eStatU』 as in \<Figure 7.4.5\>. The critical value and the sample
 size are calculated.
 
-![](../Figure/Fig070405.png){.imgFig600400}
+![](Figure/Fig070405.png){.imgFig600400}
 
 ::: figText
 \<Figure 7.4.5\> Testing hypothesis for μ with α, β using 『eStatU』

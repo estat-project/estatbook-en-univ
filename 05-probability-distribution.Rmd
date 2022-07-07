@@ -250,7 +250,7 @@ large numbers**.
 
 <div>
 
-![](../Figure/Fig050101.png){.imgFig500500}
+![](Figure/Fig050101.png){.imgFig500500}
 
 ::: figText
 \<Figure 5.1.1\> Law of large number simulation
@@ -400,7 +400,7 @@ Economics or Political Science is 35 / 40.
 
 </div>
 
-![](../Figure/Fig050201.png){.imgFig400300}
+![](Figure/Fig050201.png){.imgFig400300}
 
 ::: figText
 \<Figure 5.2.1\> Students who take either economics or political science
@@ -410,7 +410,7 @@ Consider the case of students taking both Economics (A) and Political
 Science (B). The event that a student takes both courses are denoted as
 A ∩ B and is called an intersection event of A and B (\<Figure 5.2.2\>).
 
-![](../Figure/Fig050202.gif){.imgFig400300}
+![](Figure/Fig050202.gif){.imgFig400300}
 
 ::: figText
 \<Figure 5.2.2\> Intersection events A ∩ B
@@ -420,7 +420,7 @@ The event that a student takes either Economics or Political Science
 (one or both) is denoted as A ∪ B and is called an union event of A and
 B (\<Figure 5.2.3\>).
 
-![](../Figure/Fig050203.gif){.imgFig400300}
+![](Figure/Fig050203.gif){.imgFig400300}
 
 ::: figText
 \<Figure 5.2.3\> Union Event A ∪ B
@@ -767,7 +767,7 @@ calculation using a complementary event, and is often used to obtain the
 probability that the word \'at least\' is contained. \<Figure 5.2.4\> is
 a picture of an event.
 
-![](../Figure/Fig050204.gif){.imgFig400300}
+![](Figure/Fig050204.gif){.imgFig400300}
 
 ::: figText
 \<Figure 5.2.4\> Complementary event
@@ -1082,7 +1082,7 @@ of Heads' when tossing a coin twice\'
 | ----------- --------------------- |             $$                    |
 +-----------------------------------+-----------------------------------+
 
-![](../Figure/Fig050301.png){.imgFig400300}
+![](Figure/Fig050301.png){.imgFig400300}
 
 ::: figText
 \<Figure 5.3.1\> Probability distribution function of the random
@@ -1123,7 +1123,7 @@ $$
               \end{align}
             $$
 
-![](../Figure/Fig050302.png){.imgFig400300}
+![](Figure/Fig050302.png){.imgFig400300}
 
 ::: figText
 \<Figure 5.3.2\> Cumulative distribution function of the random variable
@@ -1524,7 +1524,7 @@ counting the number of heads.
 
 <div>
 
-![](../Figure/Fig050303.png){.imgFig600540}
+![](Figure/Fig050303.png){.imgFig600540}
 
 ::: figText
 \<Figure 5.3.3\> Simulation of Binomial distribution
@@ -1667,7 +1667,7 @@ makes it easy to obtain Binomial distribution probabilities from
 
 <div>
 
-![](../Figure/Fig050304.svg){.imgFig600540}
+![](Figure/Fig050304.svg){.imgFig600540}
 
 ::: figText
 \<Figure 5.3.4\> 『eStatU』 Binomial distribution graph when
@@ -1718,7 +1718,7 @@ In the binomial distribution function, $n$ (number of trials) and $p$
 binomial distribution of different $n$ and $p$.
 :::
 
-![](../Figure/Fig050305.png){.imgFig600540}
+![](Figure/Fig050305.png){.imgFig600540}
 
 ::: figText
 \<Figure 5.3.5\> Binomial distribution for various n and p
@@ -1794,7 +1794,7 @@ calculations.
 
 <div>
 
-![](../Figure/Fig050306.svg){.imgFig600540}
+![](Figure/Fig050306.svg){.imgFig600540}
 
 ::: figText
 \<Figure 5.3.6\> 『eStatU』 Binomial distribution when $n = 10, p = 0.2$
@@ -1900,7 +1900,7 @@ button, then Table 5.3.6 appears.
 
 1\) You can check $\small P(X=0)$ = 0.0769 easily from the table.
 
-![](../Figure/Fig050307.svg){.imgFig600600}
+![](Figure/Fig050307.svg){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.7\> 『eStatU』 Binomial Distribution when
@@ -2139,7 +2139,7 @@ different values of λ by using 『eStatU』.
 
 <div>
 
-![](../Figure/Fig050308.png){.imgFig600600}
+![](Figure/Fig050308.png){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.8\> Poisson Distribution when λ = 0.4
@@ -2150,19 +2150,19 @@ different values of λ by using 『eStatU』.
 </div>
 :::
 
-![](../Figure/Fig050309.png){.imgFig600600}
+![](Figure/Fig050309.png){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.9\> Poisson Distribution when λ = 1.0
 :::
 
-![](../Figure/Fig050310.png){.imgFig600600}
+![](Figure/Fig050310.png){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.10\> Poisson Distribution when λ = 1.5
 :::
 
-![](../Figure/Fig050311.png){.imgFig600600}
+![](Figure/Fig050311.png){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.11\> Poisson Distribution when λ = 2.0
@@ -2237,7 +2237,7 @@ Select \'Poisson distribution\' from the menu of 『eStatU』 and select λ
 \<Figure 5.3.12\> and click the \[Poisson Prob Table\] button to see the
 Table 5.3.7.
 
-![](../Figure/Fig050312.png){.imgFig600600}
+![](Figure/Fig050312.png){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.12\> 『eStatU』 Poisson Distribution when λ = 2.5
@@ -2406,7 +2406,7 @@ geometric distribution for different values of $p$.
 
 <div>
 
-![](../Figure/Fig050313.svg){.imgFig600600}
+![](Figure/Fig050313.svg){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.13\> Geometric distribution when $p$ = 0.2
@@ -2416,13 +2416,13 @@ geometric distribution for different values of $p$.
 
 </div>
 
-![](../Figure/Fig050314.svg){.imgFig600600}
+![](Figure/Fig050314.svg){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.14\> Geometric distribution when $p$ = 0.5
 :::
 
-![](../Figure/Fig050315.svg){.imgFig600600}
+![](Figure/Fig050315.svg){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.15\> Geometric distribution when $p$ = 0.8
@@ -2486,7 +2486,7 @@ parameter $p$ = 0.05, and click the \[Execute\] button to display the
 graph shown in \<Figure 5.3.16\>, and click the \[Geometric Prob Table\]
 button to display Table 5.3.8.
 
-![](../Figure/Fig050316.svg){.imgFig600600}
+![](Figure/Fig050316.svg){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.16\> Geometric distribution when $p$ = 0.05
@@ -2625,7 +2625,7 @@ called parameters of the distribution and \<Figure 5.3.17\> to \<Figure
 
 <div>
 
-![](../Figure/Fig050317.svg){.imgFig600600}
+![](Figure/Fig050317.svg){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.17\> Hypergeometric distribution when
@@ -2636,14 +2636,14 @@ $N = 30, D = 5, n = 10$
 
 </div>
 
-![](../Figure/Fig050318.svg){.imgFig600600}
+![](Figure/Fig050318.svg){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.18\> Hypergeometric distribution when
 $N = 100, D = 5, n = 10$
 :::
 
-![](../Figure/Fig050319.svg){.imgFig600600}
+![](Figure/Fig050319.svg){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.19\> Hypergeometric distribution when
@@ -2706,7 +2706,7 @@ $\small P(X=3)$.
 
 <div>
 
-![](../Figure/Fig050320.svg){.imgFig600600}
+![](Figure/Fig050320.svg){.imgFig600600}
 
 ::: figText
 \<Figure 5.3.20\> Hypergeometric distribution when
@@ -2810,7 +2810,7 @@ $\small X$ = 'commuting time' (unit: minute)
   Total                   100 (days)              1
   -----------------------------------------------------------------------
 
-![](../Figure/Fig050401.png){.imgFig400300}
+![](Figure/Fig050401.png){.imgFig400300}
 
 ::: figText
 \<Figure 5.4.1\> Histogram of $\small X$ = 'commuting time'
@@ -2837,13 +2837,13 @@ data have a bell shape, large amount of data are observed near the mean,
 symmetrical about the mean. It is called a normal distribution.
 :::
 
-![](../Figure/Fig050402.png){.imgFig400300}
+![](Figure/Fig050402.png){.imgFig400300}
 
 ::: figText
 \<Figure 5.4.2\> Histogram with narrower intervals on many data
 :::
 
-![](../Figure/Fig050403.png){.imgFig400300}
+![](Figure/Fig050403.png){.imgFig400300}
 
 ::: figText
 \<Figure 5.4.3\> Probability distribution function of a continuous
@@ -2862,7 +2862,7 @@ between ($a,b)$ of f(x) as \<Figure 5.4.4\> which is the integral over
       $$
 :::
 
-![](../Figure/Fig050404.png){.imgFig400300}
+![](Figure/Fig050404.png){.imgFig400300}
 
 ::: figText
 \<Figure 5.4.4\> $P(a \lt X \lt b)$ of the continuous random variable
@@ -2900,7 +2900,7 @@ $\quad \small  f(x) = \Big\{ \array { \frac {1}{30-10}, &\quad \text{if  10 < }x
 and it is called a uniform distribution between 10 and 30 denoted as
 Uniform(10,30).
 
-![](../Figure/Fig050405.png){.imgFig300100}
+![](Figure/Fig050405.png){.imgFig300100}
 
 ::: figText
 \<Figure 5.4.5\> Uniform distribution on (10,30) and the probability of
@@ -3105,7 +3105,7 @@ normal distribution with the mean 0 and variance 1 using 『eStatU』.
 
 <div>
 
-![](../Figure/Fig050406.png){.imgFig600540}
+![](Figure/Fig050406.png){.imgFig600540}
 
 ::: figText
 \<Figure 5.4.6\> Simulation of data which follow a Normal distribution
@@ -3146,7 +3146,7 @@ $\sigma^2$ , it is often denoted by a symbol $\small X$ ～
 $N(\mu, \sigma^2)$. \<Figure 5.4.7\> shows three normal distributions,
 N(-2,0.25), N(0,1), and N(2,4) simultaneously.
 
-![](../Figure/Fig050407.png){.imgFig400300}
+![](Figure/Fig050407.png){.imgFig400300}
 
 ::: figText
 \<Figure 5.4.7\> Three Normal distribution N(-2,0.25), N(0,1), N(2,4)
@@ -3189,7 +3189,7 @@ interval $(a,b)$. As described earlier, the probability of $\small X$ on
 the interval $(a,b)$, is the area of f(x) surrounding the X-axis and
 interval $(a,b)$ as shown in \<Figure 5.4.8\>.
 
-![](../Figure/Fig050408.png){.imgFig400300}
+![](Figure/Fig050408.png){.imgFig400300}
 
 ::: figText
 \<Figure 5.4.8\> Probability of $\small X$ on the interval $(a,b)$
@@ -3246,7 +3246,7 @@ table is usually enough approximation for practical application.
 Table 5.4.2 Standard normal distribution table by using 『eStatU』
 :::
 
-![](../Figure/Table050402.png){.imgFig600400}
+![](Figure/Table050402.png){.imgFig600400}
 
 </div>
 
@@ -3274,7 +3274,7 @@ if z is less than μ - 4σ and is 1 if z is greater than μ + 4σ. Table
 
 <div>
 
-![](../Figure/Fig050409.png){.imgFig600600}
+![](Figure/Fig050409.png){.imgFig600600}
 
 ::: figText
 \<Figure 5.4.9\> Normal probability calculation using 『eStatU』
@@ -3289,7 +3289,7 @@ Table 5.4.3 Percentiles of standard normal distribution by using
 『eStatU』
 :::
 
-![](../Figure/Table050403.png){.imgFig600400}
+![](Figure/Table050403.png){.imgFig600400}
 :::
 
 ::: mainTableGrey
@@ -3506,7 +3506,7 @@ the standard normal distribution which are frequently used. \<Figure
 97.5%, and 99.5% from the left end of the standard normal distribution.
 :::
 
-![](../Figure/Fig050410.png){.imgFig400300}
+![](Figure/Fig050410.png){.imgFig400300}
 
 ::: figText
 \<Figure 5.4.10\> Percentile with a cumulative probability of 95%,
@@ -3518,7 +3518,7 @@ the standard normal distribution which are frequently used. \<Figure
 excluded equally.
 :::
 
-![](../Figure/Fig050411.png){.imgFig400300}
+![](Figure/Fig050411.png){.imgFig400300}
 
 ::: figText
 \<Figure 5.4.11\> Percentile with a probability of 95%, 97.5%, and 99.5%
@@ -3591,7 +3591,7 @@ the screen as \<Figure 5.4.12\>.
 
 <div>
 
-![](../Figure/Fig050412.png){.imgFig600600}
+![](Figure/Fig050412.png){.imgFig600600}
 
 ::: figText
 \<Figure 5.4.12\> Probability calculation of $N(70,10^2 )$ distribution
@@ -3659,7 +3659,7 @@ the \[Execute\] button to display the 95 percentile as 86.449.
 
 <div>
 
-![](../Figure/Fig050413.png){.imgFig600600}
+![](Figure/Fig050413.png){.imgFig600600}
 
 ::: figText
 \<Figure 5.4.13\> Percentile calculation of $N(70,10^2 )$ distribution
@@ -3938,7 +3938,7 @@ parameters.
 
 <div>
 
-![](../Figure/Fig050414.png){.imgFig600540}
+![](Figure/Fig050414.png){.imgFig600540}
 
 ::: figText
 \<Figure 5.4.14\> Exponential distribution when λ = 1.0
@@ -3948,7 +3948,7 @@ parameters.
 
 </div>
 
-![](../Figure/Fig050415.png){.imgFig600540}
+![](Figure/Fig050415.png){.imgFig600540}
 
 ::: figText
 \<Figure 5.4.15\> Exponential distribution when λ = 5.0
@@ -3992,7 +3992,7 @@ Click the \[Execute\] button to reveal the graph shown as \<Figure
 
 <div>
 
-![](../Figure/Fig050416.png){.imgFig600540}
+![](Figure/Fig050416.png){.imgFig600540}
 
 ::: figText
 \<Figure 5.4.16\> Exponential distribution when λ = 10.0

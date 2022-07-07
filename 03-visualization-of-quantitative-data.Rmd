@@ -55,7 +55,7 @@ data of a variable, a dot graph, a histogram, a stem and leaf plot are
 used. In order to visualize the quantitative data of two variables, a
 scatter plot which utilizes two-dimensional coordinate is used.
 
-![](../../Icon/eStat_icon13_dot.png){.imgIcon}\
+![](Icon/eStat_icon13_dot.png){.imgIcon}\
 A dot graph is used to visualize the quantitative data with smaller
 number of data counts. In order to draw the dot graph, we first draw the
 horizontal line and set its scale so that all data can be displayed on
@@ -64,7 +64,7 @@ mark each of the data values in dot corresponding to its scale. The dot
 graph makes it easy to see distribution patterns and anomalies of the
 data.
 
-![](../../Icon/eStat_icon14_histo.png){.imgIcon} If there are too many
+![](Icon/eStat_icon14_histo.png){.imgIcon} If there are too many
 observations of the quantitative data and therefore there are too many
 possible values of the data, the dot graph may not have enough space to
 show all data. In such cases, we divide usually all possible values of
@@ -81,7 +81,7 @@ intervals, but, if the number of intervals is too many, it is not easy
 to analyze the data sometimes. As far as the number of intervals is
 concerned, it depends on the analyst\'s judgement.
 
-![](../../Icon/eStat_icon15_stem.png){.imgIcon}\
+![](Icon/eStat_icon15_stem.png){.imgIcon}\
 A stem and leaf plot is a variation of the histogram which is recently
 used to visualize the quantitative data. The stem and leaf plot can
 easily tell range of observations, shape of distribution, and
@@ -97,7 +97,7 @@ leaves on each stem in ascending order. The stem and leaf plot have been
 commonly used in recent years as both an interval-specific frequency
 distribution and a histogram for the quantitative data.
 
-![](../../Icon/eStat_icon17_scatter.png){.imgIcon}\
+![](Icon/eStat_icon17_scatter.png){.imgIcon}\
 A Scatter plot is to visualize data of two quantitative variables using
 two dimensional coordinates. The scatter plot can be considered as an
 extension of the dot graph for single quantitative variable. Each pair
@@ -208,7 +208,7 @@ found at the following location
 \[Ex\] ⇨ eBook ⇨ EX030201_Continuous_OtterLength.csv
 
 Click on the dot graph icon
-![](../../Icon/eStat_icon13_dot.png){.imgIcon} and click the variable
+![](Icon/eStat_icon13_dot.png){.imgIcon} and click the variable
 name, \'OtterLength\', then a dot graph of the otter length will be
 appeared in the Graph Area as in \<Figure 3.2.1\>. You can also select
 \'OtterLength\' variable at the selection box of the Analysis Variable.
@@ -217,7 +217,7 @@ appeared in the Graph Area as in \<Figure 3.2.1\>. You can also select
 
 </div>
 
-![](../Figure/Fig030201.svg){.imgFig600540}
+![](Figure/Fig030201.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.1\> Dot graph of otter lengths without group
@@ -229,45 +229,45 @@ deviation) interval as in \<Figure 3.2.2\>. We can observe that large
 number of data can be found around the aveage and the data are
 distributed symmetrically around the average.
 
-![](../Figure/Fig030202.svg){.imgFig600540}
+![](Figure/Fig030202.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.2\> Dot graph of otter lengths with MeanStdDev interval
 :::
 
 Click on the histogram icon
-![](../../Icon/eStat_icon14_histo.png){.imgIcon} to display the graph as
+![](Icon/eStat_icon14_histo.png){.imgIcon} to display the graph as
 in \<Figure 3.2.3\>. If you check the options of 'Mean', 'Frequency' and
 'Frequency Polygon' below the graph, the histogram is changed as in
 \<Figure 3.2.4\>. You can also observe that there are large amount of
 data near the mean and the data are distributed in almost symmetrical
 form around the mean.
 
-![](../Figure/Fig030203.svg){.imgFig600540}
+![](Figure/Fig030203.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.3\> Histogram of otter lengths
 :::
 
-![](../Figure/Fig030204.svg){.imgFig600540}
+![](Figure/Fig030204.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.4\> Histogram polygon of otter lengths with mean
 :::
 
 Click on the \[Frequency Table\] button
-![](../../Icon/eStat_icon14_histo.png){.imgIcon} in the options window
+![](Icon/eStat_icon14_histo.png){.imgIcon} in the options window
 below the graph (Figure 3.2.5) to output a frequency table by intervals
 based on the histogram currently drawn in the Log Area as in \<Figure
 3.2.6\>.
 
-![](../Figure/Fig030205.png){.imgFig30050}
+![](Figure/Fig030205.png){.imgFig30050}
 
 ::: figText
 \<Figure 3.2.5\> Options of the histogram
 :::
 
-![](../Figure/Fig030206.png){.imgFig300400}
+![](Figure/Fig030206.png){.imgFig300400}
 
 ::: figText
 \<Figure 3.2.6\> Frequency table of the histogram
@@ -280,7 +280,7 @@ below the graph and then clicking \[Execute New Interval\] button in
 \<Figure 3.2.5\>.
 
 Click on the stem and leaf plot icon
-![](../../Icon/eStat_icon15_stem.png){.imgIcon} to display the graph
+![](Icon/eStat_icon15_stem.png){.imgIcon} to display the graph
 shown in \<Figure 3.2.7\>. This graph is a variant of the histogram
 where intervals are \[60, 61), \[61, 62), \... , \[78, 79). After
 finding the number of data belonging to each interval, the digits of 60,
@@ -289,7 +289,7 @@ data values belonging to each interval become the leaves of each stem.
 The leaves (last digits) of each stem are sorted in ascending order from
 small to large.
 
-![](../Figure/Fig030207.svg){.imgFig600540}
+![](Figure/Fig030207.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.7\> Stem and leaf plot of otter length
@@ -430,7 +430,7 @@ Select the file from 『eStat』 by clicking
 or scan the QR.
 
 Click on the dot graph icon
-![](../../Icon/eStat_icon13_dot.png){.imgIcon} and click the variable
+![](Icon/eStat_icon13_dot.png){.imgIcon} and click the variable
 names \'age\' and \'gender\' to draw the dot graph of the age by gender
 as in \<Figure 3.2.8\>. You can select 'Age' from the selection box of
 \'Analysis Var\' and 'Gender' from the selection box of 'By Group'
@@ -440,7 +440,7 @@ variable.
 
 </div>
 
-![](../Figure/Fig030208.svg){.imgFig600540}
+![](Figure/Fig030208.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.8\> Dot graph of the age by gender: Group 1 is for male and
@@ -451,7 +451,7 @@ By checking the \'Mean/StdDev' in the options window below the graph,
 the mean line and (average) ± (one standard deviation) intervals are
 shown on the graph as in \<Figure 3.2.9\>.
 
-![](../Figure/Fig030209.svg){.imgFig600540}
+![](Figure/Fig030209.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.9\> Dot graph of the age by gender with interval of mean /
@@ -465,7 +465,7 @@ hypothesis to compare two population means can be applied. It will be
 discussed in Chapter 8.
 
 If you click on the histogram icon
-![](../../Icon/eStat_icon14_histo.png){.imgIcon}, the histogram as in
+![](Icon/eStat_icon14_histo.png){.imgIcon}, the histogram as in
 \<Figure 3.2.10\> appears in the Graph Area. By checking the options
 below the graph, you can draw the mean lines, frequencies, and frequency
 polygons on the histogram (\<Figure 3.2.11\>). If you click \[Frequency
@@ -476,27 +476,27 @@ the Log Area as in \<Figure 3.2.12\>.
 automatically, but you can redraw them by specifying the 'Interval
 Start' and 'Interval Width' in the options window below the graph.
 
-![](../Figure/Fig030210.svg){.imgFig600540}
+![](Figure/Fig030210.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.10\> Histogram of age by gender: Group 1 is for male and
 Group 2 for female
 :::
 
-![](../Figure/Fig030211.svg){.imgFig600540}
+![](Figure/Fig030211.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.11\> Histogram of age by gender with polygon
 :::
 
-![](../Figure/Fig030212.png){.imgFig400300}
+![](Figure/Fig030212.png){.imgFig400300}
 
 ::: figText
 \<Figure 3.2.12\> Frequency table of age by gender
 :::
 
 If you click on the stem and leaf plot icon
-![](../../Icon/eStat_icon15_stem.png){.imgIcon}, the graph as in
+![](Icon/eStat_icon15_stem.png){.imgIcon}, the graph as in
 \<Figure 3.2.13\> will be displayed in the Graph Area. This stem and
 leaf plot is a variant of the histogram in which the age data are
 divided into intervals as \[20, 30), \[30, 40), \... \[60,70) by using
@@ -507,15 +507,15 @@ ascending order from small to large.
 
 In case of two groups, a bi-lateral stem and leaf plot as in \<Figure
 3.2.14\> can be drawn by clicking on the bi-lateral stem and leaf icon
-![](../../Icon/eStat_icon46_stemBilateral.png){.imgIcon}.
+![](Icon/eStat_icon46_stemBilateral.png){.imgIcon}.
 
-![](../Figure/Fig030213.svg){.imgFig600540}
+![](Figure/Fig030213.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.13\> Stem and leaf plot of age by sex
 :::
 
-![](../Figure/Fig030214.svg){.imgFig600540}
+![](Figure/Fig030214.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.14\> Both direction stem and leaf plot of age by sex
@@ -554,7 +554,7 @@ Retrieve the file from 『eStat』 by clicking
 or scan the QR on the left.
 
 Click on the dot graph icon
-![](../../Icon/eStat_icon13_dot.png){.imgIcon} and then select the
+![](Icon/eStat_icon13_dot.png){.imgIcon} and then select the
 variable \'Calorie\' and \'Hot Dog\' to draw a dot graph as in\<Figure
 3.2.15\>. You can also select 'Calorie' in the \'Analysis Var\'
 selection box and 'HotDog' in the \'By Group\' selection box.
@@ -563,7 +563,7 @@ selection box and 'HotDog' in the \'By Group\' selection box.
 
 </div>
 
-![](../Figure/Fig030215.svg){.imgFig600540}
+![](Figure/Fig030215.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.15\> Dot graph of calories of hot dog by type
@@ -579,7 +579,7 @@ pork. If this data are sampled from three populations, a statistical
 analysis of testing hypothesis to compare several population means can
 be applied. It will be discussed in Chapter 9.
 
-![](../Figure/Fig030216.svg){.imgFig600540}
+![](Figure/Fig030216.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.16\> Dot graph of calories of hot dog by type with mean
@@ -587,24 +587,24 @@ interval
 :::
 
 Click on the histogram icon
-![](../../Icon/eStat_icon14_histo.png){.imgIcon} to display the graph
+![](Icon/eStat_icon14_histo.png){.imgIcon} to display the graph
 shown in \<Figure 3.2.17\>. Under the options below the graph, you can
 draw means, frequency, and frequency polygon as in \<Figure 3.2.18\> and
 frequency table as in \<Figure 3.2.19\> in the Log Area.
 
-![](../Figure/Fig030217.svg){.imgFig600540}
+![](Figure/Fig030217.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.17\> Histogram of calories of hot dog by type
 :::
 
-![](../Figure/Fig030218.svg){.imgFig600540}
+![](Figure/Fig030218.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.18\> Histogram of calories of hot dog by type
 :::
 
-![](../Figure/Fig030219.png){.imgFig400300}
+![](Figure/Fig030219.png){.imgFig400300}
 
 ::: figText
 \<Figure 3.2.19\> Frequency table of the histogram
@@ -615,7 +615,7 @@ width of the intervals automatically, but you can redraw them by
 specifying the \'Interval Start\' and \'Interval Width.
 
 Click on the stem and leaf plot icon
-![](../../Icon/eStat_icon15_stem.png){.imgIcon} to display the graph
+![](Icon/eStat_icon15_stem.png){.imgIcon} to display the graph
 shown in \<Figure 3.2.20\> This graph is a variant of the histogram
 which the calories are divided into intervals \[80, 90), \[90, 100),
 \... , \[190, 200) as the stem in each group. The data belonging to each
@@ -626,7 +626,7 @@ and leaf plot may overflow the screen as shown in \<Figure 3.2.20\>
 (only two groups are visible here). You can move the scroll bar of the
 screen to watch all the stem and leaf plot.
 
-![](../Figure/Fig030220.svg){.imgFig600540}
+![](Figure/Fig030220.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.2.20\> Stem and leaf plot of hot dot calories.\
@@ -788,7 +788,7 @@ Retrieve the file from 『eStat』 by clicking
 or scan the QR on the left.
 
 By clicking on the scatter plot icon
-![](../../Icon/eStat_icon17_scatter.png){.imgIcon} and clicking on the
+![](Icon/eStat_icon17_scatter.png){.imgIcon} and clicking on the
 \'weight\' and \'height' variable names, a scatter plot with the weight
 on Y-axis (the first selected variable) and the height on X-axis (the
 second selected variable) will appear in the Graph Area as in \<Figure
@@ -799,7 +799,7 @@ box and \'height in the \'by X-variable\' selection box.
 
 </div>
 
-![](../Figure/Fig030301.svg){.imgFig600540}
+![](Figure/Fig030301.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.3.1\> Scatter plot of height and weight
@@ -819,7 +819,7 @@ scatter plot, you can see that the larger the height, the heavier the
 weight is. See Chapter 12 for more discussion on the regression
 analysis.
 
-![](../Figure/Fig030302.svg){.imgFig600540}
+![](Figure/Fig030302.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.3.2\> Scatter plot of height and weight with a regression
@@ -832,13 +832,13 @@ of gender as in \<Figure 3.3.3\>. By checking the \'Regression\' in the
 options will show the regression lines to each gender as in \<Figure
 3.3.4\>.
 
-![](../Figure/Fig030303.svg){.imgFig600540}
+![](Figure/Fig030303.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.3.3\> Scatter plot of height and weight by gender groups
 :::
 
-![](../Figure/Fig030304.svg){.imgFig600540}
+![](Figure/Fig030304.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.3.4\> Scatter plot of height and weight by gender with
@@ -848,7 +848,7 @@ regression lines
 If you select the height as a \'Size Var\' in the option, the dots in
 the scatter plot are proportional to the height as in \<Figure 3.3.5\>.
 
-![](../Figure/Fig030305.svg){.imgFig600540}
+![](Figure/Fig030305.svg){.imgFig600540}
 
 ::: figText
 \<Figure 3.3.5\> Scatter plot of height and weight by gender with size

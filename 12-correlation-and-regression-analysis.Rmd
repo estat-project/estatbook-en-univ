@@ -101,7 +101,7 @@ the form of increase is linear.
 
 <div>
 
-![](../Figure/Fig120101.png){.imgFig600400}
+![](Figure/Fig120101.png){.imgFig600400}
 
 ::: figText
 \<Figure 12.1.1\> Data input in 『eStat』
@@ -111,7 +111,7 @@ the form of increase is linear.
 
 </div>
 
-![](../Figure/Fig120102.svg)
+![](Figure/Fig120102.svg)
 
 ::: figText
 \<Figure 12.1.2\> Scatter plot of sales by advertise
@@ -167,7 +167,7 @@ $$
 \<Figure 12.1.3\> shows different scatter plots and its values of the
 correlation coefficient.
 
-![](../Figure/Fig120103.png){.imgFig600400}
+![](Figure/Fig120103.png){.imgFig600400}
 
 ::: figText
 \<Figure 12.1.3\> Different scatter plots and their correlation
@@ -213,7 +213,7 @@ correlations as in \<Figure 12.1.4\>.
 
 <div>
 
-![](../Figure/Fig120104.png){.imgFig600400}
+![](Figure/Fig120104.png){.imgFig600400}
 
 ::: figText
 \<Figure 12.1.4\> Simulation of correlation coefficient at 『eStatU』
@@ -342,7 +342,7 @@ conclusion is obtained that the p-value for the correlation test is
 0.0001, less than the significance level of 0.05 and therefore, the null
 hypothesis is rejected.
 
-![](../Figure/Fig120105.png){.imgFig600400}
+![](Figure/Fig120105.png){.imgFig600400}
 
 ::: figText
 \<Figure 12.1.5\> Testing hypothesis of correlation using 『eStat』
@@ -447,7 +447,7 @@ Petal.Length and the Petal.Width are related.
 
 <div>
 
-![](../Figure/Fig120106.svg){.imgFig600400}
+![](Figure/Fig120106.svg){.imgFig600400}
 
 ::: figText
 \<Figure 12.1.6\> Scatter plot matrix using 『eStat』
@@ -463,9 +463,9 @@ graph, the basic statistics and correlation coefficient matrix such as
 seen that all correlations are significant except the correlation
 coefficient between the Sepal.Length and Sepal.Width.
 
-![](../Figure/Fig1201071.png){.imgFig600400}
+![](Figure/Fig1201071.png){.imgFig600400}
 
-![](../Figure/Fig1201072.png){.imgFig600400}
+![](Figure/Fig1201072.png){.imgFig600400}
 
 ::: figText
 \<Figure 12.1.7\> Descriptive statistics and correlation matrix using
@@ -1034,7 +1034,7 @@ The meaning of slope value, 2.5033, is that, if advertising cost
 increases by one (i.e., one million), sales increases by about 2.5
 million.
 
-![](../Figure/Fig120201.svg){.imgFig600400}
+![](Figure/Fig120201.svg){.imgFig600400}
 
 ::: figText
 \<Figure 12.2.1\> Simple linear regression using 『eStat』
@@ -1362,7 +1362,7 @@ Click the \[Correlation and Regression\] button in the option below the
 graph of \<Figure 12.2.1\> to show the coefficient of determinations and
 estimation errors shown in \<Figure 12.2.2\>.
 
-![](../Figure/Fig120202.png){.imgFig600400}
+![](Figure/Fig120202.png){.imgFig600400}
 
 ::: figText
 \<Figure 12.2.2\> Correlation and descriptive statistics
@@ -1456,7 +1456,7 @@ Click the \[Correlation and Regression\] button in the options window
 below the graph \<Figure 12.2.1\> to show the result of the ANOVA as
 shown in \<Figure 12.2.3\>.
 
-![](../Figure/Fig120203.png){.imgFig600400}
+![](Figure/Fig120203.png){.imgFig600400}
 
 ::: figText
 \<Figure 12.2.3\> Regression Analysis of Variance using 『eStat』
@@ -1686,13 +1686,13 @@ inference result of each parameter will appear in the Log Area as shown
 in \<Figure 12.2.5\>.
 :::
 
-![](../Figure/Fig120204.svg){.imgFig600400}
+![](Figure/Fig120204.svg){.imgFig600400}
 
 ::: figText
 \<Figure 12.2.4\> Confidence band using 『eStat』
 :::
 
-![](../Figure/Fig120205.png){.imgFig600400}
+![](Figure/Fig120205.png){.imgFig600400}
 
 ::: figText
 \<Figure 12.2.5\> Testing hypothesis of regression coefficients
@@ -1777,13 +1777,13 @@ and so, the normality of the error term is somewhat questionable. In
 such cases, the values of the response variable need to be re-analyzed
 by taking logarithmic or square root transformation.
 
-![](../Figure/Fig120206.svg){.imgFig600400}
+![](Figure/Fig120206.svg){.imgFig600400}
 
 ::: figText
 \<Figure 12.2.6\> Residual plot
 :::
 
-![](../Figure/Fig120207.svg){.imgFig600400}
+![](Figure/Fig120207.svg){.imgFig600400}
 
 ::: figText
 \<Figure 12.2.7\> Residual Q-Q Plot
@@ -1817,7 +1817,7 @@ along with the mouse.
 
 <div>
 
-![](../Figure/Fig120208.png){.imgFig600400}
+![](Figure/Fig120208.png){.imgFig600400}
 
 ::: figText
 \<Figure 12.2.8\> Simulation experiment of regression analysis at
@@ -2110,7 +2110,7 @@ and height are also somewhat related.
 
 <div>
 
-![](../Figure/Fig120301.svg){.imgFig600400}
+![](Figure/Fig120301.svg){.imgFig600400}
 
 ::: figText
 \<Figure 12.3.1\> Scatterplot matrix
@@ -2120,7 +2120,7 @@ and height are also somewhat related.
 
 </div>
 
-![](../Figure/Fig120302.png){.imgFig600400}
+![](Figure/Fig120302.png){.imgFig600400}
 
 ::: figText
 \<Figure 12.3.2\> Correlation matrix
@@ -2406,7 +2406,7 @@ dependent variable are explained by the regression line. Based on the
 above two results, we can conclude that the diameter and height of the
 tree are quite useful in estimating the volume.
 
-![](../Figure/Fig120303.png){.imgFig600400}
+![](Figure/Fig120303.png){.imgFig600400}
 
 ::: figText
 \<Figure 12.3.3\> Result of Multiple Linear Regression
@@ -2434,13 +2434,13 @@ is no particular pattern in the scatter plot of the standardized
 residuals, but there is one outlier value, and the Q-Q scatter plot
 shows that the assumption of normality is somewhat satisfactory.
 
-![](../Figure/Fig120304.svg){.imgFig600400}
+![](Figure/Fig120304.svg){.imgFig600400}
 
 ::: figText
 \<Figure 12.3.4\> Residual analysis of multiple linear regression
 :::
 
-![](../Figure/Fig120305.svg){.imgFig600400}
+![](Figure/Fig120305.svg){.imgFig600400}
 
 ::: figText
 \<Figure 12.3.5\> Q-Q plot of multiple linear regression

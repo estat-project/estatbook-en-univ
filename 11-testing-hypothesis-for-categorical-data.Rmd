@@ -213,7 +213,7 @@ least 5.
 
 <div>
 
-![](../Figure/Fig110101.png){.imgFig600400}
+![](Figure/Fig110101.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.1.1\> Goodness of fit test in 『eStatU』
@@ -223,7 +223,7 @@ least 5.
 
 </div>
 
-![](../Figure/Fig110102.png){.imgFig600400}
+![](Figure/Fig110102.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.1.2\> 『eStatU』Chi-square Goodness of Fit Test
@@ -408,7 +408,7 @@ as \<Figure 11.1.4\> will appear.
 
 <div>
 
-![](../Figure/Fig110103.png){.imgFig600400}
+![](Figure/Fig110103.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.1.3\> Data input at『eStat』
@@ -418,7 +418,7 @@ as \<Figure 11.1.4\> will appear.
 
 </div>
 
-![](../Figure/Fig110104.svg){.imgFig600400}
+![](Figure/Fig110104.svg){.imgFig600400}
 
 ::: figText
 \<Figure 11.1.4\> Default histogram of age
@@ -431,13 +431,13 @@ Table\] button, the frequency table as shown in \<Figure 11.1.6\> will
 appear in the Log Area. The designation of interval size can be
 determined by a researcher.
 
-![](../Figure/Fig110105.png){.imgFig600400}
+![](Figure/Fig110105.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.1.5\> Adjusted histogram of age
 :::
 
-![](../Figure/Fig110106.png){.imgFig600400}
+![](Figure/Fig110106.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.1.6\> Frequency table of the adjusted histogram
@@ -480,7 +480,7 @@ Statistics\' icon on the main menu of『eStat』will display a table of
 basic statistics in the Log Area, as shown in \<Figure 11.1.7\>. The
 sample mean is 38.567 and the sample standard deviation is 12.982.
 
-![](../Figure/Fig110107.png){.imgFig600400}
+![](Figure/Fig110107.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.1.7\> Descriptive statistics of age
@@ -522,7 +522,7 @@ $P(X \lt 20) = P(Z \lt \frac {20-38.567} {12.982} ) = P(Z \lt -1.430)=0.075$
 
 <div>
 
-![](../Figure/Fig110108.png){.imgFig600400}
+![](Figure/Fig110108.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.1.8\> Calculation of normal probability using『eStatU』
@@ -634,7 +634,7 @@ chi-square test result (\<Figure 11.1.10\>).
 
 <div>
 
-![](../Figure/Fig110109.png){.imgFig600400}
+![](Figure/Fig110109.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.1.9\> Data input for goodness of fit test in 『eStatU』
@@ -644,7 +644,7 @@ chi-square test result (\<Figure 11.1.10\>).
 
 </div>
 
-![](../Figure/Fig110110.svg){.imgFig600400}
+![](Figure/Fig110110.svg){.imgFig600400}
 
 ::: figText
 \<Figure 11.1.10\> Chi-square goodness of fit test using『eStatU』
@@ -811,7 +811,7 @@ each other.
 
 <div>
 
-![](../Figure/Fig110201.png){.imgFig600400}
+![](Figure/Fig110201.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.2.1\> Data input
@@ -833,7 +833,7 @@ gender variable and the wearing of glasses are considered related. As
 such, when two variables are related, two lines of the line graph
 intersect to each other.
 
-![](../Figure/Fig110202.svg){.imgFig600400}
+![](Figure/Fig110202.svg){.imgFig600400}
 
 ::: figText
 \<Figure 11.2.2\> Line graph of wearing glasses by gender
@@ -934,7 +934,7 @@ of the chi-square test as shown in \<Figure 11.2.4\>.
 
 <div>
 
-![](../Figure/Fig110203.png){.imgFig600400}
+![](Figure/Fig110203.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.2.3\> 『eStatU』Test of Independence
@@ -944,7 +944,7 @@ of the chi-square test as shown in \<Figure 11.2.4\>.
 
 </div>
 
-![](../Figure/Fig110204.png){.imgFig600400}
+![](Figure/Fig110204.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.2.4\>『eStatU』Chi-square test of independence
@@ -1132,7 +1132,7 @@ each other at the significance level of 5%.
 
 <div>
 
-![](../Figure/Fig110205.png){.imgFig600400}
+![](Figure/Fig110205.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.2.5\> Data input
@@ -1151,7 +1151,7 @@ statistically conclude that the region and beverage preference are
 related?
 :::
 
-![](../Figure/Fig110206.svg){.imgFig600400}
+![](Figure/Fig110206.svg){.imgFig600400}
 
 ::: figText
 \<Figure 11.2.6\> Line graph by region and beverage
@@ -1218,7 +1218,7 @@ of the chi-square test as shown in \<Figure 11.2.8\>.
 
 <div>
 
-![](../Figure/Fig110207.png){.imgFig600400}
+![](Figure/Fig110207.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.2.7\> Data input for Independence Test at『eStatU』
@@ -1228,7 +1228,7 @@ of the chi-square test as shown in \<Figure 11.2.8\>.
 
 </div>
 
-![](../Figure/Fig110208.svg){.imgFig600400}
+![](Figure/Fig110208.svg){.imgFig600400}
 
 ::: figText
 \<Figure 11.2.8\> Chi-square Independence Test at『eStatU』
@@ -1242,13 +1242,13 @@ test as shown in \<Figure 11.2.10\>. In this case, if a cell of the
 contingency table has a small expected number, the test result should be
 interpreted carefully.
 
-![](../Figure/Fig110209.png){.imgFig600400}
+![](Figure/Fig110209.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.2.9\> Raw data input for independence test
 :::
 
-![](../Figure/Fig110210.png){.imgFig600400}
+![](Figure/Fig110210.png){.imgFig600400}
 
 ::: figText
 \<Figure 11.2.10\>『eStat』contingency table and independence test

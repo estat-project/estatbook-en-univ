@@ -197,7 +197,7 @@ means $\overline x_1 , \overline x_2$, and sample variances as in
 
 <div>
 
-![](../Figure/Fig080101.png){.imgFig600400}
+![](Figure/Fig080101.png){.imgFig600400}
 
 ::: figText
 \<Figure 8.1.1\> Testing hypothesis for two population means using
@@ -210,7 +210,7 @@ means $\overline x_1 , \overline x_2$, and sample variances as in
 Click the \[Execute\] button will show the result of testing hypothesis
 as \<Figure 8.1.2\>.
 
-![](../Figure/Fig080102.png){.imgFig600400}
+![](Figure/Fig080102.png){.imgFig600400}
 
 ::: figText
 \<Figure 8.1.2\> Testing hypothesis for two population means -- case of
@@ -273,7 +273,7 @@ variances assumption of \[Test Type\] in the window of \<Figure 8.1.1\>
 and click the \[Execute\] button to see the result as shown in \<Figure
 8.1.3\>.
 
-![](../Figure/Fig080102.png){.imgFig600400}
+![](Figure/Fig080102.png){.imgFig600400}
 
 ::: figText
 \<Figure 8.1.3\> Testing hypothesis for two population means -- Case of
@@ -330,7 +330,7 @@ sample means of two populations will be displayed as \<Figure 8.1.5\>.
 
 <div>
 
-![](../Figure/Fig080104.png){.imgFig150200}
+![](Figure/Fig080104.png){.imgFig150200}
 
 ::: figText
 \<Figure 8.1.4\> Data input for testing two population means
@@ -339,7 +339,7 @@ sample means of two populations will be displayed as \<Figure 8.1.5\>.
 </div>
 :::
 
-![](../Figure/Fig080105.png){.imgFig600540}
+![](Figure/Fig080105.png){.imgFig600540}
 
 ::: figText
 \<Figure 8.1.5\> Dot graph and confidence Intervals by gender for
@@ -353,20 +353,20 @@ the 5% significance level and click the \[t-test\] button. Then the
 graphical result of testing hypothesis for two population means will be
 shown as in \<Figure 8.1.7\> and the test result as in \<Figure 8.1.8\>.
 
-![](../Figure/Fig080106.png){.imgFig400100}
+![](Figure/Fig080106.png){.imgFig400100}
 
 ::: figText
 \<Figure 8.1.6\> Options to test for two population means
 :::
 
-![](../Figure/Fig080107.png){.imgFig600540}
+![](Figure/Fig080107.png){.imgFig600540}
 
 ::: figText
 \<Figure 8.1.7\> Testing hypothesis for and -- case of the same
 population variances
 :::
 
-![](../Figure/Fig080108.png){.imgFig600540}
+![](Figure/Fig080108.png){.imgFig600540}
 
 ::: figText
 \<Figure 8.1.8\> result of testing hypothesis for two population means
@@ -380,14 +380,14 @@ graph of the hypothesis test and the test result table as in \<Figure
 8.1.9\> and \<Figure 8.1.10\>.
 :::
 
-![](../Figure/Fig080109.png){.imgFig600540}
+![](Figure/Fig080109.png){.imgFig600540}
 
 ::: figText
 \<Figure 8.1.9\> Testing hypothesis for and -- case of the different
 population variances
 :::
 
-![](../Figure/Fig080110.png){.imgFig600540}
+![](Figure/Fig080110.png){.imgFig600540}
 
 ::: figText
 \<Figure 8.1.10\> result of testing hypothesis for two population means
@@ -695,7 +695,7 @@ level, check 'paired sample' at \[Test Type\], and enter data of sample
 
 <div>
 
-![](../Figure/Fig080111.png){.imgFig600400}
+![](Figure/Fig080111.png){.imgFig600400}
 
 ::: figText
 \<Figure 8.1.11\> Testing hypothesis for two population means using
@@ -709,7 +709,7 @@ Click the \[Execute\] button to calculate the sample mean and sample
 standard deviation of differences ($\overline d$ and $s_d^2$ ) and to
 show the result of the hypothesis test as \<Figure 8.1.12\>.
 
-![](../Figure/Fig080112.png){.imgFig600400}
+![](Figure/Fig080112.png){.imgFig600400}
 
 ::: figText
 \<Figure 8.1.12\> Result of testing hypothesis for two population means
@@ -735,7 +735,7 @@ Ex ⇨ eBook ⇨ EX080104_TypingSpeedEducation.csv.
 
 <div>
 
-![](../Figure/Fig080113.png){.imgFig150200}
+![](Figure/Fig080113.png){.imgFig150200}
 
 ::: figText
 \<Figure 8.1.13\> Data input of paired sample
@@ -744,7 +744,7 @@ Ex ⇨ eBook ⇨ EX080104_TypingSpeedEducation.csv.
 </div>
 :::
 
-![](../Figure/Fig080114.png){.imgFig600540}
+![](Figure/Fig080114.png){.imgFig600540}
 
 ::: figText
 \<Figure 8.1.14\> Dot graph of difference data of paired sample
@@ -755,14 +755,14 @@ options window below the graph, select the 5% significance level, and
 press the \[t-test\] button to display the result of the hypothesis test
 for paired samples such as \<Figure 8.1.15\> and \<Figure 8.1.16\>.
 
-![](../Figure/Fig080115.png){.imgFig600540}
+![](Figure/Fig080115.png){.imgFig600540}
 
 ::: figText
 \<Figure 8.1.15\> Testing hypothesis for two population means using
 『eStat』 - paired sample
 :::
 
-![](../Figure/Fig080116.png){.imgFig600600}
+![](Figure/Fig080116.png){.imgFig600600}
 
 ::: figText
 \<Figure 8.1.16\> Result of testing hypothesis for two population means
@@ -894,7 +894,7 @@ parameters, the numerator degrees of freedom and denominator degrees of
 freedom. \<Figure 8.2.1\> shows $F$-distributions for different
 parameters.
 
-![](../Figure/Fig080201.png){.imgFig400300}
+![](Figure/Fig080201.png){.imgFig400300}
 
 ::: figText
 \<Figure 8.2.1\> $F$-distribution of different degrees of freedom.
@@ -966,7 +966,7 @@ enter $n_1 = 12, n_2 = 10, s_1^2 = 0.0121, s_2^2 = 0.0169$. Click the
 
 <div>
 
-![](../Figure/Fig080202.png){.imgFig600400}
+![](Figure/Fig080202.png){.imgFig600400}
 
 ::: figText
 \<Figure 8.2.2\> Data input for testing hypothesis of two population
@@ -976,7 +976,7 @@ variances using 『eStatU』
 </div>
 :::
 
-![](../Figure/Fig080203.svg){.imgFig600400}
+![](Figure/Fig080203.svg){.imgFig600400}
 
 ::: figText
 \<Figure 8.2.3\> Testing hypothesis for two population variances using
@@ -1024,7 +1024,7 @@ will be appeared as in \<Figure 8.2.5\>.
 
 <div>
 
-![](../Figure/Fig080204.png){.imgFig150200}
+![](Figure/Fig080204.png){.imgFig150200}
 
 ::: figText
 \<Figure 8.2.4\> Data input for testing two population variances
@@ -1033,7 +1033,7 @@ will be appeared as in \<Figure 8.2.5\>.
 </div>
 :::
 
-![](../Figure/Fig080205.png){.imgFig600540}
+![](Figure/Fig080205.png){.imgFig600540}
 
 ::: figText
 \<Figure 8.2.5\> Dot graph and mean-standard deviation interval of each
@@ -1045,13 +1045,13 @@ graph, a test result graph using $F$-distribution such as \<Figure
 8.2.6\> is appeared in the Graph Area and the result table is appeared
 as in \<Figure 8.2.7\> appears in the Log Area.
 
-![](../Figure/Fig080206.png){.imgFig600540}
+![](Figure/Fig080206.png){.imgFig600540}
 
 ::: figText
 \<Figure 8.2.6\> Testing hypothesis for two population variances
 :::
 
-![](../Figure/Fig080207.png){.imgFig600400}
+![](Figure/Fig080207.png){.imgFig600400}
 
 ::: figText
 \<Figure 8.2.7\> Result table of testing two population variances
@@ -1219,7 +1219,7 @@ result of the hypothesis test as shown in \<Figure 8.3.2\>.
 
 <div>
 
-![](../Figure/Fig080301.png){.imgFig600400}
+![](Figure/Fig080301.png){.imgFig600400}
 
 ::: figText
 \<Figure 8.3.1\> Data input for testing two population proportions in
@@ -1229,7 +1229,7 @@ result of the hypothesis test as shown in \<Figure 8.3.2\>.
 </div>
 :::
 
-![](../Figure/Fig080302.png){.imgFig600400}
+![](Figure/Fig080302.png){.imgFig600400}
 
 ::: figText
 Result of testing hypothesis for two population proportions using

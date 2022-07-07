@@ -64,7 +64,7 @@ qualitative data. A bar graph, a pie chart, a band graph, and a line
 graph are used to visualize the qualitative data. These graphs are
 frequently used as an exploratory data analysis of the qualitative data.
 
-![](../../Icon/eStat_icon09_bar.png){.imgIcon}\
+![](Icon/eStat_icon09_bar.png){.imgIcon}\
 A bar chart (or bar graph) is a graph that presents the qualitative data
 with rectangular bars in a way that their heights (or lengths) are
 proportional to frequencies of their categories. Therefore, the
@@ -82,11 +82,11 @@ vertical bar graph. A bar can also be drawn left and right whose length
 is proportional to the frequency of each category and it is called a
 horizontal bar graph.
 
-![](../../Icon/eStat_icon35_VbarSeparated.png){.imgIcon}
-![](../../Icon/eStat_icon36_VbarStacked.png){.imgIcon}
-![](../../Icon/eStat_icon37_VbarRatio.png){.imgIcon}
-![](../../Icon/eStat_icon38_VbarSide.png){.imgIcon}
-![](../../Icon/eStat_icon39_VbarBilateral.png){.imgIcon}\
+![](Icon/eStat_icon35_VbarSeparated.png){.imgIcon}
+![](Icon/eStat_icon36_VbarStacked.png){.imgIcon}
+![](Icon/eStat_icon37_VbarRatio.png){.imgIcon}
+![](Icon/eStat_icon38_VbarSide.png){.imgIcon}
+![](Icon/eStat_icon39_VbarBilateral.png){.imgIcon}\
 A bar graph can be drawn after counting frequencies of all categories of
 a variable. If there is another categorical variable, frequencies of all
 categories of the first categorical variable can be counted for each
@@ -119,8 +119,8 @@ other category of the group variable in the opposite direction. The
 direction can be either the left and right side of the Y-axis or the
 above and below of the X-axis.
 
-![](../../Icon/eStat_icon10_pie.png){.imgIcon}
-![](../../Icon/eStat_icon45_Doughnut.png){.imgIcon}\
+![](Icon/eStat_icon10_pie.png){.imgIcon}
+![](Icon/eStat_icon45_Doughnut.png){.imgIcon}\
 A pie chart is a graph that shows frequencies of all categories of the
 analysis variable by dividing a pie (circle) into pieces with different
 colors depending on angle which is proportional to the frequency of each
@@ -130,7 +130,7 @@ order starting from 12 oclock so that the ratio can be compared well.
 A doughnut chart which removes a center circle of the pie chart can also
 be used.
 
-![](../../Icon/eStat_icon11_band.png){.imgIcon}\
+![](Icon/eStat_icon11_band.png){.imgIcon}\
 A band graph is similar to the ratio bar graph that shows frequencies of
 all categories of the analysis variable by dividing a rectangle into
 square pieces with different colors which are proportional to
@@ -139,7 +139,7 @@ square pieces can be sorted in descending order by the frequencies of
 each category, but 『eStat』 draw the square pieces in the order of
 category values of a categorical variable.
 
-![](../../Icon/eStat_icon12_line.png){.imgIcon}\
+![](Icon/eStat_icon12_line.png){.imgIcon}\
 A line graph shows frequencies (or values) of all categories of an
 analysis variable in a two-dimensional graph. The X-axis shows names of
 categories and the Y-axis represents the scale of frequencies (or
@@ -263,7 +263,7 @@ Enter the data of Table 2.2.1 to the sheet of 『eStat』 as in \<Figure
 'Number' using \[Edit Var\] button located above the sheet (refer
 Appedix A.2).
 
-![](../Figure/Fig020201.png){.imgFig300200}
+![](Figure/Fig020201.png){.imgFig300200}
 
 ::: figText
 \<Figure 2.2.1\> Data input in 『eStat』
@@ -304,7 +304,7 @@ of each bar. will be displayed.
 
 <div>
 
-![](../Figure/Fig020202.svg)
+![](Figure/Fig020202.svg)
 
 ::: figText
 \<Figure 2.2.2\> Vertical bar graph of the number of male and female
@@ -315,20 +315,20 @@ students.
 
 </div>
 
-![](../Figure/Fig020203.svg){.imgFig600540}
+![](Figure/Fig020203.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.3\> Horizontal bar graph of the number of male and female
 students.
 :::
 
-![](../../Icon/eStat_icon47_graphSave.png){.imgIcon}\
+![](Icon/eStat_icon47_graphSave.png){.imgIcon}\
 By clicking the 'Graph Save' icon located above the Graph Area, the
 current graph of the Graph Area will be saved with a file name
 'eStatGraph.png' which is shown at the bottom left corner of the main
 screen as in \<Figure 2.2.4\> (Refer Appendix A.4).
 
-![](../Figure/Fig020204.png){.imgFig600540}
+![](Figure/Fig020204.png){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.4\> Graph is saved by clicking the 'Graph Save' icon
@@ -339,34 +339,34 @@ your computer system. If you save another graph, eStatGraph(1).png will
 be created in the download folder. Number in parentheses of the file
 name will be increased whenever you save a new graph.
 
-![](../../Icon/Word.jpg){.imgIcon}\
+![](Icon/Word.jpg){.imgIcon}\
 You can copy this graph file from the download folder and paste to the
 MS Word as in \<Figure 2.2.5\>. You can also write comments about the
 graph if necessary.
 
-![](../Figure/Fig020205.png){.imgFig600540}
+![](Figure/Fig020205.png){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.5\> Copied graph file of 『eStat』 to MS Word
 :::
 
 Click on the pie chart icon
-![](../../Icon/eStat_icon10_pie.png){.imgIcon} to display a pie chart as
+![](Icon/eStat_icon10_pie.png){.imgIcon} to display a pie chart as
 in \<Figure 2.2.6\> and click on the doughnut graph icon
-![](../../Icon/eStat_icon45_Doughnut.png){.imgIcon} to display a
+![](Icon/eStat_icon45_Doughnut.png){.imgIcon} to display a
 doughnut graph as in \<Figure 2.2.7\> which is a pie chart but a small
 middle circle is cut off. The pie chart shows frequencies of the number
 of both male and female students by dividing a pie (circle) into pieces
 with two colors depending on angles which are proportional to the
 frequencies of each category.
 
-![](../Figure/Fig020206.svg){.imgFig600540}
+![](Figure/Fig020206.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.6\> Pie chart of the number of male and female students.
 :::
 
-![](../Figure/Fig020207.svg){.imgFig600540}
+![](Figure/Fig020207.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.7\> Doughnut chart of the number of male and female
@@ -374,13 +374,13 @@ students.
 :::
 
 Click on the band graph icon
-![](../../Icon/eStat_icon11_band.png){.imgIcon} to display a band graph
+![](Icon/eStat_icon11_band.png){.imgIcon} to display a band graph
 as in \<Figure 2.2.8\>. A band graph is a variant of the pie chart by
 dividing a rectangle into square pieces which are proportional to
 frequencies of each category. It is named after a rectangular shape with
 multiple square pieces which looks like a band.
 
-![](../Figure/Fig020208.svg){.imgFig600540}
+![](Figure/Fig020208.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.8\> Band graph of the number of male and female students.
@@ -410,7 +410,7 @@ expectancy. Analyze the graphs.
 The main screen of the OECD website as of December 2020,
 https://www.oecd.org, looks like as in \<Figure 2.2.9\>.
 
-![](../Figure/Fig020209.png){.imgFig600400}
+![](Figure/Fig020209.png){.imgFig600400}
 
 ::: figText
 \<Figure 2.2.9\> OECD home page
@@ -419,7 +419,7 @@ https://www.oecd.org, looks like as in \<Figure 2.2.9\>.
 Select the menu Topics \> Health, then the screen as in \<Figure
 2.2.10\> will be appeared.
 
-![](../Figure/Fig020210.png){.imgFig600400}
+![](Figure/Fig020210.png){.imgFig600400}
 
 ::: figText
 \<Figure 2.2.10\> OECD 'Topic' \> 'Health' menu
@@ -428,7 +428,7 @@ Select the menu Topics \> Health, then the screen as in \<Figure
 If you click on 'Explore all our data on health', the screen as in
 \<Figure 2.2.11\> will be appeared.
 
-![](../Figure/Fig020211.png){.imgFig600300}
+![](Figure/Fig020211.png){.imgFig600300}
 
 ::: figText
 \<Figure 2.2.11\> OECD Statistics for life expectancy at birth
@@ -440,7 +440,7 @@ OECD-Health-Statistics-2020-Frequently-Requested-Data.xls is downloaded.
 If you open the Excel file, the menu as in \<Figure 2.2.12\> is
 appeared.
 
-![](../Figure/Fig020212.png){.imgFig600400}
+![](Figure/Fig020212.png){.imgFig600400}
 
 ::: figText
 \<Figure 2.2.12\> OECD Statistics for life expectancy at birth
@@ -450,7 +450,7 @@ If you click on 'Life expectancy at birth, total population' in Health
 status (Mortality), an Excel file as in \<Figure 2.2.13\> will be
 appeared on the screen.
 
-![](../Figure/Fig020213.png){.imgFig600400}
+![](Figure/Fig020213.png){.imgFig600400}
 
 ::: figText
 \<Figure 2.2.13\> OECD Statistics for life expectancy at birth
@@ -464,7 +464,7 @@ variable names 'Country' and 'Years' by using \[Edit Var\] of 『eStat』
 , save the data as a file, for example,
 'EX020202_OECD_LifeExpectancy.csv' in CSV format,.
 
-![](../Figure/Fig020214.png){.imgFig300400}
+![](Figure/Fig020214.png){.imgFig300400}
 
 ::: figText
 \<Figure 2.2.14\> OECD life expectancy at birth in 2017
@@ -482,7 +482,7 @@ are using an European version of Excel, you have to change the delimiter
 of semicolon ';' with comma ',' before you save the file (refer Excel
 option).
 
-![](../Figure/Fig020215.png){.imgFig300200}
+![](Figure/Fig020215.png){.imgFig300200}
 
 ::: figText
 \<Figure 2.2.15\> OECD
@@ -503,14 +503,14 @@ expectancy at the birth will be appeared as in \<Figure 2.2.17\>. It is
 easy to check that Japan is the longest life expectancy, Switzerland is
 the second and Latvia is the shortest.
 
-![](../Figure/Fig020216.svg){.imgFig600540}
+![](Figure/Fig020216.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.16\> Vertical bar graph of OECD life expectancy at birth in
 2017
 :::
 
-![](../Figure/Fig020217.svg){.imgFig600540}
+![](Figure/Fig020217.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.17\> Horizontal bar graph of OECD life expectancy at birth,
@@ -613,7 +613,7 @@ If you load the data file from 『eStat』 , it looks like as in \<Figure
 
 <div>
 
-![](../Figure/Fig020218.png){.imgFig300200}
+![](Figure/Fig020218.png){.imgFig300200}
 
 ::: figText
 \<Figure 2.2.18\> Load file of summary data
@@ -630,7 +630,7 @@ the combo box of the \'Analysis Var\' and the variable '2: 5-1' and '3:
 5-2' using the combo box of the \'By Group\' located above the sheet.
 
 When the variables are selected, a vertical bar graph
-![](../../Icon/eStat_icon35_VbarSeparated.png){.imgIcon} which is the
+![](Icon/eStat_icon35_VbarSeparated.png){.imgIcon} which is the
 default graph of 『eStat』 is drawn using the number of male and female
 students in both classes as in \<Figure 2.2.19\>. A bar graph is drawn
 for each class and the heights of bars are the frequencies of male and
@@ -638,17 +638,17 @@ female students. Two bar graphs has the same scale of Y-axis and
 therefore the frequencies of each class can be easily compared. This bar
 graph is called a separated vertical bar graph for each class. By
 clicking the horizontal bar graph icon
-![](../../Icon/eStat_icon40_HbarSeparated.png){.imgIcon}, a separated
+![](Icon/eStat_icon40_HbarSeparated.png){.imgIcon}, a separated
 horizontal bar graph can be drawn as in \<Figure 2.2.20\>
 
-![](../Figure/Fig020219.svg){.imgFig600540}
+![](Figure/Fig020219.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.19\> Separated vertical bar graph of the gender
 distribution by class.
 :::
 
-![](../Figure/Fig020220.svg){.imgFig600540}
+![](Figure/Fig020220.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.20\> Separated horizontal bar graph of the gender
@@ -658,57 +658,57 @@ distribution by class.
 For the summary data of two groups, there are many variants of showing
 bar graphs in order to compare two groups visually well. If you click on
 the stacked bar icon either vertical
-![](../../Icon/eStat_icon36_VbarStacked.png){.imgIcon} or horizontal
-![](../../Icon/eStat_icon41_HbarStacked.png){.imgIcon}, a stacked bar
+![](Icon/eStat_icon36_VbarStacked.png){.imgIcon} or horizontal
+![](Icon/eStat_icon41_HbarStacked.png){.imgIcon}, a stacked bar
 graph is drawn that divides a single bar into pieces with different
 colors which are proportional to the frequencies of male and female
 students (\<Figure 2.2.21\> and \<Figure 2.2.22\>).
 
-![](../Figure/Fig020221.svg){.imgFig600540}
+![](Figure/Fig020221.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.21\> Stacked vertical bar graph of the gender by class
 :::
 
-![](../Figure/Fig020222.svg){.imgFig600540}
+![](Figure/Fig020222.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.22\> Stacked horizontal bar graph of the gender by class
 :::
 
 If you click on the ratio bar graph icon either vertical
-![](../../Icon/eStat_icon37_VbarRatio.png){.imgIcon} or horizontal
-![](../../Icon/eStat_icon42_HbarRatio.png){.imgIcon}, a ratio bar graph
+![](Icon/eStat_icon37_VbarRatio.png){.imgIcon} or horizontal
+![](Icon/eStat_icon42_HbarRatio.png){.imgIcon}, a ratio bar graph
 is drawn in which bars with the same height are divided into pieces with
 different colors which are proportional to the frequencies of male and
 female students (\<Figure 2.2.23\> and \<Figure 2.2.24\>).
 
-![](../Figure/Fig020223.svg){.imgFig600540}
+![](Figure/Fig020223.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.23\> Ratio vertical bar graph of the gender by class.
 :::
 
-![](../Figure/Fig020224.svg){.imgFig600540}
+![](Figure/Fig020224.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.24\> Ratio horizontal bar graph of the gender by class.
 :::
 
 If you click on the side-by-side icon either vertical
-![](../../Icon/eStat_icon38_VbarSide.png){.imgIcon} or horizontal
-![](../../Icon/eStat_icon43_HbarSide.png){.imgIcon}, a side-by-side bar
+![](Icon/eStat_icon38_VbarSide.png){.imgIcon} or horizontal
+![](Icon/eStat_icon43_HbarSide.png){.imgIcon}, a side-by-side bar
 graph is drawn which draws the bars of each group category sideways for
 comparison (\<Figure 2.2.25\> and \<Figure 2.2.26\>).
 
-![](../Figure/Fig020225.svg){.imgFig600540}
+![](Figure/Fig020225.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.25\> Side-by-side vertical bar graph of the gender by
 class.
 :::
 
-![](../Figure/Fig020226.svg){.imgFig600540}
+![](Figure/Fig020226.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.26\> Side-by-side horizontal bar graph of the gender by
@@ -717,19 +717,19 @@ class.
 
 If there are only two categories of the group variable like this
 example, then by clicking on the bi-lateral bar icon either vertical
-![](../../Icon/eStat_icon39_VbarBilateral.png){.imgIcon} or horizontal
-![](../../Icon/eStat_icon44_HbarBilateral.png){.imgIcon}, a two-sided
+![](Icon/eStat_icon39_VbarBilateral.png){.imgIcon} or horizontal
+![](Icon/eStat_icon44_HbarBilateral.png){.imgIcon}, a two-sided
 (or bi-lateral) bar graph is drawn which draws the bars in the opposite
 direction either the above and below of X-axis (\<Figure 2.2.27\>), or
 the left and right of Y-axis (\<Figure 2.2.28\>).
 
-![](../Figure/Fig020227.svg){.imgFig600540}
+![](Figure/Fig020227.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.27\> Two-sided vertical bar graph of the gender by class.
 :::
 
-![](../Figure/Fig020228.svg){.imgFig600540}
+![](Figure/Fig020228.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.28\> Bi-lateral horizontal bar graph of the gender by
@@ -737,7 +737,7 @@ class.
 :::
 
 By clicking on the pie chart icon
-![](../../Icon/eStat_icon10_pie.png){.imgIcon}, a pie chart is drawn as
+![](Icon/eStat_icon10_pie.png){.imgIcon}, a pie chart is drawn as
 in \<Figure 2.2.29\> which has two pie charts for classes of '5-1' and
 '5-2'. Each pie chart shows the frequencies of the number of male and
 female students by dividing a pie (circle) into pieces with two colors
@@ -745,19 +745,19 @@ depending on angles which are proportional to the frequencies of each
 category.
 
 By clicking on the band graph icon
-![](../../Icon/eStat_icon11_band.png){.imgIcon}, a band graph is drawn
+![](Icon/eStat_icon11_band.png){.imgIcon}, a band graph is drawn
 as in \<Figure 2.2.30\> which has two band graphs for classes of '5-1'
 and '5-2'. Each band graph shows the frequencies of the number of male
 and female students by dividing a rectangle into squares with two colors
 which are proportional to the frequencies of each category.
 
-![](../Figure/Fig020229.svg){.imgFig600540}
+![](Figure/Fig020229.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.29\> Pie charts for gender distribution in two classes.
 :::
 
-![](../Figure/Fig020230.svg){.imgFig600540}
+![](Figure/Fig020230.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.30\> Band graphs for gender distribution in two classes.
@@ -827,17 +827,17 @@ followed by the second variable '2015_Male' and the third variable
 'AgeInterval' variable from the \'Analysis Var\' box and '2015_Male\'
 and '2015_Female' variables sequentially from the \'By Group box. When
 these variables are selected, a separated vertical bar graph
-![](../../Icon/eStat_icon35_VbarSeparated.png){.imgIcon} as shown in
+![](Icon/eStat_icon35_VbarSeparated.png){.imgIcon} as shown in
 \<Figure 2.2.32\> which separates the male and female populations with
 the same scale of Y-axis will be appeared in the Graph Area.
 
-![](../Figure/Fig020231.png){.imgFig300100}
+![](Figure/Fig020231.png){.imgFig300100}
 
 ::: figText
 \<Figure 2.2.31\> Variable selection for analysis
 :::
 
-![](../Figure/Fig020232.svg){.imgFig600540}
+![](Figure/Fig020232.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.32\> Separated vertical bar graph of population by age
@@ -845,32 +845,32 @@ group and by gender
 :::
 
 Among ten possible bar graphs, a side-by-side bar graph
-![](../../Icon/eStat_icon38_VbarSide.png){.imgIcon} as \<Figure 2.2.33\>
+![](Icon/eStat_icon38_VbarSide.png){.imgIcon} as \<Figure 2.2.33\>
 would be useful, because it shows the comparison of the number of male
 and female populations in each age interval. A ratio bar graph
-![](../../Icon/eStat_icon42_HbarRatio.png){.imgIcon} as \<Figure
+![](Icon/eStat_icon42_HbarRatio.png){.imgIcon} as \<Figure
 2.2.34\> which shows directly the proportions of male and female
 populations in each age interval can also be useful. In each of the
 graphs, you can easily see that the female population is getting larger
 than the male population after the age interval of 50s and more.
 
-![](../Figure/Fig020233.svg){.imgFig600540}
+![](Figure/Fig020233.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.33\> Side-by-side vertical bar graph of population by age
 and by gender
 :::
 
-![](../Figure/Fig020234.svg){.imgFig600540}
+![](Figure/Fig020234.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.34\> Proportional horizontal bar graph of population by age
 and by gender
 :::
 
-A line graph ![](../../Icon/eStat_icon12_line.png){.imgIcon} as in
+A line graph ![](Icon/eStat_icon12_line.png){.imgIcon} as in
 \<Figure 2.2.35\> can also be used to see this kind of patterns.
-![](../Figure/Fig020235.svg){.imgFig600540}
+![](Figure/Fig020235.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.35\> Line graph of population by age and by gender
@@ -878,7 +878,7 @@ A line graph ![](../../Icon/eStat_icon12_line.png){.imgIcon} as in
 
 An overall distribution of the male and female populations by age group
 can be observed by using a two-sided (bi-lateral) horizontal bar graph
-![](../../Icon/eStat_icon44_HbarBilateral.png){.imgIcon} as in \<Figure
+![](Icon/eStat_icon44_HbarBilateral.png){.imgIcon} as in \<Figure
 2.2.36\> which is usually called a population pyramid. Currently, Korea
 has an age-specific population structure which looks like a jar. In
 other words, the population in age intervals of 40 to 50 is higher than
@@ -886,7 +886,7 @@ the population in age intervals of 30 or less which is gradually
 decreasing. It would cause many problems in the future society such as
 the population decrease, the medicare budget increase etc.
 
-![](../Figure/Fig020236.svg){.imgFig600540}
+![](Figure/Fig020236.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.36\> Bi-lateral horizontal bar graph of population by age
@@ -967,7 +967,7 @@ country.
 Retrieve the file from 『eStat』 which will show the data as in \<Figure
 2.2.37\>.
 
-![](../Figure/Fig020237.png){.imgFig300400}
+![](Figure/Fig020237.png){.imgFig300400}
 
 ::: figText
 \<Figure 2.2.37\> Export-Import data of OECD countries
@@ -978,14 +978,14 @@ Retrieve the file from 『eStat』 which will show the data as in \<Figure
 </div>
 
 Click on the line graph icon
-![](../../Icon/eStat_icon12_line.png){.imgIcon}, then click the variable
+![](Icon/eStat_icon12_line.png){.imgIcon}, then click the variable
 names of \'Country\', 'Export\', \'Import\' to draw a line graph as in
 \<Figure 2.2.38\>.
 
 Looking in the Graph, we can see that China and Germany have lots of
 surplus in trade and USA has lots of loss.
 
-![](../Figure/Fig020238.svg){.imgFig600540}
+![](Figure/Fig020238.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.2.38\> Line graph of Export-Import of OECD countries
@@ -1141,7 +1141,7 @@ also use the JSON Open icon.
 
 <div>
 
-![](../Figure/Fig020301.png){.imgFig300400}
+![](Figure/Fig020301.png){.imgFig300400}
 
 ::: figText
 \<Figure 2.3.1\> Value label using \[Edit Var\]
@@ -1158,38 +1158,38 @@ basic function of statistical packages such as 『eStat』 is to examine a
 frequency distribution of the raw data and draw a graph using this
 frequency distribution.
 
-The vertical bar graph ![](../../Icon/eStat_icon09_bar.png){.imgIcon}
+The vertical bar graph ![](Icon/eStat_icon09_bar.png){.imgIcon}
 such as \<Figure 2.3.2\> is frequently used. If there are a large number
 of categories, a horizontal bar graph
-![](../../Icon/eStat_icon40_HbarSeparated.png){.imgIcon} as in \<Figure
+![](Icon/eStat_icon40_HbarSeparated.png){.imgIcon} as in \<Figure
 2.3.3\> can also be used (click on the horizontal bar graph icon in
 『eStat』 ).
 
-![](../Figure/Fig020302.svg){.imgFig600540}
+![](Figure/Fig020302.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.2\> Vertical bar graph of gender
 :::
 
-![](../Figure/Fig020303.svg){.imgFig600540}
+![](Figure/Fig020303.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.3\> Horizontal bar graph of gender
 :::
 
 Click on the pie chart icon
-![](../../Icon/eStat_icon10_pie.png){.imgIcon} in 『eStat』 to draw a
+![](Icon/eStat_icon10_pie.png){.imgIcon} in 『eStat』 to draw a
 pie chart (\<Figure 2.3.4\>) and click on the band graph icon
-![](../../Icon/eStat_icon11_band.png){.imgIcon} to draw a band graph
+![](Icon/eStat_icon11_band.png){.imgIcon} to draw a band graph
 (\<Figure 2.3.5\>). Click on the icon to draw a doughnut graph.
 
-![](../Figure/Fig020304.svg){.imgFig600540}
+![](Figure/Fig020304.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.4\> Pie chart of gender
 :::
 
-![](../Figure/Fig020305.svg){.imgFig600540}
+![](Figure/Fig020305.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.5\> Band graph of gender
@@ -1296,10 +1296,10 @@ the JSON Open icon .
 
 If you click on the 'marital' and 'gender' variable names sequentially,
 a separated vertical bar graph
-![](../../Icon/eStat_icon35_VbarSeparated.png){.imgIcon} of marital
+![](Icon/eStat_icon35_VbarSeparated.png){.imgIcon} of marital
 status by gender is drawn as in \<Figure 2.3.6\>.
 
-![](../Figure/Fig020306.svg){.imgFig600540}
+![](Figure/Fig020306.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.6\> Vertical bar graph of marital status by gender
@@ -1307,96 +1307,96 @@ status by gender is drawn as in \<Figure 2.3.6\>.
 
 This separated bar graph by gender can be modified in a different form
 using the icons below the main icons which are a vertical stacked
-![](../../Icon/eStat_icon36_VbarStacked.png){.imgIcon} (\<Figure
+![](Icon/eStat_icon36_VbarStacked.png){.imgIcon} (\<Figure
 2.3.7\>), a ratio (\<Figure 2.3.8\>),
-![](../../Icon/eStat_icon37_VbarRatio.png){.imgIcon} a side-by-side
-(\<Figure 2.3.9\>) ![](../../Icon/eStat_icon38_VbarSide.png){.imgIcon},
+![](Icon/eStat_icon37_VbarRatio.png){.imgIcon} a side-by-side
+(\<Figure 2.3.9\>) ![](Icon/eStat_icon38_VbarSide.png){.imgIcon},
 a bi-lateral (Figure 2.3.10)
-![](../../Icon/eStat_icon39_VbarBilateral.png){.imgIcon} and a
+![](Icon/eStat_icon39_VbarBilateral.png){.imgIcon} and a
 horizontal separated
-![](../../Icon/eStat_icon40_HbarSeparated.png){.imgIcon} (\<Figure
+![](Icon/eStat_icon40_HbarSeparated.png){.imgIcon} (\<Figure
 2.3.11\>), a stacked
-![](../../Icon/eStat_icon41_HbarStacked.png){.imgIcon} (\<Figure
-2.3.12\>), a ratio ![](../../Icon/eStat_icon42_HbarRatio.png){.imgIcon}
+![](Icon/eStat_icon41_HbarStacked.png){.imgIcon} (\<Figure
+2.3.12\>), a ratio ![](Icon/eStat_icon42_HbarRatio.png){.imgIcon}
 (\<Figure 2.3.13\>), a side-by-side
-![](../../Icon/eStat_icon43_HbarSide.png){.imgIcon} (\<Figure 2.3.14\>),
-a bi-lateral ![](../../Icon/eStat_icon44_HbarBilateral.png){.imgIcon}
+![](Icon/eStat_icon43_HbarSide.png){.imgIcon} (\<Figure 2.3.14\>),
+a bi-lateral ![](Icon/eStat_icon44_HbarBilateral.png){.imgIcon}
 (\<Figure 2.3.15\>).
 
-![](../Figure/Fig020307.svg){.imgFig600540}
+![](Figure/Fig020307.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.7\> Vertical stacked bar graph of marital status by gender
 :::
 
-![](../Figure/Fig020308.svg){.imgFig600540}
+![](Figure/Fig020308.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.8\> Vertical proportional bar graph of marital status by
 gender
 :::
 
-![](../Figure/Fig020309.svg){.imgFig600540}
+![](Figure/Fig020309.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.9\> Vertical side by side bar graph of marital status by
 gender
 :::
 
-![](../Figure/Fig020310.svg){.imgFig600540}
+![](Figure/Fig020310.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.10\> Vertical bi-lateral bar graph of marital status by
 gender
 :::
 
-![](../Figure/Fig020311.svg){.imgFig600540}
+![](Figure/Fig020311.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.11\> Horizontal bar graph of marital status by gender
 :::
 
-![](../Figure/Fig020312.svg){.imgFig600540}
+![](Figure/Fig020312.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.12\> Horizontal stacked bar graph of marital status by
 gender
 :::
 
-![](../Figure/Fig020313.svg){.imgFig600540}
+![](Figure/Fig020313.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.13\> Horizontal proportional bar graph of marital status by
 gender
 :::
 
-![](../Figure/Fig020314.svg){.imgFig600540}
+![](Figure/Fig020314.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.14\> Horizontal side by side bar graph of marital status by
 gender
 :::
 
-![](../Figure/Fig020315.svg){.imgFig600540}
+![](Figure/Fig020315.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.15\> Horizontal bi-lateral bar graph of marital status by
 gender
 :::
 
-Click on the pie chart ![](../../Icon/eStat_icon10_pie.png){.imgIcon}
-and band graph icons ![](../../Icon/eStat_icon11_band.png){.imgIcon} and
+Click on the pie chart ![](Icon/eStat_icon10_pie.png){.imgIcon}
+and band graph icons ![](Icon/eStat_icon11_band.png){.imgIcon} and
 in 『eStat』 to draw a pie chart as in \<Figure 2.3.16\> and a band
 graph as in \<Figure 2.3.17\>. It is easy to observe which categories in
 each group account for a large percentage of the total data.
 
-![](../Figure/Fig020316.svg){.imgFig600540}
+![](Figure/Fig020316.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.16\> Pie chart of marital status by gender
 :::
 
-![](../Figure/Fig020317.svg){.imgFig600540}
+![](Figure/Fig020317.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.3.17\> Band graph of marital status by gender
@@ -1524,7 +1524,7 @@ in this word cloud.
 
 </div>
 
-![](../Figure/Fig020401.svg){.imgFig600540}
+![](Figure/Fig020401.svg){.imgFig600540}
 
 ::: figText
 \<Figure 2.4.1\> Word cloud on the description of data science

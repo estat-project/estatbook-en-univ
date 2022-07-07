@@ -168,7 +168,7 @@ confidence interval are displayed as shown in \<Figure 9.1.2\>.
 
 <div>
 
-![](../Figure/Fig090101.png){.imgFig600400}
+![](Figure/Fig090101.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.1.1\> 『eStat』 data input for ANOVA
@@ -177,7 +177,7 @@ confidence interval are displayed as shown in \<Figure 9.1.2\>.
 </div>
 :::
 
-![](../Figure/Fig090102.svg){.imgFig600400}
+![](Figure/Fig090102.svg){.imgFig600400}
 
 ::: figText
 \<Figure 9.1.2\> 95% Confidence Interval by grade
@@ -189,13 +189,13 @@ under this graph (\<Figure 9.1.3\>) will draw the histogram and normal
 distribution together, as shown in \<Figure 9.1.4\>.
 :::
 
-![](../Figure/Fig090103.png){.imgFig600400}
+![](Figure/Fig090103.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.1.3\> Options of ANOVA
 :::
 
-![](../Figure/Fig090104.svg){.imgFig600400}
+![](Figure/Fig090104.svg){.imgFig600400}
 
 ::: figText
 \<Figure 9.1.4\> Histogram of English score by grade
@@ -320,13 +320,13 @@ appeared as in\<Figure 9.1.6\>.
 :::
 
 ::: textL20
-![](../Figure/Fig090105.svg){.imgFig600400}
+![](Figure/Fig090105.svg){.imgFig600400}
 
 ::: figText
 \<Figure 9.1.5\> 『eStat』 ANOVA F test
 :::
 
-![](../Figure/Fig090106.png){.imgFig600400}
+![](Figure/Fig090106.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.1.6\> 『eStat』 Basic Statistics and ANOVA table
@@ -337,7 +337,7 @@ The analysis of variance is also possible using 『eStatU』. Entering the
 data as \<Figure 9.1.7\> and clicking the \[Execute\] button will have
 the same result as in \<Figure 9.1.5\>.
 
-![](../Figure/Fig090107.png){.imgFig600400}
+![](Figure/Fig090107.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.1.7\> ANOVA data input at 『eStatU』
@@ -638,7 +638,7 @@ freedom. (It can be found at『eStatU』 (\<Figure 9.1.8\>)).
 
 <div>
 
-![](../Figure/Fig090108.png){.imgFig600400}
+![](Figure/Fig090108.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.1.8\>『eStatU』HSD percentile table
@@ -763,7 +763,7 @@ will be marked and if it is significant with the 1% significance level,
 then \*\* will be marked, if it is not significant, then the cell is
 left blank.
 
-![](../Figure/Fig090109.png){.imgFig600400}
+![](Figure/Fig090109.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.1.9\> HSD Multiple Comarisons
@@ -841,7 +841,7 @@ the assumptions of independence and homoscedasticity are valid. There is
 no unusual tendency in this scatter plot. Normality of the residuals can
 be checked by drawing the histogram of residuals.
 
-![](../Figure/Fig090110.svg){.imgFig600400}
+![](Figure/Fig090110.svg){.imgFig600400}
 
 ::: figText
 \<Figure 9.1.10\> Residual plot of the ANOVA
@@ -1284,7 +1284,7 @@ interval graph for each type of cars will appear such as \<Figure
 
 <div>
 
-![](../Figure/Fig090201.png){.imgFig600400}
+![](Figure/Fig090201.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.2.1\> Data input for randomized block design for 『eStat』
@@ -1294,7 +1294,7 @@ ANOVA
 </div>
 :::
 
-![](../Figure/Fig090202.svg){.imgFig600400}
+![](Figure/Fig090202.svg){.imgFig600400}
 
 ::: figText
 \<Figure 9.2.2\> Dot graph and 95% confidence interval for population
@@ -1309,19 +1309,19 @@ reveal the ANOVA graph as in \<Figure 9.2.3\> and the ANOVA table as in
 in fuel mileage between the cars of each company. The same is true for
 the multiple comparison tests in \<Figure 9.2.5\>.
 
-![](../Figure/Fig090203.svg){.imgFig600400}
+![](Figure/Fig090203.svg){.imgFig600400}
 
 ::: figText
 \<Figure 9.2.3\> ANOVA of gas milage
 :::
 
-![](../Figure/Fig090204.png){.imgFig600400}
+![](Figure/Fig090204.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.2.4\> ANOVA table of gas milage
 :::
 
-![](../Figure/Fig090205.png){.imgFig600400}
+![](Figure/Fig090205.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.2.5\> Multiple comparisons by car
@@ -1336,7 +1336,7 @@ selection box of『eStat』will give you a scatter plot of driver-specific
 fuel mileage for each car type as shown in \<Figure 9.2.6\>. This
 scatter plot shows a significant difference in fuel mileage per driver.
 
-![](../Figure/Fig090206.svg){.imgFig600400}
+![](Figure/Fig090206.svg){.imgFig600400}
 
 ::: figText
 \<Figure 9.2.6\> Fuel mileages for each driver
@@ -1360,14 +1360,14 @@ Factor A (car type) is 43.447 and is greater than $\small F_{2,8,0.05}$
 types can be found by removing the variation of the block in the error
 term.
 
-![](../Figure/Fig090207.png){.imgFig600400}
+![](Figure/Fig090207.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.2.7\> Two-way mean table by car and driver\
 (There is no standard deviation of single data and denoted as NaN)
 :::
 
-![](../Figure/Fig090208.png){.imgFig600400}
+![](Figure/Fig090208.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.2.8\> ANOVA table for randomized block design
@@ -1637,7 +1637,7 @@ type is variable 2 and the rice yield is variable 3.
 
 <div>
 
-![](../Figure/Fig090301.png){.imgFig600400}
+![](Figure/Fig090301.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.3.1\> Data input for two-way ANOVA of 『eStat』
@@ -1659,7 +1659,7 @@ depending on the type of fertilizer used, which shows the existence of
 interaction, and the use of fertilizer 1 usually results in a high yield
 regardless of the rice types.
 
-![](../Figure/Fig090302.svg){.imgFig600400}
+![](Figure/Fig090302.svg){.imgFig600400}
 
 ::: figText
 \<Figure 9.3.2\> Yields by rice types and fertilizer types
@@ -1833,13 +1833,13 @@ and the two-way analysis of variance table as in \<Figure 9.3.4\> will
 appear in the Log Area.
 :::
 
-![](../Figure/Fig090303.png){.imgFig600400}
+![](Figure/Fig090303.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.3.3\> Two dimensional mean / standard deviation table
 :::
 
-![](../Figure/Fig090304.png){.imgFig600400}
+![](Figure/Fig090304.png){.imgFig600400}
 
 ::: figText
 \<Figure 9.3.4\> two-way analysis of variance table

@@ -117,7 +117,7 @@ using a random number generator in 『eStatU』.
 
 <div>
 
-![](../Figure/Fig060101.png){.imgFig300300}
+![](Figure/Fig060101.png){.imgFig300300}
 
 ::: figText
 \<Figure 6.1.1\> 『eStatU』 Uniform random number
@@ -158,7 +158,7 @@ numbers, because it depends on computer.
 
 <div>
 
-![](../Figure/Fig060102.png){.imgFig300300}
+![](Figure/Fig060102.png){.imgFig300300}
 
 ::: figText
 \<Figure 6.1.2\> 『eStatU』 Uniform(1,50) random number generation
@@ -240,7 +240,7 @@ samples.
 
 <div>
 
-![](../Figure/Fig060201.png){.imgFig600600}
+![](Figure/Fig060201.png){.imgFig600600}
 
 ::: figText
 \<Figure 6.2.1\> Simulation to show the relationship between population
@@ -393,13 +393,13 @@ Table 6.2.2 Frequency table of sample means
   10            1           0.04
                 25          1.00
 
-![](../Figure/Fig060202.png){.imgFig400300}
+![](Figure/Fig060202.png){.imgFig400300}
 
 ::: figText
 \<Figure 6.2.2\> Population distribution
 :::
 
-![](../Figure/Fig060203.png){.imgFig400300}
+![](Figure/Fig060203.png){.imgFig400300}
 
 ::: figText
 \<Figure 6.2.3\> Sampling distribution of 's
@@ -487,7 +487,7 @@ size increases. .
 
 <div>
 
-![](../Figure/Fig060204.png){.imgFig600600}
+![](Figure/Fig060204.png){.imgFig600600}
 
 ::: figText
 \<Figure 6.2.4\> Sampling distribution of sample means with different
@@ -514,7 +514,7 @@ closer to normal as the sample size increases.
 
 <div>
 
-![](../Figure/Fig060205.png){.imgFig600600}
+![](Figure/Fig060205.png){.imgFig600600}
 
 ::: figText
 \<Figure 6.2.5\> 『eStatU』 Simulation of the central limit theorem
@@ -760,7 +760,7 @@ experiments, the result may also vary slightly.
 
 <div>
 
-![](../Figure/Fig060206.png){.imgFig600600}
+![](Figure/Fig060206.png){.imgFig600600}
 
 ::: figText
 \<Figure 6.2.6\> 『eStatU』 Simulation of the 95% confidence interval
@@ -924,7 +924,7 @@ module of 『eStatU』.
 
 <div>
 
-![](../Figure/Fig060207.png){.imgFig600400}
+![](Figure/Fig060207.png){.imgFig600400}
 
 ::: figText
 \<Figure 6.2.7\> Comparison of and N(0,1)
@@ -964,7 +964,7 @@ $t_{7:0.05}$ = 1.895 will appear as \<Figure 6.2.8\>.
 
 <div>
 
-![](../Figure/Fig060208.png){.imgFig600600}
+![](Figure/Fig060208.png){.imgFig600600}
 
 ::: figText
 \<Figure 6.2.8\> Upper 5 percentile of distribution = 1.8946
@@ -1052,7 +1052,7 @@ distribution.
 
 <div>
 
-![](../Figure/Fig060209.png){.imgFig600400}
+![](Figure/Fig060209.png){.imgFig600400}
 
 ::: figText
 \<Figure 6.2.9\> 『eStatU』 Estimation for population mean
@@ -1068,7 +1068,7 @@ $n$ and the confidence level 1 - α as in \<Figure 6.2.10\>. If you
 increase $n$, the interval size becomes narrower. If you increase 1 -
 &alpah, the interval size becomes wider.
 
-![](../Figure/Fig060210.png){.imgFig500200}
+![](Figure/Fig060210.png){.imgFig500200}
 
 ::: figText
 \<Figure 6.2.10\> Simulation experiment to investigate the size of the
@@ -1383,7 +1383,7 @@ Table 6.3.2 Frequency table of sample variances
   32                2           0.08
   total             25          1.00
 
-![](../Figure/Fig060301.png){.imgFig400300}
+![](Figure/Fig060301.png){.imgFig400300}
 
 ::: figText
 \<Figure 6.3.1\> Sampling distribution of sample variances
@@ -1408,7 +1408,7 @@ distribution is an asymmetrical distribution as \<Figure 6.3.2\>. If the
 degree of freedom is small, the shape of the chi-square distribution is
 much skewed to the right.
 
-![](../Figure/Fig060302.png){.imgFig400300}
+![](Figure/Fig060302.png){.imgFig400300}
 
 ::: figText
 \<Figure 6.3.2\> Chi-square distributions for different degrees of
@@ -1430,7 +1430,7 @@ can be calculated by using 『eStatU』 as in \<Figure 6.3.3\>.
 
 <div>
 
-![](../Figure/Fig060303.png){.imgFig600600}
+![](Figure/Fig060303.png){.imgFig600600}
 
 ::: figText
 \<Figure 6.3.3\> 『eStatU』 Chi-square distribution
@@ -1599,7 +1599,7 @@ immediately by using the chi-square distribution.
 
 <div>
 
-![](../Figure/Fig060304.png){.imgFig600400}
+![](Figure/Fig060304.png){.imgFig600400}
 
 ::: figText
 \<Figure 6.3.4\> 『eStatU』 Estimation of population variance
@@ -1615,7 +1615,7 @@ $n$ and the confidence level 1 - α as in \<Figure 6.3.5\>. If you
 increase $n$, the interval size becomes narrower. If you increase 1 - α,
 the interval size becomes wider.
 
-![](../Figure/Fig060305.png){.imgFig500200}
+![](Figure/Fig060305.png){.imgFig500200}
 
 ::: figText
 \<Figure 6.3.5\> 『eStatU』 simulation for the confidence interval of
@@ -1748,7 +1748,7 @@ is not necessary to extract samples from such a small population.)
 The population proportion is $p$ = 0.6 and the distribution of '1' and
 '0' in the population consisting of 10 persons is as \<Figure 6.4.1\>.
 
-![](../Figure/Fig060401.png){.imgFig400300}
+![](Figure/Fig060401.png){.imgFig400300}
 
 ::: figText
 \<Figure 6.4.1\> Population distribution of employees' satisfaction, no
@@ -1797,7 +1797,7 @@ proportions. If the sample size is larger, sample proportions are
 symmetrical around the population proportion 0.6 which is similar to
 that of sample means, and is close to a normal distribution.
 
-![](../Figure/Fig060402.png){.imgFig400300}
+![](Figure/Fig060402.png){.imgFig400300}
 
 ::: figText
 \<Figure 6.4.2\> Sampling distribution of sample proportions
@@ -1958,7 +1958,7 @@ confidence interval \[0.5321, 0.6679\] using the normal distribution.
 
 <div>
 
-![](../Figure/Fig060403.png){.imgFig600400}
+![](Figure/Fig060403.png){.imgFig600400}
 
 ::: figText
 \<Figure 6.4.3\> 『eStatU』 Estimation of the population proportion
@@ -1974,7 +1974,7 @@ $n$ and the confidence level 1 - α as in \<Figure 6.4.4\>. If you
 increase $n$, the interval size becomes narrower. If you increase 1 - α,
 the interval size becomes wider.
 
-![](../Figure/Fig060404.png){.imgFig500200}
+![](Figure/Fig060404.png){.imgFig500200}
 
 ::: figText
 \<Figure 6.4.4\> Simulation for estimating the population proportion
@@ -2144,7 +2144,7 @@ and confidence level 1-α = 0.95 as in \<Figure 6.5.1\>, then click the
 
 <div>
 
-![](../Figure/Fig060501.png){.imgFig500200}
+![](Figure/Fig060501.png){.imgFig500200}
 
 ::: figText
 \<Figure 6.5.1\> Determination of sample size for estimating
@@ -2255,7 +2255,7 @@ then click the \[Execute\] button to calculate the sample size .
 
 <div>
 
-![](../Figure/Fig060502.png){.imgFig500200}
+![](Figure/Fig060502.png){.imgFig500200}
 
 ::: figText
 \<Figure 6.5.2\> Determination of sample size for estimating
