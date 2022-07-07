@@ -17,7 +17,7 @@
 
 ##### [[\[book\]]{.underline}](pdf/book09.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-**CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES**
 
 In testing hypothesis of the population mean described in chapters 7 and
 8, the number of populations was one or two. However, many cases are

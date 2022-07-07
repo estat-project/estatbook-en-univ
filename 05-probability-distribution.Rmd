@@ -17,7 +17,7 @@
 
 ##### [[\[book\]]{.underline}](pdf/book05.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-**CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES**
 
 Similar events occur repeatedly in our everyday life. We describe a
 chance of the event using a concept of the probability.

@@ -24,7 +24,7 @@
 
 ##### [[\[book\]]{.underline}](pdf/book10.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-**CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES**
 
 The hypothesis tests from Chapters 7 through 9 are based on assumptions
 such that the populations of continuous data follow the normal

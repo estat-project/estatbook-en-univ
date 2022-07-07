@@ -15,7 +15,7 @@
 
 ##### [[\[book\]]{.underline}](pdf/book08.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-**CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES**
 
 In Chapter 7, we discussed how to test hypotheses about parameters in a
 single population.

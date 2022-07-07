@@ -17,7 +17,7 @@
 
 ##### [[\[book\]]{.underline}](pdf/book11.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-**CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES**
 
 The hypothesis tests that we have studied from Chapter 7 to Chapter 10
 are for continuous data. In this chapter, we describe testing hypothesis

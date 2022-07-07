@@ -23,7 +23,7 @@
 
 ##### [[\[book\]]{.underline}](pdf/book04.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-**CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES**
 
 Chapter 2 and 3 discussed how to visualize both the qualitative data and
 the quantitative data using graphs. Visualizing data using graphs makes

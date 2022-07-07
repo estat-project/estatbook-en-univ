@@ -18,7 +18,7 @@
 
 ##### [[\[book\]]{.underline}](pdf/book07.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-**CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES**
 
 Estimation of population parameters using sample distributions was
 discussed in Chapter 6.

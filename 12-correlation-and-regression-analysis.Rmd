@@ -1,17 +1,10 @@
 
-
 # Chapter 12. Correlation and Regression Analysis
 
+[book]{.underline}(pdf/book12.pdf){target="_blank"}
+[eStat YouTube Channel]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-
-
-
-
-
-
-##### [[\[book\]]{.underline}](pdf/book12.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
-
-**CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES**
 
 From Chapter 7 to Chapter 10, we discussed the estimation and the
 testing hypothesis of parameters such as population mean and variance

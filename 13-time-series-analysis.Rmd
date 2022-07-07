@@ -15,7 +15,7 @@
 
 ##### [[\[book\]]{.underline}](pdf/book13.pdf){target="_blank"}   
 
-**CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES**
 
 In this chapter, we study data observed over time, time series, and
 introduce about:.
