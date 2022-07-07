@@ -1,7 +1,4 @@
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
 # Chapter 8. Testing Hypothesis for Two Population Parameters
 
        ❮   **Chapter 7**       
@@ -37,10 +34,9 @@ proportions when samples are large enough.
 
        ❮   **Chapter 7**       
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -532,10 +528,9 @@ means are equal or not when sample sizes are small?
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -838,10 +833,9 @@ What is the name of this kind of data?
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1108,10 +1102,9 @@ variances are equal or not when populations are normally distributed?
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1387,10 +1380,9 @@ two groups?
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
               **Chapter 9**   ❯

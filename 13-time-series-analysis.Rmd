@@ -1,7 +1,5 @@
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
 # Chapter 13. Time Series Analysis
 
        ❮   **Chapter 12**       
@@ -36,10 +34,9 @@ not be discussed.
 
        ❮   **Chapter 12**       
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -355,10 +352,9 @@ the root mean squared error (RMSE) is often used. $$
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -762,10 +758,9 @@ $MovingMedian_{1988.5}$ and $MovingMedian_{1989.5}$.
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1253,10 +1248,9 @@ decreases with time. The Box-Cox transform is a general transformation.
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1436,10 +1430,9 @@ model. However, additional validation of the model is required.
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -2423,10 +2416,9 @@ Model of CPI
 </div>
 
              
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -2771,10 +2763,9 @@ is calculated as follows: $$
 </div>
 
              
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
       

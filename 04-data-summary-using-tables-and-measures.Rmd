@@ -1,7 +1,6 @@
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+
 # Chapter 4. Data Summary Using Tables and Measures
 
        ❮   **Chapter 3**       
@@ -43,10 +42,9 @@ data and a box plot.
 
        ❮   **Chapter 3**       
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -349,10 +347,9 @@ table using 『eStat』.
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -640,10 +637,9 @@ Create a contingency table of oral cleanliness by brushing method.
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1146,10 +1142,9 @@ weights?
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1686,10 +1681,9 @@ which has different units?
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
               **Chapter 5**   ❯

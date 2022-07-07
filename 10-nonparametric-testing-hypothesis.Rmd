@@ -1,7 +1,5 @@
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
 # Chapter 10. Nonparametric Testing Hypothesis
 
        ❮   **Chapter 9**       
@@ -48,10 +46,9 @@ several populations such as the Kruskal-Wallis Test and Friedman Test.
 
        ❮   **Chapter 9**       
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -473,10 +470,9 @@ Table 10.1.2 Decision rule of the sign test (large sample case)
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -982,10 +978,9 @@ nonparametric tests?
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1521,10 +1516,9 @@ tie, size of $j^{th}$ tie group is 1 and $t_j$ = 1.
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1991,10 +1985,9 @@ of two populations using a nonparametric test?
 :::
 
              
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -2654,10 +2647,9 @@ Method C: 94 94 88 87 89
 :::
 
              
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -3158,10 +3150,9 @@ Kruskal-Wallis test?
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
               **Chapter11**   ❯

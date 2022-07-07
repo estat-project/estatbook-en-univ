@@ -1,7 +1,5 @@
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
 # Chapter 7. Testing Hypothesis for Single Population Parameter
 
        ❮   **Chapter 6**       
@@ -40,10 +38,9 @@ error is also introduced.
 
        ❮   **Chapter 6**       
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
       
@@ -863,10 +860,9 @@ region
       
 
       
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
       
@@ -1142,10 +1138,9 @@ of the two sided test with the significance level of α?
 
       
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1339,10 +1334,9 @@ hypothesis you want to test?
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1851,10 +1845,9 @@ find $n, C$ using 『eStatU』.
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
               **Chapter 8**   ❯

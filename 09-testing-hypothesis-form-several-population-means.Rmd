@@ -1,7 +1,5 @@
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+ 
 # Chapter 9. Testing Hypothesis for Several Population Means
 
        ❮   **Chapter 8**       
@@ -39,10 +37,9 @@ introduced.
 
        ❮   **Chapter 8**       
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
       
@@ -576,10 +573,9 @@ followings using 『eStat』 ,
       
 
       
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1031,10 +1027,9 @@ ANOVA table, what is your conclusion with the 5％ significance level?
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1483,10 +1478,9 @@ experimental design is used to reduce the effect of drivers?
 :::
 :::
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -2058,10 +2052,9 @@ the level of the factor B?
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
               **Chapter 10**   ❯

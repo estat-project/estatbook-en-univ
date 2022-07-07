@@ -1,7 +1,6 @@
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+
 # Chapter 3. Visualization of Quantitative Data
 
        ❮   **Chapter 2**       
@@ -33,10 +32,9 @@ using the scatter plot of 『eStat』.
 
        ❮   **Chapter 2**       
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
       
@@ -142,10 +140,9 @@ an extension of the dot graph.
 
       
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -724,10 +721,9 @@ the insect counts by the types of sprays.
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -963,10 +959,9 @@ the number of cylinders.
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
               **Chapter 4**   ❯

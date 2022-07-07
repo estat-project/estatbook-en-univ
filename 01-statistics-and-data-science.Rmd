@@ -1,10 +1,4 @@
-::: container-fluid
-:::
-
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
 # Chapter 1. Statistics and Data Science
-
-       ❮   **Home**       
 
 -   [1.1 Statistics and Data Science](../chapter01/0101.html)
 -   [1.2 Population and Sample](../chapter01/0102.html)
@@ -12,7 +6,8 @@
 -   [1.4 Softwares for Statistical Analysis](../chapter01/0104.html)
 -   [1.5 Exercies](../chapter01/0105.html)
 
-##### [[\[book\]]{.underline}](book01.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
+[book](book01.pdf){target="_blank"}
+[eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
 ## CHAPTER OBJECTIVES
 
@@ -31,15 +26,6 @@ method.
 In section 1.4, we introduce softwares for data processing and
 statistical analysis.
 
-       ❮   **Home**       
-:::
-::: container-fluid
-:::
-
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-
-
-             
 
 ## 1.1 Statistics and Data Science
 
@@ -324,10 +310,9 @@ the Fourth Industrial Revolution?
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -539,10 +524,9 @@ students are able to study various statistical methods by using
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -797,10 +781,9 @@ categorical variable.
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
       
@@ -928,10 +911,9 @@ target="_blank"}\
       
 
       
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
               **Chapter 2**   ❯
@@ -956,5 +938,4 @@ target="_blank"}\
 :::
 :::
 
-              **Chapter 2**   ❯
-:::
+

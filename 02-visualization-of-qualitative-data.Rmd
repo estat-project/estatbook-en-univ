@@ -1,7 +1,6 @@
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+
 # Chapter 2. Visualization of Qualitative Data
 
       
@@ -41,10 +40,9 @@ variable using 『eStat』. Visualization of raw data of a categorical
 variable by a group is also discussed.
 
        ❮   **Chapter 1**       
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -182,10 +180,9 @@ and the case of an analysis varible with the group variable.
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
       
@@ -1050,10 +1047,9 @@ characteristics.
       
 
       
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1435,10 +1431,9 @@ gender.
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
              
@@ -1573,10 +1568,9 @@ president John F. Kennedy and analyze important words.
 
              
 :::
-::: container-fluid
-:::
 
-::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
+
+::: 
 
 
               **Chapter 3**   ❯
