@@ -2,12 +2,12 @@
 
 # Chapter 12. Correlation and Regression Analysis
 
-       ❮   **Chapter 11**       
 
--   [12.1 Correlation Analysis](../chapter12/1201.html)
--   [12.2 Simple Linear Regression Analysis](../chapter12/1202.html)
--   [12.3 Multiple Linear Regression Analysis](../chapter12/1203.html)
--   [12.4 Exercise](../chapter12/1204.html)
+
+
+
+
+
 
 ##### [[\[book\]]{.underline}](book12.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
@@ -23,7 +23,7 @@ If variables are related with each other, then a regression analysis is
 described to see how this association can be used. Simple linear
 regression analysis and multiple regression analysis are discussed.
 
-       ❮   **Chapter 11**       
+
 :::
 
 
@@ -2457,7 +2457,7 @@ regression coefficients.
 ::: 
 
 
-              **Chapter 13**   ❯
+
 
 ## 12.4 Exercise
 
@@ -2779,5 +2779,5 @@ regression model. (significance level: 0.05)
   -----------------------------------------------------------------------
 :::
 
-              **Chapter 13**   ❯
+
 :::

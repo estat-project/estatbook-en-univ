@@ -2,18 +2,18 @@
  
 # Chapter 9. Testing Hypothesis for Several Population Means
 
-       ❮   **Chapter 8**       
 
--   [9.1 Analysis of Variance for Experiments of Single
-    Factor](../chapter09/0901.html)
--   [  9.1.1 Multiple Comparison](../chapter09/090101.html)
--   [  9.1.2 Residual Analysis](../chapter09/090102.html)
--   [9.2 Design of Experiments for Sampling](../chapter09/0902.html)
--   [  9.2.1 Completely Randomized Design](../chapter09/0902.html)
--   [  9.2.2 Randomized Block Design](../chapter09/0902.html)
--   [9.3 Analysis of Variance for Experiments of Two
-    Factors](../chapter09/0903.html)
--   [9.4 Exercise](../chapter09/0904.html)
+
+
+
+
+
+
+
+
+
+
+
 
 ##### [[\[book\]]{.underline}](book09.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
@@ -35,7 +35,7 @@ section 9.2, experimental designs for experiments are introduced. In
 section 9.2, the two-way ANOVA for two factors experiments is
 introduced.
 
-       ❮   **Chapter 8**       
+
 :::
 
 
@@ -2051,7 +2051,7 @@ the level of the factor B?
 ::: 
 
 
-              **Chapter 10**   ❯
+
 
 ## 9.4 Exercise
 
@@ -2348,6 +2348,6 @@ significance level.
   -----------------------------------------------------------------------
 :::
 
-              **Chapter 10**   ❯
+
 :::
 

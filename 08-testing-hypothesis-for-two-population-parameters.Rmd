@@ -1,17 +1,17 @@
 
 # Chapter 8. Testing Hypothesis for Two Population Parameters
 
-       ❮   **Chapter 7**       
 
--   [8.1 Testing Hypothesis for Two Population
-    Means](../chapter08/080101.html)
--   [  8.1.1 Two Independent Samples](../chapter08/080101.html)
--   [  8.1.2 Paired Sample](../chapter08/080102.html)
--   [8.2 Testing Hypothesis for Two Population
-    Variances](../chapter08/0802.html)
--   [8.3 Testing Hypothesis for Two Population
-    Proportions](../chapter08/0803.html)
--   [8.4 Exercise](../chapter08/0804.html)
+
+
+
+
+
+
+
+
+
+
 
 ##### [[\[book\]]{.underline}](book08.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
@@ -32,7 +32,7 @@ variances.
 Section 8.3 discusses a Z-test for testing hypothesis of two population
 proportions when samples are large enough.
 
-       ❮   **Chapter 7**       
+
 :::
 
 
@@ -1377,7 +1377,7 @@ two groups?
 ::: 
 
 
-              **Chapter 9**   ❯
+
 
 ## 8.4 Exercise
 
@@ -1697,5 +1697,5 @@ necessary assumptions and calculate the $p$-value.
 :::
 :::
 
-              **Chapter 9**   ❯
+
 :::

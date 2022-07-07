@@ -2,16 +2,16 @@
 
 # Chapter 13. Time Series Analysis
 
-       ❮   **Chapter 12**       
 
--   [13.1 What is Time Series Analysis?](../chapter13/1301.html)
--   [13.2 Smoothing of Time Series](../chapter13/1302.html)
--   [13.3 Transformation of Time Series](../chapter13/1303.html)
--   [13.4 Regression Model and Forecasting](../chapter13/1304.html)
--   [13.5 Exponential Smoothing Model and
-    Forecasting](../chapter13/1305.html)
--   [13.6 Seasonal Model and Forecasting](../chapter13/1306.html)
--   [13.7 Exercise](../chapter13/1307.html)
+
+
+
+
+
+
+
+
+
 
 ##### [[\[book\]]{.underline}](book13.pdf){target="_blank"}   
 
@@ -32,7 +32,7 @@ We will be mainly focused on descriptive methods and simple models, and
 discussion of the Box-Jenkins model and other theoretical models will
 not be discussed.
 
-       ❮   **Chapter 12**       
+
 :::
 
 

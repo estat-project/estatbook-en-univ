@@ -3,18 +3,18 @@
 
 # Chapter 3. Visualization of Quantitative Data
 
-       ❮   **Chapter 2**       
 
--   [3.1 Visualization of Quantitative Data](../chapter03/0301.html)
--   [3.2 Visualization of Single Quantitative
-    Variable](../chapter03/0302.html)
--   [  3.2.1 Visualization of Quantitative Data without
-    Group](../chapter03/0302.html)
--   [  3.2.2 Visualization of Quantitative Data with
-    Group](../chapter03/0302.html)
--   [3.3 Visualization of Two Quantitative
-    Variables](../chapter03/0303.html)
--   [3.4 Exercise](../chapter03/0304.html)
+
+
+
+
+
+
+
+
+
+
+
 
 ##### [[\[book\]]{.underline}](book03.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
@@ -30,7 +30,7 @@ group and with group is discussed.
 In Section 3.3, we discuss visualization of two quantitative variables
 using the scatter plot of 『eStat』.
 
-       ❮   **Chapter 2**       
+
 :::
 
 
@@ -964,7 +964,7 @@ the number of cylinders.
 ::: 
 
 
-              **Chapter 4**   ❯
+
 
 ## 3.4 Exercise
 
@@ -1117,5 +1117,5 @@ for the students of Data Science.
 
 :::
 
-              **Chapter 4**   ❯
+
 :::

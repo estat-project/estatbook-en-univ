@@ -2,19 +2,19 @@
 
 # Chapter 7. Testing Hypothesis for Single Population Parameter
 
-       ❮   **Chapter 6**       
 
--   [7.1 Testing Hypothesis for a Population
-    Mean](../chapter07/0701.html)
--   [7.2 Testing Hypothesis for a Population
-    Variance](../chapter07/0702.html)
--   [7.3 Testing Hypothesis for a Population
-    Proportion](../chapter07/0703.html)
--   [7.4 Testing Hypothesis with α and β
-    simultaneously](../chapter07/0704.html)
--   [  7.4.1 Type 2 Error and Power of a Test](../chapter07/0704.html)
--   [  7.4.2 Testing Hypothesis with α and β](../chapter07/0704.html)
--   [7.5 Exercise](../chapter07/0705.html)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##### [[\[book\]]{.underline}](book07.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
@@ -36,7 +36,7 @@ mean, population variance and population proportion.
 A method of testing hypothesis which considers both type 1 and type 2
 error is also introduced.
 
-       ❮   **Chapter 6**       
+
 :::
 
 
@@ -1840,7 +1840,7 @@ find $n, C$ using 『eStatU』.
 ::: 
 
 
-              **Chapter 8**   ❯
+
 
 ## 7.5 Exercise
 
@@ -2158,5 +2158,5 @@ distribution.
 :::
 :::
 
-              **Chapter 8**   ❯
+
 :::

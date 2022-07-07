@@ -3,23 +3,23 @@
 
 # Chapter 4. Data Summary Using Tables and Measures
 
-       ❮   **Chapter 3**       
 
--   [4.1 Frequency Table for Single Variable](../chapter04/0401.html)
--   [  4.1.1 Frequency Table for Categorical
-    Variable](../chapter04/0401.html)
--   [  4.1.2 Frequency Table for Quantitative
-    Variable](../chapter04/0401.html)
--   [4.2 Contingency Table for Two Variables](../chapter04/0402.html)
--   [  4.2.1 Contingency Table for Two Categorical
-    Variables](../chapter04/0402.html)
--   [  4.2.2 Contingency Table for Two Quantitative
-    Variables](../chapter04/0402.html)
--   [4.3 Summary Measures for Quantitative
-    Variable](../chapter04/040301.html)
--   [  4.3.1 Measures of Central Tendency](../chapter04/040301.html)
--   [  4.3.2 Measures of Dispersion](../chapter04/040302.html)
--   [4.4 Exercise](../chapter04/0404.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##### [[\[book\]]{.underline}](book04.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
@@ -40,7 +40,7 @@ variables.
 In section 4.3, we introduced measures to summarize the quantitative
 data and a box plot.
 
-       ❮   **Chapter 3**       
+
 :::
 
 
@@ -1686,7 +1686,7 @@ which has different units?
 ::: 
 
 
-              **Chapter 5**   ❯
+
 
 ## 4.4 Exercise
 
@@ -1859,5 +1859,5 @@ histogram.
 :::
 :::
 
-              **Chapter 5**   ❯
+
 :::

@@ -2,25 +2,25 @@
 
 # Chapter 10. Nonparametric Testing Hypothesis
 
-       ❮   **Chapter 9**       
 
--   [10.1 Nonparametric Test for the Location Parameter of Single
-    Population](../chapter10/1001.html)
--   [  10.1.1 Sign Test](../chapter10/1001.html)
--   [  10.1.2 Wilcoxon Signed Rank Sum Test](../chapter10/100102.html)
--   [10.2 Nonparametric Test for Location Parameters of Two
-    Populations](../chapter10/1002.html)
--   [  10.2.1 Independent Samples: Wilcoxon Rank Sum
-    Test](../chapter10/1002.html)
--   [  10.2.2 Paired Samples: Wilcoxon Signed Rank Sum
-    Test](../chapter10/100202.html)
--   [10.3 Nonparametric Test for Location Parameters of Several
-    Populations](../chapter10/1003.html)
--   [  10.3.1 Completely Randomized Design: Kruskal-Wallis
-    Test](../chapter10/1003.html)
--   [  10.3.2 Randomized Block Design: Friedman
-    Test](../chapter10/100302.html)
--   [10.4 Exercise](../chapter10/1004.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##### [[\[book\]]{.underline}](book10.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
@@ -44,7 +44,7 @@ populations such as the Wilcoxon Rank Sum Test.
 Section 10.3 introduces tests for comparing location parameter of
 several populations such as the Kruskal-Wallis Test and Friedman Test.
 
-       ❮   **Chapter 9**       
+
 :::
 
 
@@ -3155,7 +3155,7 @@ Kruskal-Wallis test?
 ::: 
 
 
-              **Chapter11**   ❯
+
 
 ## 10.4 Exercise
 
@@ -3353,5 +3353,5 @@ ratio of ingredients at the significance level of 0.05.
   -----------------------------------------------------------------------
 :::
 
-              **Chapter11**   ❯
+
 :::

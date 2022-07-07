@@ -5,23 +5,23 @@
 
       
 
-❮   **Chapter 1**
+
 :::
 
       
 
--   [2.1 Visualization of Qualitative Data](../chapter02/0201.html)
--   [2.2 Visualization of Summary Data](../chapter02/0202.html)
--   [  2.2.1 Summary Data of Categorical
-    Variable](../chapter02/0202.html)
--   [  2.2.2 Summary Data of Categorical Variable with
-    Group](../chapter02/0202.html)
--   [2.3 Visualization of Raw Data](../chapter02/0203.html)
--   [  2.3.1 Raw Data of Categorical Variable](../chapter02/0203.html)
--   [  2.3.2 Raw Data of Categorical Variable with
-    Group](../chapter02/0203.html)
--   [2.4 Word Cloud](../chapter02/0204.html)
--   [2.5 Exercise](../chapter02/0205.html)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##### [[\[book\]]{.underline}](book02.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
@@ -39,7 +39,7 @@ In Section 2.3, we discuss visualization of raw data of a categorical
 variable using 『eStat』. Visualization of raw data of a categorical
 variable by a group is also discussed.
 
-       ❮   **Chapter 1**       
+
 
 
 ::: 
@@ -1573,7 +1573,7 @@ president John F. Kennedy and analyze important words.
 ::: 
 
 
-              **Chapter 3**   ❯
+
 
 ## 2.5 Exercise
 
@@ -1724,5 +1724,5 @@ files.
 :::
 :::
 
-              **Chapter 3**   ❯
+
 :::

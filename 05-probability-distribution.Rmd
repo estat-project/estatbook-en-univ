@@ -1,19 +1,19 @@
 
 # Chapter 5. Probability Distribution
 
-       ❮   **Chapter 4**       
 
--   [5.1 Definition of Probability](../chapter05/0501.html)
--   [5.2 Calculation of Probability](../chapter05/0502.html)
--   [5.3 Discrete Random Variable](../chapter05/0503.html)
--   [  5.3.1 Binomial Distribution](../chapter05/050301.html)
--   [  5.3.2 Poissson Distribution](../chapter05/050302.html)
--   [  5.3.3 Geometric Distribution](../chapter05/050303.html)
--   [  5.3.4 Hypergeometric Distribution](../chapter05/050304.html)
--   [5.4 Continuous Random Variable](../chapter05/0504.html)
--   [  5.4.1 Normal Distribution](../chapter05/050401.html)
--   [  5.4.2 Exponential Distribution](../chapter05/050402.html)
--   [5.5 Exercise](../chapter05/0505.html)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##### [[\[book\]]{.underline}](book05.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
@@ -39,7 +39,7 @@ Distribution, Hypergeometric Distribution are described.
 In section 5.4, probability distributions of continuous random variables
 such as Normal Distribution, and Exponential Distribution are described.
 
-       ❮   **Chapter 4**       
+
 :::
 
 
@@ -4009,7 +4009,7 @@ hours or more?
 ::: 
 
 
-              **Chapter 6**   ❯
+
 
 ## 5.5 Exercise
 
@@ -4624,5 +4624,5 @@ or more?
 :::
 :::
 
-              **Chapter 6**   ❯
+
 :::

@@ -1,33 +1,33 @@
 
 # Chapter 6. Sampling Distribution and Estimation
 
-       ❮   **Chapter 5**       
 
--   [6.1 Simple Random Sampling](../chapter06/0601.html)
--   [6.2 Sampling Distribution of Sample Means and Estimation of the
-    Population Mean](../chapter06/060201.html)
--   [  6.2.1 Sampling Distribution of Sample
-    Means](../chapter06/060201.html)
--   [  6.2.2 Estimation of the Population
-    Mean](../chapter06/060202.html)
--   [6.3 Sampling Distribution of Sample Variances and Estimation of the
-    Population Variance](../chapter06/060301.html)
--   [  6.3.1 Sampling Distribution of Sample
-    Variances](../chapter06/060301.html)
--   [  6.3.2 Estimation of the Population
-    Variance](../chapter06/060302.html)
--   [6.4 Sampling Distribution of Sample Proportions and Estimation of
-    the Population Proportion](../chapter06/060401.html)
--   [  6.4.1 Sampling Distribution of Sample
-    Proportions](../chapter06/060401.html)
--   [  6.4.2 Estimation of the Population
-    Proportion](../chapter06/060402.html)
--   [6.5 Determination of the Sample Size](../chapter06/0605.html)
--   [  6.5.1 Determination of the Sample Size to Estimate the Population
-    Mean](../chapter06/0605.html)
--   [  6.5.2 Determination of the Sample Size to Estimate the Population
-    Proportion](../chapter06/0605.html)
--   [6.6 Exercise](../chapter06/0606.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##### [[\[book\]]{.underline}](book06.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
@@ -50,7 +50,7 @@ proportions and its application to estimate the population proportion.
 Section 6.5 describes how to determine the sample size to estimate the
 population mean and population proportion.
 
-       ❮   **Chapter 5**       
+
 :::
 
 
@@ -2280,7 +2280,7 @@ should be surveyed to keep the maximum allowable error bound within
 ::: 
 
 
-              **Chapter 7**   ❯
+
 
 ## 6.6 Exercise
 
@@ -2527,5 +2527,5 @@ population mean weight of all peach cans, what is the probability that
 the estimated error bound is less than 0.1 grams?
 :::
 
-              **Chapter 7**   ❯
+
 :::
