@@ -37,7 +37,7 @@ statistical analysis.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 1. Statistics and Data Science
+
 
              
 
@@ -328,7 +328,7 @@ the Fourth Industrial Revolution?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 1. Statistics and Data Science
+
 
              
 
@@ -543,7 +543,7 @@ students are able to study various statistical methods by using
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 1. Statistics and Data Science
+
 
              
 
@@ -801,7 +801,7 @@ categorical variable.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 1. Statistics and Data Science
+
 
       
 :::
@@ -932,7 +932,7 @@ target="_blank"}\
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 1. Statistics and Data Science
+
 
               **Chapter 2**   ❯
 

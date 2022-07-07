@@ -48,7 +48,7 @@ such as Normal Distribution, and Exponential Distribution are described.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 5. Probability Distribution
+
 
              
 
@@ -266,7 +266,7 @@ large numbers**.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 5. Probability Distribution
+
 
              
 
@@ -984,7 +984,7 @@ P(B\|A)?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 5. Probability Distribution
+
 
              
 
@@ -1448,7 +1448,7 @@ $\small E(X^2)$=25, and what is the variance $\small V(X)$?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 5. Probability Distribution
+
 
              
 
@@ -2054,7 +2054,7 @@ are correct when answering 10 questions?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 5. Probability Distribution
+
 
              
 
@@ -2327,7 +2327,7 @@ book of mathematical statistics.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 5. Probability Distribution
+
 
              
 
@@ -2559,7 +2559,7 @@ trial.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 5. Probability Distribution
+
 
              
 
@@ -2759,7 +2759,7 @@ products in the sample using 『eStatU』.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 5. Probability Distribution
+
 
              
 
@@ -3071,7 +3071,7 @@ the value of the cumulative distribution function F(x) if 1 ≤ x \< 2?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 5. Probability Distribution
+
 
              
 
@@ -3870,7 +3870,7 @@ $P( -∞ < Z < z )$
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 5. Probability Distribution
+
 
              
 
@@ -4053,7 +4053,7 @@ hours or more?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 5. Probability Distribution
+
 
               **Chapter 6**   ❯
 

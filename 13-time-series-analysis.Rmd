@@ -40,7 +40,7 @@ not be discussed.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 13. Time Series Analysis
+
 
              
 
@@ -359,7 +359,7 @@ the root mean squared error (RMSE) is often used. $$
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 13. Time Series Analysis
+
 
              
 
@@ -766,7 +766,7 @@ $MovingMedian_{1988.5}$ and $MovingMedian_{1989.5}$.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 13. Time Series Analysis
+
 
              
 
@@ -1257,7 +1257,7 @@ decreases with time. The Box-Cox transform is a general transformation.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 13. Time Series Analysis
+
 
              
 
@@ -1440,7 +1440,7 @@ model. However, additional validation of the model is required.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 13. Time Series Analysis
+
 
              
 
@@ -2427,7 +2427,7 @@ Model of CPI
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 13. Time Series Analysis
+
 
              
 
@@ -2775,7 +2775,7 @@ is calculated as follows: $$
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 13. Time Series Analysis
+
 
       
 

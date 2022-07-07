@@ -43,7 +43,7 @@ introduced.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 9. Testing Hypothesis for Several Population Means
+
 
       
 :::
@@ -580,7 +580,7 @@ followings using 『eStat』 ,
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 9. Testing Hypothesis for Several Population Means
+
 
              
 
@@ -1035,7 +1035,7 @@ ANOVA table, what is your conclusion with the 5％ significance level?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 9. Testing Hypothesis for Several Population Means
+
 
              
 
@@ -1487,7 +1487,7 @@ experimental design is used to reduce the effect of drivers?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 9. Testing Hypothesis for Several Population Means
+
 
              
 
@@ -2062,7 +2062,7 @@ the level of the factor B?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 9. Testing Hypothesis for Several Population Means
+
 
               **Chapter 10**   ❯
 

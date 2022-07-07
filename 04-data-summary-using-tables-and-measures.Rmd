@@ -47,7 +47,7 @@ data and a box plot.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 4. Data Summary Using Tables and Measures
+
 
              
 
@@ -353,7 +353,7 @@ table using 『eStat』.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 4. Data Summary Using Tables and Measures
+
 
              
 
@@ -644,7 +644,7 @@ Create a contingency table of oral cleanliness by brushing method.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 4. Data Summary Using Tables and Measures
+
 
              
 
@@ -1150,7 +1150,7 @@ weights?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 4. Data Summary Using Tables and Measures
+
 
              
 
@@ -1690,7 +1690,7 @@ which has different units?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 4. Data Summary Using Tables and Measures
+
 
               **Chapter 5**   ❯
 

@@ -44,7 +44,7 @@ error is also introduced.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 7. Testing Hypothesis for Single Population Parameter
+
 
       
 :::
@@ -867,7 +867,7 @@ region
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 7. Testing Hypothesis for Single Population Parameter
+
 
       
 
@@ -1146,7 +1146,7 @@ of the two sided test with the significance level of α?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 7. Testing Hypothesis for Single Population Parameter
+
 
              
 
@@ -1343,7 +1343,7 @@ hypothesis you want to test?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 7. Testing Hypothesis for Single Population Parameter
+
 
              
 
@@ -1855,7 +1855,7 @@ find $n, C$ using 『eStatU』.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 7. Testing Hypothesis for Single Population Parameter
+
 
               **Chapter 8**   ❯
 

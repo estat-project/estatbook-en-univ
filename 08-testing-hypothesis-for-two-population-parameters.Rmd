@@ -41,7 +41,7 @@ proportions when samples are large enough.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 8. Testing Hypothesis for Two Population Parameters
+
 
              
 
@@ -536,7 +536,7 @@ means are equal or not when sample sizes are small?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 8. Testing Hypothesis for Two Population Parameters
+
 
              
 
@@ -842,7 +842,7 @@ What is the name of this kind of data?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 8. Testing Hypothesis for Two Population Parameters
+
 
              
 
@@ -1112,7 +1112,7 @@ variances are equal or not when populations are normally distributed?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 8. Testing Hypothesis for Two Population Parameters
+
 
              
 
@@ -1391,7 +1391,7 @@ two groups?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 8. Testing Hypothesis for Two Population Parameters
+
 
               **Chapter 9**   ❯
 

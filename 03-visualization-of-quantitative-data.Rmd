@@ -37,7 +37,7 @@ using the scatter plot of 『eStat』.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 3. Visualization of Quantitative Data
+
 
       
 
@@ -146,7 +146,7 @@ an extension of the dot graph.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 3. Visualization of Quantitative Data
+
 
              
 
@@ -728,7 +728,7 @@ the insect counts by the types of sprays.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 3. Visualization of Quantitative Data
+
 
              
 
@@ -967,7 +967,7 @@ the number of cylinders.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 3. Visualization of Quantitative Data
+
 
               **Chapter 4**   ❯
 

@@ -59,7 +59,7 @@ population mean and population proportion.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 6. Sampling Distribution and Estimation
+
 
              
 
@@ -204,7 +204,7 @@ Select ten students randomly using 『eStatU』 without replacement.
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 6. Sampling Distribution and Estimation
+
 
              
 
@@ -588,7 +588,7 @@ population?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 6. Sampling Distribution and Estimation
+
 
              
 
@@ -1251,7 +1251,7 @@ $t_{24: 0.05} = 2.064, t_{24: 0.01} = 2.797, t_{25: 0.05} = 2.060, t_{25: 0.01} 
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 6. Sampling Distribution and Estimation
+
 
              
 
@@ -1461,7 +1461,7 @@ distribution with $n-1$ degrees of freedom as follows. $$
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 6. Sampling Distribution and Estimation
+
 
       
 :::
@@ -1703,7 +1703,7 @@ the following is an unbiased estimator of the population variance?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 6. Sampling Distribution and Estimation
+
 
              
 
@@ -1852,7 +1852,7 @@ $\quad \small P(\hat p \gt 0.02) = P( Z \gt \frac{0.02-0.03}{0.00985} ) = P(Z \g
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 6. Sampling Distribution and Estimation
+
 
              
 
@@ -2052,7 +2052,7 @@ interval that support the candidate A?
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 6. Sampling Distribution and Estimation
+
 
              
 
@@ -2296,7 +2296,7 @@ should be surveyed to keep the maximum allowable error bound within
 :::
 
 ::: {.col-sm-9 .col-sm-offset-3 .col-md-10 .col-md-offset-2 .main}
-# Chapter 6. Sampling Distribution and Estimation
+
 
               **Chapter 7**   ❯
 
