@@ -1475,9 +1475,7 @@ Examples of estimating the population variance are as follows.
 defective if they are too large or too small in diameter. The automobile
 maker wants to know the variance of bolt diameters supplied by each bolt
 company and use them as data for selecting the better one.
-:::
 
-::: textL30M10
 - In order to evaluate the difficulty of the college entrance exam
 conducted this year, the variance of exam scores is calculated and
 compared with the variance of exam scores in previous year.
@@ -1860,13 +1858,9 @@ follows.
 ::: textL30M10
 - What is the approval rating of a particular political party in this
 year\'s election?
-:::
 
-::: textL30M10
 - What is the percentage of the current unemployment rate?
-:::
 
-::: textL30M10
 - What percentage of defective products we would have if we imported
 10,000 car accessories?
 :::

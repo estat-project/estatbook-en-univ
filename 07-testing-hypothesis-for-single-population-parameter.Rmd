@@ -61,14 +61,10 @@ Examples of testing hypothesis for a population mean are as follows.
 ::: textL30M10
 - The weight of a cookie bag is indicated as 200g. Would there be
 enough cookies as the indicated weight?
-:::
 
-::: textL30M10
 - At a light bulb factory, a newly developed light bulb advertises a
 longer bulb life than the past one. Is this propaganda reliable?
-:::
 
-::: textL30M10
 - Immediately after completing this year\'s academic test, students
 said that there will be 5 points increase in the average English score
 higher than last year. How can you investigate if this is true?
@@ -885,9 +881,7 @@ and have an average diameter of 7mm and a variance of 0.25mm. Recently,
 a rival company has applied for the supply, claiming that their
 company\'s bolts have the same average diameter of 7 mm but a variance
 of 0.16mm. How can I find out if this claim is true?
-:::
 
-::: textL30M10
 - The variance of scores in mathematics on the last year\'s college
 scholastic aptitude test was 100. Questions in mathematics this year\'s
 test are said to be much easier than last year\'s. How can I test
@@ -1159,14 +1153,10 @@ proportion.
 ::: textL30M10
 - Will the approval rating of a particular candidate exceed 50 percent
 in this year\'s presidential election?
-:::
 
-::: textL30M10
 - The unemployment rate was 7 percent last year. Has this year\'s
 unemployment rate increased?
-:::
 
-::: textL30M10
 - 10,000 car accessories are imported by ship, of which 2 percent was
 defective according to the past experience. Is the defective product 2%
 this time again?

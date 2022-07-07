@@ -62,18 +62,12 @@ of several populations as follows:
 
 ::: textL30M10
 - Are average hours of library usage for each grade the same?
-:::
 
-::: textL30M10
 - Are yields of three different rice seeds equal?
-:::
 
-::: textL30M10
 - In a chemical reaction, are response rates the same at four different
 temperatures?
-:::
 
-::: textL30M10
 - Are average monthly wages of college graduates the same at three
 different cities?
 :::
