@@ -17,7 +17,7 @@
 
 ##### [[\[book\]]{.underline}](book09.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-## CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES
 
 In testing hypothesis of the population mean described in chapters 7 and
 8, the number of populations was one or two. However, many cases are
@@ -61,20 +61,20 @@ means of several populations. There are many examples of comparing means
 of several populations as follows:
 
 ::: textL30M10
-\- Are average hours of library usage for each grade the same?
+- Are average hours of library usage for each grade the same?
 :::
 
 ::: textL30M10
-\- Are yields of three different rice seeds equal?
+- Are yields of three different rice seeds equal?
 :::
 
 ::: textL30M10
-\- In a chemical reaction, are response rates the same at four different
+- In a chemical reaction, are response rates the same at four different
 temperatures?
 :::
 
 ::: textL30M10
-\- Are average monthly wages of college graduates the same at three
+- Are average monthly wages of college graduates the same at three
 different cities?
 :::
 

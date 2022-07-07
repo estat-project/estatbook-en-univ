@@ -17,7 +17,7 @@
 
 ##### [[\[book\]]{.underline}](book05.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-## CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES
 
 Similar events occur repeatedly in our everyday life. We describe a
 chance of the event using a concept of the probability.
@@ -59,13 +59,13 @@ Similar events occur repeatedly or are carried out in our everyday life.
 Let us consider following examples.
 
 ::: textL30M10
-\- A machine produces products repeatedly at a production plant. The
+- A machine produces products repeatedly at a production plant. The
 product can be either a normal product or a defective product, but it is
 not known in advance.
 :::
 
 ::: textL30M10
-\- I have ordered pizza at home every Sunday. It usually takes about 30
+- I have ordered pizza at home every Sunday. It usually takes about 30
 minutes for a pizza to be delivered to the house, but the exact time is
 not known.
 :::
@@ -73,18 +73,18 @@ not known.
 These examples have common characteristics as follows.
 
 ::: textL30M10
-\- There is repetition of similar events, such as the production of
+- There is repetition of similar events, such as the production of
 products or pizza deliveries.
 :::
 
 ::: textL30M10
-\- We know all possibile outcomes of events that the product will be
+- We know all possibile outcomes of events that the product will be
 defective or normal, and the pizza delivery time will be 10 minute, 20
 minutes, 30 minutes and so on.
 :::
 
 ::: textL30M10
-\- But we do not know which outcome exactly will happen.
+- But we do not know which outcome exactly will happen.
 :::
 
 Events with these three characteristics are subject to study and to
@@ -1459,12 +1459,12 @@ a look at following examples.
 :::
 
 ::: textL30M10
-\- Products produced in a factory machine are inspected and classified
+- Products produced in a factory machine are inspected and classified
 as either defective or normal.
 :::
 
 ::: textL30M10
-\- In an election survey, ask voters whether he would vote for a
+- In an election survey, ask voters whether he would vote for a
 candidate (pro) or not (con).
 :::
 
@@ -1480,16 +1480,16 @@ Bernoulli trial is usually repeated several times and the number of
 :::
 
 ::: textL30M10
-\- Throw a coin five times and examine the number of heads.
+- Throw a coin five times and examine the number of heads.
 :::
 
 ::: textL30M10
-\- Inspect 100 products produced in a factory and count the number of
+- Inspect 100 products produced in a factory and count the number of
 defective products.
 :::
 
 ::: textL30M10
-\- Count the number of voters in favor of a particular candidate for the
+- Count the number of voters in favor of a particular candidate for the
 president among 50 eligible voters.
 :::
 
@@ -2063,26 +2063,26 @@ areas around us.
 :::
 
 ::: textL30M10
-\- The number of calls made to an office of the Economics Department
+- The number of calls made to an office of the Economics Department
 between 9 am and 10 am daily for one month.
 :::
 
 ::: textL30M10
-\- The number of traffic accidents occurring at a certain intersection
+- The number of traffic accidents occurring at a certain intersection
 every day is investigated for one year.
 :::
 
 ::: textL30M10
-\- The number of defective spots per each one square meter of the fabric
+- The number of defective spots per each one square meter of the fabric
 is investigated for 100 square meters.
 :::
 
 ::: textL30M10
-\- The number of typing errors that occur on each page of a book.
+- The number of typing errors that occur on each page of a book.
 :::
 
 ::: textL30M10
-\- The number of accidents occurring during a week in a factory for one
+- The number of accidents occurring during a week in a factory for one
 year
 :::
 
@@ -2337,13 +2337,13 @@ Let us consider the following examples.
 :::
 
 ::: textL30M10
-\- A candidate has 40 percent approval rating in an election. When
+- A candidate has 40 percent approval rating in an election. When
 interviewing voters to hear opinions, what is the probability of meeting
 one person who abstains from voting the candidate at the fifth trial?
 :::
 
 ::: textL30M10
-\- The defect rate in products of a factory is said to be about 5%. If
+- The defect rate in products of a factory is said to be about 5%. If
 you continue to inspect the product until you find a defect product to
 investigate the cause, what is the probability of finding it at the 10th
 trial?
@@ -3874,12 +3874,12 @@ distribution, but sometimes it is not. Let\'s take a look at the
 following examples.
 
 ::: textL30M10
-\- Inter-arrival time of coming calls between 9 am and 10 am in an
+- Inter-arrival time of coming calls between 9 am and 10 am in an
 office.
 :::
 
 ::: textL30M10
-\- Time interval between defective products appearing in a factory
+- Time interval between defective products appearing in a factory
 production line.
 :::
 

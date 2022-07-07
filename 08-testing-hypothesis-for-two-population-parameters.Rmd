@@ -15,7 +15,7 @@
 
 ##### [[\[book\]]{.underline}](book08.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-## CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES
 
 In Chapter 7, we discussed how to test hypotheses about parameters in a
 single population.
@@ -52,17 +52,17 @@ proportions when samples are large enough.
 There are many examples comparing means of two populations as follows:
 
 ::: textL30M10
-\- Is there a difference between the starting salary of male graduates
+- Is there a difference between the starting salary of male graduates
 and of female graduates in this year's college graduates?
 :::
 
 ::: textL30M10
-\- Is there a difference in the weight of the products produced in the
+- Is there a difference in the weight of the products produced in the
 two production lines?
 :::
 
 ::: textL30M10
-\- Did the special training for typists to increase the speed of typing
+- Did the special training for typists to increase the speed of typing
 really bring about an increase in the speed of typing?
 :::
 
@@ -851,7 +851,7 @@ What is the name of this kind of data?
 Consider following examples to compare two population variances.
 
 ::: textL30M10
-\- When comparing two population means in the previous section, we
+- When comparing two population means in the previous section, we
 studied that if the sample size was small, the decision rule for testing
 hypothesis were different depending on whether two population variances
 were the same or different. So how can we test if two population
@@ -859,7 +859,7 @@ variances are the same?
 :::
 
 ::: textL30M10
-\- The quality of bolts used to assemble cars depends on the strict
+- The quality of bolts used to assemble cars depends on the strict
 specification for their diameters. Average diameters of bolts produced
 by two factories were said to be the same and if the variance of
 diameters is smaller, it is considered as superior production. How can
@@ -1121,12 +1121,12 @@ Consider the following examples which compare two population
 proportions.
 
 ::: textL30M10
-\- Is there a gender gap in the approval rating for a particular
+- Is there a gender gap in the approval rating for a particular
 candidate in this year\'s presidential election?
 :::
 
 ::: textL30M10
-\- A factory has two machines that make products. Do two machines have
+- A factory has two machines that make products. Do two machines have
 different defect rates?
 :::
 

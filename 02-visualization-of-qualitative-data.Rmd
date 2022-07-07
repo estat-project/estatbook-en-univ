@@ -25,7 +25,7 @@
 
 ##### [[\[book\]]{.underline}](book02.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-## CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES
 
 In this chapter, we introduce graphs to visualize qualitative data such
 as a bar graph, a pie chart, a band graph and a line graph in Section

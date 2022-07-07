@@ -31,7 +31,7 @@
 
 ##### [[\[book\]]{.underline}](book06.pdf){target="_blank"}    [[\[eStat YouTube Channel\]]{.underline}](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-## CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES
 
 The power of modern statistics lies in the ability to predict the
 characteristics of a population with a small number of samples. The
@@ -1471,14 +1471,14 @@ distribution with $n-1$ degrees of freedom as follows. $$
 Examples of estimating the population variance are as follows.
 
 ::: textL30M10
-\- Two companies supply bolts to an automobile maker. Bolts are
+- Two companies supply bolts to an automobile maker. Bolts are
 defective if they are too large or too small in diameter. The automobile
 maker wants to know the variance of bolt diameters supplied by each bolt
 company and use them as data for selecting the better one.
 :::
 
 ::: textL30M10
-\- In order to evaluate the difficulty of the college entrance exam
+- In order to evaluate the difficulty of the college entrance exam
 conducted this year, the variance of exam scores is calculated and
 compared with the variance of exam scores in previous year.
 :::
@@ -1858,16 +1858,16 @@ Some practical examples to estimate the population proportion are as
 follows.
 
 ::: textL30M10
-\- What is the approval rating of a particular political party in this
+- What is the approval rating of a particular political party in this
 year\'s election?
 :::
 
 ::: textL30M10
-\- What is the percentage of the current unemployment rate?
+- What is the percentage of the current unemployment rate?
 :::
 
 ::: textL30M10
-\- What percentage of defective products we would have if we imported
+- What percentage of defective products we would have if we imported
 10,000 car accessories?
 :::
 

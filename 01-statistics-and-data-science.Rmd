@@ -9,7 +9,7 @@
 [book](book01.pdf){target="_blank"}
 [eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
 
-## CHAPTER OBJECTIVES
+**CHAPTER OBJECTIVES**
 
 In this chapter, we introduce overall structure of this book.
 
@@ -117,42 +117,42 @@ help, appears in many parts of our society. Statistics have a wide
 variety of applications in various fields of society such as follows:
 
 ::: textL30M10
-\- A company predicts sales for the next year based on past sales and
+- A company predicts sales for the next year based on past sales and
 other data.
 :::
 
 ::: textL30M10
-\- The government establishes long-term and short-term economic
+- The government establishes long-term and short-term economic
 development plans through statistical analysis based on economic
 indicators such as price indexes.
 :::
 
 ::: textL30M10
-\- Media organizations use sample surveys to predict the winners of the
+- Media organizations use sample surveys to predict the winners of the
 election.
 :::
 
 ::: textL30M10
-\- Test the efficacy of the newly developed drug by a pharmaceutical
+- Test the efficacy of the newly developed drug by a pharmaceutical
 company.
 :::
 
 ::: textL30M10
-\- Examine whether there is a difference in the probability of lung
+- Examine whether there is a difference in the probability of lung
 cancer among smokers and non-smokers.
 :::
 
 ::: textL30M10
-\- Study the relationship between salt intake and hypertension.
+- Study the relationship between salt intake and hypertension.
 :::
 
 ::: textL30M10
-\- The superiority of new military equipment developed by the military
+- The superiority of new military equipment developed by the military
 is compared with that of the past.
 :::
 
 ::: textL30M10
-\- Statistical quality control techniques are used to improve the
+- Statistical quality control techniques are used to improve the
 quality of products produced in factories.
 :::
 :::
@@ -214,38 +214,38 @@ There are many examples of data science that analyze big data and apply
 it to reality.
 
 ::: textL30M10
-\- By analyzing questions about buying cars on Google\'s search engine,
+- By analyzing questions about buying cars on Google\'s search engine,
 a car sales company was able to predict the number of car models to be
 sold next month in the United States.
 :::
 
 ::: textL30M10
-\- A Venezuelan food chain company achieved a 30% increase in sales by
+- A Venezuelan food chain company achieved a 30% increase in sales by
 analyzing the data from each branch that had been distributed, improving
 inventory management and establishing a corresponding product sales
 strategy.
 :::
 
 ::: textL30M10
-\- An online shopping mall analyzed web logs to understand the taste of
+- An online shopping mall analyzed web logs to understand the taste of
 members\' customers and what products they were interested in, and
 customized advertisements tailored to each customer increased sales.
 :::
 
 ::: textL30M10
-\- An oil exploration company analyzed tera bytes of geological data,
+- An oil exploration company analyzed tera bytes of geological data,
 raising the success rate of oil drilling.
 :::
 
 ::: textL30M10
-\- An insurance company in South Africa analyzed the big data on claims
+- An insurance company in South Africa analyzed the big data on claims
 for existing insurance and implemented an algorithm to find possible
 cases of insurance fraud. The company used it to uncover many insurance
 frauds and even large insurance fraud organizations.
 :::
 
 ::: textL30M10
-\- A university in the U.S. analyzed data which were generated when
+- A university in the U.S. analyzed data which were generated when
 students clicked on the system in an online class to monitor each
 student\'s learning performance. The university were able to propose
 class contents tailored to the student\'s understanding and to suggest
