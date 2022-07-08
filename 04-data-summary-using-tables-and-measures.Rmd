@@ -140,7 +140,7 @@ which is for opening a file in JSON format.
 \<Figure 4.1.2\> Input variable name and value label
 :::
 
-If you select the gender variable as the \'Analysis Var\' in the
+If you select the gender variable as the 'Analysis Var' in the
 variable selection box as shown in \<Figure 4.1.1\>, a bar graph of the
 gender is drawn as in \<Figure 4.1.3\>. Then, if you click the Frequency
 Table icon, the frequency table of the gender variable will appear in
@@ -206,7 +206,7 @@ observations. If the number of intervals is determined, the range of
 data (maximum - maximum) is divided by the number of intervals to
 calculate the width of the interval. Starting and ending points of each
 interval are usually described as 'from greater than or equal (≥)
-$a$\'to less than (\<) $b$ ' which means a one-sided closed interval
+$a$'to less than (\<) $b$ ' which means a one-sided closed interval
 \[$a$ ,$b$ ).
 :::
 
@@ -248,7 +248,7 @@ Retrieve the data from 『eStat』 as in \<Figure 4.1.5\>.
 </div>
 
 Click the Histogram Icon and then select the variable name
-\'OtterLength\' to draw a histogram as shown in \<Figure 4.1.6\>.
+'OtterLength' to draw a histogram as shown in \<Figure 4.1.6\>.
 
 ![](Figure/Fig040106.svg){.imgFig600540}
 
@@ -420,9 +420,9 @@ Table 4.2.1 Survey data on gender and marital status
 
 Enter the data of the gender and the marital status in Table 4.2.1 to
 the sheet of 『eStat』 as in \<Figure 4.2.1\>. Use \[Edit Var\] button
-to enter a variable name \'Gender\' and value labels \'Male\' for 1 and
-\'Female\' for 2. In the same way, enter a variable name \'Marital\' and
-value labels \'Single\' for 1, \'Married\' for 2 and \'Other\' for 3.
+to enter a variable name 'Gender' and value labels 'Male' for 1 and
+'Female' for 2. In the same way, enter a variable name 'Marital' and
+value labels 'Single' for 1, 'Married' for 2 and 'Other' for 3.
 The data that were edited for their value labels should be saved in JSON
 format file by clicking on the JSON Save icon. If you want to load this
 file in JSON format, you must also click on the JSON Open icon which is
@@ -438,8 +438,8 @@ for loading a file in JSON format.
 
 </div>
 
-Click on the variable name 'Marital' (\'Analysis Var\'), and then the
-variable name 'Gender' (\'by Group\'). Then you will see a bar graph of
+Click on the variable name 'Marital' ('Analysis Var'), and then the
+variable name 'Gender' ('by Group'). Then you will see a bar graph of
 the marital status by gender as in \<Figure 4.2.2\> which is a default
 graph. Click the Frequency Table icon to display a contingency table of
 the marital status by gender in the Log Area as in \<Figure 4.2.3\>. In
@@ -502,7 +502,7 @@ single quantitative variable.
 If both variables are quantitative, it is advisable to use a statistical
 software such as R, SPSS, and SAS etc. If one variable is categorical
 and the other one is quantitative, then a contingency table can be made
-by using 『eStat』. Let\'s take a look at the following example.
+by using 『eStat』. Let's take a look at the following example.
 :::
 
 ::: mainTableGrey
@@ -530,7 +530,7 @@ of the age by gender.
 <div>
 
 Retrieve the data from 『eStat』 as in \<Figure 4.2.4\> and enter value
-labels of \'Gender\' as \'Male\' for 1 and \'Female\' for 2.
+labels of 'Gender' as 'Male' for 1 and 'Female' for 2.
 
 ![](Figure/Fig040204.png){.imgFig300400}
 
@@ -543,7 +543,7 @@ labels of \'Gender\' as \'Male\' for 1 and \'Female\' for 2.
 </div>
 
 After clicking the histogram icon, select the 'Age' variable as
-\'Analysis Var\', and then the 'Gender' variable as \'by Group\'. A
+'Analysis Var', and then the 'Gender' variable as 'by Group'. A
 histogram will appear as shown in \<Figure 4.2.5\>.
 
 ![](Figure/Fig040205.svg){.imgFig600540}
@@ -552,7 +552,7 @@ histogram will appear as shown in \<Figure 4.2.5\>.
 \<Figure 4.2.5\> Histogram on age by gender
 :::
 
-If you click the button of \'Frequency Table\' in the options window
+If you click the button of 'Frequency Table' in the options window
 below the graph (\<Figure 4.2.6\>), a contingency table will appear in
 the Log Area as shown in \<Figure 4.2.7\>.
 
@@ -569,8 +569,8 @@ the Log Area as shown in \<Figure 4.2.7\>.
 :::
 
 If the intervals of the histogram in \<Figure 4.2.5\> are to be
-readjusted, for example, from 20 to 10 years apart, set \'Interval
-Start\' to 20 and 'Interval Width' to 10 in the graph options and press
+readjusted, for example, from 20 to 10 years apart, set 'Interval
+Start' to 20 and 'Interval Width' to 10 in the graph options and press
 \[Execute New Interval\] button. Then a histogram with the adjusted
 intervals is appeared as in \<Figure 4.2.8\>, and a contingency table
 with the adjusted intervals can be obtained by clicking on \[Frequency
@@ -651,7 +651,7 @@ as follows. $$
         \small \mu = \frac{1}{N} \sum_{i=1}^N x_i 
       $$ If data $x_1 ,x_2 ,\cdots,x_n$ are sampled from a population,
 the mean of this data is referred as a sample mean and denoted as
-$\overline x$ (read as \'x bar\'). then the mean $\overline x$ is
+$\overline x$ (read as 'x bar'). then the mean $\overline x$ is
 defined as follows. $$
         \small \overline x = \frac{1}{n} \sum_{i=1}^n x_i 
       $$ Note that both the population mean and sample mean have the
@@ -863,7 +863,7 @@ If a frequency table of visitors' age in a library is as shown in Table
 4.3.1, find the mode of the age based on this frequency table.
 
 ::: textLeft
-Table 4.3.1 Frequency table of visitor\'s age in a libray
+Table 4.3.1 Frequency table of visitor's age in a libray
 :::
 
   Age Interval      Frequency
@@ -1495,7 +1495,7 @@ medians, ranges, quartiles and IQRs by gender.
 ::: textL20M20
 1\) After loading the data to 『eStat』 , enter the value labels of
 'Gender' as 'Male' for 1 and 'Female' for 2 using \[EditVar\] button.
-Click on the box plot icon and then \'Age\' variable, then the
+Click on the box plot icon and then 'Age' variable, then the
 horizontal box plot is appeared as in \<Figure 4.3.9\>. If you select
 'Vertical' from the options below the graph, the vertical box plot shown
 as in \<Figure 4.3.10\> is appeared. Based on this box plot, we can see
@@ -1531,11 +1531,11 @@ basic statistics of the age is displayed as shown in \<Figure 4.3.11\>.
 :::
 
 ::: textL20M20
-2\) If you click on \'Gender\' after \'Age\' variable, the horizontal
+2\) If you click on 'Gender' after 'Age' variable, the horizontal
 box plot by gender appears as shown in \<Figure 4.3.12\>. If you select
 'Vertical' from the options below the graph, the vertical box plot by
 gender appears as shown in \<Figure 4.3.13\>. You can observe that
-dispersion of female teachers\' ages is greater than that of male
+dispersion of female teachers' ages is greater than that of male
 teachers'.
 :::
 

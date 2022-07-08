@@ -57,13 +57,13 @@ to each of intervals. Using the frequencies of each interval, we draw a
 histogram which is similar to the bar graph with no spacing between
 bars.
 
-You might ask a question, \'How many intervals do I need to have?\'
+You might ask a question, 'How many intervals do I need to have?'
 There is no exact answer for the number of intervals, but 52 number of
 intervals is usually used when there are small number of data. A square
 root of the number of data is also often used as the number of
 intervals, but, if the number of intervals is too many, it is not easy
 to analyze the data sometimes. As far as the number of intervals is
-concerned, it depends on the analyst\'s judgement.
+concerned, it depends on the analyst's judgement.
 
 ![](Icon/eStat_icon15_stem.png){.imgIcon}\
 A stem and leaf plot is a variation of the histogram which is recently
@@ -192,9 +192,9 @@ found at the following location
 
 Click on the dot graph icon
 ![](Icon/eStat_icon13_dot.png){.imgIcon} and click the variable
-name, \'OtterLength\', then a dot graph of the otter length will be
+name, 'OtterLength', then a dot graph of the otter length will be
 appeared in the Graph Area as in \<Figure 3.2.1\>. You can also select
-\'OtterLength\' variable at the selection box of the Analysis Variable.
+'OtterLength' variable at the selection box of the Analysis Variable.
 
 </div>
 
@@ -206,7 +206,7 @@ appeared in the Graph Area as in \<Figure 3.2.1\>. You can also select
 \<Figure 3.2.1\> Dot graph of otter lengths without group
 :::
 
-Checking the \'Mean/Std Dev\' in the options window below the graph
+Checking the 'Mean/Std Dev' in the options window below the graph
 shows the average of the data and the (average) ± (one standard
 deviation) interval as in \<Figure 3.2.2\>. We can observe that large
 number of data can be found around the aveage and the data are
@@ -293,7 +293,7 @@ small to large.
 <div>
 
 **Practice 3.2.1** **(Bicycle Road in Seoul)**\
-The following data are the lengths of bike-only roads in Seoul\'s 25
+The following data are the lengths of bike-only roads in Seoul's 25
 administrative districts as of 2016. Use 『eStat』 to draw a dot graph,
 a histogram, a stem and leaf plot. Analyze the graphs.
 
@@ -414,9 +414,9 @@ or scan the QR.
 
 Click on the dot graph icon
 ![](Icon/eStat_icon13_dot.png){.imgIcon} and click the variable
-names \'age\' and \'gender\' to draw the dot graph of the age by gender
+names 'age' and 'gender' to draw the dot graph of the age by gender
 as in \<Figure 3.2.8\>. You can select 'Age' from the selection box of
-\'Analysis Var\' and 'Gender' from the selection box of 'By Group'
+'Analysis Var' and 'Gender' from the selection box of 'By Group'
 variable.
 
 </div>
@@ -430,7 +430,7 @@ variable.
 Group 2 for female
 :::
 
-By checking the \'Mean/StdDev' in the options window below the graph,
+By checking the 'Mean/StdDev' in the options window below the graph,
 the mean line and (average) ± (one standard deviation) intervals are
 shown on the graph as in \<Figure 3.2.9\>.
 
@@ -538,9 +538,9 @@ or scan the QR on the left.
 
 Click on the dot graph icon
 ![](Icon/eStat_icon13_dot.png){.imgIcon} and then select the
-variable \'Calorie\' and \'Hot Dog\' to draw a dot graph as in\<Figure
-3.2.15\>. You can also select 'Calorie' in the \'Analysis Var\'
-selection box and 'HotDog' in the \'By Group\' selection box.
+variable 'Calorie' and 'Hot Dog' to draw a dot graph as in\<Figure
+3.2.15\>. You can also select 'Calorie' in the 'Analysis Var'
+selection box and 'HotDog' in the 'By Group' selection box.
 
 </div>
 
@@ -552,7 +552,7 @@ selection box and 'HotDog' in the \'By Group\' selection box.
 \<Figure 3.2.15\> Dot graph of calories of hot dog by type
 :::
 
-Checking \'Mean/StdDev\' in the options window below the graph will show
+Checking 'Mean/StdDev' in the options window below the graph will show
 (mean) ± (one standard deviation) intervals as shown in \<Figure
 3.2.16\>.
 
@@ -595,7 +595,7 @@ frequency table as in \<Figure 3.2.19\> in the Log Area.
 
 The histogram of 『eStat』 calculates the number of intervals and the
 width of the intervals automatically, but you can redraw them by
-specifying the \'Interval Start\' and \'Interval Width.
+specifying the 'Interval Start' and 'Interval Width.
 
 Click on the stem and leaf plot icon
 ![](Icon/eStat_icon15_stem.png){.imgIcon} to display the graph
@@ -771,11 +771,11 @@ or scan the QR on the left.
 
 By clicking on the scatter plot icon
 ![](Icon/eStat_icon17_scatter.png){.imgIcon} and clicking on the
-\'weight\' and \'height' variable names, a scatter plot with the weight
+'weight' and 'height' variable names, a scatter plot with the weight
 on Y-axis (the first selected variable) and the height on X-axis (the
 second selected variable) will appear in the Graph Area as in \<Figure
-3.3.1\>. You can also select \'weight\' in the \'Y-variable\' selection
-box and \'height in the \'by X-variable\' selection box.
+3.3.1\>. You can also select 'weight' in the 'Y-variable' selection
+box and 'height in the 'by X-variable' selection box.
 
 </div>
 
@@ -787,14 +787,14 @@ box and \'height in the \'by X-variable\' selection box.
 \<Figure 3.3.1\> Scatter plot of height and weight
 :::
 
-By checking the \'Regression\' in the options window below the graph
+By checking the 'Regression' in the options window below the graph
 shows a scatter plot with a regression line as in \<Figure 3.3.2\> which
 indicates a relationship between weight and height. If you look at the
 scatter plot, you can see that the larger the height, the heavier the
 weight is. See Chapter 12 for more discussion on the regression
 analysis.
 
-By checking the \'Regression\' in the options window below the graph
+By checking the 'Regression' in the options window below the graph
 shows a scatter plot with a regression line as in \<Figure 3.3.2\> which
 indicates a relationship between weight and height. If you look at the
 scatter plot, you can see that the larger the height, the heavier the
@@ -808,9 +808,9 @@ analysis.
 line
 :::
 
-In order to draw a scatter plot by gender, select \'Gender\' in the
-\'Group\' box of options. It shows a scatter plot with different colors
-of gender as in \<Figure 3.3.3\>. By checking the \'Regression\' in the
+In order to draw a scatter plot by gender, select 'Gender' in the
+'Group' box of options. It shows a scatter plot with different colors
+of gender as in \<Figure 3.3.3\>. By checking the 'Regression' in the
 options will show the regression lines to each gender as in \<Figure
 3.3.4\>.
 
@@ -827,7 +827,7 @@ options will show the regression lines to each gender as in \<Figure
 regression lines
 :::
 
-If you select the height as a \'Size Var\' in the option, the dots in
+If you select the height as a 'Size Var' in the option, the dots in
 the scatter plot are proportional to the height as in \<Figure 3.3.5\>.
 
 ![](Figure/Fig030305.svg){.imgFig600540}

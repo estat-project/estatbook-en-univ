@@ -185,8 +185,8 @@ and visualization of summary data with a group variable are discussed.
 If you investigated a gender of students in a class and reported the
 result as follows.
 
-\'male\', \'female\', \'male\', 'female', \'male\'. \'male\', .\'male\',
-'female', 'female', \'male\'\...
+'male', 'female', 'male', 'female', 'male'. 'male', .'male',
+'female', 'female', 'male'\...
 
 This data is called the raw data of the gender variable which is a
 categorical variable.
@@ -245,11 +245,11 @@ Appedix A.2).
 \<Figure 2.2.1\> Data input in 『eStat』
 :::
 
-Click the first variable name \'Gender\' and then the second variable
-name \'Number\'. Selected variables will be appeared in the box of the
-\'Selected Var\' located above the sheet. You can select the variable
-'1: Gender' using the combo box of the \'Analysis Var\' and the variable
-'2: Number' using the combo box of the \'By Group\' located above the
+Click the first variable name 'Gender' and then the second variable
+name 'Number'. Selected variables will be appeared in the box of the
+'Selected Var' located above the sheet. You can select the variable
+'1: Gender' using the combo box of the 'Analysis Var' and the variable
+'2: Number' using the combo box of the 'By Group' located above the
 sheet as shown in \<Figure 2.2.1\>.
 
 When variables are selected, a vertical bar graph which is the default
@@ -599,11 +599,11 @@ If you load the data file from 『eStat』 , it looks like as in \<Figure
 
 </div>
 
-Click the variable names \'Gender\', '5-1' and '5-2' sequentially, then
-the selected variables will be appeared at the box of \'Selected Var\'
+Click the variable names 'Gender', '5-1' and '5-2' sequentially, then
+the selected variables will be appeared at the box of 'Selected Var'
 located above the sheet. You can select the variable '1: Gender' using
-the combo box of the \'Analysis Var\' and the variable '2: 5-1' and '3:
-5-2' using the combo box of the \'By Group\' located above the sheet.
+the combo box of the 'Analysis Var' and the variable '2: 5-1' and '3:
+5-2' using the combo box of the 'By Group' located above the sheet.
 
 When the variables are selected, a vertical bar graph
 ![](Icon/eStat_icon35_VbarSeparated.png){.imgIcon} which is the
@@ -797,11 +797,11 @@ address.
 
 </div>
 
-Click on the variable name of the first variable, \'AgeInterval\'
+Click on the variable name of the first variable, 'AgeInterval'
 followed by the second variable '2015_Male' and the third variable
-'2015_Female\'. As shown in \<Figure 2.2.31\>, you may select the
-'AgeInterval' variable from the \'Analysis Var\' box and '2015_Male\'
-and '2015_Female' variables sequentially from the \'By Group box. When
+'2015_Female'. As shown in \<Figure 2.2.31\>, you may select the
+'AgeInterval' variable from the 'Analysis Var' box and '2015_Male'
+and '2015_Female' variables sequentially from the 'By Group box. When
 these variables are selected, a separated vertical bar graph
 ![](Icon/eStat_icon35_VbarSeparated.png){.imgIcon} as shown in
 \<Figure 2.2.32\> which separates the male and female populations with
@@ -955,7 +955,7 @@ Retrieve the file from 『eStat』 which will show the data as in \<Figure
 
 Click on the line graph icon
 ![](Icon/eStat_icon12_line.png){.imgIcon}, then click the variable
-names of \'Country\', 'Export\', \'Import\' to draw a line graph as in
+names of 'Country', 'Export', 'Import' to draw a line graph as in
 \<Figure 2.2.38\>.
 
 Looking in the Graph, we can see that China and Germany have lots of
@@ -1096,7 +1096,7 @@ out characteristics of the raw data.
 Enter the gender data of Table 2.3.1 on the sheet of 『eStat』 system or
 load the file from  Ex  ⇨ eBook ⇨ EX020301_Raw_Gender.csv.
 
-If you enter the data, give a variable name \'Gender\' using \[Edit
+If you enter the data, give a variable name 'Gender' using \[Edit
 Var\] button as shown in \<Figure 2.3.1\> and provide value labels to
 values 1 and 2 (1 for Male and 2 for Female). If the data are edited
 using the value labels, it must be saved with JSON format file (click on
@@ -1126,7 +1126,7 @@ also use the JSON Open icon.
 
 </div>
 
-Click on the variable name \'Gender\' to draw a vertical bar graph as
+Click on the variable name 'Gender' to draw a vertical bar graph as
 shown in \<Figure 2.3.2\>. A bar graph was drawn after counting
 frequencies of each gender category, i.e. six males and four females. A
 basic function of statistical packages such as 『eStat』 is to examine a
@@ -1256,7 +1256,7 @@ Table 2.3.2 Survey of gender and Marital status
 
 Enter the gender and marital status data of Table 2.3.2 on the sheet of
 『eStat』 system. Use \[Edit Var\] button to enter a variable name as
-\'Gender\' and its value labels as \'Male\' for value 1 and \'Female\'
+'Gender' and its value labels as 'Male' for value 1 and 'Female'
 for value 2. Similarly, enter a variable name as 'Marital' and its value
 labels as 'Single' for 1, 'Married' for 2 and 'Other' for 3.
 
@@ -1452,7 +1452,7 @@ analyze important words.
 +-----------------------------------------------------------------------+
 | The development of these technologies has created massive data,       |
 | simply called 'Big Data', that were unimaginable in the past. Typical |
-| examples of the big data include data from Google\'s search records,  |
+| examples of the big data include data from Google's search records,  |
 | social media messages by mobile phones, web logs by internet          |
 | connections, and telephone records of global telecom companies. The   |
 | big data are expected to grow and increase exponentially in the       |

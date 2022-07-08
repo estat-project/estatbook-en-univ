@@ -76,7 +76,7 @@ This section describes the one-way analysis of variance (ANOVA) which
 compares population means when there is a single factor. Section 9.2
 describes how the experiment is designed to extract sample data. Section
 9.3 describes the two-way ANOVA to compare several population means when
-there are two factors. Let\'s take a look at the following example.
+there are two factors. Let's take a look at the following example.
 :::
 
 ::: mainTableGrey
@@ -128,10 +128,10 @@ whether scores of each grade are similar. If you plot the 95% confidence
 interval of the population mean studied in Chapter 6 on each dot graph,
 you can see a more detailed comparison.\
 In order to draw a dot graph with data shown in Table 9.1.1 using
-『eStat』 , enter data on the sheet and set variable names to \'Grade\'
-and \'Score\' as shown in \<Figure 9.1.1\>. In the variable selection
+『eStat』 , enter data on the sheet and set variable names to 'Grade'
+and 'Score' as shown in \<Figure 9.1.1\>. In the variable selection
 box which appears by clicking the ANOVA icon on the main menu of
-『eStat』 , select \'Analysis Var\' as 'Score' and \'By Group\' as
+『eStat』 , select 'Analysis Var' as 'Score' and 'By Group' as
 'Grade'. The dot graph of English scores by each grade and the 95%
 confidence interval are displayed as shown in \<Figure 9.1.2\>.
 :::
@@ -333,7 +333,7 @@ is called a group variable or a factor variable which is mostly a
 categorical variable. Each value of a factor variable Is called a level
 of the factor and the number of these levels is the number of
 populations to be compared. In the above example, the factor has four
-levels, 1st, 2nd, 3rd and 4th grade. The term \'response\' or \'factor\'
+levels, 1st, 2nd, 3rd and 4th grade. The term 'response' or 'factor'
 was originated to analyze data through experiments in engineering,
 agriculture, medicine and pharmacy.
 
@@ -438,8 +438,8 @@ It represents the variation between level means.
 $\sum_{i=1}^{k} \sum_{j=1}^{n_i} ( {Y}_{ij} - {\overline Y}_{i \cdot} )^2 \;$
 :\
 The sum of squared distances between observations of the $i^{th}$ level
-and the mean of the $i^{th}$ level is referred to as \'within
-variation,\' and is called the **error sum of squares** (SSE).
+and the mean of the $i^{th}$ level is referred to as 'within
+variation,' and is called the **error sum of squares** (SSE).
 
 The degree of freedom of each sum of squares is determined by the
 following logic: The SST consists of $n$ number of squares,
@@ -587,9 +587,9 @@ $\mu_i$ and $\mu_j$, are equal is as follows: $$
 simultaneously for the multiple comparisons if there is $k$ level of the
 factor.
 
-There are many multiple comparison tests, but Tukey\'s Honestly
+There are many multiple comparison tests, but Tukey's Honestly
 Significant Difference (HSD) test is most commonly used. The statistic
-for Tukey\'s HSD test to compare means $\mu_i$ and $\mu_j$ is the sample
+for Tukey's HSD test to compare means $\mu_i$ and $\mu_j$ is the sample
 mean difference ${\overline y}_i - {\overline y}_j$ and the decision
 rule to test $H_0 : \mu_i = \mu_j$ is as follows:
 
@@ -630,7 +630,7 @@ freedom. (It can be found at『eStatU』 (\<Figure 9.1.8\>)).
 **Example 9.1.2** In \[Example 9.1.1\], the analysis variance of English
 scores by the grade concluded that the null hypothesis was rejected and
 the average English scores for each grade were not all the same. Now
-let\'s apply the multiple comparisons to check where the differences
+let's apply the multiple comparisons to check where the differences
 exist among each school grade with the significance level of 5%. Use
 『eStat』 to check the result.
 
@@ -641,9 +641,9 @@ $\small H_0 : \mu_i = \mu_j , \quad H_1 : \mu_i \ne \mu_j$ and the
 decision rule is as follows:
 
 ::: textL20
-\'If
+'If
 $\small |{\overline y}_{i\cdot} - {\overline y}_{j\cdot}| > HSD_{ij}$,
-then reject $\small H_0$\'
+then reject $\small H_0$'
 :::
 
 Since there are four school grades ($k=4$), $_{4}C_{2}$ = 6 multiple
@@ -728,8 +728,8 @@ difference between $\mu_2$ and $\mu_4$, $\mu_3$ and $\mu_4$ as can be
 seen in the dot graph with average in \<Figure 9.1.1\>. It also shows
 that $\mu_1$ has no significant difference from other means.
 
-If you click \'Multiple Comparison\' in the options of the ANOVA as in
-\<Figure 9.1.3\>, 『eStat』shows the result of Tukey\'s multiple
+If you click 'Multiple Comparison' in the options of the ANOVA as in
+\<Figure 9.1.3\>, 『eStat』shows the result of Tukey's multiple
 comparisons as shown in \<Figure 9.1.9\>. 『eStat』also shows the mean
 difference and 95% HSD value for the sample mean combination after
 rearranging levels of rows and columns in ascending order of the sample
@@ -1245,8 +1245,8 @@ car types have the same fuel mileage.
 
 ::: textL20M20
 1\) In 『eStat』, enter data as shown in \<Figure 9.2.1\> and click the
-icon of analysis of variance . Select \'Analysis Var\' as Miles and \'By
-Group\' as Car in the variable selection box, then the confidence
+icon of analysis of variance . Select 'Analysis Var' as Miles and 'By
+Group' as Car in the variable selection box, then the confidence
 interval graph for each type of cars will appear such as \<Figure
 9.2.2\>.
 
@@ -1308,7 +1308,7 @@ the multiple comparison tests in \<Figure 9.2.5\>.
 ::: textL20M20
 2\) If this data have been extracted using the randomized block design,
 the block sum of squares will be separated from the error sum of
-squares. Adding Driver variable to \'by Group\' in the variable
+squares. Adding Driver variable to 'by Group' in the variable
 selection box of『eStat』will give you a scatter plot of driver-specific
 fuel mileage for each car type as shown in \<Figure 9.2.6\>. This
 scatter plot shows a significant difference in fuel mileage per driver.
@@ -1377,7 +1377,7 @@ three types of cars, since the differences between the mean values
 
 <div>
 
-**Practice 9.2.1** The following is the result of an agronomist\'s
+**Practice 9.2.1** The following is the result of an agronomist's
 survey of the yield of four varieties of wheat by using the randomized
 block design of the three cultivated areas (block). Test whether the
 mean yields of the four wheats are the same or not with 5% significance
@@ -1625,7 +1625,7 @@ type is variable 2 and the rice yield is variable 3.
 
 ::: textL20
 In the variable selection box which appears by clicking the ANOVA icon
-on the main menu, select \'Analysis Var\' as Yield and \'By Group\' as
+on the main menu, select 'Analysis Var' as Yield and 'By Group' as
 Rice and Fertilizer, then the scatter plot of the yield by rice type
 will appear as in \<Figure 9.3.2\>. In addition, the average yields at
 each rice type by fertilizer are marked as dots linking them with lines
@@ -1823,7 +1823,7 @@ appear in the Log Area.
 :::
 
 ::: mainTable
-Let\'s generalize the theory of the two-way analysis of variance
+Let's generalize the theory of the two-way analysis of variance
 discussed in the example above. Let $Y_{ijk}$ be the random variable
 representing the $k^{th}$ observation at the $i^{th}$ level of factor A,
 which has $a$ number of levels, and $j^{th}$ level of factor B, which
@@ -2077,10 +2077,10 @@ different with the 5% significance level? Why?
 :::
 
 ::: textL30M30
-9.3 In order to test customers\' responses to new products, four
+9.3 In order to test customers' responses to new products, four
 different exhibition methods (A, B, C and D) were used by a company.
 Each exhibition method was used in nine stores by selecting 36 stores
-that met the company\'s criteria. The total sales in USD for the weekend
+that met the company's criteria. The total sales in USD for the weekend
 are shown in the following table.
 :::
 
@@ -2197,7 +2197,7 @@ the 5% significance level.
   24         21         34         32         35
 
 ::: textL30M30
-9.8 The following is the result of an agronomist\'s survey of the yield
+9.8 The following is the result of an agronomist's survey of the yield
 of four varieties of wheat by using the randomized block design of three
 cultivated areas (block). Test whether the mean yields of the four
 wheats are the same or not with the 5% significance level.
@@ -2314,7 +2314,7 @@ different regions. Analyze data using the analysis of variance with the
   -----------------------------------------------------------------------
 
 ::: textL30M30
-9.13 The result of a fertilizer manufacturer\'s experiment with the
+9.13 The result of a fertilizer manufacturer's experiment with the
 production of soybeans on two seeds using three types of fertilizer (A,
 B, and C) is as follows: Each fertilizer and seed were tested four
 times. Analyze data using the analysis of variance with the 5%

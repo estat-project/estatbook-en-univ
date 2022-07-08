@@ -183,9 +183,9 @@ The classical definition of the probability does not usually have a
 major problem in calculating the probability of a real problem. However,
 in the classical definition of the probability, it may not be possible
 to assume that all elements of the sample space are likely to occur. For
-example, tossing a coin usually results in 'Head\' and \'Tail\' but can
+example, tossing a coin usually results in 'Head' and 'Tail' but can
 be very rarely 'Edge'. Considering this, the assumption that the sample
-space {\'Head', \'Tail\' and \'Edge\'} does not make sense that at this
+space {'Head', 'Tail' and 'Edge'} does not make sense that at this
 time each element of the sample space is likely to occur equally. The
 relative frequency definition of the probability is to solve these
 problems.
@@ -202,8 +202,8 @@ conducted under the same condition repeatedly.
 
 ::: mainTable
 If this definition is used, it can be explained that the coin tossing
-stands as an \'Edge.\' If a coin has been thrown 10,000 times and
-\'Head\' is appeared 4980 times, \'Tail\' 5018 times, \'Edge\' twice,
+stands as an 'Edge.' If a coin has been thrown 10,000 times and
+'Head' is appeared 4980 times, 'Tail' 5018 times, 'Edge' twice,
 then P({Head}) = 4980/10000, P({Tail}) = 5018/10000, P({Edge}) =
 2/10000. More iterative runs make the definition of the probability
 using the relative frequency almost approximates to the probability
@@ -740,7 +740,7 @@ $\qquad \small  1 - \frac { _4 C_3 } {_6 C_3 } = 1 - \frac {4}{20} = \frac {4}{5
 ::: mainTable
 The method used in the above example is called a rule of probability
 calculation using a complementary event, and is often used to obtain the
-probability that the word \'at least\' is contained. \<Figure 5.2.4\> is
+probability that the word 'at least' is contained. \<Figure 5.2.4\> is
 a picture of an event.
 
 ![](Figure/Fig050204.gif){.imgFig400300}
@@ -982,11 +982,11 @@ general the discrete sample spaces are discussed.
 
 Consider a statistical experiment in which a coin is thrown repeatedly
 two times. If the coin is ideal, the sample space for this experiment is
-{\'Tail-Tail\', \'Tail-Head\', \'Head-Tail\', \'Head-Head'}. The
+{'Tail-Tail', 'Tail-Head', 'Head-Tail', 'Head-Head'}. The
 probability of an event in which each element of the sample space is
 produced is 1/4 by the classical definition. In most cases, the fact
 that we are interested in this example will be counting the number of
-heads or tails. If $\small X$ is defined as \'the number of heads\' in
+heads or tails. If $\small X$ is defined as 'the number of heads' in
 this experiment, the possible value of $\small X$ can be 0, 1, or 2 and
 we are interested in calculating probabilities that $\small X$=0,
 $\small X$=1 or $\small X$=2. As such, a function that corresponds to
@@ -994,11 +994,11 @@ one real number between \[0,1\] for each element of the sample space is
 called a random variable (see Table 5.3.1).
 :::
 
-Table 5.3.1 Random variable $\small X$ = \'Number of Heads' when tossing
-a coin twice\'
+Table 5.3.1 Random variable $\small X$ = 'Number of Heads' when tossing
+a coin twice'
 
   -----------------------------------------------------------------------
-  Sample space                        $\small X$ = \'Number of Heads'
+  Sample space                        $\small X$ = 'Number of Heads'
   ----------------------------------- -----------------------------------
   Tail-Tail\                          0\
   Tail-Head\                          1\
@@ -1038,8 +1038,8 @@ the random variable $\small X$ can be summarized as shown in Table
 $\small X$ usually denoted as f(x). \<Figure 5.3.1\> is a graph of f(x).
 :::
 
-Table 5.3.2 Probability distribution function of $\small X$ = \'Number
-of Heads' when tossing a coin twice\'
+Table 5.3.2 Probability distribution function of $\small X$ = 'Number
+of Heads' when tossing a coin twice'
 
 +-----------------------------------+-----------------------------------+
 | 1\) Table style of the            | 2\) Function style of the         |
@@ -1061,7 +1061,7 @@ of Heads' when tossing a coin twice\'
 
 ::: figText
 \<Figure 5.3.1\> Probability distribution function of the random
-variable $\small X$ = \'Number of Heads' when tossing a coin twice\'
+variable $\small X$ = 'Number of Heads' when tossing a coin twice'
 :::
 
 ::: mainTable
@@ -1069,12 +1069,12 @@ The cumulative probability of $\small P(X \le x)$ as the value of random
 variable $\small X$ increases is referred to as a cumulative
 distribution function and denoted as F(x). In the previous example, the
 cumulative distribution function of the random variable $\small X$ =
-\'Number of Heads' when tossing a coin twice\' is shown as in Table
+'Number of Heads' when tossing a coin twice' is shown as in Table
 5.3.3.
 :::
 
 Table 5.3.3 Cumulative distribution function of the random variable
-$\small X$ = \'Number of Heads' when tossing a coin twice\'
+$\small X$ = 'Number of Heads' when tossing a coin twice'
 
 1\) Table style of the cumulative distribution function
 
@@ -1102,7 +1102,7 @@ $$
 
 ::: figText
 \<Figure 5.3.2\> Cumulative distribution function of the random variable
-$\small X$ = \'Number of Heads' when tossing a coin twice\'
+$\small X$ = 'Number of Heads' when tossing a coin twice'
 :::
 
 ::: mainTableYellow
@@ -1121,8 +1121,8 @@ function** and denoted as F(x).
 **Example 5.3.1** There are 200 families living in a village. The number
 of visits to hospitals by each household over the past year is as
 follows. Obtain the probability distribution function and the cumulative
-distribution function of the random variable $\small X$ = \'hospital
-visit count\'.
+distribution function of the random variable $\small X$ = 'hospital
+visit count'.
 
   ---------------- ---- ---- ---- ---- ---
   Hospital visit   0    1    2    3    4
@@ -1195,7 +1195,7 @@ $$
 
 ::: mainTableGrey
 **Example 5.3.2** Find the expected value and variance of the random
-variable $\small X$ = \'Number of Heads' when tossing a coin twice\'
+variable $\small X$ = 'Number of Heads' when tossing a coin twice'
 which described in Table 5.3.2.
 
 **Answer**
@@ -1236,15 +1236,15 @@ professor is thinking of following alternatives. Find the mean and
 variance of each alternative.
 
 ::: textL20M20
-1\) Add 20 points to each student\'s score.
+1\) Add 20 points to each student's score.
 :::
 
 ::: textL20M20
-2\) Each student\'s score is multiplied by 1.4.
+2\) Each student's score is multiplied by 1.4.
 :::
 
 ::: textL20M20
-3\) Multiply each student\'s score by 1.2 and add 10 points.
+3\) Multiply each student's score by 1.2 and add 10 points.
 :::
 
 **Answer**
@@ -1451,7 +1451,7 @@ normal} and {pro, con} in each experiment and this experiment is
 repeated, but we do not know what the outcome of each experiment. Each
 experiment which has two possible outcomes is specifically called a
 Bernoulli trial, and one outcome of interest in the two is often
-referred to as \'success\' and the other outcome as \'failure\'. This
+referred to as 'success' and the other outcome as 'failure'. This
 Bernoulli trial is usually repeated several times and the number of
 'success' is counted as following.
 
@@ -1499,7 +1499,7 @@ counting the number of heads.
 </div>
 
 ::: mainTable
-The \'counting of success\' when performing the independently repeated
+The 'counting of success' when performing the independently repeated
 Bernoulli trial with the same probability of success is called a binary
 random variable, and its distribution is called a binomial distribution.
 The probability calculation of the binomial distribution will be found
@@ -1539,39 +1539,39 @@ $\small X$ = 'the number of games the tiger wins'.
 **Answer**
 
 This problem is the enforcement of Bernoulli trial in each game of
-\'win\' and \'fail\'. This Bernoulli trial is repeated four times. The
+'win' and 'fail'. This Bernoulli trial is repeated four times. The
 sample space is all about winning or losing game and there are elements
 shown as follows by marking the winning in O and the losing in X.
 
 S = {'XXXX', 'OXXX', 'XOXX', 'XXOX', 'XXXO', 'OOXX', 'OXOX', 'OXXO',
 'XOOX', 'XOXO', 'XXOO', 'OOOX', 'OOXO', 'OXOO', 'XOOO', 'OOOO'}
 
-1\) The event that the Tiger will loose all games is {\'XXXX\'} and the
+1\) The event that the Tiger will loose all games is {'XXXX'} and the
 probability of this event is (0.4)×(0.4)×(0.4)×(0.4) = $\small (0.4)^4$.
 
 2\) There are four events that the Tiger is winning once and losing
 three times such as {'OXXX', 'XOXX', 'XXOX', 'XXXO'}. These four cases
-are equal to the number of O\'s in a single seat when there are four
+are equal to the number of O's in a single seat when there are four
 seats which is $\small{}_4C_1$. Since the probability of each event is
 (0.6)×(0.4)×(0.4)×(0.4), the probability of the Tiger winning once is
 $\small{}_4C_1 (0.6)(0.4)^3$.
 
 3\) There are six events that the Tiger is winning two times and losing
 two times such as {'OOXX', 'OXOX', 'OXXO', 'XOOX', 'XOXO', 'XXOO'}.
-These six cases are equal to the number of O\'s in two seats when there
+These six cases are equal to the number of O's in two seats when there
 are four seats which is $\small{}_4C_2$. Since the probability of each
 event is (0.6)×(0.6)×(0.4)×(0.4), the probability of the Tiger winning
 twice is $\small{}_4C_2 (0.6)^2(0.4)^2$.
 
 4\) There are four events that the Tiger is winning three times and
 losing one time such as {'OOOX', 'OOXO', 'OXOO', 'XOOO'}. These four
-cases are equal to the number of O\'s in three seats when there are four
+cases are equal to the number of O's in three seats when there are four
 seats which is $\small{}_4C_3$. Since the probability of each event is
 (0.6)×(0.6)×(0.6)×(0.4), the probability of the Tiger winning three
 times is $\small{}_4C_3 (0.6)^3(0.4)^1$.
 
 5\) There is one event that the Tiger is winning four times such as
-{'OOOO'}. This one case is equal to the number of O\'s in four seats
+{'OOOO'}. This one case is equal to the number of O's in four seats
 when there are four seats which is $\small{}_4C_4$. Since the
 probability of each event is (0.6)×(0.6)×(0.6)×(0.6), the probability of
 the Tiger winning all four times is $\small{}_4C_4 (0.6)^4$.
@@ -1742,7 +1742,7 @@ $\qquad \quad \small \sigma(X) = 1.265$
 
 Select 'Binomial Distribution' from the menu of 『eStatU』, enter
 $n=10, p=0.2$, and click on the \[Execute\] button to display the graph
-shown in \<Figure 5.3.6\>. Checking \'Show Probability\' option shows
+shown in \<Figure 5.3.6\>. Checking 'Show Probability' option shows
 the probability on each bar where you can see the values in the above
 calculations.
 
@@ -2050,7 +2050,7 @@ year
 ::: mainTable
 What these statistical experiments have in common is to investigate the
 number of events per unit time or unit area. A random variable that
-represents this \'occurrence of events per unit time or unit area\' is
+represents this 'occurrence of events per unit time or unit area' is
 called a Poisson random variable and its distribution is called a
 Poisson distribution.
 
@@ -2061,8 +2061,8 @@ following formula.
 ::: mainTableYellow
 **Poisson Distribution**
 
-The distribution of a Poisson random variable $X$ = \'Occurrence of
-success event per unit time or unit area\' is as follows when the
+The distribution of a Poisson random variable $X$ = 'Occurrence of
+success event per unit time or unit area' is as follows when the
 average number of success is λ. $$
         f(x) = \frac { e^{-\lambda} \lambda^x } { x! } , \qquad x = 0, 1, 2, ...
       $$
@@ -2185,7 +2185,7 @@ year?
 
 <div>
 
-Select \'Poisson distribution\' from the menu of 『eStatU』 and select λ
+Select 'Poisson distribution' from the menu of 『eStatU』 and select λ
 = 2.5. Then click on the \[Execute\] button to display a graph such as
 \<Figure 5.3.12\> and click the \[Poisson Prob Table\] button to see the
 Table 5.3.7.
@@ -2307,12 +2307,12 @@ trial?
 :::
 
 ::: mainTable
-In these examples, as with the binomial distribution, we don\'t know
+In these examples, as with the binomial distribution, we don't know
 what the outcome of each trial will be, but there are only two possible
 outcomes such as {pro, con} and {defective, normal}. If we denote one
 outcome of interest as 'success' and the other as 'failure', the
 experiment is the repetition of Bernoulli trials until we have one
-'success'. \'The number of Bernoulli trials until success\' is called a
+'success'. 'The number of Bernoulli trials until success' is called a
 **geometric random variable** and its distribution is called a
 **geometrical distribution**.
 
@@ -2324,7 +2324,7 @@ function of the geometric distribution is as follows:
 ::: mainTableYellow
 **Geometric Distribution**
 
-When the probability of \'success\' in a Bernoulli trial is $p$ and $X$
+When the probability of 'success' in a Bernoulli trial is $p$ and $X$
 is the number of Bernoulli trials until the first success, the
 probability distribution of $X$ is called a geometric distribution and
 its probability distribution function is as follows. $$
@@ -2429,7 +2429,7 @@ trial.
 
 <div>
 
-Select \'Geometric Distribution\' from the 『eStatU』 menu, select
+Select 'Geometric Distribution' from the 『eStatU』 menu, select
 parameter $p$ = 0.05, and click the \[Execute\] button to display the
 graph shown in \<Figure 5.3.16\>, and click the \[Geometric Prob Table\]
 button to display Table 5.3.8.
@@ -2634,7 +2634,7 @@ $$ \small
 
 **Answer**
 
-Select \'Hypergeometric Distribution\' from the menu of 『eStatU』,
+Select 'Hypergeometric Distribution' from the menu of 『eStatU』,
 select $N = 20, D = 15, n = 3$ and click on the \[Execute\] button to
 display a graph such as \<Figure 5.3.20\>. If you click the
 \[Hypergeometric Prob Table\] button, Table 5.3.9 appears. This table
@@ -2723,7 +2723,7 @@ commuting time usually takes about 30 minutes to get to the work place
 if the traffic is not congested. While the result of this experiment
 will have a real number near 30 minutes, we can assume generally that
 the sample space is larger than zero, and define a random variable
-$\small X$ as the \'commuting time to work place\'. As such, if a random
+$\small X$ as the 'commuting time to work place'. As such, if a random
 variable has an infinite number of possible values and it is
 uncountable, it is called a **continuous random variable**.
 
@@ -2732,8 +2732,8 @@ each value of the random variable is meaningless, because there are
 infinite possible values and the probability at each value is considered
 zero. Instead of calculating the probability at a single value, the
 probability of an interval is of interest in case of the continuous
-random variable. For example, \'What is the probability of a commuting
-time between 25 and 35 minutes?\' In order to obtain this probability,
+random variable. For example, 'What is the probability of a commuting
+time between 25 and 35 minutes?' In order to obtain this probability,
 we can divide the sample space of the commuting time into several
 intervals and count the number of their frequencies and probabilities
 for 100 days as in Table 5.4.1. \<Figure 5.4.1\> is a histogram of this
@@ -3827,7 +3827,7 @@ $P( -∞ < Z < z )$
 
 ::: mainTable
 Most of continuous data obtained in real life follows a normal
-distribution, but sometimes it is not. Let\'s take a look at the
+distribution, but sometimes it is not. Let's take a look at the
 following examples.
 
 ::: textL30M10
@@ -3918,7 +3918,7 @@ hours?
 
 **Answer**
 
-In 『eStatU』, select \'Exponential Distribution\' and enter λ = 10.
+In 『eStatU』, select 'Exponential Distribution' and enter λ = 10.
 Click the \[Execute\] button to reveal the graph shown as \<Figure
 5.4.16\>.
 
@@ -4038,7 +4038,7 @@ counter. He can only display four. If the order in which he displays the
 item is not important, how many ways can he display?
 
 5.7   An airline company which has six airplanes plans to advertise each
-airplane\'s operation in the Sunday newspaper for six weeks.
+airplane's operation in the Sunday newspaper for six weeks.
 
 ::: textL50M30
 1\) How many ways are there to advertise flight operations?
@@ -4285,8 +4285,8 @@ five days.
 :::
 
 5.17 A department store surveyed 80 customers about their purchasing
-habits and asked, \'How many times did you buy at this department store
-last month?\' The answer to the question is as follows.
+habits and asked, 'How many times did you buy at this department store
+last month?' The answer to the question is as follows.
 
   --------------------------------- ---- ---- ---- ---- --- --- --- ---
   $\small X$(Number of purchases)   0    1    2    3    4   5   6   7
@@ -4294,7 +4294,7 @@ last month?\' The answer to the question is as follows.
   --------------------------------- ---- ---- ---- ---- --- --- --- ---
 
 ::: textL50M30
-1\) If $\small X$ = \'Number of purchases\', draw the probability
+1\) If $\small X$ = 'Number of purchases', draw the probability
 distribution function of $\small X$.
 :::
 

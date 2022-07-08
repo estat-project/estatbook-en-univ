@@ -73,7 +73,7 @@ Table 12.1.1 Advertising costs and sales (unit: 1 million USD)
 **Answer**
 
 Using 『eStat』 , enter data as shown in \<Figure 12.1.1\>. If you
-select the Sales as \'Y Var\' and the Advertise \'by X Var\' in the
+select the Sales as 'Y Var' and the Advertise 'by X Var' in the
 variable selection box that appears when you click the scatter plot icon
 on the main menu, the scatter plot will appear as shown in \<Figure
 12.1.2\>. As we can expect, the scatter plot show that the more
@@ -418,7 +418,7 @@ are equal to zero.
 
 **Answer**
 
-From 『eStat』, load the data and click the \'Regression\' icon. When
+From 『eStat』, load the data and click the 'Regression' icon. When
 the variable selection box appears, select the four variables of
 Sepal.Length, Sepal.Width, Petal.Length, and Petal.Width, then the
 scatter plot matrix will be shown as \<Figure 12.1.6\>.
@@ -947,7 +947,7 @@ Since one of the main objectives of regression analysis is prediction,
 we would like to use the estimated regression line that would make the
 residuals smallest that the error occurs when predicting the value of Y.
 However, it is not possible to minimize the value of the residuals at
-all points, and it should be chosen to make the residuals \'totally\'
+all points, and it should be chosen to make the residuals 'totally'
 smaller. The most widely used of these methods is the method which
 minimizes the total sum of squared residuals, that is called the method
 of least squares regression.
@@ -1580,7 +1580,7 @@ regression line.
 :::
 
 ::: mainTableGrey
-**Example 12.2.4** Let\'s make inferences about each parameter with the
+**Example 12.2.4** Let's make inferences about each parameter with the
 result of a regression analysis of the previous data for the sales
 amount and advertising costs. Use 『eStat』 to check the test result and
 confidence band.
@@ -1706,7 +1706,7 @@ However, because the error term is unobservable, the residuals as
 estimate of the error term are used to investigate the validity of these
 assumptions which are referred to as a residual analysis.
 
-First, let\'s look at the assumptions in the regression model.
+First, let's look at the assumptions in the regression model.
 
 $\quad$ Assumptions in regression model\
 $\quad \;\; A_1$: The assumed model $Y = \alpha + \beta X + \epsilon$ is
@@ -2081,7 +2081,7 @@ Load the data saved at the following location of 『eStat』.
 :::
 
 In the variable selection box which appears by selecting the regression
-icon, select \'Y variable\' by volume and select 'by X variable' as the
+icon, select 'Y variable' by volume and select 'by X variable' as the
 diameter and height to display a scatter plot matrix as shown in
 \<Figure 12.3.1\>. It can be observed that there is a high correlation
 between volume and diameter, and that volume and height, and diameter
@@ -2558,9 +2558,9 @@ mid-term and final scores?
 
 ::: textL30M30
 12.4 An economist argues that there is a clear relationship between
-coffee and sugar prices. \'When people buy coffee, they will also buy
-sugar. Isn\'t it natural that the higher the demand, the higher the
-price?\' We collected the following sample data to test his theory.
+coffee and sugar prices. 'When people buy coffee, they will also buy
+sugar. Isn't it natural that the higher the demand, the higher the
+price?' We collected the following sample data to test his theory.
 :::
 
   Year   Coffee price   Sugar Price
@@ -2575,12 +2575,12 @@ price?\' We collected the following sample data to test his theory.
 
 ::: textL50M30
 1\) Prepare a scatter plot with the coffee price on $\small X$ axis and
-sugar price on $\small Y$ axis. Is this data true to this economist\'s
+sugar price on $\small Y$ axis. Is this data true to this economist's
 theory?
 :::
 
 ::: textL50M30
-2\) Test this economist\'s theory by using a regression analysis.
+2\) Test this economist's theory by using a regression analysis.
 :::
 
 ::: textL30M30

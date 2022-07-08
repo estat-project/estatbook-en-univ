@@ -295,8 +295,8 @@ for male and female is the same.
 1\) In 『eStat』, enter raw data of gender (M or F) and income as shown
 in \<Figure 8.1.4\> on the sheet. This type of data input is similar to
 all statistical packages. After entering the data, click the icon for
-testing two population means and select \'Analysis Var\' as V2 and \'By
-Group\' variable as V1. A 95% confidence interval graph that compares
+testing two population means and select 'Analysis Var' as V2 and 'By
+Group' variable as V1. A 95% confidence interval graph that compares
 sample means of two populations will be displayed as \<Figure 8.1.5\>.
 :::
 
@@ -420,8 +420,8 @@ using 『eStat』.
 Choose one answer and click Submit button
 
 ::: textL30M30
-8.1 One professor claims that \'A student who studies in the morning
-will get better math score than a student who studies in the evening.\'
+8.1 One professor claims that 'A student who studies in the morning
+will get better math score than a student who studies in the evening.'
 Assume that $\mu_1$ is the average exam score of students who study in
 the morning and $\mu_2$ is the average exam score of students who study
 in the evening. What is the null hypothesis of this test?
@@ -698,7 +698,7 @@ using 『eStatU』 - paired sample
 
 In 『eStat』, the paired data is entered in two columns as shown in
 \<Figure 8.1.13\>. Click the icon for testing two population means and
-select \'Analysis Var\' as V1 and \'by Group\' as V2 to show the dot
+select 'Analysis Var' as V1 and 'by Group' as V2 to show the dot
 graph and the confidence interval for differences of paired data as in
 \<Figure 8.1.14\>.
 
@@ -986,8 +986,8 @@ Ex ⇨ eBook ⇨ EX080103_WageByGender.csv.
 In 『eStat』, enter the gender and income in two columns on the sheet as
 shown in \<Figure 8.2.4\>. This type of data input is similar to all
 statistical packages. Once you entered the data, click on the icon for
-testing two population variances and select \'Analysis Var\' as V2 and
-\'By Groups\' as V1. Then a mean-standard deviation graph for each group
+testing two population variances and select 'Analysis Var' as V2 and
+'By Groups' as V1. Then a mean-standard deviation graph for each group
 will be appeared as in \<Figure 8.2.5\>.
 
 ::: width:650
@@ -1105,7 +1105,7 @@ proportions.
 
 ::: textL30M10
 - Is there a gender gap in the approval rating for a particular
-candidate in this year\'s presidential election?
+candidate in this year's presidential election?
 
 - A factory has two machines that make products. Do two machines have
 different defect rates?
@@ -1275,7 +1275,7 @@ In the previous two examples of comparing two population proportions,
 two sample proportions were calculated from independent samples.
 
 Suppose two candidates ran in an election and one thousand samples were
-selected to test whether there was any difference on the candidate\'s
+selected to test whether there was any difference on the candidate's
 approval rating. The approval ratings $p_1$ and $p_2$ of two candidates
 obtained from the sample are not independent, because unlike two
 previous examples they are calculated from one set of samples. So the
@@ -1465,7 +1465,7 @@ Company B: 46 52 66 65 71 67 47 48 58 42 66 69 60 80 45 47 69 75 43 46
 :::
 
 8.7 An industrial psychologist thinks that the big factor that workers
-change jobs is self-esteem to workers\' individual work. The scholar
+change jobs is self-esteem to workers' individual work. The scholar
 thinks that workers who change jobs frequently (group A) have lower
 self-esteem than those who do not (group B). The following data are used
 to measure the score of self-esteem by sampling each group
@@ -1480,7 +1480,7 @@ Group B: 70 72 74 74 76 91 71 78 78 83 50 52 66 65 53 52
 :::
 
 ::: textL30
-Can this data support the psychologist\'s idea? Assume that scores of
+Can this data support the psychologist's idea? Assume that scores of
 the population are normally distributed and that the population variance
 is not known but the same. (Significance level = 0.01)
 :::
@@ -1670,7 +1670,7 @@ Use the significance level of 0.05.
 8.20 In September 2013, a research institute surveyed 260 men and 263
 women about a political issue and the response result is as follows. Do
 you think there are significant differences in their way of thinking on
-the political issue?\' Specify the null hypothesis and the alternative
+the political issue?' Specify the null hypothesis and the alternative
 hypothesis and test at the 5% significance level.
 
         Men   Women

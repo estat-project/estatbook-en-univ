@@ -99,7 +99,7 @@ in \<Figure 13.1.1\>.
 | :::                                                                   |
 +-----------------------------------------------------------------------+
 
-Observing this figure, Korea\'s population has an overall increasing
+Observing this figure, Korea's population has an overall increasing
 trend, but the population decreased sharply in 1944-1949 due to World
 War II. It can be seen that the population expanded rapidly after the
 Korean war in 1953 and slowed since 1990. It can be seen that the growth
@@ -1179,7 +1179,7 @@ $\qquad \text{Square function } \qquad\quad \qquad W = Y^2$\
 $\qquad \text{Box-Cox Transformation} \quad \; W = \frac {Y^p - 1 }{p}$
 if p ≠ 0, else log(Y)
 
-\[Table 13.3.6\] is a toy company\'s quarterly sales, and \<Figure
+\[Table 13.3.6\] is a toy company's quarterly sales, and \<Figure
 13.3.5\> is a diagram of this data. It is a seasonal data by quarter,
 but, as time goes on, dispersion of sales increases over time. It is not
 easy to apply a time series model to data with this increasing
@@ -1359,7 +1359,7 @@ the linear model can be estimated approximately as follows:
 $\qquad \text{Power} \qquad \qquad log(Y_{t}) = log(\beta_{0}) +{\beta _{1}} \cdot log(t)$\
 $\qquad \text{Exponential} \quad \;\; log(Y_t) = log(\beta_0) + \beta_1 \cdot t$
 
-Korea\'s GDP from 1986 to 2021 is shown in \[Table 13.4.1\]. \<Figure
+Korea's GDP from 1986 to 2021 is shown in \[Table 13.4.1\]. \<Figure
 13.4.1\> shows the application of three regression models to this data.
 Among these models, the quadratic model has the largest value of $r^2$ =
 0.9591, so it can be said that the time series is the most suitable
@@ -2190,7 +2190,7 @@ Index
 Holt proposed a model for a linear time series
 $Y_t \;=\; \beta_0 \;+\; \beta_1 \cdot t \;+\; \epsilon_t$ which uses a
 smoothing constant for the level and a smoothing constant for the trend.
-This is called **Holt\'s linear trend exponential smoothing model** or
+This is called **Holt's linear trend exponential smoothing model** or
 two-parameters double exponential smoothing model. Let ${\hat b}_0$ and
 ${\hat b}_1$ be the initial values of the intercept and slope, and
 $\alpha$ be the smoothing constant of the level and $\gamma$ is the
@@ -2467,7 +2467,7 @@ time series model is applied to this deseasonal data and predict the
 future vaules. Then multiply the corresponding seasonal index to obtain
 the final predicted value of the desired season.
 
-\[Table 13.6.1\] shows a company\'s quarterly sales. Since the seasonal
+\[Table 13.6.1\] shows a company's quarterly sales. Since the seasonal
 period is 4, the 4-point centered moving average is as shown in column 4
 of the table. By dividing the original time series by a 4-point centered
 moving average, the seasonal ratio in column 5 can be calculated. $$
@@ -2654,7 +2654,7 @@ $Y_{2L}$\
 $\cdots$\
 $Y_{mL}$\
 
-The **Holt-Winters model** is an extension of Holt\'s linear double
+The **Holt-Winters model** is an extension of Holt's linear double
 exponential smoothing method studied in the previous section to a
 seasonal model. It consists of a level component $l_t$, a trend
 component $b_t$, and a seasonal component $s_t$. There are additive
@@ -2829,7 +2829,7 @@ dollars) of a retail store between 2001-2014.
 
 ::: textL30M30
 13.3 The following table shows the number of items repaired during a
-company\'s warranty period between 2001 and 2014.
+company's warranty period between 2001 and 2014.
 :::
 
   -----------------------------------------------------------------------

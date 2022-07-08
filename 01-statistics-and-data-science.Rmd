@@ -71,15 +71,15 @@ to samples.
 
 In the early 20th century, Ronald Fisher wrote the textbooks that were
 to define the academic discipline in universities around the world.
-Fisher\'s most important publications were his 1918 seminal paper, "The
+Fisher's most important publications were his 1918 seminal paper, "The
 Correlation between Relatives on the Supposition of Mendelian
 Inheritance" which was the first to use the statistical term, variance.
 He contributed with his classic 1925 work "Statistical Methods for
 Research Workers" and 1935 work "The Design of Experiments" which
 developed rigorous design of experiment models. He originated the
-concepts of sufficiency, ancillary statistics, Fisher\'s linear
+concepts of sufficiency, ancillary statistics, Fisher's linear
 discriminator and Fisher information. He applied statistics to various
-biological concepts such as Fisher\'s principle. In the 1930s, Egon
+biological concepts such as Fisher's principle. In the 1930s, Egon
 Pearson and Jerzy Neyman introduced the concepts of \"Type II\" error,
 power of a test and confidence intervals. Jerzy Neyman showed that
 stratified random sampling was in general a better method of estimation
@@ -163,7 +163,7 @@ teacher, and it is called the fourth industrial revolution society.
 
 The development of these technologies has created massive data, simply
 called 'Big Data', that were unimaginable in the past. Typical examples
-of the big data include data from Google\'s search records, social media
+of the big data include data from Google's search records, social media
 messages by mobile phones, web logs by internet connections, and
 telephone records of global telecom companies. The big data are expected
 to grow and increase exponentially in the future and the
@@ -194,7 +194,7 @@ There are many examples of data science that analyze big data and apply
 it to reality.
 
 ::: textL30M10
-- By analyzing questions about buying cars on Google\'s search engine,
+- By analyzing questions about buying cars on Google's search engine,
 a car sales company was able to predict the number of car models to be
 sold next month in the United States.
 
@@ -204,7 +204,7 @@ inventory management and establishing a corresponding product sales
 strategy.
 
 - An online shopping mall analyzed web logs to understand the taste of
-members\' customers and what products they were interested in, and
+members' customers and what products they were interested in, and
 customized advertisements tailored to each customer increased sales.
 
 - An oil exploration company analyzed tera bytes of geological data,
@@ -217,8 +217,8 @@ frauds and even large insurance fraud organizations.
 
 - A university in the U.S. analyzed data which were generated when
 students clicked on the system in an online class to monitor each
-student\'s learning performance. The university were able to propose
-class contents tailored to the student\'s understanding and to suggest
+student's learning performance. The university were able to propose
+class contents tailored to the student's understanding and to suggest
 subjects to be taken in the future. As a result, the degree acquisition
 rate has improved a lot.
 :::
@@ -514,8 +514,8 @@ measured on interesting characteristics from one person or object to
 another. The characteristic that varies from one person or object to
 another is called a variable. For example, if you examined gender and
 height for college students, there are two variables, gender and height.
-A measurement for gender can be in the form of \'Male\' or \'Female\'
-and its data can be \'Female\', \'Male\', 'Female', \... , etc which are
+A measurement for gender can be in the form of 'Male' or 'Female'
+and its data can be 'Female', 'Male', 'Female', \... , etc which are
 a collection of characters. A measurement for height can be 180cm or
 170cm and its data are a collection of numerical numbers such as 180cm,
 165cm, 158cm, 175cm, \... , etc.
@@ -660,7 +660,7 @@ Table 1.3.1 Raw data compiled in Excel by gender survey
   9     female
   10    male
 
-We can give a name of this column as \'Gender\' which is called a
+We can give a name of this column as 'Gender' which is called a
 variable name and their possible values, 'male' and 'female', are called
 values of the variable or value labels.
 

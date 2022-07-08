@@ -224,7 +224,7 @@ and the distribution of the sample statistic is called a sampling
 distribution. The sampling distribution identifies the relationship
 between the sample statistic and the population parameter and it makes
 possible to estimate and test a population parameter. In this section,
-let\'s first look at the sampling distribution of sample means and find
+let's first look at the sampling distribution of sample means and find
 out how to estimate the population mean.
 :::
 
@@ -867,7 +867,7 @@ used, a confidence interval based on the t distribution should be used.
 The $t$ distribution was studied by a statistician W. S. Gosset, who
 worked for a brewer in Ireland, and published his study result in 1907
 under the alias Student. So $t$ distribution is often referred to as
-Student\'s $t$ distribution. The $t$ distribution is not just a single
+Student's $t$ distribution. The $t$ distribution is not just a single
 distribution, but it is a family of distributions under a parameter
 called a degree of freedom, 1,2, \... , 30, \... and denoted as
 $t_1 ,t_2 , ... , t_{30} , ...$
@@ -914,7 +914,7 @@ normal distribution, this value was 1.645. Since the $t$ distribution is
 symmetrical, $t_{n:α} = -t_{n:1-α}$.
 
 In order to find a percentile value of the $t_{7}$ distribution using
-『eStatU』, click on \'$t$ distribution\' in the main menu of 『eStatU』
+『eStatU』, click on '$t$ distribution' in the main menu of 『eStatU』
 and then set the degree of freedom (df) to 7, and set the probability
 value in the fifth option below the $t$ distribution graph to 0.95, then
 $t_{7:0.05}$ = 1.895 will appear as \<Figure 6.2.8\>.
@@ -1244,7 +1244,7 @@ of sample variances.
 :::
 
 ::: mainTableGrey
-**Example 6.3.1** Let\'s consider the data again in Example 6.2.1 which
+**Example 6.3.1** Let's consider the data again in Example 6.2.1 which
 is the number of years of service for five salespeople in a company.
 
 6, 2, 4, 8, 10
@@ -1693,7 +1693,7 @@ using the following example.
 
 ::: mainTableGrey
 **Example 6.4.1** Consider a population consists of only 10 employees of
-a company. When employees\' satisfaction level for the company is
+a company. When employees' satisfaction level for the company is
 investigated and the satisfaction is expressed as 1, the complaint is 0
 as follows.
 
@@ -1791,7 +1791,7 @@ the finite population correction factor.
 :::
 
 ::: mainTableGrey
-**Example 6.4.2** Let\'s say 3% of semiconductors made in a
+**Example 6.4.2** Let's say 3% of semiconductors made in a
 semiconductor factory are defective. When 300 samples were taken without
 replacement, the sample proportion for defective products was 2%. Find
 out where this sample proportion is located among all possible sample
@@ -1830,7 +1830,7 @@ follows.
 
 ::: textL30M10
 - What is the approval rating of a particular political party in this
-year\'s election?
+year's election?
 
 - What is the percentage of the current unemployment rate?
 
@@ -2176,7 +2176,7 @@ proportion, the value of 0.5 is usually used.
 
 ::: mainTableGrey
 **Example 6.5.2** For this year presidential election, a survey for
-estimating the 95% confidence interval of a candidate\'s approval rating
+estimating the 95% confidence interval of a candidate's approval rating
 is conducted. Determine the size of the sample to be within 2.5% of the
 maximum allowable error bound. Check this calculation using 『eStatU』.
 
@@ -2378,7 +2378,7 @@ interval in the mobile rate for those who have transferred.
 6.16 A manufacturer guarantees a defect rate of less than 5% for a
 customer company that regularly purchases the product. The customer
 company collected 200 of the purchased products by simple random
-sampling and inspected the samples to confirm the manufacturer\'s
+sampling and inspected the samples to confirm the manufacturer's
 claims. If 19 defective products of the 200 samples were found, what
 would be the 95% confidence interval for the defect rate?
 
@@ -2425,7 +2425,7 @@ Saturday.
 :::
 
 ::: textL50M30
-1\) What\'s the price of this one-minute commercial?
+1\) What's the price of this one-minute commercial?
 :::
 
 ::: textL50M30
@@ -2457,7 +2457,7 @@ confidence interval. How many students should be surveyed to keep the
 maximum allowable error bound within 0.05?
 
 6.24 Of all manufacturers, we would like to know the percentage of
-companies that require a doctor\'s diagnosis from workers when they are
+companies that require a doctor's diagnosis from workers when they are
 absent due to illness for more than three days. How many samples do you
 need to estimate the maximum allowable error bound within 0.05% at the
 95% confidence level?
