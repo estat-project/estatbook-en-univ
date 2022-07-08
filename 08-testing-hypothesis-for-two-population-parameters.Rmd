@@ -234,7 +234,7 @@ population variances are assumed to be different
 
 ::: mainTableGrey
 **Example 8.1.2** If two population variances are assumed to be
-different in \[Example 8.1.1\], test whether weights of cookie bags
+different in [Example 8.1.1]{.example-ref}, test whether weights of cookie bags
 produced from two machines are equal or not at a 1% significance level.
 Check the test result using 『eStatU』.
 

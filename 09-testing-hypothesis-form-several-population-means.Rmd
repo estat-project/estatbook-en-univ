@@ -574,7 +574,7 @@ If the F test of the one-way ANOVA does not show a significant
 difference between each level of the factor, it can be concluded that
 there is no difference between each level of populations. However, if
 you conclude that there are significant differences between each level
-as shown in \[Example 9.1.1\], you need to examine which levels are
+as shown in [Example 9.1.1]{.example-ref}, you need to examine which levels are
 different from each other.
 
 The analysis of differences between population means after ANOVA
@@ -627,7 +627,7 @@ freedom. (It can be found at『eStatU』 ([Figure 9.1.8]{.figure-ref})).
 :::
 
 ::: mainTableGrey
-**Example 9.1.2** In \[Example 9.1.1\], the analysis variance of English
+**Example 9.1.2** In [Example 9.1.1]{.example-ref}, the analysis variance of English
 scores by the grade concluded that the null hypothesis was rejected and
 the average English scores for each grade were not all the same. Now
 let's apply the multiple comparisons to check where the differences
@@ -806,7 +806,7 @@ one-way variance analysis.
 :::
 
 ::: mainTableGrey
-**Example 9.1.3** In \[Example 9.1.1\] of English score comparison by
+**Example 9.1.3** In [Example 9.1.1]{.example-ref} of English score comparison by
 the grade, apply the residual analysis using『eStat』.
 
 **Answer**
@@ -1024,7 +1024,7 @@ ANOVA table, what is your conclusion with the 5％ significance level?
 :::
 
 ::: mainTable
-Data such as English scores by the grade in \[Example 9.1.1\] are not so
+Data such as English scores by the grade in [Example 9.1.1]{.example-ref} are not so
 difficult to collect samples from each of the grade population. However,
 obtaining samples through experiments such as engineering, medicine, or
 agriculture are often difficult to collect a large number of samples due

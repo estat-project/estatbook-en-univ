@@ -248,7 +248,7 @@ statistic. $$
       $$ Here, ($E_1 , E_2 , ... , E_k$) =
 ($np_{10} , np_{20} , ... , np_{k0}$) are expected frequencies, $m$ is
 the number of population parameters estimated from the sample data. In
-\[Example 11.1.1\], since there was not a population parameter estimated
+[Example 11.1.1]{.example-ref}, since there was not a population parameter estimated
 from the sample, $m$ = 0 .
 :::
 

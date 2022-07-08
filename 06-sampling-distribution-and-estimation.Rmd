@@ -392,9 +392,9 @@ denoted as $s^2$.
 
 ::: mainTable
 The relationship between the population mean and all possible sample
-means in \[Example 6.2.1\] is observed even if the population has a
+means in [Example 6.2.1]{.example-ref} is observed even if the population has a
 different shape of distribution. If the population is very large, it is
-not possible to find all possible samples as shown in \[Example 6.2.1\]
+not possible to find all possible samples as shown in [Example 6.2.1]{.example-ref}
 and to find a distribution of sample means. Therefore, the following
 theoretical research has been developed.
 
@@ -1311,7 +1311,7 @@ population and the sample variance of each sample
   10,10    0
 
 ::: textL20
-As discussed in \[Example 6.2.1\], the sample variance is also a random
+As discussed in [Example 6.2.1]{.example-ref}, the sample variance is also a random
 variable that can have many values, so it is denoted as $S^2$ and the
 observed sample variance as $s^2$. [Table 6.3.1]{.table-ref} shows that some of these
 sample variances are exactly the same as the population variance $σ^2$ =
@@ -1456,7 +1456,7 @@ compared with the variance of exam scores in previous year.
 
 In order to estimate the population variance, the sampling distribution
 of all possible sample variances should be used. As discussed in
-\[Example 6.3.1\], for an infinite population, the mean of all possible
+[Example 6.3.1]{.example-ref}, for an infinite population, the mean of all possible
 sample variances is the population variance. That is, the sample
 variance $S^2$ is an unbiased estimator of the population variance
 $σ^2$. Therefore, the sample variance is used to estimate the population

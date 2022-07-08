@@ -483,7 +483,7 @@ than $M_0$.
 :::
 
 ::: mainTableGrey
-**Example 10.1.2** Using the cookie weight data of \[Example 10.1.1\],
+**Example 10.1.2** Using the cookie weight data of [Example 10.1.1]{.example-ref},
 apply the signed rank test to see whether the weight of the cookie bag
 is 200g or not with the significance level of 5%
 
@@ -2659,7 +2659,7 @@ of the population. This section introduces the Friedman test
 corresponding to the randomized block design experiments in Section
 9.2.2.
 
-Let us take a look at the Friedman test using \[Example 9.2.1\] which
+Let us take a look at the Friedman test using [Example 9.2.1]{.example-ref} which
 was the car fuel mileage measurement problem.
 :::
 

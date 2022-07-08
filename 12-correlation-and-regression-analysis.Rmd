@@ -237,7 +237,7 @@ are the sample standard deviations of $X$ and $Y$ as follows: $$
 
 ::: mainTableGrey
 **Example 12.1.2** Find the sample covariance and correlation
-coefficient for the advertising costs and sales of \[Example 12.1.1\].
+coefficient for the advertising costs and sales of [Example 12.1.1]{.example-ref}.
 
 **Answer**
 
@@ -1002,14 +1002,14 @@ $$
 :::
 
 ::: mainTableGrey
-**Example 12.2.1** In \[Example 12.1.1\], find the least squares
+**Example 12.2.1** In [Example 12.1.1]{.example-ref}, find the least squares
 estimate of the slope and intercept if the sales amount is a dependent
 variable and the advertising cost is an independent variable. Predict
 the amount of sales when you have spent on advertising by 10.
 
 **Answer**
 
-In \[Example 12.1.1\], the calculation required to obtain the intercept
+In [Example 12.1.1]{.example-ref}, the calculation required to obtain the intercept
 and slope has already been made. The intercept and slope using this are
 as follows:
 
@@ -1429,7 +1429,7 @@ cost and test it using the 5% significance level.
 
 **Answer**
 
-Using the sum of squares calculated in \[Example 12.2.2\], the ANOVA
+Using the sum of squares calculated in [Example 12.2.2]{.example-ref}, the ANOVA
 table is prepared as follows:
 
   Source       Sum of squares   Degrees of freedom   Mean Squares                        $\small F$ value
@@ -2369,7 +2369,7 @@ the simple linear regression.
 :::
 
 ::: mainTableGrey
-**Example 12.3.2** For the tree data of \[Example 12.3.1\], obtain the
+**Example 12.3.2** For the tree data of [Example 12.3.1]{.example-ref}, obtain the
 least squares estimate of each coefficient of the proposed regression
 equation using 『eStat』 and apply the analysis of variance, test for
 goodness of fit and test for regression coefficients.
