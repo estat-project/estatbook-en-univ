@@ -46,7 +46,7 @@ variable increases or decreases as one variable increases.
 ::: mainTableGrey
 **Example 12.1.1** Based on the survey of advertising costs and sales
 for 10 companies that make the same product, we obtained the following
-data as Table 12.1.1. Using 『eStat』 , draw a scatter plot for this
+data as [Table 12.1.1]{.table-ref}. Using 『eStat』 , draw a scatter plot for this
 data and investigate the relation of the two variables.
 
 ::: textLeft
@@ -1141,7 +1141,7 @@ and sales.
 **Answer**
 
 To obtain the residual standard error and the coefficient of
-determination, it is convenient to make the following Table 12.2.1.
+determination, it is convenient to make the following [Table 12.2.1]{.table-ref}.
 Here, the estimated value $\small {\hat Y}_i$ of the sales from each
 value of $\small {X}_i$ uses the fitted regression line.
 
@@ -1331,7 +1331,7 @@ Average
 
 49.7
 
-In Table 12.2.1, $\small SST$ = 396.1, $\small SSR$ = 378.429,
+In [Table 12.2]{.table-ref}.1, $\small SST$ = 396.1, $\small SSR$ = 378.429,
 $\small SSE$ = 17.622. Here, the relationship of
 $\small SST = SSE + SSR$ does not exactly match because of the error in
 the number of digits calculation. The sample variance of residuals is as
@@ -1392,7 +1392,7 @@ Table 12.2.2 Analysis of variance table for simple linear regression
 
 ::: mainTable
 The sum of squares divided by its degrees of freedom is referred to as
-mean squares, and Table 12.2.2 defines the regression mean squares
+mean squares, and [Table 12.2.2]{.table-ref} defines the regression mean squares
 ($MSR$) and error mean squares ($MSE$) respectively. As the expression
 indicates, $MSE$ is the same statistic as $s^2$ which is the estimate of
 $\sigma^2$.
@@ -2040,7 +2040,7 @@ variables are fixed.
 to investigate the amount of timber in those areas. Since it is
 difficult to measure the volume of a tree directly, we can think of ways
 to estimate the volume using the diameter and height of a tree that is
-relatively easy to measure. The data in Table 12.3.1 are the values for
+relatively easy to measure. The data in [Table 12.3.1]{.table-ref} are the values for
 measuring diameter, height and volume after sampling of 15 trees in a
 region. (The diameter was measured at a point 1.5 meters above the
 ground.) Draw a scatter plot matrix of this data and consider a

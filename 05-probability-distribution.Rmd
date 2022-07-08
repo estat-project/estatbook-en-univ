@@ -991,7 +991,7 @@ this experiment, the possible value of $\small X$ can be 0, 1, or 2 and
 we are interested in calculating probabilities that $\small X$=0,
 $\small X$=1 or $\small X$=2. As such, a function that corresponds to
 one real number between \[0,1\] for each element of the sample space is
-called a random variable (see Table 5.3.1).
+called a random variable (see [Table 5.3]{.table-ref}.1).
 :::
 
 Table 5.3.1 Random variable $\small X$ = 'Number of Heads' when tossing
@@ -1196,7 +1196,7 @@ $$
 ::: mainTableGrey
 **Example 5.3.2** Find the expected value and variance of the random
 variable $\small X$ = 'Number of Heads' when tossing a coin twice'
-which described in Table 5.3.2.
+which described in [Table 5.3.2]{.table-ref}.
 
 **Answer**
 
@@ -1613,8 +1613,8 @@ probability distribution function of \[Example 5.3.4\].
 **Answer**
 
 Select 'Binomial Distribution' from the menu of 『eStatU』 and enter
-$\small n = 4, p = 0.6$ and press the \[Execute\] button to display a
-binomial function graph as shown in \<Figure 5.3.4\>. Table 5.3.4 shows
+$\small n = 4, p = 0.6$ and press the [Execute]{.button-ref} button to display a
+binomial function graph as shown in \<Figure 5.3.4\>. [Table 5.3.4]{.table-ref} shows
 the table when you click the \[Binomial Prob Table\] button. This table
 makes it easy to obtain Binomial distribution probabilities from
 \[Example 5.3.4\].
@@ -1741,7 +1741,7 @@ $\qquad \quad \small V(X) = np(1-p) = 10 × 0.2 × 0.8 = 1.6$\
 $\qquad \quad \small \sigma(X) = 1.265$
 
 Select 'Binomial Distribution' from the menu of 『eStatU』, enter
-$n=10, p=0.2$, and click on the \[Execute\] button to display the graph
+$n=10, p=0.2$, and click on the [Execute]{.button-ref} button to display the graph
 shown in \<Figure 5.3.6\>. Checking 'Show Probability' option shows
 the probability on each bar where you can see the values in the above
 calculations.
@@ -1769,7 +1769,7 @@ calculations.
 </div>
 
 Pressing the \[Binary Prob Table\] button will show the Binomial
-distribution table shown in Table 5.3.6. From here you can see that
+distribution table shown in [Table 5.3.6]{.table-ref}. From here you can see that
 $\small P(X \ge 2)$ = 0.6242
 
 Table 5.3.5 『eStatU』 Binomial Distribution Table when
@@ -1858,9 +1858,9 @@ products?
 **Answer**
 
 When you select $n=50, p=0.05$ from the 'Binomial Distribution' of
-『eStatU』 and click on the \[Execute\] button, the graph such as
+『eStatU』 and click on the [Execute]{.button-ref} button, the graph such as
 \<Figure 5.3.7\> appears. If you click the \[Binomial Prob Table\]
-button, then Table 5.3.6 appears.
+button, then [Table 5.3.6]{.table-ref} appears.
 
 1\) You can check $\small P(X=0)$ = 0.0769 easily from the table.
 
@@ -1899,7 +1899,7 @@ You may calculate this probability as $\small P(X=1) + P(X=2) + P(X=3)$.
 
 ::: textL20M20
 3\) The probability of having more than three defective products can be
-calculated by using the Table 5.3.6 as P(X \\ge 3) = 0.4595. You may
+calculated by using the [Table 5.3.6]{.table-ref} as P(X \\ge 3) = 0.4595. You may
 calculate this probability by using the complementary event as follows:
 :::
 
@@ -2186,7 +2186,7 @@ year?
 <div>
 
 Select 'Poisson distribution' from the menu of 『eStatU』 and select λ
-= 2.5. Then click on the \[Execute\] button to display a graph such as
+= 2.5. Then click on the [Execute]{.button-ref} button to display a graph such as
 \<Figure 5.3.12\> and click the \[Poisson Prob Table\] button to see the
 Table 5.3.7.
 
@@ -2226,7 +2226,7 @@ This event can be calculated as $\small P(X=2) + P(X=3) + P(X=4)$.
 :::
 
 ::: textL20M20
-3\) If you use Table 5.3.7, $\small P(X \ge 2)$ = 0.7127. Then the
+3\) If you use [Table 5.3]{.table-ref}.7, $\small P(X \ge 2)$ = 0.7127. Then the
 probability can be calculated by using the complementary event as
 follows:
 :::
@@ -2430,9 +2430,9 @@ trial.
 <div>
 
 Select 'Geometric Distribution' from the 『eStatU』 menu, select
-parameter $p$ = 0.05, and click the \[Execute\] button to display the
+parameter $p$ = 0.05, and click the [Execute]{.button-ref} button to display the
 graph shown in \<Figure 5.3.16\>, and click the \[Geometric Prob Table\]
-button to display Table 5.3.8.
+button to display [Table 5.3.8]{.table-ref}.
 
 ![](Figure/Fig050316.svg){.imgFig600600}
 
@@ -2635,9 +2635,9 @@ $$ \small
 **Answer**
 
 Select 'Hypergeometric Distribution' from the menu of 『eStatU』,
-select $N = 20, D = 15, n = 3$ and click on the \[Execute\] button to
+select $N = 20, D = 15, n = 3$ and click on the [Execute]{.button-ref} button to
 display a graph such as \<Figure 5.3.20\>. If you click the
-\[Hypergeometric Prob Table\] button, Table 5.3.9 appears. This table
+\[Hypergeometric Prob Table\] button, [Table 5.3.9]{.table-ref} appears. This table
 shows the probabilities of $\small P(X=0), P(X=1), P(X=2)$, and
 $\small P(X=3)$.
 
@@ -2736,7 +2736,7 @@ random variable. For example, 'What is the probability of a commuting
 time between 25 and 35 minutes?' In order to obtain this probability,
 we can divide the sample space of the commuting time into several
 intervals and count the number of their frequencies and probabilities
-for 100 days as in Table 5.4.1. \<Figure 5.4.1\> is a histogram of this
+for 100 days as in [Table 5.4.1]{.table-ref}. \<Figure 5.4.1\> is a histogram of this
 table.
 :::
 
@@ -3167,8 +3167,8 @@ the mean 0 and variance 1, i.e. $Z ∼ N(0,1)$
 ::: mainTable
 For the standard normal distribution function, the probability
 $P(Z \lt z)$ which is the area from the left end(-∞) to the value z is
-calculated by using a computer and summarized as Table 5.4.2. It is
-called the standard normal distribution table and Table 5.4.2 is a part
+calculated by using a computer and summarized as [Table 5.4.2]{.table-ref}. It is
+called the standard normal distribution table and [Table 5.4.2]{.table-ref} is a part
 of this table obtained using 『eStatU』. This table covers values of z
 between --3.99 and 3.99 by increment of 0.01 and four decimal digits of
 the probability for an interval (&-infin;, z) in the standard normal
@@ -3271,18 +3271,18 @@ By using normal distribution module of 『eStatU』 (\<Figure 5.4.9\>),
 
 ::: textL20M20
 1\) Enter 1.96 on the second option below the graph, then click the
-\[Execute\] button. The answer is shown at the yellow box in the right
+[Execute]{.button-ref} button. The answer is shown at the yellow box in the right
 hand side
 :::
 
 ::: textL20M20
 2\) Enter an interval from -1.96 and 1.96 on the first option below the
-graph, then click the \[Execute\] button.
+graph, then click the [Execute]{.button-ref} button.
 :::
 
 ::: textL20M20
 3\) Enter 1.96 on the third option below the graph, then click the
-\[Execute\] button. The answer is shown at the yellow box in the right
+[Execute]{.button-ref} button. The answer is shown at the yellow box in the right
 hand side
 :::
 
@@ -3341,19 +3341,19 @@ By using normal distribution module of 『eStatU』 (\<Figure 5.4.9\>),
 
 ::: textL20M20
 1\) Enter $p =$ 0.90 at the right box of the fifth option below the
-graph, then click the \[Execute\] button. It shows that the exact 90
+graph, then click the [Execute]{.button-ref} button. It shows that the exact 90
 percentile is 1.282 at the yellow box.
 :::
 
 ::: textL20M20
 2\) Enter $p =$ 0.99 at the right box of the fourth option below the
-graph, then click the \[Execute\] button. You can see that the exact
+graph, then click the [Execute]{.button-ref} button. You can see that the exact
 two-sided value is --2.576 and 2.576 at the yellow boxes .
 :::
 
 ::: textL20M20
 3\) Enter $p =$ 0.05 at the right box of the sixth option below the
-graph, then click the \[Execute\] button. It shows that the right 5
+graph, then click the [Execute]{.button-ref} button. It shows that the right 5
 percentile is 1.645 at the yellow box.
 :::
 
@@ -3521,7 +3521,7 @@ the screen as \<Figure 5.4.12\>.
 
 ::: textL20M20
 1\) Enter 94.3 at the second option below the graph and then click the
-\[Execute\] button.
+[Execute]{.button-ref} button.
 :::
 
 <div>
@@ -3548,12 +3548,12 @@ the screen as \<Figure 5.4.12\>.
 
 ::: textL20M20
 2\) Enter 57.7 at the third option below the graph and then click the
-\[Execute\] button.
+[Execute]{.button-ref} button.
 :::
 
 ::: textL20M20
 3\) Enter the interval as (57.7, 94.3) at the first option below the
-graph and then click the \[Execute\] button.
+graph and then click the [Execute]{.button-ref} button.
 :::
 :::
 
@@ -3589,7 +3589,7 @@ screen as \<Figure 5.4.13\>.
 
 ::: textL20M20
 1\) Enter 0.95 at the box of the fifth option below the graph and click
-the \[Execute\] button to display the 95 percentile as 86.449.
+the [Execute]{.button-ref} button to display the 95 percentile as 86.449.
 :::
 
 <div>
@@ -3616,7 +3616,7 @@ the \[Execute\] button to display the 95 percentile as 86.449.
 
 ::: textL20M20
 2\) Enter 0.95 at the box of the fourth option below the graph and click
-the \[Execute\] button to display the two-sided 95 percentile as
+the [Execute]{.button-ref} button to display the two-sided 95 percentile as
 (50.400, 89.600).
 :::
 :::
@@ -3919,7 +3919,7 @@ hours?
 **Answer**
 
 In 『eStatU』, select 'Exponential Distribution' and enter λ = 10.
-Click the \[Execute\] button to reveal the graph shown as \<Figure
+Click the [Execute]{.button-ref} button to reveal the graph shown as \<Figure
 5.4.16\>.
 
 <div>
@@ -3946,13 +3946,13 @@ Click the \[Execute\] button to reveal the graph shown as \<Figure
 
 ::: textL20M20
 1\) Enter 5 at the box of the second option below the distribution graph
-as \<Figure 5.4.16\> and click the \[Execute\] button. The probability
+as \<Figure 5.4.16\> and click the [Execute]{.button-ref} button. The probability
 is 0.3935.
 :::
 
 ::: textL20M20
 2\) Similarly, enter 10 at the box of the third option below the
-distribution graph as \<Figure 5.4.16\> and click the \[Execute\]
+distribution graph as \<Figure 5.4.16\> and click the [Execute]{.button-ref}
 button. The probability is 0.3679.
 :::
 :::

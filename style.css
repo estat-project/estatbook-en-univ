@@ -13,6 +13,20 @@ pre code {
   white-space: inherit;
 }
 
+.button-ref {
+    border: 1px solid black;
+    background-color: #eeeeee;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.table-ref {
+    color: red;
+}
+
+
+
+
 .qrBtn {
   float: left;
   background-color: black; // #4CAF50; /* green */

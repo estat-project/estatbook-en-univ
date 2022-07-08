@@ -126,7 +126,7 @@ If a hypothesis is chosen by this decision rule, there are always two
 possible errors in the decision. One is a **Type 1 Error** which accepts
 $\small H_1$ when $\small H_0$ is true, the other is a **Type 2 Error**
 which accept $\small H_0$ when $\small H_1$ is true. These errors can be
-summarized as Table 7.1.1.
+summarized as [Table 7.1.1]{.table-ref}.
 
 Table 7.1.1 Two types of errors in testing hypothesis
 
@@ -239,7 +239,7 @@ rejection region on the left side of the sampling distribution, it is
 called a **left-sided test**. Since 3) has rejection regions on both
 sides of the sampling distribution, it is called a **two-sided test**.
 The decision rule for each type of three alternative hypothesis are
-summarized in Table 7.1.2 when the population standard deviation is
+summarized in [Table 7.1.2]{.table-ref} when the population standard deviation is
 known and α is the significance level.
 :::
 
@@ -301,7 +301,7 @@ rejected, else $H_0$ is accepted.
 
 ::: mainTable
 The calculation of the $p$-value depending on the type of the
-alternative hypothesis is summarized as in Table 7.1.3.
+alternative hypothesis is summarized as in [Table 7.1.3]{.table-ref}.
 :::
 
 Table 7.1.3 Calculation of $p$-value
@@ -328,7 +328,7 @@ If the population standard deviation σ is unknown and the population is
 a normal distribution, the test statistic $$
         \frac {\overline X - \mu_0}{ \frac {S}{\sqrt{n}} }
       $$ is a $t$ distribution with $(n-1)$ degrees of freedom. The
-testing hypothesis for the population mean can be done as Table 7.1.4
+testing hypothesis for the population mean can be done as [Table 7.1]{.table-ref}.4
 which replace the $Z$ distribution with the $t$ distribution in Table
 7.1.2 and σ with $S$.
 :::
@@ -356,7 +356,7 @@ $H_0 : \mu \ge \mu_0$
 ::: mainTable
 If the sample size is large enough (approximately 30 or more), the $t$
 distribution is approximated to the standard normal distribution, so the
-testing hypothesis in Table 7.1.4 can be performed using the standard
+testing hypothesis in [Table 7.1.4]{.table-ref} can be performed using the standard
 normal distribution, $Z$ , instead of $t$ distribution.
 :::
 
@@ -476,7 +476,7 @@ is large enough.
 </div>
 
 ::: textL20
-If you click the \[Execute\] button, the confidence Interval for μ is
+If you click the [Execute]{.button-ref} button, the confidence Interval for μ is
 calculated and the testing result using 『eStatU』 will appear as in
 \<Figure 7.1.4\>.
 :::
@@ -523,7 +523,7 @@ $\small  \qquad \qquad\text{'If } \overline X > 250 + 2.602 \frac {10}{\sqrt{16}
 In \<Figure 7.1.3\> of 『eStatU』 , select the right-sided test of
 \[Hypothesis\], select the $t$-test on \[Test Type\] and enter sample
 size $n$ = 16, then the test result is as \<Figure 7.1.6\> if you click
-the \[Execute\] button.
+the [Execute]{.button-ref} button.
 
 <div>
 
@@ -972,7 +972,7 @@ sample size $n$ = 25 and sample variance $\small s^2 = 0.15^2 = 0.0225$.
 </div>
 
 ::: textL20
-If you click the \[Execute\] button, the confidence interval of
+If you click the [Execute]{.button-ref} button, the confidence interval of
 $\sigma^2$ is calculated and testing result will be shown as \<Figure
 7.2.2\>.
 :::
@@ -1154,7 +1154,7 @@ possible sample proportions ($\hat p$) is approximated to a normal
 distribution with the mean of population proportion ($p$) and the
 variance of $\frac{p(1-p)}{n}$. Therefore, the testing hypothesis for
 the population proportion is similar to the testing hypothesis for the
-population mean as Table 7.3.1. If $np$ \> 5 and $n(1-p)$ \> 5, it is
+population mean as [Table 7.3.1]{.table-ref}. If $np$ \> 5 and $n(1-p)$ \> 5, it is
 usually considered as a large sample.
 :::
 
@@ -1221,7 +1221,7 @@ and $z_{0.05/2} = z_{0.025}$ = 1.96, hence $\small H_0$ is accepted.
 $p_0 =0.6$, select the two sided test and the 5% significance level as
 \<Figure 7.3.1\> in the input box window. Then enter the sample size $n$
 = 100, and the sample proportion $\hat p = 0.55$. If you click the
-\[Execute\] button, the confidence interval of $p$ is calculated and
+[Execute]{.button-ref} button, the confidence interval of $p$ is calculated and
 testing result will be shown as in \<Figure 7.3.2\>.
 :::
 
@@ -1372,7 +1372,7 @@ $\small \qquad \;\; = 0.137$
 
 Select 'Testing $\mu - C, \beta$ ' at 『eStatU』 menu. Enter
 $\small \mu_0 = 1500 , \mu_1 = 1600,  \sigma = 200, \alpha = 0.05, n = 30$
-in the input box window as \<Figure 7.4.1\> and click the \[Execute\]
+in the input box window as \<Figure 7.4.1\> and click the [Execute]{.button-ref}
 button. The result of the testing hypothesis, the critical value $C$ and
 the probability of the type 2 error β, will be shown as in \<Figure
 7.4.2\>.
@@ -1455,7 +1455,7 @@ $\qquad \small \;\;= P( Z \lt -0.546 ) = 0.283$
 
 ::: textL20M20
 2\) In order to calculate β using 『eStatU』 , enter $\mu_1 = 1580$ in
-\<Figure 7.4.1\> and click the \[Execute\] button.
+\<Figure 7.4.1\> and click the [Execute]{.button-ref} button.
 :::
 
 </div>
@@ -1749,7 +1749,7 @@ input box window as \<Figure 7.4.4\>.
 
 </div>
 
-If you click the \[Execute\] button, you will see the test result of
+If you click the [Execute]{.button-ref} button, you will see the test result of
 『eStatU』 as in \<Figure 7.4.5\>. The critical value and the sample
 size are calculated.
 

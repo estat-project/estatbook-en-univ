@@ -111,7 +111,7 @@ students which assigned serial numbers from one to fifty must be made
 first. In order to collect samples, select 'Uniform Random Number' in
 『eStatU』 menu. Enter (1 and 50) at the box of 'Uniform', check
 'Integer', enter 10 at the box of 'Number of Data' and click the
-\[Execute\] button as shown in \<Figure 6.1.2\>. These are the random
+[Execute]{.button-ref} button as shown in \<Figure 6.1.2\>. These are the random
 numbers to select students, but your computer might generate different
 numbers, because it depends on computer.
 
@@ -331,7 +331,7 @@ sample size ($n$=2).
 :::
 
 ::: textL20M20
-3\) Table 6.2.2 shows the frequency distribution of sample means in
+3\) [Table 6.2.2]{.table-ref} shows the frequency distribution of sample means in
 Table 6.2.1. The frequency distribution of all possible sample means is
 called a sampling distribution of sample means when n = 2. \<Figure
 6.2.2\> shows a bar graph of the population distribution and \<Figure
@@ -1274,7 +1274,7 @@ draw its bar graph.
 
 ::: textL20M20
 2\) All possible samples of size 2 with replacement from the population
-and the sample variance of each sample are as in Table 6.3.1.
+and the sample variance of each sample are as in [Table 6.3.1]{.table-ref}.
 :::
 
 ::: textLeft
@@ -1313,7 +1313,7 @@ population and the sample variance of each sample
 ::: textL20
 As discussed in \[Example 6.2.1\], the sample variance is also a random
 variable that can have many values, so it is denoted as $S^2$ and the
-observed sample variance as $s^2$. Table 6.3.1 shows that some of these
+observed sample variance as $s^2$. [Table 6.3.1]{.table-ref} shows that some of these
 sample variances are exactly the same as the population variance $σ^2$ =
 8, others such as 0 or 32 are significantly different from 8. The
 average of all possible sample variances, denoted as $\mu_{s^2}$, is as
@@ -1327,7 +1327,7 @@ estimate of the population variance.
 :::
 
 ::: textL20M20
-3\) Table 6.3.2 shows the frequency distribution of all possible sample
+3\) [Table 6.3.2]{.table-ref} shows the frequency distribution of all possible sample
 variances and \<Figure 6.3.1\> is its bar graph. This is called the
 sampling distribution of sample variances. The fact that can be observed
 in this Figure is that there are many small sample variances and there
@@ -1719,7 +1719,7 @@ for 0 or yes for 1
 
 Total number of possible samples of size 5 with replacement is
 10×10×10×10×10 = 100000 and the number of cases of possible sample
-proportions are as in Table 6.4.1.
+proportions are as in [Table 6.4.1]{.table-ref}.
 
 ::: textLeft
 Table 6.4.1 All possible sample cases
@@ -1900,7 +1900,7 @@ The 95% confidence interval is as follows: $$  \small
         \shoveleft ⇔ \left[ 0.532 , 0.668 \right]
         \end{multline}
       $$ In 『eStatU』, enter data in the \[Sample Data\] box as shown
-in \<Figure 6.4.3\> and click the \[Execute\] button to calculate the
+in \<Figure 6.4.3\> and click the [Execute]{.button-ref} button to calculate the
 confidence interval \[0.5321, 0.6679\] using the normal distribution.
 
 <div>
@@ -2086,7 +2086,7 @@ Hence the sample size is 96 approximately.
 In 『eStatU』, select the menu 'Estimation : μ - Sample Size '. Enter
 the margin of Error $d$ = 20, the population standard deviation σ = 100
 and confidence level 1-α = 0.95 as in \<Figure 6.5.1\>, then click the
-\[Execute\] button to calculate the sample size $n$.
+[Execute]{.button-ref} button to calculate the sample size $n$.
 
 <div>
 
@@ -2197,7 +2197,7 @@ In 『eStatU』, select the menu 'Estimation : $p$ - Sample Size $n$'.
 Enter the margin of Error $d$ = 0.025, the estimate of the sample
 proportion $\hat p$ = 0.5 (since we don't know $\hat p$, it is an
 estimate), and the confidence level 1 - α = 0.95 as in \<Figure 6.5.2\>,
-then click the \[Execute\] button to calculate the sample size .
+then click the [Execute]{.button-ref} button to calculate the sample size .
 
 <div>
 

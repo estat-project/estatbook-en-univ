@@ -297,7 +297,7 @@ words, the median of the weight of the cookie bag is 200g.
 
 ::: textL20M20
 3\) Enter data as shown in \<Figure 10.1.5\> in 『eStatU』and press the
-\[Execute\] button to show the test result as in \<Figure 10.1.6\>. It
+[Execute]{.button-ref} button to show the test result as in \<Figure 10.1.6\>. It
 shows the critical lines for values containing the significance level of
 5% (2.5% for both tests). For a discrete distribution such as the
 binomial distribution, the choice of the final reject region shall be
@@ -391,7 +391,7 @@ a binomial distribution. Let us use $n_+$ in this section.
 $B(n,0.5)_{\alpha}$ represents the 100$\times \alpha$ right 100
 percentile, but the accurate percentile value may not exist, because it
 is a discrete distribution. In this case, middle value of two nearest
-percentile is often used. Table 10.1.1 summarizes the decision rule for
+percentile is often used. [Table 10.1.1]{.table-ref} summarizes the decision rule for
 each type of hypothesis of the sign test.
 :::
 
@@ -426,7 +426,7 @@ As studied in Chapter 5, the binomial distribution $B(n,0.5)$ is
 approximated to the normal distribution $N(0.5n,0.5^2 n)$ if $n$ is
 sufficiently large. Therefore, if the sample size is large, the test
 statistic $n_+$ = 'the number of plus sign data' can be tested using
-the normal distribution $N(0.5n,0.5^2 n)$. Table 10.1.2 summarizes the
+the normal distribution $N(0.5n,0.5^2 n)$. [Table 10.1.2]{.table-ref} summarizes the
 decision rule for each hypothesis of the sign test in the case of large
 samples.
 :::
@@ -537,10 +537,10 @@ null hypothesis is true, the distribution of random variable
 [$\small R_{+}$]{style="color:red"} = 'rank sum of + sign data' (or
 $\small R_-$ = 'rank sum of -- sign data') should be known. If
 $\small H_0$ is true, the number of cases for
-[$\small R_{+}$]{style="color:red"} is shown in Table 10.1.3. It is not
+[$\small R_{+}$]{style="color:red"} is shown in [Table 10.1.3]{.table-ref}. It is not
 easy to examine all of these possible rankings to create a distribution
 table. 『eStatU』shows the distribution of Wilcoxon signed rank sum as
-shown in \<Figure 10.1.7\> and its table as in Table 10.1.4.
+shown in \<Figure 10.1.7\> and its table as in [Table 10.1.4]{.table-ref}.
 
 ::: textLeft
 Table 10.1.3 All possible cases of [$\small R_{+}$]{style="color:red"} =
@@ -631,7 +631,7 @@ Since $\small R_+$ = 29.5 in this problem, we can not reject
 $\small H_0$.
 
 After entering the data in『eStatU』as in \<Figure 10.1.8\>, pressing
-the \[Execute\] button will calculate the sample statistics and show the
+the [Execute]{.button-ref} button will calculate the sample statistics and show the
 test result as in \<Figure 10.1.9\>. The critical lines are the value
 for containing 5% significance level from both sides (the probability of
 each end is 2.5%). For a discrete distribution, the choice of the final
@@ -715,7 +715,7 @@ cases.『eStatU』provides $w_{+}(n)$ until $n$ = 22. $w_{+}(n)_{α}$
 denotes right 100$\times α$ percentile of the $w_{+}(n)$ distribution,
 but it is not easy to find the exact percentile, because $w_{+}(n)$ is a
 discrete distribution and is usually used to approximate the two
-adjacent values. Table 10.1.5 summarizes the decision rule for the
+adjacent values. [Table 10.1.5]{.table-ref} summarizes the decision rule for the
 Wilcoxon signed rank sum test for each type of hypothesis.
 :::
 
@@ -1117,7 +1117,7 @@ The Wilcoxon rank sum test calculates ranks of each data by combining
 two samples first and then calculate the sum of ranks in each sample. If
 there is a tie, then the averaged rank shall be used. To obtain the
 ranks of the combined sample, it is convenient to arrange each sample
-data in ascending order as shown in Table 10.2.1. The sum of ranks
+data in ascending order as shown in [Table 10.2.1]{.table-ref}. The sum of ranks
 $\small R_1$ and $\small R_2$ in each sample will be used as the test
 statistic for the Wilcoxon rank sum test.
 :::
@@ -1159,7 +1159,7 @@ significant when the null hypothesis is true, the distribution of the
 random variable $\small R_{2}$ = 'Rank sum of sample 2' (or
 $\small R_{1}$ = 'Rank sum of sample 1') should be known. If
 $\small H_0$ is true, the number of cases for $\small R_{2}$ is
-${}_{13}P_{6}$ = 1716 as shown in Table 10.2.2. It is not easy to
+${}_{13}P_{6}$ = 1716 as shown in [Table 10.2.2]{.table-ref}. It is not easy to
 examine all of these possible rankings to find the distribution table.
 『eStatU』provides the Wilcoxon rank sum distribution and its table as
 shown in \<Figure 10.2.4\>.
@@ -1242,7 +1242,7 @@ $\small R_2$ is not statistically significant.
 
 ::: textL20M20
 3\) In『eStatU』, enter the data as \<Figure 10.2.5\> and click the
-\[Execute\] button. It will calculate the sample statistics and show the
+[Execute]{.button-ref} button. It will calculate the sample statistics and show the
 test result graph as \<Figure 10.2.6\>. The two critical lines which
 correspond to 2.5% from the end are shown here. For a discrete
 distribution such as this, the choice of the final rejection region
@@ -1327,7 +1327,7 @@ table up to $n$ = 25. $w_{2}(n_{1},n_{2})_{α}$ denotes the right tail
 100$\times α$ percentile, but it might not be able to find the accurate
 percentile, because $w_{2}(n_{1},n_{2})$ is a discrete distribution. In
 this case, middle value of two percentiles near $w_{2}(n_{1},n_{2})_{α}$
-is often used as an approximation. Table 10.2.4 summarizes the decision
+is often used as an approximation. [Table 10.2.4]{.table-ref} summarizes the decision
 rule for each type of hypothesis.
 :::
 
@@ -1410,7 +1410,7 @@ following mean $E(R_2 )$ and variance $V(R_2 )$: $$
           E(R_2 ) &= \frac {n_2 (n_1 + n_2 +1 ) } {2} \\
           V(R_2 ) &= \frac {n_1 n_2 (n_1 + n_2 +1)} {12}
         \end{align}
-      $$ Table 10.2.5 summarizes the decision rule for each hypothesis
+      $$ [Table 10.2.5]{.table-ref} summarizes the decision rule for each hypothesis
 type of the Wilcoxon rank sum test if the sample is large enough.
 :::
 
@@ -1681,7 +1681,7 @@ ties on the difference data, assign the average rank.
 
 ::: textL20
 In『eStatU』, the distribution of the Wilcoxon signed rank sum when is
-shown in \<Figure 10.2.9\> and Table 10.2.8.
+shown in \<Figure 10.2.9\> and [Table 10.2.8]{.table-ref}.
 :::
 
 ::: textLeft
@@ -1726,7 +1726,7 @@ confidence interval for the population mean difference will appear.
 
 ::: textL20
 If you enter 0 for testing value in the hypothesis option and click the
-\[Execute\] button, you will see the test result as in\<Figure 10.2.10\>
+[Execute]{.button-ref} button, you will see the test result as in\<Figure 10.2.10\>
 and \<Figure 10.2.11\>. Two critical lines for values containing 2.5
 percentile from both sides are shown here. For a discrete distribution,
 the choice of the final decision rule should be determined by the
@@ -1780,7 +1780,7 @@ distribution of $R_+$, denoted as $w_{+}(n)$, up to $n$ = 22.
 $w_{+}(n)_{α}$ refers to the right-hand 100 $\times α$ percentile of
 this distribution which may not have an accurate percentile value,
 because it is a discrete distribution. In this case the average of two
-values near $w_{+}(n)_{α}$ is used approximately. Table 10.2.9
+values near $w_{+}(n)_{α}$ is used approximately. [Table 10.2]{.table-ref}.9
 summarizes the decision rule of the Wilcoxon signed rank sum test for
 paired samples by the type of hypothesis.
 :::
@@ -1923,7 +1923,7 @@ mileage. Use the significance level of 0.05.
 
 ::: mainTable
 If the sample size of the paired sample is large, use the normal
-distribution approximation formula shown in Table 10.1.6.
+distribution approximation formula shown in [Table 10.1.6]{.table-ref}.
 :::
 
 ::: mainTablePink
@@ -2134,7 +2134,7 @@ $\qquad \small H = \frac{12}{n(n+1)} \sum_{j=1}^{3} \frac{R_j^2}{n_j} - 3(n+1)$
 
 To obtain ranks of the combined sample, it is convenient to arrange the
 data in ascending order separately and then rank the whole data as shown
-in Table 10.3.1.
+in [Table 10.3.1]{.table-ref}.
 :::
 
 ::: textLeft
@@ -2180,7 +2180,7 @@ statistically significant. If $n$ = 10, the number of cases for ranking
 these possible rankings to create a distribution table of $\small H$.
 『eStatU』 shows the distribution of the Kruskal--Wallis for $n_1$ = 4,
 $n_2$ = 3, and $n_3$ = 3 as shown in \<Figure 10.3.4\>, and a part of
-the distribution table as in Table 10.3.2. As shown in the figure, the
+the distribution table as in [Table 10.3.2]{.table-ref}. As shown in the figure, the
 distribution of $\small H$ is an asymmetrical distribution.
 :::
 
@@ -2390,7 +2390,7 @@ Since $\small H$ = 7.318 in this example, we reject $\small H_0$.
 
 ::: textL20M20
 3\) In 『eStatU』, enter data as \<Figure 10.3.5\> and click the
-\[Execute\] button. Then the sample statistics are calculated and the
+[Execute]{.button-ref} button. Then the sample statistics are calculated and the
 test result is shown as in \<Figure 10.3.6\>. The critical line for
 values containing 5 percentile of the significance level is shown here.
 For a discrete distribution, the choice of the final rejection region
@@ -2473,7 +2473,7 @@ $$
           H_1 &: \text{At least one pair of } \tau_i \text{ is not equal.}
         \end{align}
       $$ For the Kruskal--Wallis test, ranking data for the combined
-sample must be created. Table 10.3.4 is a notation of ranking data for
+sample must be created. [Table 10.3.4]{.table-ref} is a notation of ranking data for
 each level.
 :::
 
@@ -2492,7 +2492,7 @@ Table 10.3.4 Notation of ranking data in each level
 
 ::: mainTable
 The sum of squares for the one-way analysis of variance studied in
-Chapter 9 by using the ranking data in Table 10.3.4 are as follows: $$
+Chapter 9 by using the ranking data in [Table 10.3.4]{.table-ref} are as follows: $$
         \begin{align}
           SST  & = \sum_{i=1}^k \sum_{j=1}^{n_i} ( R_{ij} - {\overline R}_{\cdot \cdot} )^2 = \sum_{k=1}^n (k -{\overline R}_{\cdot \cdot} )^2 = n(n+1)(n-1) \\
           SSTr & = \sum_{i=1}^k \sum_{j=1}^{n_i} ( {\overline R}_{i \cdot} - {\overline R}_{\cdot \cdot} )^2 \\
@@ -2553,7 +2553,7 @@ distribution-free test.
 
 If the null hypothesis is true and the sample size is large enough, the
 test statistic $H$ is approximated by the chi-square distribution with
-$k-1$ degrees of freedom. Table 10.3.6 summarizes the decision rule for
+$k-1$ degrees of freedom. [Table 10.3.6]{.table-ref} summarizes the decision rule for
 the Kruskal-Wallis test in case of large samples.
 :::
 
@@ -2665,8 +2665,8 @@ was the car fuel mileage measurement problem.
 
 ::: mainTableGrey
 **Example 10.3.2** The fuel mileage of the three types of cars (A, B and
-C) is measured using the randomized block design as Table 9.2.4 and it
-is rearranged in Table 10.3.7.
+C) is measured using the randomized block design as [Table 9.2.4]{.table-ref} and it
+is rearranged in [Table 10.3.7]{.table-ref}.
 
 ::: textLeft
 Table 10.3.7 Fuel mileage of the three types of cars
@@ -2797,7 +2797,7 @@ ranking when $n$ = 5, $k$ = 3 is $(3!)^5 = 7776$, it is not easy to
 examine all of these possible rankings to obtain a distribution.
 『eStatU』 provides the distribution of the test statistic $\small S$ in
 the case of $n$ = 5, $k$ = 3 as in \<Figure 10.3.10\> and its
-distribution table as Table 10.3.9. As shown in the graph, the
+distribution table as [Table 10.3.9]{.table-ref}. As shown in the graph, the
 distribution of $n$ = 5, $k$ = 3 is an asymmetrical distribution.
 :::
 
@@ -2860,7 +2860,7 @@ Since $\small S$ = 10 in this example, $\small H_0$ is rejected.
 
 ::: textL20M20
 3\) Enter data in『eStatU』as in \<Figure 10.3.11\> and click the
-\[Execute\] button. The sample statistics and test graph will be shown
+[Execute]{.button-ref} button. The sample statistics and test graph will be shown
 as in \<Figure 10.3.12\>. The critical line which contains 5% of the
 significance level is shown here. For a discrete distribution, the
 choice of the final rejection region should be determined by the
@@ -2929,7 +2929,7 @@ The hypothesis of the Friedman test is as follows: $$
           H_1 &: \text{At least one pair of } \tau_i \text{ is not equal.}
         \end{align}
       $$ For the Friedman test, ranking data for each block must be
-created. Table 10.3.11 is the notation of ranking data for each level.
+created. [Table 10.3.11]{.table-ref} is the notation of ranking data for each level.
 :::
 
 ::: textLeft
@@ -2946,7 +2946,7 @@ Table 10.3.11 Notation of rank data in each level
   Mean           ${\overline R}_{1\cdot}$   ${\overline R}_{2\cdot}$   $\cdots$   ${\overline R}_{k\cdot}$   Average of Ranks ${\overline R}_{\cdot \cdot} = \frac{k+1}{2}$
 
 ::: mainTable
-If we apply the analysis of variance for the rank data of Table 10.3.11
+If we apply the analysis of variance for the rank data of [Table 10.3]{.table-ref}.11
 instead of the observation data in Section 9.2, the total sum of
 squares, $SST$, and the block sum of squares $SSB$ are constants. The
 treatment sum of squares $SSTr$ is as follows: $$
@@ -2976,7 +2976,7 @@ $n \le 8$ if $k = 3$ and up to $n \le 6$ if $k = 4$. $S(k,n)_{α}$
 denotes the right tail 100$\times α$ percentile, but there might not be
 the exact percentile, because it is a discrete distribution. In this
 case, the middle value of two nearest $S(k,n)_{α}$ is often used
-approximately. Table 10.3.12 is the summary of decision rule of the
+approximately. [Table 10.3.12]{.table-ref} is the summary of decision rule of the
 Friedman test.
 :::
 
@@ -3005,7 +3005,7 @@ distribution-free test.
 
 If the null hypothesis is true and if the sample is large enough, the
 test statistic $S$ is approximated by the chi-square distribution with
-$k-1$ degrees of freedom. Table 10.3.13 summarizes the decision rule for
+$k-1$ degrees of freedom. [Table 10.3.13]{.table-ref} summarizes the decision rule for
 the Friedman test in case of large sample.
 :::
 

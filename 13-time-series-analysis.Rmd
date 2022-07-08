@@ -51,11 +51,11 @@ There may be time series that are continuously observed, but this book
 will only deal with the analysis of discrete time series.
 
 An example of a discrete time series is the population of Korea as shown
-in \[Table 13.1.1\]. This data is from the census conducted every five
+in [Table 13.1.1]{.table-ref}. This data is from the census conducted every five
 years in Korea from 1925 to 2020 (except for 1944 and 1949).
 
 ::: textLeft
-\[Table 13.1.1\] Population of Korea
+[Table 13.1.1]{.table-ref} Population of Korea
 :::
 
   -----------------------------------------------------------------------
@@ -112,7 +112,7 @@ department stores and companies, daily composite stock index, annual
 crop production, yearly export and import time series, and yearly
 national income and economic growth rate, and so on.
 
-\[Table 13.1.2\] shows the percent increase in monthly sales of the US
+[Table 13.1.2]{.table-ref} shows the percent increase in monthly sales of the US
 toy/game industry for the past 6 years, and \<Figure 13.1.2\> is a plot
 of this time series. As it is the rate of change from the previous
 month, it can be observed that it is seasonal data showing a large
@@ -123,7 +123,7 @@ characteristics of the data by converting the raw time series into the
 rate of change.
 
 ::: textLeft
-\[Table 13.1.2\] Percent Increase, Monthly Sales of Toy/Game in US(%)
+[Table 13.1.2]{.table-ref} Percent Increase, Monthly Sales of Toy/Game in US(%)
 (Source: Bureau of Census, US)
 :::
 
@@ -376,7 +376,7 @@ smoothing method are widely used.
 ### Centered Moving Average
 
 ::: mainTable
-The time series in \[Table 13.2.1\] is the world crude oil price based
+The time series in [Table 13.2.1]{.table-ref} is the world crude oil price based
 on the closing price every year from 1987 to 2022. Looking at \<Figure
 13.2.1\>, it can be seen that the short-term fluctuations in the time
 series are large. However, causes such as oil shocks are short-term and
@@ -385,7 +385,7 @@ gasoline consumption, it would be more effective to look at the
 fluctuations caused by short-term causes.
 
 ::: textLeft
-\[Table 13.2.1\] Price of Crude Oil (End of Year Price, US\$) and
+[Table 13.2.1]{.table-ref} Price of Crude Oil (End of Year Price, US\$) and
 5-point Centered Moving Average
 :::
 
@@ -468,7 +468,7 @@ follows.
 $\qquad M_{1989} \,=\, \frac {Y_{1987} + Y_{1988} +Y_{1989} + Y_{1990} + Y_{1991} } {5 }$\
 $\qquad \qquad \quad =\, \frac {16.74 + 17.12 + 21.84 + 28.48 + 19.15} {5} \,=\, 20.6660$
 
-\[Table 13.2.2\] shows the values ​​of all 5-points centered moving
+[Table 13.2.2]{.table-ref} shows the values ​​of all 5-points centered moving
 averages obtained in this way and \<Figure 13.2.1\> is the graph of
 5-points moving average. Note that the moving averages for the first two
 years and the last two years cannot be obtained here. It can be seen
@@ -550,7 +550,7 @@ the present and the past, but gives the current data the highest weight
 α, and gives a lower weight as the distance from the present time
 increases.
 
-Exponential smoothing of the crude oil price in \[Table 13.2.1\] with
+Exponential smoothing of the crude oil price in [Table 13.2.1]{.table-ref} with
 the initial value $E _{1986} = Y _{1987}$ and exponential smoothing
 constant $\alpha$ = 0.3 is as follows.
 
@@ -571,7 +571,7 @@ weight is given to the current data, the more the smoothed data
 resembles the original data, and the smoothing effect disappears.
 
 ::: textLeft
-\[Table 13.2.2\] Price of Crude Oil and Exponential Smoothing with α
+[Table 13.2.2]{.table-ref} Price of Crude Oil and Exponential Smoothing with α
 =0.3
 :::
 
@@ -656,12 +656,12 @@ $Y_{(t-2)} ,Y_{(t-1)} , Y_{(t)} , Y_{(t+1)} , Y_{(t+2)}$, the median
 value is $Moving Median_t \,=\, Y_{(t)}$.
 
 For example, the 1989 5-point central moving median for crude oil prices
-in \[Table 13.2.3\] is as follows:
+in [Table 13.2.3]{.table-ref} is as follows:
 
 $\qquad MovingMedian_{1989} \,=\, median \{ Y_{1987} , Y_{1988} ,Y_{1989} , Y_{1990} , Y_{1991} \}$
 $\qquad \qquad \qquad \qquad \qquad \;\;=\, median \{16.74, 17.12 , 21.84 , 28.48,19.15 \} \,=\, 19.15$
 
-\[Table 13.2.3\] and \<Figure 13.2.3\> show all the five-point moving
+[Table 13.2.3]{.table-ref} and \<Figure 13.2.3\> show all the five-point moving
 median values obtained in this way and their graphs. Note that the
 moving median for the first two years and the last two years are not
 available here. Because the centered moving medians remove extreme
@@ -669,7 +669,7 @@ values, it is called a filtering and the time series is much smoother
 than the original data.
 
 ::: textLeft
-\[Table 13.2.3\] Price of Crude Oil and 5-point Centered Moving Median
+[Table 13.2.3]{.table-ref} Price of Crude Oil and 5-point Centered Moving Median
 :::
 
   -----------------------------------------------------------------------
@@ -790,7 +790,7 @@ increase or decrease. When the time series is expressed as
 $Y_1 , Y_2 , ... , Y_n$ , the percentage increase or decrease $P_t$
 compared to the previous data is as follows. $$
           P_{t} \,=\, \frac {Y _{t} - Y_{t-1}} {Y_{t-1}} \times 100 , \quad t=2,3, ... , n
-      $$ \[Table 13.3.1\] shows the number of houses in Korea from 2010
+      $$ [Table 13.3.1]{.table-ref} shows the number of houses in Korea from 2010
 to 2020, and \<Figure 13.3.1\> shows the percentage increase or decrease
 compared to the previous data. Looking at this rate of change, it can be
 easily observed that the original time series has an overall increasing
@@ -802,7 +802,7 @@ increase in the number of houses in 2018 as well.
 $\qquad P_{2014} \,=\, \frac{19161.2 - 18742.1} {18742.1} \times 100 \,=\, 2.23$
 
 ::: textLeft
-\[Table 13.3.1\] Number of Houses in Korea and Percent Change\
+[Table 13.3.1]{.table-ref} Number of Houses in Korea and Percent Change\
 (Korea National Statistical Office, unit 1000)
 :::
 
@@ -866,7 +866,7 @@ broadly divided into simple index number when the number of items
 represented by the index is one, and composite index number when there
 are several as in the consumer price index.
 
-\[Table 13.3.2\] is a simple index for the number of houses in Korea
+[Table 13.3.2]{.table-ref} is a simple index for the number of houses in Korea
 from 2010 to 2020, with the base time being 2010. If you look at the
 figure for the index, you can see that in this case, there is no
 significant change from the original time series and trend. It can be
@@ -876,7 +876,7 @@ compared to 2010.
 $\qquad Index_{2020} \,=\, \frac{Y _{2020}} {Y_{2010}} \times 100 \,=\, \frac{21673.5} {17738.8} \times 100 \,=\, 122.18$
 
 ::: textLeft
-\[Table 13.3.2\] Simple Index of Number of Houses in Korea\
+[Table 13.3.2]{.table-ref} Simple Index of Number of Houses in Korea\
 (Korea National Statistical Office, unit 1000)
 :::
 
@@ -955,11 +955,11 @@ for calculating each composite index is as follows:
 $\qquad \text{Laspeyres Index:} \quad Index_t \,=\, \frac { Q_{1t_0} P_{1t} + \cdots + Q_{kt_0} P_{kt} } {Q_{1t_0} P_{1t_0}+ \cdots + Q_{kt_0} P_{kt_0} } \times 100$\
 $\qquad \text{Paasche Index:} \qquad Index_t \,=\, \frac { Q_{1t} P_{1t} + \cdots + Q_{kt} P_{kt} } {Q_{1t} P_{1t_0} + \cdots + Q_{kt} P_{kt_0} } \times 100$
 
-The data in \[Table 13.3.3\] shows the price and quantity of three
+The data in [Table 13.3.3]{.table-ref} shows the price and quantity of three
 metals by month in 2020.
 
 ::: textLeft
-\[Table 13.3.3\] Composite Index of three Metal Prices(\$/ton) and
+[Table 13.3.3]{.table-ref} Composite Index of three Metal Prices(\$/ton) and
 Production Quantity(ton)
 :::
 
@@ -995,7 +995,7 @@ Production Quantity(ton)
 
   --------------------------------------------------------------------------
 
-In \[Table 13.3.3\], the Laspeyres index for the data for February with
+In [Table 13.3.3]{.table-ref}, the Laspeyres index for the data for February with
 January as the base time is as follows.
 
 $\qquad Index_t \,=\, \frac { Q_{1t_0} P_{1t} + \cdots + Q_{kt_0} P_{kt} } {Q_{1t_0} P_{1t_0}+ \cdots + Q_{kt_0} P_{kt_0} } \times 100$\
@@ -1006,7 +1006,7 @@ Similarly, Paasche index is as follows:
 $\qquad Index_t \,=\, \frac { Q_{1t} P_{1t} + \cdots + Q_{kt} P_{kt} } {Q_{1t} P_{1t_0} + \cdots + Q_{kt} P_{kt_0} } \times 100$\
 $\qquad \quad \,=\, \frac {(95.1)(1399.0)+(4497)(213)+(47.0)(520) } {(95.1)(1361.6)+(4497)(213)+(47.0)(530) } \,=\, 100.28$
 
-In \[Table 13.3.3\], it can be seen that the production quantity of iron
+In [Table 13.3.3]{.table-ref}, it can be seen that the production quantity of iron
 and lead in the last 4 quarters is significantly different from the
 production quantity in January, which is the base time. In this way,
 when the quantity fluctuates greatly and the quantity at each time is
@@ -1035,13 +1035,13 @@ defined as follows: $$ \small
       $$ $r_1 , r_2 , ... , r_k$ are called an **autocorrelation
 function** and are used to determine a time series model.
 
-\[Table 13.3.4\] shows the monthly consumer price index for the past two
+[Table 13.3.4]{.table-ref} shows the monthly consumer price index for the past two
 years and time lag 1 to 12 for this data, and the autocorrelation
-coefficients are shown in \[Table 13.3.5\]. \<Figure 13.3.3\> shows the
+coefficients are shown in [Table 13.3.5]{.table-ref}. \<Figure 13.3.3\> shows the
 original time series and the autocorrelation function.
 
 ::: textLeft
-\[Table 13.3.4\] Monthly Consumer Price Index and Time Lag 1, Lag 2,
+[Table 13.3.4]{.table-ref} Monthly Consumer Price Index and Time Lag 1, Lag 2,
 \... Lag 12
 :::
 
@@ -1076,7 +1076,7 @@ original time series and the autocorrelation function.
   ------------------------------------------------------------------------------
 
 ::: textLeft
-\[Table 13.3.5\] Autocorrelation Function
+[Table 13.3.5]{.table-ref} Autocorrelation Function
 :::
 
   -----------------------------------------------------------------------
@@ -1122,7 +1122,7 @@ original time series and the autocorrelation function.
 ##### B. Differencing
 
 ::: mainTable
-Since the price index in \[Table 13.3.4\] has a linear trend, a model
+Since the price index in [Table 13.3.4]{.table-ref} has a linear trend, a model
 for this trend can be built, but in some cases, a model can be created
 by changing the time series to a horizontal trend. The way to transform
 a linear trend into a horizontal trend is to use a **differencing**.
@@ -1138,7 +1138,7 @@ becomes the second-order difference as follows: $$
 second-order differencing of time series becomes a horizontal time
 series.
 
-\<Figure 13.3.4\> shows the first order differencing of \[Table 13.3.4\]
+\<Figure 13.3.4\> shows the first order differencing of [Table 13.3.4]{.table-ref}
 time series and it becomes horizontal series.
 
 <div>
@@ -1179,7 +1179,7 @@ $\qquad \text{Square function } \qquad\quad \qquad W = Y^2$\
 $\qquad \text{Box-Cox Transformation} \quad \; W = \frac {Y^p - 1 }{p}$
 if p ≠ 0, else log(Y)
 
-\[Table 13.3.6\] is a toy company's quarterly sales, and \<Figure
+[Table 13.3.6]{.table-ref} is a toy company's quarterly sales, and \<Figure
 13.3.5\> is a diagram of this data. It is a seasonal data by quarter,
 but, as time goes on, dispersion of sales increases over time. It is not
 easy to apply a time series model to data with this increasing
@@ -1190,7 +1190,7 @@ to log-transformed data, exponential transformation $Y = exp(W)$ is
 performed again to predict the raw data.
 
 ::: textLeft
-\[Table 13.3.6\] Quarterly Sales of a Toy Company (unit million \$)
+[Table 13.3.6]{.table-ref} Quarterly Sales of a Toy Company (unit million \$)
 :::
 
   -----------------------------------------------------------------------
@@ -1359,14 +1359,14 @@ the linear model can be estimated approximately as follows:
 $\qquad \text{Power} \qquad \qquad log(Y_{t}) = log(\beta_{0}) +{\beta _{1}} \cdot log(t)$\
 $\qquad \text{Exponential} \quad \;\; log(Y_t) = log(\beta_0) + \beta_1 \cdot t$
 
-Korea's GDP from 1986 to 2021 is shown in \[Table 13.4.1\]. \<Figure
+Korea's GDP from 1986 to 2021 is shown in [Table 13.4.1]{.table-ref}. \<Figure
 13.4.1\> shows the application of three regression models to this data.
 Among these models, the quadratic model has the largest value of $r^2$ =
 0.9591, so it can be said that the time series is the most suitable
 model. However, additional validation of the model is required.
 
 ::: textLeft
-\[Table 13.4.1\] GDP of Korea
+[Table 13.4.1]{.table-ref} GDP of Korea
 :::
 
   -----------------------------------------------------------------------
@@ -1511,7 +1511,7 @@ $\qquad {\hat{Y}} _{T+ \tau } \;±\; 1.96 \sqrt {Var( {\hat{Y}} _{T+ \tau } )}$\
 $\qquad M_{T} \;±\; 1.96 \sqrt{ \frac{MSE} {N} }$\
 
 The monthly sales for the last two years of a furniture company are as
-shown in \[Table 13.5.1\], and the residual between the raw data and the
+shown in [Table 13.5.1]{.table-ref}, and the residual between the raw data and the
 predicted value of one point in time was calculated by obtaining a
 six-point moving average. \<Figure 13.5.1\> shows the time series for
 this. This time series fluctuates up and down based on approximately 95,
@@ -1525,7 +1525,7 @@ ${\hat Y}_{6+1} = 98.50$ and the residual at time 7 is as follows: $$
         e_{7} \;=\; Y_{7} \;-\; {\hat{Y}}_{6+1} \;=\; 75-98.50 \;=\; -23.50
       $$ In the same way, the moving average of the remaining time
 points, the predicted values ​​after one time point, and the residuals are
-as shown in \[Table 13.5.1\], so the mean square error is as follows: $$
+as shown in [Table 13.5.1]{.table-ref}, so the mean square error is as follows: $$
         { MSE} \;=\; \frac { \sum_{ i=7}^{ 24} ( Y_i \;-\; {\hat Y}_i )^{2}  }  {18} \;=\;331.22    
       $$ Sales for the next three months are the last moving average
 $M_{24}$, and the 95% confidence interval for the forecast is as
@@ -1537,7 +1537,7 @@ $\qquad 104.67 \;±\; 1.96 \sqrt \frac{331.22}{6}$\
 $\qquad [90.10, 119.23]$\
 
 ::: textLeft
-\[Table 13.5.1\] Montly Sales of a Furniture Company and 6-point Moving
+[Table 13.5.1]{.table-ref} Montly Sales of a Furniture Company and 6-point Moving
 Average, One Time Forecast and Residuals
 :::
 
@@ -1796,7 +1796,7 @@ interval estimation in the predicted value is approximately as follows.
 $\qquad {\hat Y}_{T+\tau} \;±\; 1.96 \sqrt { Var ({\hat Y}_{T+\tau})}$\
 $\qquad S_{T} \;±\;1.96\; \sqrt { \frac{\alpha } {2- \alpha } MSE}$\
 
-To the data of \[Table 13.5.1\], predict sales for the next three months
+To the data of [Table 13.5.1]{.table-ref}, predict sales for the next three months
 by a single exponential smoothing model with smoothing constant $\alpha$
 = 0.1. Lets use the first observed value for the initial value of
 exponential smoothing, that is $S_0 = Y_1 = 95$. The exponential
@@ -1822,7 +1822,7 @@ $\qquad e_3 \;=\; Y_3\;-\;{\hat Y}_{2+1} \;=\; 87.00-95.50\;=\;-8.50$\
 
 In the same way, the single exponential smoothing of the remaining time
 points, the predicted values after one time point, and the residuals are
-as shown in \[Table 13.5.2\]. Therefore, the mean square error is as
+as shown in [Table 13.5.2]{.table-ref}. Therefore, the mean square error is as
 follows:
 
 $\qquad {MSE} \;= \; \frac{1}{24} \sum_{i=1}^{24} \; ( Y_i \;-{\hat Y}_i )^{2} \;=\;269.72$\
@@ -1839,13 +1839,13 @@ $\qquad S_{T} \;±\; 1.96\; \sqrt { \frac{\alpha } {2- \alpha} } MSE$\
 $\qquad 98.66 \;±\; 1.96 \; \sqrt { \frac{0.1} {2-0.1} 269.72 }$\
 $\qquad [65.27, 132.05]$\
 
-\[Table 13.5.2\] summarizes the above equations, and \<Figure 13.5.2\>
+[Table 13.5.2]{.table-ref} summarizes the above equations, and \<Figure 13.5.2\>
 shows the prediction after one time point and the prediction for the
 next 3 months using the single exponential smoothing model with $\alpha$
 = 0.1.
 
 ::: textLeft
-\[Table 13.5.2\] Exponential Smoothing with α = 0.1, One Time Forecast
+[Table 13.5.2]{.table-ref} Exponential Smoothing with α = 0.1, One Time Forecast
 and Residual
 :::
 
@@ -1942,7 +1942,7 @@ $N$-point single moving average at time $T$ is as follows: $$
       $$ That is, in the case of a linear trend model, it can be seen
 that the single moving average $M_t$ is biased by
 $\frac{N-1}{2} \beta_1$. For example, if the consumer price index with a
-linear trend in \[Table 13.5.3\] is predicted after one point in time
+linear trend in [Table 13.5.3]{.table-ref} is predicted after one point in time
 using the 5-point single moving average, it is as shown in \<Figure
 13.5.3\>. It can be seen that the predicted value using $M_t$ is under
 estimated value of the time series .
@@ -1995,7 +1995,7 @@ optimization such as least squares method. However, it can be
 approximated by the least-squares method, which we will omit in this
 book.
 
-\[Table 13.5.3\] is a calculation table for predicting the consumer
+[Table 13.5.3]{.table-ref} is a calculation table for predicting the consumer
 price index using the 5-point double moving average model. Note that the
 third column is a 5-point single moving average $M_T$, but the single
 moving average cannot be calculated from time points 1 to 4. The fourth
@@ -2012,7 +2012,7 @@ from time 9, ${\hat Y}_{9+1}$ is as follows: $$
 the fifth column.
 
 ::: textLeft
-\[Table 13.5.3\] Double Moving Average of Consumer Price Index and One
+[Table 13.5.3]{.table-ref} Double Moving Average of Consumer Price Index and One
 Time Forecast
 :::
 
@@ -2224,7 +2224,7 @@ optimization such as least squares method.
 The result of simple linear regression model to all data in \[Table
 13.5.4\] is as follows: $$
         {\hat{Y}}_{t} =102.574 \;+\; 0.2344 \;\;t
-      $$ \[Table 13.5.4\] is a calculation table for predicting the
+      $$ [Table 13.5.4]{.table-ref} is a calculation table for predicting the
 consumer price index with the Holt double exponential smoothing model
 using this initial values. The third column is the predicted value of
 the level ${\hat \beta}_0 (t)$, the fourth column is the trend
@@ -2240,7 +2240,7 @@ price index for the next three months is as follows: $$
       $$
 
 ::: textLeft
-\[Table 13.5.4\] Forecasting using Holt Double Exponential Smoothing
+[Table 13.5.4]{.table-ref} Forecasting using Holt Double Exponential Smoothing
 Model of Consumer Price Index
 :::
 
@@ -2467,7 +2467,7 @@ time series model is applied to this deseasonal data and predict the
 future vaules. Then multiply the corresponding seasonal index to obtain
 the final predicted value of the desired season.
 
-\[Table 13.6.1\] shows a company's quarterly sales. Since the seasonal
+[Table 13.6.1]{.table-ref} shows a company's quarterly sales. Since the seasonal
 period is 4, the 4-point centered moving average is as shown in column 4
 of the table. By dividing the original time series by a 4-point centered
 moving average, the seasonal ratio in column 5 can be calculated. $$
@@ -2475,7 +2475,7 @@ moving average, the seasonal ratio in column 5 can be calculated. $$
       $$
 
 ::: textLeft
-\[Table 13.6.1\] Quarterly Sales of a Company
+[Table 13.6.1]{.table-ref} Quarterly Sales of a Company
 :::
 
   ----------------------------------------------------------------------------------
@@ -2518,7 +2518,7 @@ moving average, the seasonal ratio in column 5 can be calculated. $$
 
   ----------------------------------------------------------------------------------
 
-\[Table 13.6.2\] shows the seasonal ratio by year and quarter. If the
+[Table 13.6.2]{.table-ref} shows the seasonal ratio by year and quarter. If the
 maximum and minimum values are removed for each quarter and the average
 is obtained (trimmed average), it is the seasonal index in column 6.
 Since the sum of these values is 4.0197, the seasonal index in column is
@@ -2527,7 +2527,7 @@ normalized as in column 7. $$
       $$
 
 ::: textLeft
-\[Table 13.6.2\] Seasonal Index
+[Table 13.6.2]{.table-ref} Seasonal Index
 :::
 
 +---------+---------+---------+---------+---------+---------+---------+
@@ -2554,7 +2554,7 @@ normalized as in column 7. $$
 |         |         |         |         |         | 4.0197  |         |
 +---------+---------+---------+---------+---------+---------+---------+
 
-Column 6 of \[Table 13.6.1\] shows the non-seasonal data $D_t$ obtained
+Column 6 of [Table 13.6.1]{.table-ref} shows the non-seasonal data $D_t$ obtained
 by dividing the original data by the seasonal index of each quarter. The
 linear regression line for this non-seasonal data is as follows
 (\<Figure 13.6.1\>)., $$
@@ -2676,7 +2676,7 @@ seasonal index which is the exponential smoothing of the current
 seasonal component ($\frac {y_t}{l_{t-1} + b_{t-1} }$) and the seasonal
 component of the previous season $s_{t-m}$.
 
-\[Table 13.6.3\] calculates exponential smoothing values of level,
+[Table 13.6.3]{.table-ref} calculates exponential smoothing values of level,
 slope, and seasonal indices using the Holt-Winters model with α = 0.3, β
 = 0.3, γ = 0.3 to the quarterly sales of a company. The last column is
 one time prediction at time $t-1$, ${\hat Y}_{(t-1)+1}$. The initial
@@ -2685,7 +2685,7 @@ regression model for all data, and the initial values of the seasonal
 index are calculated by the model $Y \;=\; T \times S \times I$.
 
 ::: textLeft
-\[Table 13.6.3\] Holt-Winters Forecasting Model of Quarterly Sales
+[Table 13.6.3]{.table-ref} Holt-Winters Forecasting Model of Quarterly Sales
 :::
 
   ---------------------------------------------------------------------------------------------

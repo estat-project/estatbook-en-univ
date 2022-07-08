@@ -80,7 +80,7 @@ Chapter 11.
 **Example 4.1.1** **(Gender Raw Data)**
 
 In Example 2.3.1, a bar graph of the gender variable in a class was
-drawn by using the raw data shown in Table 4.1.1. The bar graph was able
+drawn by using the raw data shown in [Table 4.1.1]{.table-ref}. The bar graph was able
 to be drawn by using the frequencies of male and female students. Use
 『eStat』 to create a frequency table for this raw data of the gender
 variable.
@@ -116,8 +116,8 @@ Table 4.1.1 Gender raw data
 
 <div>
 
-Enter the gender data of Table 4.1.1 to 『eStat』 as in \<Figure
-4.1.1\>. Use \[Edit Var\] button to enter the variable name 'Gender' and
+Enter the gender data of [Table 4.1.1]{.table-ref} to 『eStat』 as in \<Figure
+4.1.1\>. Use [Edit Var]{.button-ref} button to enter the variable name 'Gender' and
 its value labels as 1 for 'Male' and 2 for 'Female' as in \<Figure
 4.1.2\>. The data that were edited for their value labels must be saved
 in JSON format to ensure that the entered information is not lost. When
@@ -418,8 +418,8 @@ Table 4.2.1 Survey data on gender and marital status
 
 <div>
 
-Enter the data of the gender and the marital status in Table 4.2.1 to
-the sheet of 『eStat』 as in \<Figure 4.2.1\>. Use \[Edit Var\] button
+Enter the data of the gender and the marital status in [Table 4.2.1]{.table-ref} to
+the sheet of 『eStat』 as in \<Figure 4.2.1\>. Use [Edit Var]{.button-ref} button
 to enter a variable name 'Gender' and value labels 'Male' for 1 and
 'Female' for 2. In the same way, enter a variable name 'Marital' and
 value labels 'Single' for 1, 'Married' for 2 and 'Other' for 3.
@@ -805,7 +805,7 @@ entering data.
 \<Figure 4.3.4\> 『eStatU』 basic statistics of data
 :::
 
-If you click the \[Execute\] button, two sets of dot graph and box plot
+If you click the [Execute]{.button-ref} button, two sets of dot graph and box plot
 appear as in \<Figure 4.3.5\>. The first graph is for the data you
 entered and the second one is for simulation. On the second bar graph of
 \<Figure 4.3.5\>. you can click a point (circle) using your mouse and
@@ -1451,7 +1451,7 @@ plot using 『eStatU』.
 **Answer**
 
 Using the menu 'Dot Graph -- Box Plot -- Descriptive Statistics' in
-『eStatU』 , if you enter the data and click the \[Execute\] button, the
+『eStatU』 , if you enter the data and click the [Execute]{.button-ref} button, the
 dot plot and the box plot appear as in \<Figure 4.3.8\>.
 
 ![](Figure/Fig040308.png){.imgFig600400}

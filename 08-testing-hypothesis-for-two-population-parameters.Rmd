@@ -188,7 +188,7 @@ means $\overline x_1 , \overline x_2$, and sample variances as in
 </div>
 :::
 
-Click the \[Execute\] button will show the result of testing hypothesis
+Click the [Execute]{.button-ref} button will show the result of testing hypothesis
 as \<Figure 8.1.2\>.
 
 ![](Figure/Fig080102.png){.imgFig600400}
@@ -207,7 +207,7 @@ normally distributed. The testing hypothesis for two population means
 when their population variances are different is called a Behrens-Fisher
 problem and several methods to solve this problem have been studied. The
 Satterthwaite method approximates the degrees of freedom of the
-$t$-distribution in the decision rule in Table 8.1.1 with $\phi$ as
+$t$-distribution in the decision rule in [Table 8.1.1]{.table-ref} with $\phi$ as
 follows. $$
         \phi = \frac { \left( \frac{s_1^2}{n_1} + \frac{s_2^2}{n_2} \right)^2 }
                      { \frac { \left( \frac{s_1^2}{n_1} \right)^2 } {n_1 -1} + \frac { \left( \frac{s_2^2}{n_2} \right)^2 } {n_2 -1} }  
@@ -251,7 +251,7 @@ distribution is approximated as follows: $$ \small
 
 In order to practice using 『eStatU』, select the different population
 variances assumption of \[Test Type\] in the window of \<Figure 8.1.1\>
-and click the \[Execute\] button to see the result as shown in \<Figure
+and click the [Execute]{.button-ref} button to see the result as shown in \<Figure
 8.1.3\>.
 
 ![](Figure/Fig080102.png){.imgFig600400}
@@ -548,7 +548,7 @@ understood.
 A hypothesis test that uses same samples to perform similar experiments
 to compare means of two populations is called a paired comparison. In
 the paired comparison, we calculate the difference ($d_i$) between
-paired data $x_{i1}$ and $x_{i2}$ as shown in Table 8.1.3 and obtain the
+paired data $x_{i1}$ and $x_{i2}$ as shown in [Table 8.1.3]{.table-ref} and obtain the
 mean of differences ($\overline d$) and variance of differences
 ($s_{d}^2$).
 
@@ -685,7 +685,7 @@ level, check 'paired sample' at \[Test Type\], and enter data of sample
 </div>
 :::
 
-Click the \[Execute\] button to calculate the sample mean and sample
+Click the [Execute]{.button-ref} button to calculate the sample mean and sample
 standard deviation of differences ($\overline d$ and $s_d^2$ ) and to
 show the result of the hypothesis test as \<Figure 8.1.12\>.
 
@@ -878,7 +878,7 @@ parameters.
 :::
 
 Testing hypothesis for two population variances can be performed using
-the $F$-distribution as following Table 8.2.1.
+the $F$-distribution as following [Table 8.2.1]{.table-ref}.
 :::
 
 Table 8.2.1 Testing hypothesis for two population variances\
@@ -929,7 +929,7 @@ conclude that two variances are equal.
 In 『eStatU』 menu, select 'Testing Hypothesis
 $\sigma_1^2 , \sigma_2^2$. At the window shown in \<Figure 8.2.2\>,
 enter $n_1 = 12, n_2 = 10, s_1^2 = 0.0121, s_2^2 = 0.0169$. Click the
-\[Execute\] button to reveal the hypothesis test result shown in
+[Execute]{.button-ref} button to reveal the hypothesis test result shown in
 \<Figure 8.2.3\>.
 
 ::: width:650
@@ -1179,7 +1179,7 @@ of male and female are different.
 
 In 『eStatU』 menu, select 'Testing Hypothesis $p_1 , p_2$' and enter
 $n_1 = 225,\; {\hat p}_1 = 0.240,\; n_2 = 175,\; {\hat p}_2 = 0.297$ as
-shown in \<Figure 8.3.1\>. Clicking the \[Execute\] button will show the
+shown in \<Figure 8.3.1\>. Clicking the [Execute]{.button-ref} button will show the
 result of the hypothesis test as shown in \<Figure 8.3.2\>.
 
 ::: width:650

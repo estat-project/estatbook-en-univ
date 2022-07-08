@@ -82,7 +82,7 @@ there are two factors. Let's take a look at the following example.
 ::: mainTableGrey
 **Example 9.1.1** In order to compare the English proficiency of each
 grade at a university, samples were randomly selected from each grade to
-take the same English test, and data are as in Table 9.1.1. The last row
+take the same English test, and data are as in [Table 9.1.1]{.table-ref}. The last row
 is a calculation of the average ${\overline y}_{1\cdot}$,
 ${\overline y}_{2\cdot}$, ${\overline y}_{3\cdot}$,
 ${\overline y}_{4\cdot}$ for each grade.
@@ -127,7 +127,7 @@ question 2).
 whether scores of each grade are similar. If you plot the 95% confidence
 interval of the population mean studied in Chapter 6 on each dot graph,
 you can see a more detailed comparison.\
-In order to draw a dot graph with data shown in Table 9.1.1 using
+In order to draw a dot graph with data shown in [Table 9.1.1]{.table-ref} using
 『eStat』 , enter data on the sheet and set variable names to 'Grade'
 and 'Score' as shown in \<Figure 9.1.1\>. In the variable selection
 box which appears by clicking the ANOVA icon on the main menu of
@@ -313,7 +313,7 @@ appeared as in\<Figure 9.1.6\>.
 
 \
 The analysis of variance is also possible using 『eStatU』. Entering the
-data as \<Figure 9.1.7\> and clicking the \[Execute\] button will have
+data as \<Figure 9.1.7\> and clicking the [Execute]{.button-ref} button will have
 the same result as in \<Figure 9.1.5\>.
 
 ![](Figure/Fig090107.png){.imgFig600400}
@@ -338,7 +338,7 @@ was originated to analyze data through experiments in engineering,
 agriculture, medicine and pharmacy.
 
 The analysis of variance method that examines the effect of single
-factor on the response variable is called the one-way ANOVA. Table 9.1.2
+factor on the response variable is called the one-way ANOVA. [Table 9.1]{.table-ref}.2
 shows the typical data structure of the one-way ANOVA when the number of
 levels of a factor is $k$ and the numbers of observation at each level
 are $n_1 , n_2 , ... , n_k$.
@@ -465,7 +465,7 @@ Degrees of freedom: $(n-1) = (k-1) + (n-k)$
 
 ::: mainTable
 The sum of squares divided by the corresponding degrees of freedom is
-referred to as the mean squares and Table 9.1.3 defines the treatment
+referred to as the mean squares and [Table 9.1.3]{.table-ref} defines the treatment
 mean squares (MSTr) and error mean squares (MSE). As in the meaning of
 the sum of squares, the treatment mean square implies the average
 variation between each level of the factor, and the error mean square
@@ -1059,7 +1059,7 @@ would reduce the likelihood of differences caused by external factors
 such as the driver, daily wind speed and wind direction, because
 randomized experiments make all external factors equally affecting the
 all observed measurement values. This method of experiments is called a
-completely randomized design of experiments. Table 9.2.1 shows an
+completely randomized design of experiments. [Table 9.2.1]{.table-ref} shows an
 example allocation of experiments by this method. Symbols A, B and C
 represent the three types of cars.
 
@@ -1096,7 +1096,7 @@ significant variation between drivers for measuring the fuel mileage,
 the error term of the analysis of variance may not be a simple
 experimental error. In order to eliminate this problem, each driver may
 be required to experiment with each type of the car at least once which
-is known as a randomized block design. Table 9.2.2 shows an example of
+is known as a randomized block design. [Table 9.2.2]{.table-ref} shows an example of
 possible allocation in this case. In this table, the values in
 parentheses are the values of the observed fuel mileage.
 
@@ -1211,8 +1211,8 @@ are also reduced.
 :::
 
 ::: mainTableGrey
-**Example 9.2.1** Table 9.2.4 is the rearrangement of the fuel mileage
-data in Table 9.2.2 measured by five drivers and car types.
+**Example 9.2.1** [Table 9.2.4]{.table-ref} is the rearrangement of the fuel mileage
+data in [Table 9.2.2]{.table-ref} measured by five drivers and car types.
 
 ::: textLeft
 Table 9.2.4 Fuel mileage data by five drivers and three car types
@@ -1516,7 +1516,7 @@ effect** test).
 :::
 
 ::: mainTableGrey
-**Example 9.3.1** Table 9.3.1 shows the yield data of three repeated
+**Example 9.3.1** [Table 9.3.1]{.table-ref} shows the yield data of three repeated
 agricultural experiments for each combination of four fertilizer levels
 and three rice types to investigate the yield of rice.
 
@@ -1563,7 +1563,7 @@ variance.
 ::: textL20M20
 1\) For convenience, let us call the fertilizer as the factor A and the
 rice type as factor B. The averages of the rice yield for each level
-combination of two factors are shown in Table 9.3.2. Denote the $k^{th}$
+combination of two factors are shown in [Table 9.3.2]{.table-ref}. Denote the $k^{th}$
 rice yield, $y_{ijk}$, and average ${\overline y}_{ij\cdot}$ of each
 combination of $j^{th}$ level of factor A and $i^{th}$ level of factor
 B. Also, denote the average of $j^{th}$ level of factor A as
@@ -1785,7 +1785,7 @@ than other fertilizer. The calculated $p$-value of $\small F_0$ = 6.02
 using 『eStat』 is 0.0033.
 :::
 
-The result of the two-way analysis of variances is as Table 9.3.3.
+The result of the two-way analysis of variances is as [Table 9.3.3]{.table-ref}.
 :::
 
 ::: textLeft
@@ -1884,7 +1884,7 @@ degrees of freedom: $(n-1) = (a-1) + (b-1) + (a-1)(b-1) + (n-ab)$
 :::
 
 ::: mainTable
-The two-way analysis of variance is summarized as Table 9.3.4.
+The two-way analysis of variance is summarized as [Table 9.3.4]{.table-ref}.
 
 ::: textLeft
 Table 9.3.4 two-way analysis of variance table
@@ -1906,7 +1906,7 @@ If there is no repeated observation at each level combination of two
 factors, the interaction effect can not be estimated and the row of
 interaction factor is deleted from the above two-way ANOVA table. In
 this case, the analysis of variance table is the same as the randomized
-block design as Table 9.2.3.
+block design as [Table 9.2.3]{.table-ref}.
 :::
 
 ::: mainTable

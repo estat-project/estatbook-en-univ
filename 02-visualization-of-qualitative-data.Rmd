@@ -192,7 +192,7 @@ This data is called the raw data of the gender variable which is a
 categorical variable.
 
 If you counted the number of 'male' students and 'female' students in
-the above raw data and reported the result as shown in Table 2.2.1.
+the above raw data and reported the result as shown in [Table 2.2.1]{.table-ref}.
 
 Table 2.2.1 Summary data of the gender in a class
 
@@ -227,16 +227,16 @@ publications.
 ::: mainTableGrey
 **Example 2.2.1(Gender Summary Data)**
 
-Enter the summary data of Table 2.2.1 to the sheet of 『eStat』 and save
+Enter the summary data of [Table 2.2.1]{.table-ref} to the sheet of 『eStat』 and save
 it as a file in CSV format. Using this data, draw a bar graph, a pie
 chart and a band graph with 『eStat』. Analyze the graphs and prepare a
 report using the MS Word (or any word processor you prefer).
 
 **Answer**
 
-Enter the data of Table 2.2.1 to the sheet of 『eStat』 as in \<Figure
+Enter the data of [Table 2.2.1]{.table-ref} to the sheet of 『eStat』 as in \<Figure
 2.2.1\> and enter a variable name of V1 as 'Gender' and of V2 as
-'Number' using \[Edit Var\] button located above the sheet (refer
+'Number' using [Edit Var]{.button-ref} button located above the sheet (refer
 Appedix A.2).
 
 ![](Figure/Fig020201.png){.imgFig300200}
@@ -436,7 +436,7 @@ The easiest way to make a file in CSV format is to copy the country name
 to the first column of the sheet of 『eStat』 and the column of 2017
 data located at the last column of this Excel file to the second column
 of the sheet of 『eStat』 as in \<Figure 2.2.14\>. After you provide
-variable names 'Country' and 'Years' by using \[Edit Var\] of 『eStat』
+variable names 'Country' and 'Years' by using [Edit Var]{.button-ref} of 『eStat』
 , save the data as a file, for example,
 'EX020202_OECD_LifeExpectancy.csv' in CSV format,.
 
@@ -547,8 +547,8 @@ analyze the graph.
 ### Summary Data of Categorical Variable with Group
 
 ::: mainTable
-The summary data as in Table 2.2.1 can be easily extended if you survey
-the gender of two classes in a school as in Table 2.2.2. It is the
+The summary data as in [Table 2.2.1]{.table-ref} can be easily extended if you survey
+the gender of two classes in a school as in [Table 2.2.2]{.table-ref}. It is the
 summary data of the gender variable for two classes (groups), classes of
 5-1 and 5-2. In this case, we usually want to compare the summary data
 between two classes (groups) using graphs as the following example.
@@ -564,7 +564,7 @@ Table 2.2.2 Summary data of two classes
 ::: mainTableGrey
 **Example 2.2.3** **(Gender Summary Data of Two Classes)**
 
-A file of the summary data in Table 2.2.2 is saved at the following
+A file of the summary data in [Table 2.2.2]{.table-ref} is saved at the following
 location of 『eStat』 system.
 
  Ex  ⇨ eBook ⇨ EX020203_Summary_StudentByGender
@@ -744,7 +744,7 @@ which are proportional to the frequencies of each category.
 **Example 2.2.4** **(Male and Female Population by Age Groups)**
 
 In 2015, the male and female populations by age groups in Korea are
-shown in Table 2.2.3. Using this data, draw a vertical bar graph by age
+shown in [Table 2.2.3]{.table-ref}. Using this data, draw a vertical bar graph by age
 groups and then find appropriate graphs to analyze the characteristics
 of this data easily.
 
@@ -786,7 +786,7 @@ Table 2.2.3 male and female populations by age groups in Korea\
 
 <div>
 
-The data of Table 2.2.3 can be loaded from 『eStat』 using the following
+The data of [Table 2.2.3]{.table-ref} can be loaded from 『eStat』 using the following
 address.
 
 ::: textLeft
@@ -1063,7 +1063,7 @@ collected as follows. This kind of data are called as raw data.
 male, female, male, female, male, male, male, female, male, female
 
 In order to use a statistical package, the raw data are usually arranged
-as a column as in Table 2.3.1 with numeric coding (1: male, 2: female).
+as a column as in [Table 2.3.1]{.table-ref} with numeric coding (1: male, 2: female).
 Coding is not compulsory depending on packages, but 『eStat』 system
 allows the raw data of both with coding and without coding (character
 data).
@@ -1083,7 +1083,7 @@ Table 2.3.1 Gender Survey (1:Male, 2:Female)
   1
   2
 
-Data of Table 2.3.1 are saved at the following address in 『eStat』
+Data of [Table 2.3.1]{.table-ref} are saved at the following address in 『eStat』
 system.
 
  Ex  ⇨ eBook ⇨ EX020301_Raw_Gender.csv
@@ -1093,7 +1093,7 @@ out characteristics of the raw data.
 
 **Answer**
 
-Enter the gender data of Table 2.3.1 on the sheet of 『eStat』 system or
+Enter the gender data of [Table 2.3.1]{.table-ref} on the sheet of 『eStat』 system or
 load the file from  Ex  ⇨ eBook ⇨ EX020301_Raw_Gender.csv.
 
 If you enter the data, give a variable name 'Gender' using \[Edit
@@ -1119,7 +1119,7 @@ also use the JSON Open icon.
 ![](Figure/Fig020301.png){.imgFig300400}
 
 ::: figText
-\<Figure 2.3.1\> Value label using \[Edit Var\]
+\<Figure 2.3.1\> Value label using [Edit Var]{.button-ref}
 :::
 
 </div>
@@ -1206,7 +1206,7 @@ Draw a bar graph, a pie chart, a band graph of the math preference.
 with Group)**
 
 In addition to the gender data of Example 2.3.1, marital status (1:
-Single 2: Married, 3: Other) was also surveyed as in Table 2.3.2.
+Single 2: Married, 3: Other) was also surveyed as in [Table 2.3.2]{.table-ref}.
 Compare characteristics of marital status by gender (male and female)
 using a bar graph, a pie chart, a band graph, and a line graph. Data are
 saved at the following location of 『eStat』.
@@ -1254,8 +1254,8 @@ Table 2.3.2 Survey of gender and Marital status
 
 <div>
 
-Enter the gender and marital status data of Table 2.3.2 on the sheet of
-『eStat』 system. Use \[Edit Var\] button to enter a variable name as
+Enter the gender and marital status data of [Table 2.3.2]{.table-ref} on the sheet of
+『eStat』 system. Use [Edit Var]{.button-ref} button to enter a variable name as
 'Gender' and its value labels as 'Male' for value 1 and 'Female'
 for value 2. Similarly, enter a variable name as 'Marital' and its value
 labels as 'Single' for 1, 'Married' for 2 and 'Other' for 3.
@@ -1487,7 +1487,7 @@ analyze important words.
 Click eStaU icon and click 'Word Cloud' in the menu or you can use the
 QR code at the left.
 
-Copy the sample text to \[Data Input\] text area and click \[Execute\]
+Copy the sample text to [Data Input]{.button-ref} text area and click [Execute]{.button-ref}
 button. Then, a word cloud on data science is drawn as in \<Figure
 2.4.1\>.
 

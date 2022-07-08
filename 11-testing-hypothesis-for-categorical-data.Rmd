@@ -180,7 +180,7 @@ completely different from the other.
 In the Input box that appears by selecting the 'Goodness of Fit Test'
 of 『eStatU』, enter the 'Observed Frequency' and 'Expected
 Probability' data as shown in \<Figure 11.1.1\>. After entering the
-data, select the significance level and click \[Execute\] button to
+data, select the significance level and click [Execute]{.button-ref} button to
 calculate the 'Expected Frequency' and to see the result of the
 chi-square test. Be sure that this chi-square goodness of fit test
 should be applied when the expected frequency of each category is at
@@ -444,7 +444,7 @@ Table 11.1.2 Frequency table of age with adjusted interval
   5             $50 \le X < 60$   3
   6             $X \ge 60$        2
 
-The frequency table of sample data as Table 11.1.2 can be used to test
+The frequency table of sample data as [Table 11.1.2]{.table-ref} can be used to test
 the goodness of fit whether the sample data follows a normal
 distribution using the chi-square distribution. The hypothesis of this
 problem is as follows:
@@ -487,7 +487,7 @@ $\small N(38.567, 12.982^2 )$ as follows. The normal distribution module
 of 『eStatU』 makes it easy to calculate this probability of an
 interval. At the normal distribution module of 『eStatU』, enter the
 mean of 38.567 and the standard deviation of 12.982. Click the second
-radio button of P(X \< x) type and enter 20, then press the \[Execute\]
+radio button of P(X \< x) type and enter 20, then press the [Execute]{.button-ref}
 button to calculate the probability as shown in \<Figure 11.1.8\>.
 
 ::: textLeft
@@ -559,7 +559,7 @@ distribution
 
 Since the expected frequencies of the 1st and 6th interval are less than
 5, the intervals should be combined with adjacent intervals for testing
-the goodness of fit using the chi-square distribution as Table 11.1.4.
+the goodness of fit using the chi-square distribution as [Table 11.1.4]{.table-ref}.
 The expected frequency of the last interval is still less than 5, but,
 if we combine this interval, there are only three intervals, we
 demonstrate the calculation as it is. Note that, due to computational
@@ -601,9 +601,9 @@ $\small N(38.567, 12.982^2 )$ .
 Test result can be verified using 'Goodness of Fit Test' in
 『eStatU』. In the Input box that appears by selecting the 'Goodness of
 Fit Test' module, enter the data for 'observation frequency' and
-'expected probability' in Table 11.1.4, as shown in \<Figure 11.1.9\>.
+'expected probability' in [Table 11.1]{.table-ref}.4, as shown in \<Figure 11.1.9\>.
 After entering the data, select the significance level and press the
-\[Execute\] button to calculate the 'expected frequency' and produce a
+[Execute]{.button-ref} button to calculate the 'expected frequency' and produce a
 chi-square test result (\<Figure 11.1.10\>).
 
 <div>
@@ -825,7 +825,7 @@ intersect to each other.
 
 ::: textL20M20
 2\) If two variables are not related (i.e., if the two variables are
-independent of each other), the contingency table in Table 11.2.1 will
+independent of each other), the contingency table in [Table 11.2.1]{.table-ref} will
 show that the proportion of wearing glasses by men or women is equal to
 60% which is the proportion of all students wearing glasses. In other
 words, if two variables are independent, the contingency table should be
@@ -901,7 +901,7 @@ wearing glasses are related.
 
 ::: textL20M20
 3\) In the independence test of『eStatU』, enter data as shown in
-\<Figure 11.2.3\> and press the \[Execute\] button to display the result
+\<Figure 11.2.3\> and press the [Execute]{.button-ref} button to display the result
 of the chi-square test as shown in \<Figure 11.2.4\>.
 :::
 
@@ -939,7 +939,7 @@ Assume that there are $r$ number of attributes of the variable $A$ such
 as $A_1 , A_2 , ... , A_r$ , and $c$ number of attributes of the
 variable $B$ such as $B_1 , B_2 , ... , B_c$. Let $p_{ij}$ denote the
 probability of the cell of $A_i$ and $B_j$ attribute in the contingency
-table of $A$ and $B$ as Table 11.2.3. Here
+table of $A$ and $B$ as [Table 11.2.3]{.table-ref}. Here
 $p_{i\cdot} = p_{i1} + p_{i2} + \cdots + p_{ic}$ denotes the probability
 of $A_i$ and $p_{\cdot j} = p_{1j} + p_{2j} + \cdots + p_{rj}$ denotes
 the probability of $B_j$.
@@ -1185,7 +1185,7 @@ related.
 
 ::: textL20M20
 3\) In the independence test of『eStatU』, enter data as shown in
-\<Figure 11.2.7\> and click the \[Execute\] button to display the result
+\<Figure 11.2.7\> and click the [Execute]{.button-ref} button to display the result
 of the chi-square test as shown in \<Figure 11.2.8\>.
 :::
 
