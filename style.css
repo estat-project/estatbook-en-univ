@@ -21,10 +21,16 @@ pre code {
 }
 
 .table-ref {
-    color: red;
+    color: darkred; 
 }
 
+.figure-ref {
+    color: darkred;
+}
 
+.example-ref {
+    color: darkred;
+}
 
 
 .qrBtn {

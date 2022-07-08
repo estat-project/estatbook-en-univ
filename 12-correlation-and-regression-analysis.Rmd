@@ -72,7 +72,7 @@ Table 12.1.1 Advertising costs and sales (unit: 1 million USD)
 
 **Answer**
 
-Using 『eStat』 , enter data as shown in \<Figure 12.1.1\>. If you
+Using 『eStat』 , enter data as shown in [Figure 12.1.1]{.figure-ref}. If you
 select the Sales as 'Y Var' and the Advertise 'by X Var' in the
 variable selection box that appears when you click the scatter plot icon
 on the main menu, the scatter plot will appear as shown in \<Figure
@@ -95,7 +95,7 @@ the form of increase is linear.
 ![](Figure/Fig120101.png){.imgFig600400}
 
 ::: figText
-\<Figure 12.1.1\> Data input in 『eStat』
+[Figure 12.1.1]{.figure-ref} Data input in 『eStat』
 :::
 
 </div>
@@ -105,7 +105,7 @@ the form of increase is linear.
 ![](Figure/Fig120102.svg)
 
 ::: figText
-\<Figure 12.1.2\> Scatter plot of sales by advertise
+[Figure 12.1.2]{.figure-ref} Scatter plot of sales by advertise
 :::
 :::
 
@@ -155,13 +155,13 @@ $$
         \text{Population Correlation Coefficient: } \rho = \frac{Cov (X, Y)} { \sigma_X \sigma_Y } 
       $$
 
-\<Figure 12.1.3\> shows different scatter plots and its values of the
+[Figure 12.1.3]{.figure-ref} shows different scatter plots and its values of the
 correlation coefficient.
 
 ![](Figure/Fig120103.png){.imgFig600400}
 
 ::: figText
-\<Figure 12.1.3\> Different scatter plots and their correlation
+[Figure 12.1.3]{.figure-ref} Different scatter plots and their correlation
 coefficients.
 :::
 
@@ -190,7 +190,7 @@ may be a different relationship. (see the scatter plot (f) in \<Figure
 :::
 
 『eStatU』 provides a simulation of scatter plot shapes for different
-correlations as in \<Figure 12.1.4\>.
+correlations as in [Figure 12.1.4]{.figure-ref}.
 
 <div>
 
@@ -207,7 +207,7 @@ correlations as in \<Figure 12.1.4\>.
 ![](Figure/Fig120104.png){.imgFig600400}
 
 ::: figText
-\<Figure 12.1.4\> Simulation of correlation coefficient at 『eStatU』
+[Figure 12.1.4]{.figure-ref} Simulation of correlation coefficient at 『eStatU』
 :::
 
 </div>
@@ -322,10 +322,10 @@ $\qquad \small t_0 = \sqrt{10-2} \frac{0.978}{\sqrt{1 - 0.978^2 }}$ =
 Since it is greater than $t_{8; 0.025}$ = 2.306, $\small H_0 : \rho = 0$
 should be rejected.
 
-With the selected variables of 『eStat』 as \<Figure 12.1.1\>, click the
+With the selected variables of 『eStat』 as [Figure 12.1.1]{.figure-ref}, click the
 regression icon on the main menu, then the scatter plot with a
 regression line will appear. Clicking the \[Correlation and Regression\]
-button below this graph will show the output as \<Figure 12.1.5\> in the
+button below this graph will show the output as [Figure 12.1.5]{.figure-ref} in the
 Log Area with the result of the regression analysis. The values of this
 result are slightly different from the textbook, which is the error
 associated with the number of digits below the decimal point. The same
@@ -336,7 +336,7 @@ hypothesis is rejected.
 ![](Figure/Fig120105.png){.imgFig600400}
 
 ::: figText
-\<Figure 12.1.5\> Testing hypothesis of correlation using 『eStat』
+[Figure 12.1.5]{.figure-ref} Testing hypothesis of correlation using 『eStat』
 :::
 :::
 
@@ -421,7 +421,7 @@ are equal to zero.
 From 『eStat』, load the data and click the 'Regression' icon. When
 the variable selection box appears, select the four variables of
 Sepal.Length, Sepal.Width, Petal.Length, and Petal.Width, then the
-scatter plot matrix will be shown as \<Figure 12.1.6\>.
+scatter plot matrix will be shown as [Figure 12.1.6]{.figure-ref}.
 
 It is observed that the Sepal.Length and the Petal.Length, and the
 Petal.Length and the Petal.Width are related.
@@ -441,7 +441,7 @@ Petal.Length and the Petal.Width are related.
 ![](Figure/Fig120106.svg){.imgFig600400}
 
 ::: figText
-\<Figure 12.1.6\> Scatter plot matrix using 『eStat』
+[Figure 12.1.6]{.figure-ref} Scatter plot matrix using 『eStat』
 :::
 
 </div>
@@ -450,7 +450,7 @@ Petal.Length and the Petal.Width are related.
 
 When selecting \[Regression Analysis\] button from the options below the
 graph, the basic statistics and correlation coefficient matrix such as
-\<Figure 12.1.7\> appear in the Log Area with the test result. It can be
+[Figure 12.1.7]{.figure-ref} appear in the Log Area with the test result. It can be
 seen that all correlations are significant except the correlation
 coefficient between the Sepal.Length and Sepal.Width.
 
@@ -459,7 +459,7 @@ coefficient between the Sepal.Length and Sepal.Width.
 ![](Figure/Fig1201072.png){.imgFig600400}
 
 ::: figText
-\<Figure 12.1.7\> Descriptive statistics and correlation matrix using
+[Figure 12.1.7]{.figure-ref} Descriptive statistics and correlation matrix using
 『eStat』
 :::
 :::
@@ -1019,7 +1019,7 @@ $\quad a = \small \overline Y - b \overline X = 49.7 - 2.503 \times 8.4 = 28.672
 Therefore, the fitted regression line is
 $\small \hat Y_i = 28.672 + 2.503 X_i$.
 
-\<Figure 12.2.1\> shows the fitted regression line on the original data.
+[Figure 12.2.1]{.figure-ref} shows the fitted regression line on the original data.
 The meaning of slope value, 2.5033, is that, if advertising cost
 increases by one (i.e., one million), sales increases by about 2.5
 million.
@@ -1027,7 +1027,7 @@ million.
 ![](Figure/Fig120201.svg){.imgFig600400}
 
 ::: figText
-\<Figure 12.2.1\> Simple linear regression using 『eStat』
+[Figure 12.2.1]{.figure-ref} Simple linear regression using 『eStat』
 :::
 
 Prediction of the sales amount of a company with an advertising cost of
@@ -1349,13 +1349,13 @@ amounts can be explained by the simple linear regression model using a
 variable of advertising costs, so this regression line is quite useful.
 
 Click the \[Correlation and Regression\] button in the option below the
-graph of \<Figure 12.2.1\> to show the coefficient of determinations and
-estimation errors shown in \<Figure 12.2.2\>.
+graph of [Figure 12.2.1]{.figure-ref} to show the coefficient of determinations and
+estimation errors shown in [Figure 12.2.2]{.figure-ref}.
 
 ![](Figure/Fig120202.png){.imgFig600400}
 
 ::: figText
-\<Figure 12.2.2\> Correlation and descriptive statistics
+[Figure 12.2.2]{.figure-ref} Correlation and descriptive statistics
 :::
 
 ::: mainTablePink
@@ -1443,13 +1443,13 @@ $\small F_{1,8; 0.05} = 5.32$, we reject the null hypothesis
 $\small H_0 : \beta = 0$ with the significance level $\alpha$ = 0.05.
 
 Click the \[Correlation and Regression\] button in the options window
-below the graph \<Figure 12.2.1\> to show the result of the ANOVA as
-shown in \<Figure 12.2.3\>.
+below the graph [Figure 12.2.1]{.figure-ref} to show the result of the ANOVA as
+shown in [Figure 12.2.3]{.figure-ref}.
 
 ![](Figure/Fig120203.png){.imgFig600400}
 
 ::: figText
-\<Figure 12.2.3\> Regression Analysis of Variance using 『eStat』
+[Figure 12.2.3]{.figure-ref} Regression Analysis of Variance using 『eStat』
 :::
 :::
 
@@ -1669,23 +1669,23 @@ As we discussed, the confidence interval becomes wider as $\small X$ is
 far from $\small \overline X$.
 
 If you select the \[Confidence Band\] button from the options below the
-regression graph of \<Figure 12.2.1\>, you can see the confidence band
+regression graph of [Figure 12.2.1]{.figure-ref}, you can see the confidence band
 graph on the scatter plot together with regression line as \<Figure
 12.2.4\>. If you click the \[Correlation and Regression\] button, the
 inference result of each parameter will appear in the Log Area as shown
-in \<Figure 12.2.5\>.
+in [Figure 12.2.5]{.figure-ref}.
 :::
 
 ![](Figure/Fig120204.svg){.imgFig600400}
 
 ::: figText
-\<Figure 12.2.4\> Confidence band using 『eStat』
+[Figure 12.2.4]{.figure-ref} Confidence band using 『eStat』
 :::
 
 ![](Figure/Fig120205.png){.imgFig600400}
 
 ::: figText
-\<Figure 12.2.5\> Testing hypothesis of regression coefficients
+[Figure 12.2.5]{.figure-ref} Testing hypothesis of regression coefficients
 :::
 :::
 
@@ -1758,9 +1758,9 @@ plot for the advertising cost example.
 **Answer**
 
 When you click the \[Residual Plot\] button from the options below the
-regression graph of \<Figure 12.2.1\>, the scatter plot of the
+regression graph of [Figure 12.2.1]{.figure-ref}, the scatter plot of the
 standardized residuals and predicted values are appeared as shown in
-\<Figure 12.2.6\>. If you click \[Residual Q-Q Plot\] button, \<Figure
+[Figure 12.2.6]{.figure-ref}. If you click \[Residual Q-Q Plot\] button, \<Figure
 12.2.7\> is appeared. Although the scatter plot of the residuals has no
 significant pattern, the Q-Q plot deviates much from the straight line
 and so, the normality of the error term is somewhat questionable. In
@@ -1770,13 +1770,13 @@ by taking logarithmic or square root transformation.
 ![](Figure/Fig120206.svg){.imgFig600400}
 
 ::: figText
-\<Figure 12.2.6\> Residual plot
+[Figure 12.2.6]{.figure-ref} Residual plot
 :::
 
 ![](Figure/Fig120207.svg){.imgFig600400}
 
 ::: figText
-\<Figure 12.2.7\> Residual Q-Q Plot
+[Figure 12.2.7]{.figure-ref} Residual Q-Q Plot
 :::
 :::
 
@@ -1788,7 +1788,7 @@ a Q-Q scatter plot.
 
 ::: mainTable
 In 『eStatU』 , it is possible to do experiments on how much a
-regression line is affected by an extreme point (\<Figure 12.2.8\>). A
+regression line is affected by an extreme point ([Figure 12.2.8]{.figure-ref}). A
 point can be created by clicking the mouse on the screen in the link
 below. If you create multiple dots, you can see how much the regression
 line changes each time. You can observe how sensitive the correlation
@@ -1810,7 +1810,7 @@ along with the mouse.
 ![](Figure/Fig120208.png){.imgFig600400}
 
 ::: figText
-\<Figure 12.2.8\> Simulation experiment of regression analysis at
+[Figure 12.2.8]{.figure-ref} Simulation experiment of regression analysis at
 『eStatU』
 :::
 
@@ -2083,7 +2083,7 @@ Load the data saved at the following location of 『eStat』.
 In the variable selection box which appears by selecting the regression
 icon, select 'Y variable' by volume and select 'by X variable' as the
 diameter and height to display a scatter plot matrix as shown in
-\<Figure 12.3.1\>. It can be observed that there is a high correlation
+[Figure 12.3.1]{.figure-ref}. It can be observed that there is a high correlation
 between volume and diameter, and that volume and height, and diameter
 and height are also somewhat related.
 
@@ -2102,7 +2102,7 @@ and height are also somewhat related.
 ![](Figure/Fig120301.svg){.imgFig600400}
 
 ::: figText
-\<Figure 12.3.1\> Scatterplot matrix
+[Figure 12.3.1]{.figure-ref} Scatterplot matrix
 :::
 
 </div>
@@ -2112,7 +2112,7 @@ and height are also somewhat related.
 ![](Figure/Fig120302.png){.imgFig600400}
 
 ::: figText
-\<Figure 12.3.2\> Correlation matrix
+[Figure 12.3.2]{.figure-ref} Correlation matrix
 :::
 
 Since the volume is to be estimated using the diameter and height of the
@@ -2378,7 +2378,7 @@ goodness of fit and test for regression coefficients.
 
 In the options window below the scatter plot matrix in \<Figure
 12.3.1\>, click \[Regression Analysis\] button. Then you can find the
-estimated regression line, ANOVA table as shown in \<Figure 12.3.3\> in
+estimated regression line, ANOVA table as shown in [Figure 12.3.3]{.figure-ref} in
 the Log Area. The estimated regression equation is as follows:
 
 $\quad \small {\hat Y}_i = -1.024 + 0.037 X_1 + 0.024 X_2$
@@ -2386,7 +2386,7 @@ $\quad \small {\hat Y}_i = -1.024 + 0.037 X_1 + 0.024 X_2$
 In the above equation, 0.037 represents the increase of the volume of
 the tree when the diameter ($\small X_1$) increases 1(cm).
 
-The $p$-value calculated from the ANOVA table in \<Figure 12.3.3\> at
+The $p$-value calculated from the ANOVA table in [Figure 12.3.3]{.figure-ref} at
 $\small F$ value of 73.12 is less than 0.0001, so you can reject the
 null hypothesis $\small H_0 : \beta_1 = \beta_{2} = 0$ at the
 significance level $\alpha$ = 0.05. The coefficient of determination,
@@ -2398,13 +2398,13 @@ tree are quite useful in estimating the volume.
 ![](Figure/Fig120303.png){.imgFig600400}
 
 ::: figText
-\<Figure 12.3.3\> Result of Multiple Linear Regression
+[Figure 12.3.3]{.figure-ref} Result of Multiple Linear Regression
 :::
 
 Since $\small {SE}(b_1 ) = 0.003, \; {SE} (b_2 ) = 0.008$ and
-$t_{12; 0.025}$ = 2.179 from the result in \<Figure 12.3.3\>, the 95%
+$t_{12; 0.025}$ = 2.179 from the result in [Figure 12.3.3]{.figure-ref}, the 95%
 confidence intervals for each regression coefficients can be calculated
-as follows: The difference between this result and the \<Figure 12.3.3\>
+as follows: The difference between this result and the [Figure 12.3.3]{.figure-ref}
 due to the error in the calculation below the decimal point.
 
 $\quad$ 95% confidence interval for $\beta_1 : \;\;$ 0.037 $\pm$
@@ -2418,7 +2418,7 @@ is less than the significance level of 0.05, so you can reject each null
 hypothesis.
 
 The scatter plot of the standardized residuals is shown in \<Figure
-12.3.4\> and the Q-Q scatter plot is shown in \<Figure 12.3.5\>. There
+12.3.4\> and the Q-Q scatter plot is shown in [Figure 12.3.5]{.figure-ref}. There
 is no particular pattern in the scatter plot of the standardized
 residuals, but there is one outlier value, and the Q-Q scatter plot
 shows that the assumption of normality is somewhat satisfactory.
@@ -2426,13 +2426,13 @@ shows that the assumption of normality is somewhat satisfactory.
 ![](Figure/Fig120304.svg){.imgFig600400}
 
 ::: figText
-\<Figure 12.3.4\> Residual analysis of multiple linear regression
+[Figure 12.3.4]{.figure-ref} Residual analysis of multiple linear regression
 :::
 
 ![](Figure/Fig120305.svg){.imgFig600400}
 
 ::: figText
-\<Figure 12.3.5\> Q-Q plot of multiple linear regression
+[Figure 12.3.5]{.figure-ref} Q-Q plot of multiple linear regression
 :::
 :::
 

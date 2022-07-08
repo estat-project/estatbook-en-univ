@@ -179,7 +179,7 @@ completely different from the other.
 
 In the Input box that appears by selecting the 'Goodness of Fit Test'
 of 『eStatU』, enter the 'Observed Frequency' and 'Expected
-Probability' data as shown in \<Figure 11.1.1\>. After entering the
+Probability' data as shown in [Figure 11.1.1]{.figure-ref}. After entering the
 data, select the significance level and click [Execute]{.button-ref} button to
 calculate the 'Expected Frequency' and to see the result of the
 chi-square test. Be sure that this chi-square goodness of fit test
@@ -201,7 +201,7 @@ least 5.
 ![](Figure/Fig110101.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.1.1\> Goodness of fit test in 『eStatU』
+[Figure 11.1.1]{.figure-ref} Goodness of fit test in 『eStatU』
 :::
 
 </div>
@@ -211,7 +211,7 @@ least 5.
 ![](Figure/Fig110102.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.1.2\> 『eStatU』Chi-square Goodness of Fit Test
+[Figure 11.1.2]{.figure-ref} 『eStatU』Chi-square Goodness of Fit Test
 :::
 :::
 
@@ -376,9 +376,9 @@ Let's find a frequency table which starts at the age of 10 with the
 interval size of 10. The histogram of『eStat』makes this frequency table
 easy to obtain.
 
-If you enter the data as shown in \<Figure 11.1.3\>, click the histogram
+If you enter the data as shown in [Figure 11.1.3]{.figure-ref}, click the histogram
 icon and select Age from the variable selection box, then the histogram
-as \<Figure 11.1.4\> will appear.
+as [Figure 11.1.4]{.figure-ref} will appear.
 
 <div>
 
@@ -395,7 +395,7 @@ as \<Figure 11.1.4\> will appear.
 ![](Figure/Fig110103.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.1.3\> Data input at『eStat』
+[Figure 11.1.3]{.figure-ref} Data input at『eStat』
 :::
 
 </div>
@@ -405,30 +405,30 @@ as \<Figure 11.1.4\> will appear.
 ![](Figure/Fig110104.svg){.imgFig600400}
 
 ::: figText
-\<Figure 11.1.4\> Default histogram of age
+[Figure 11.1.4]{.figure-ref} Default histogram of age
 :::
 
 If you specify 'start interval' as 10 and 'interval width' as 10 in
 the options window below the histogram, the histogram of \<Figure
-11.1.4\> is adjusted as \<Figure 11.1.5\>. If you click \[Frequency
-Table\] button, the frequency table as shown in \<Figure 11.1.6\> will
+11.1.4\> is adjusted as [Figure 11.1.5]{.figure-ref}. If you click \[Frequency
+Table\] button, the frequency table as shown in [Figure 11.1.6]{.figure-ref} will
 appear in the Log Area. The designation of interval size can be
 determined by a researcher.
 
 ![](Figure/Fig110105.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.1.5\> Adjusted histogram of age
+[Figure 11.1.5]{.figure-ref} Adjusted histogram of age
 :::
 
 ![](Figure/Fig110106.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.1.6\> Frequency table of the adjusted histogram
+[Figure 11.1.6]{.figure-ref} Frequency table of the adjusted histogram
 :::
 
 Since the normal distribution is a continuous distribution defined at
-$-\infty \lt x \lt \infty$ , the frequency table of \<Figure 11.1.6\>
+$-\infty \lt x \lt \infty$ , the frequency table of [Figure 11.1.6]{.figure-ref}
 can be written as follows:
 
 ::: textLeft
@@ -461,13 +461,13 @@ This hypothesis does not specify what a normal distribution is and
 therefore, the population mean $\mu$ and the population variance
 $\sigma^2$ should be estimated from sample data. Pressing the 'Basic
 Statistics' icon on the main menu of『eStat』will display a table of
-basic statistics in the Log Area, as shown in \<Figure 11.1.7\>. The
+basic statistics in the Log Area, as shown in [Figure 11.1.7]{.figure-ref}. The
 sample mean is 38.567 and the sample standard deviation is 12.982.
 
 ![](Figure/Fig110107.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.1.7\> Descriptive statistics of age
+[Figure 11.1.7]{.figure-ref} Descriptive statistics of age
 :::
 
 Hence, the above hypothesis can be written in detail as follows:
@@ -488,7 +488,7 @@ of 『eStatU』 makes it easy to calculate this probability of an
 interval. At the normal distribution module of 『eStatU』, enter the
 mean of 38.567 and the standard deviation of 12.982. Click the second
 radio button of P(X \< x) type and enter 20, then press the [Execute]{.button-ref}
-button to calculate the probability as shown in \<Figure 11.1.8\>.
+button to calculate the probability as shown in [Figure 11.1.8]{.figure-ref}.
 
 ::: textLeft
 $P(X \lt 20) = P(Z \lt \frac {20-38.567} {12.982} ) = P(Z \lt -1.430)=0.075$
@@ -509,7 +509,7 @@ $P(X \lt 20) = P(Z \lt \frac {20-38.567} {12.982} ) = P(Z \lt -1.430)=0.075$
 ![](Figure/Fig110108.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.1.8\> Calculation of normal probability using『eStatU』
+[Figure 11.1.8]{.figure-ref} Calculation of normal probability using『eStatU』
 :::
 
 </div>
@@ -601,10 +601,10 @@ $\small N(38.567, 12.982^2 )$ .
 Test result can be verified using 'Goodness of Fit Test' in
 『eStatU』. In the Input box that appears by selecting the 'Goodness of
 Fit Test' module, enter the data for 'observation frequency' and
-'expected probability' in [Table 11.1]{.table-ref}.4, as shown in \<Figure 11.1.9\>.
+'expected probability' in [Table 11.1]{.table-ref}.4, as shown in [Figure 11.1.9]{.figure-ref}.
 After entering the data, select the significance level and press the
 [Execute]{.button-ref} button to calculate the 'expected frequency' and produce a
-chi-square test result (\<Figure 11.1.10\>).
+chi-square test result ([Figure 11.1.10]{.figure-ref}).
 
 <div>
 
@@ -621,7 +621,7 @@ chi-square test result (\<Figure 11.1.10\>).
 ![](Figure/Fig110109.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.1.9\> Data input for goodness of fit test in 『eStatU』
+[Figure 11.1.9]{.figure-ref} Data input for goodness of fit test in 『eStatU』
 :::
 
 </div>
@@ -631,7 +631,7 @@ chi-square test result (\<Figure 11.1.10\>).
 ![](Figure/Fig110110.svg){.imgFig600400}
 
 ::: figText
-\<Figure 11.1.10\> Chi-square goodness of fit test using『eStatU』
+[Figure 11.1.10]{.figure-ref} Chi-square goodness of fit test using『eStatU』
 :::
 :::
 
@@ -780,7 +780,7 @@ each other.
 **Answer**
 
 ::: textL20M20
-1\) Enter data in 『eStat』 as shown in \<Figure 11.2.1\>.
+1\) Enter data in 『eStat』 as shown in [Figure 11.2.1]{.figure-ref}.
 
 <div>
 
@@ -797,7 +797,7 @@ each other.
 ![](Figure/Fig110201.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.2.1\> Data input
+[Figure 11.2.1]{.figure-ref} Data input
 :::
 
 </div>
@@ -808,7 +808,7 @@ each other.
 ::: textL20
 Select 'Line Graph' icon from the main menu. If you click variables
 'Gender', 'Glasses', 'NoGlasses' one by one, then a line graph as shown
-in \<Figure 11.2.2\> will appear in the Graph Area. If you look at the
+in [Figure 11.2.2]{.figure-ref} will appear in the Graph Area. If you look at the
 line graph, you can see that the ratio of wearing glasses for men and
 women are different. For men, there are many students who do not wear
 glasses (80% of men) and for women, 60% of women do. In such cases, the
@@ -819,7 +819,7 @@ intersect to each other.
 ![](Figure/Fig110202.svg){.imgFig600400}
 
 ::: figText
-\<Figure 11.2.2\> Line graph of wearing glasses by gender
+[Figure 11.2.2]{.figure-ref} Line graph of wearing glasses by gender
 :::
 :::
 
@@ -901,8 +901,8 @@ wearing glasses are related.
 
 ::: textL20M20
 3\) In the independence test of『eStatU』, enter data as shown in
-\<Figure 11.2.3\> and press the [Execute]{.button-ref} button to display the result
-of the chi-square test as shown in \<Figure 11.2.4\>.
+[Figure 11.2.3]{.figure-ref} and press the [Execute]{.button-ref} button to display the result
+of the chi-square test as shown in [Figure 11.2.4]{.figure-ref}.
 :::
 
 <div>
@@ -920,7 +920,7 @@ of the chi-square test as shown in \<Figure 11.2.4\>.
 ![](Figure/Fig110203.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.2.3\> 『eStatU』Test of Independence
+[Figure 11.2.3]{.figure-ref} 『eStatU』Test of Independence
 :::
 
 </div>
@@ -930,7 +930,7 @@ of the chi-square test as shown in \<Figure 11.2.4\>.
 ![](Figure/Fig110204.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.2.4\>『eStatU』Chi-square test of independence
+[Figure 11.2.4]{.figure-ref}『eStatU』Chi-square test of independence
 :::
 :::
 
@@ -1100,7 +1100,7 @@ each other at the significance level of 5%.
 **Answer**
 
 ::: textL20M20
-1\) Enter the data in『eStat』 as shown in \<Figure 11.2.5\>.
+1\) Enter the data in『eStat』 as shown in [Figure 11.2.5]{.figure-ref}.
 :::
 
 <div>
@@ -1118,7 +1118,7 @@ each other at the significance level of 5%.
 ![](Figure/Fig110205.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.2.5\> Data input
+[Figure 11.2.5]{.figure-ref} Data input
 :::
 
 </div>
@@ -1127,7 +1127,7 @@ each other at the significance level of 5%.
 
 ::: textL20
 Select 'Line Graph' and click variables 'Region', 'A', 'B', and 'C' in
-order, then the line graph shown in \<Figure 11.2.6\> will appear. If
+order, then the line graph shown in [Figure 11.2.6]{.figure-ref} will appear. If
 you look at the line graph, you can see the cross-section of the lines
 from region to region, and the regional preference is different. Can you
 statistically conclude that the region and beverage preference are
@@ -1137,7 +1137,7 @@ related?
 ![](Figure/Fig110206.svg){.imgFig600400}
 
 ::: figText
-\<Figure 11.2.6\> Line graph by region and beverage
+[Figure 11.2.6]{.figure-ref} Line graph by region and beverage
 :::
 
 ::: textL20M20
@@ -1185,8 +1185,8 @@ related.
 
 ::: textL20M20
 3\) In the independence test of『eStatU』, enter data as shown in
-\<Figure 11.2.7\> and click the [Execute]{.button-ref} button to display the result
-of the chi-square test as shown in \<Figure 11.2.8\>.
+[Figure 11.2.7]{.figure-ref} and click the [Execute]{.button-ref} button to display the result
+of the chi-square test as shown in [Figure 11.2.8]{.figure-ref}.
 :::
 
 <div>
@@ -1204,7 +1204,7 @@ of the chi-square test as shown in \<Figure 11.2.8\>.
 ![](Figure/Fig110207.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.2.7\> Data input for Independence Test at『eStatU』
+[Figure 11.2.7]{.figure-ref} Data input for Independence Test at『eStatU』
 :::
 
 </div>
@@ -1214,27 +1214,27 @@ of the chi-square test as shown in \<Figure 11.2.8\>.
 ![](Figure/Fig110208.svg){.imgFig600400}
 
 ::: figText
-\<Figure 11.2.8\> Chi-square Independence Test at『eStatU』
+[Figure 11.2.8]{.figure-ref} Chi-square Independence Test at『eStatU』
 :::
 :::
 
 ::: mainTable
 As described in Chapter 4, if a contingency table is made using raw data
-(\<Figure 11.2.9\>), 『eStat』provides the result of the independence
-test as shown in \<Figure 11.2.10\>. In this case, if a cell of the
+([Figure 11.2.9]{.figure-ref}), 『eStat』provides the result of the independence
+test as shown in [Figure 11.2.10]{.figure-ref}. In this case, if a cell of the
 contingency table has a small expected number, the test result should be
 interpreted carefully.
 
 ![](Figure/Fig110209.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.2.9\> Raw data input for independence test
+[Figure 11.2.9]{.figure-ref} Raw data input for independence test
 :::
 
 ![](Figure/Fig110210.png){.imgFig600400}
 
 ::: figText
-\<Figure 11.2.10\>『eStat』contingency table and independence test
+[Figure 11.2.10]{.figure-ref}『eStat』contingency table and independence test
 :::
 :::
 

@@ -135,7 +135,7 @@ In order to test the hypothesis using the parametric t-test in Chapter
 7, it is necessary to assume that the population is normally
 distributed, because the sample size of 10 is small. Let us check
 whether the sample data is a normal distribution by using a histogram.
-Enter data in『eStat』 as shown in \<Figure 10.1.1\>
+Enter data in『eStat』 as shown in [Figure 10.1.1]{.figure-ref}
 :::
 
 <div>
@@ -153,7 +153,7 @@ Enter data in『eStat』 as shown in \<Figure 10.1.1\>
 ![](Figure/Fig100101.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.1.1\> Data input for cookie weight
+[Figure 10.1.1]{.figure-ref} Data input for cookie weight
 :::
 
 </div>
@@ -163,9 +163,9 @@ Enter data in『eStat』 as shown in \<Figure 10.1.1\>
 ::: textL20
 Click icon of the testing hypothesis for the population mean and select
 'Weight' as the analysis variable in the variable selection box. A dot
-graph with the 95% confidence interval will appear as \<Figure 10.1.2\>.
+graph with the 95% confidence interval will appear as [Figure 10.1.2]{.figure-ref}.
 If you click the \[Histogram\] button in the options window below the
-graph, a histogram as shown in \<Figure 10.1.3\> will appear. If you
+graph, a histogram as shown in [Figure 10.1.3]{.figure-ref} will appear. If you
 look at the histogram, it is not sufficient to assume that the
 population follows a normal distribution. In such cases, applying the
 parametric hypothesis test may lead to errors.
@@ -174,13 +174,13 @@ parametric hypothesis test may lead to errors.
 ![](Figure/Fig100102.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.1.2\> Dot graph of the cookie weight
+[Figure 10.1.2]{.figure-ref} Dot graph of the cookie weight
 :::
 
 ![](Figure/Fig100103.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.1.3\> Histogram of the cookie weight
+[Figure 10.1.3]{.figure-ref} Histogram of the cookie weight
 :::
 
 ::: textL20M20
@@ -219,7 +219,7 @@ $\quad \small \quad H_0 : M = 200 ,\;\; H_1 : M \ne 200$:
 
 In the sign data above, 'the number of + signs' (denote it as $n_+$) or
 the number of -- signs' (denote as $n_+$) follows a binomial
-distribution with parameters of $n$=10, $p$=0.5 (\<Figure 10.1.4\>).
+distribution with parameters of $n$=10, $p$=0.5 ([Figure 10.1.4]{.figure-ref}).
 :::
 
 <div>
@@ -237,7 +237,7 @@ distribution with parameters of $n$=10, $p$=0.5 (\<Figure 10.1.4\>).
 ![](Figure/Fig100104.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.1.4\> Binomial distribution when =10, =0.5
+[Figure 10.1.4]{.figure-ref} Binomial distribution when =10, =0.5
 :::
 
 </div>
@@ -296,8 +296,8 @@ words, the median of the weight of the cookie bag is 200g.
 :::
 
 ::: textL20M20
-3\) Enter data as shown in \<Figure 10.1.5\> in 『eStatU』and press the
-[Execute]{.button-ref} button to show the test result as in \<Figure 10.1.6\>. It
+3\) Enter data as shown in [Figure 10.1.5]{.figure-ref} in 『eStatU』and press the
+[Execute]{.button-ref} button to show the test result as in [Figure 10.1.6]{.figure-ref}. It
 shows the critical lines for values containing the significance level of
 5% (2.5% for both tests). For a discrete distribution such as the
 binomial distribution, the choice of the final reject region shall be
@@ -319,7 +319,7 @@ determined by the analyst.
 ![](Figure/Fig100105.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.1.5\> Data input for sign test in 『eStatU』
+[Figure 10.1.5]{.figure-ref} Data input for sign test in 『eStatU』
 :::
 
 </div>
@@ -329,7 +329,7 @@ determined by the analyst.
 ![](Figure/Fig100106.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.1.6\> Result of sign test using『eStatU』
+[Figure 10.1.6]{.figure-ref} Result of sign test using『eStatU』
 :::
 :::
 
@@ -540,7 +540,7 @@ $\small H_0$ is true, the number of cases for
 [$\small R_{+}$]{style="color:red"} is shown in [Table 10.1.3]{.table-ref}. It is not
 easy to examine all of these possible rankings to create a distribution
 table. 『eStatU』shows the distribution of Wilcoxon signed rank sum as
-shown in \<Figure 10.1.7\> and its table as in [Table 10.1.4]{.table-ref}.
+shown in [Figure 10.1.7]{.figure-ref} and its table as in [Table 10.1.4]{.table-ref}.
 
 ::: textLeft
 Table 10.1.3 All possible cases of [$\small R_{+}$]{style="color:red"} =
@@ -581,7 +581,7 @@ Table 10.1.3 All possible cases of [$\small R_{+}$]{style="color:red"} =
 ![](Figure/Fig100107.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.1.7\> Distribution of Wilcoxon signed rank sum when $n$=10
+[Figure 10.1.7]{.figure-ref} Distribution of Wilcoxon signed rank sum when $n$=10
 :::
 
 </div>
@@ -630,9 +630,9 @@ $\small H_0$'
 Since $\small R_+$ = 29.5 in this problem, we can not reject
 $\small H_0$.
 
-After entering the data in『eStatU』as in \<Figure 10.1.8\>, pressing
+After entering the data in『eStatU』as in [Figure 10.1.8]{.figure-ref}, pressing
 the [Execute]{.button-ref} button will calculate the sample statistics and show the
-test result as in \<Figure 10.1.9\>. The critical lines are the value
+test result as in [Figure 10.1.9]{.figure-ref}. The critical lines are the value
 for containing 5% significance level from both sides (the probability of
 each end is 2.5%). For a discrete distribution, the choice of the final
 reject region should be determined by the analyst.
@@ -652,7 +652,7 @@ reject region should be determined by the analyst.
 ![](Figure/Fig100108.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.1.8\> 『eStatU』Signed rank sum test
+[Figure 10.1.8]{.figure-ref} 『eStatU』Signed rank sum test
 :::
 
 </div>
@@ -662,35 +662,35 @@ reject region should be determined by the analyst.
 ![](Figure/Fig100109.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.1.9\> Signed rank sum test in 『eStatU』
+[Figure 10.1.9]{.figure-ref} Signed rank sum test in 『eStatU』
 :::
 
 The signed rank sum test can be done using 『eStat』. If you enter the
-data as shown in \<Figure 10.1.10\>, select 'Weight' as the analysis
+data as shown in [Figure 10.1.10]{.figure-ref}, select 'Weight' as the analysis
 variable in the variable selection box and click the icon of testing the
 population mean. Then a dot graph with the 95% confidence interval for
-the population mean will appear as \<Figure 10.1.11\>.
+the population mean will appear as [Figure 10.1.11]{.figure-ref}.
 
 ![](Figure/Fig100110.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.1.10\> Data input for cookie weight
+[Figure 10.1.10]{.figure-ref} Data input for cookie weight
 :::
 
 ![](Figure/Fig100111.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.1.11\> Dot graph and confidence interval of cookie weight
+[Figure 10.1.11]{.figure-ref} Dot graph and confidence interval of cookie weight
 :::
 
 Enter a value of 200 from the options below the graph and click the
 \[Wilcoxon Signed Rank Sum Test\] button to display the same test result
-graph and result table as in \<Figure 10.1.12\>.
+graph and result table as in [Figure 10.1.12]{.figure-ref}.
 
 ![](Figure/Fig100112.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.1.12\> Result of the Wilicoxon Signed Rank Sum Test
+[Figure 10.1.12]{.figure-ref} Result of the Wilicoxon Signed Rank Sum Test
 :::
 :::
 
@@ -1069,7 +1069,7 @@ histogram using 『eStat』. Enter data in 『eStat』 as shown in \<Figure
 ![](Figure/Fig100201.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.2.1\> Data input at『eStat』
+[Figure 10.2.1]{.figure-ref} Data input at『eStat』
 :::
 
 </div>
@@ -1079,24 +1079,24 @@ histogram using 『eStat』. Enter data in 『eStat』 as shown in \<Figure
 Click icon for testing two population means in the main menu. Select
 'Score' as 'Analysis Var' and 'Dept' as 'By Group' variable. Then, two
 dot graphs together with 95% confidence intervals for each population
-mean will appear as in \<Figure 10.2.2\>. Average score of students in
+mean will appear as in [Figure 10.2.2]{.figure-ref}. Average score of students in
 the Economics Department appears to be higher than the average score of
 students in the Management Department, but it should be tested for
 statistical significance. Pressing the \[Histogram\] button in the
 options window below the graph will reveal the histogram and normal
-distribution curves for each department, as in\<Figure 10.2.3\>.
+distribution curves for each department, as in[Figure 10.2.3]{.figure-ref}.
 :::
 
 ![](Figure/Fig100202.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.2.2\> Dot graph and confidence interval by department
+[Figure 10.2.2]{.figure-ref} Dot graph and confidence interval by department
 :::
 
 ![](Figure/Fig100203.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.2.3\> Histogram by department
+[Figure 10.2.3]{.figure-ref} Histogram by department
 :::
 
 ::: textL20M20
@@ -1162,7 +1162,7 @@ $\small H_0$ is true, the number of cases for $\small R_{2}$ is
 ${}_{13}P_{6}$ = 1716 as shown in [Table 10.2.2]{.table-ref}. It is not easy to
 examine all of these possible rankings to find the distribution table.
 『eStatU』provides the Wilcoxon rank sum distribution and its table as
-shown in \<Figure 10.2.4\>.
+shown in [Figure 10.2.4]{.figure-ref}.
 :::
 
 ::: textLeft
@@ -1191,7 +1191,7 @@ Table 10.2.2 All possible ranks for six data in sample 2 if n = 13
 ![](Figure/Fig100204.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.2.4\> Wilcoxon rank sum distribution when =7, =6
+[Figure 10.2.4]{.figure-ref} Wilcoxon rank sum distribution when =7, =6
 :::
 
 </div>
@@ -1241,9 +1241,9 @@ $\small R_2$ is not statistically significant.
 :::
 
 ::: textL20M20
-3\) In『eStatU』, enter the data as \<Figure 10.2.5\> and click the
+3\) In『eStatU』, enter the data as [Figure 10.2.5]{.figure-ref} and click the
 [Execute]{.button-ref} button. It will calculate the sample statistics and show the
-test result graph as \<Figure 10.2.6\>. The two critical lines which
+test result graph as [Figure 10.2.6]{.figure-ref}. The two critical lines which
 correspond to 2.5% from the end are shown here. For a discrete
 distribution such as this, the choice of the final rejection region
 should be determined by the analyst.
@@ -1264,7 +1264,7 @@ should be determined by the analyst.
 ![](Figure/Fig100205.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.2.5\> Data input for the Wilcoxon rank sum test at『eStatU』
+[Figure 10.2.5]{.figure-ref} Data input for the Wilcoxon rank sum test at『eStatU』
 :::
 
 </div>
@@ -1274,21 +1274,21 @@ should be determined by the analyst.
 ![](Figure/Fig100206.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.2.6\> Wilcoxon rank sum test using 『eStatU』
+[Figure 10.2.6]{.figure-ref} Wilcoxon rank sum test using 『eStatU』
 :::
 
 ::: textL20
 The rank sum test can be performed using『eStat』. After you saw
-\<Figure 10.2.2\>, click the \[Wilcoxon Rank Sum Test\] button in the
+[Figure 10.2.2]{.figure-ref}, click the \[Wilcoxon Rank Sum Test\] button in the
 options window below the graph. Then a test result graph as shown in
-\<Figure 10.2.6\> will appear in the Graph Area and a test result table
-as in \<Figure 10.2.7\> will appear in the Log Area.
+[Figure 10.2.6]{.figure-ref} will appear in the Graph Area and a test result table
+as in [Figure 10.2.7]{.figure-ref} will appear in the Log Area.
 :::
 
 ![](Figure/Fig100207.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.2.7\> Result table of Wilcoxon rank sum test
+[Figure 10.2.7]{.figure-ref} Result table of Wilcoxon rank sum test
 :::
 :::
 
@@ -1616,7 +1616,7 @@ Table 10.2.7 Data of age differences between husband and wife
 
 ::: textL20
 The histogram for the data of differences by using『eStat』 (the testing
-hypothesis for a population mean) is as in \<Figure 10.2.8\>. If you
+hypothesis for a population mean) is as in [Figure 10.2.8]{.figure-ref}. If you
 look at the histogram, it is not sufficient evidence that the data of
 differences follow a normal distribution, because the number of data is
 small. In such a case, applying the parametric hypothesis test may lead
@@ -1639,7 +1639,7 @@ Wilcoxon signed rank sum test on the data of differences.
 ![](Figure/Fig100208.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.2.8\> Histogram of age difference
+[Figure 10.2.8]{.figure-ref} Histogram of age difference
 :::
 
 </div>
@@ -1681,7 +1681,7 @@ ties on the difference data, assign the average rank.
 
 ::: textL20
 In『eStatU』, the distribution of the Wilcoxon signed rank sum when is
-shown in \<Figure 10.2.9\> and [Table 10.2.8]{.table-ref}.
+shown in [Figure 10.2.9]{.figure-ref} and [Table 10.2.8]{.table-ref}.
 :::
 
 ::: textLeft
@@ -1718,7 +1718,7 @@ wife's age are the same.
 :::
 
 ::: textL20M20
-3\) Enter the data as shown in \<Figure 10.2.9\> in『eStat』and click
+3\) Enter the data as shown in [Figure 10.2.9]{.figure-ref} in『eStat』and click
 the icon which is the test for a population mean. If you select the
 variable 'Difference' as the analysis variable, a dot graph with the 95%
 confidence interval for the population mean difference will appear.
@@ -1726,8 +1726,8 @@ confidence interval for the population mean difference will appear.
 
 ::: textL20
 If you enter 0 for testing value in the hypothesis option and click the
-[Execute]{.button-ref} button, you will see the test result as in\<Figure 10.2.10\>
-and \<Figure 10.2.11\>. Two critical lines for values containing 2.5
+[Execute]{.button-ref} button, you will see the test result as in[Figure 10.2.10]{.figure-ref}
+and [Figure 10.2.11]{.figure-ref}. Two critical lines for values containing 2.5
 percentile from both sides are shown here. For a discrete distribution,
 the choice of the final decision rule should be determined by the
 analyst.
@@ -1748,7 +1748,7 @@ analyst.
 ![](Figure/Fig100209.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.2.9\> Data difference
+[Figure 10.2.9]{.figure-ref} Data difference
 :::
 
 </div>
@@ -1758,13 +1758,13 @@ analyst.
 ![](Figure/Fig100210.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.2.10\> 『eStat』Signed rank sum test
+[Figure 10.2.10]{.figure-ref} 『eStat』Signed rank sum test
 :::
 
 ![](Figure/Fig100211.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.2.11\> Result of Wilcoxon signed rank sum test
+[Figure 10.2.11]{.figure-ref} Result of Wilcoxon signed rank sum test
 :::
 :::
 
@@ -2060,7 +2060,7 @@ examine if each sample data satisfy the normality assumption.
 :::
 
 ::: textL20
-Enter the data as shown in \<Figure 10.3.1\> in『eStat』.
+Enter the data as shown in [Figure 10.3.1]{.figure-ref} in『eStat』.
 :::
 
 <div>
@@ -2078,7 +2078,7 @@ Enter the data as shown in \<Figure 10.3.1\> in『eStat』.
 ![](Figure/Fig100301.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.3.1\> 『eStat』data input
+[Figure 10.3.1]{.figure-ref} 『eStat』data input
 :::
 
 </div>
@@ -2089,24 +2089,24 @@ Enter the data as shown in \<Figure 10.3.1\> in『eStat』.
 Click the ANOVA icon . Select 'Score' as 'Analysis Var' and 'Company' as
 'by Group' variable in the variable selection box. Then a dot graph with
 the 95% confidence interval of each population mean will appear as in
-\<Figure 10.3.2\>. Company C has the high average of satisfaction
+[Figure 10.3.2]{.figure-ref}. Company C has the high average of satisfaction
 scores, followed by Company A and Company B. However, it should be
 tested if these differences are statistically significant. Clicking the
 \[Histogram\] button in the options window below the graph will reveal
 the histogram and its normal distribution curve for each company, as
-in\<Figure 10.3.3\>.
+in[Figure 10.3.3]{.figure-ref}.
 :::
 
 ![](Figure/Fig100302.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.3.2\> Dot graph and the confidence interval by company
+[Figure 10.3.2]{.figure-ref} Dot graph and the confidence interval by company
 :::
 
 ![](Figure/Fig100303.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.3.3\> Histogram by company
+[Figure 10.3.3]{.figure-ref} Histogram by company
 :::
 
 ::: textL20
@@ -2179,7 +2179,7 @@ statistically significant. If $n$ = 10, the number of cases for ranking
 {1,2,3, \... , 10} is 10! = 3,628,800. It is not easy to examine all of
 these possible rankings to create a distribution table of $\small H$.
 『eStatU』 shows the distribution of the Kruskal--Wallis for $n_1$ = 4,
-$n_2$ = 3, and $n_3$ = 3 as shown in \<Figure 10.3.4\>, and a part of
+$n_2$ = 3, and $n_3$ = 3 as shown in [Figure 10.3.4]{.figure-ref}, and a part of
 the distribution table as in [Table 10.3.2]{.table-ref}. As shown in the figure, the
 distribution of $\small H$ is an asymmetrical distribution.
 :::
@@ -2199,7 +2199,7 @@ distribution of $\small H$ is an asymmetrical distribution.
 ![](Figure/Fig100304.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.3.4\> Kruskal Wallis H distribution when
+[Figure 10.3.4]{.figure-ref} Kruskal Wallis H distribution when
 $n_1 = 4, n_2 = 3, n_3 = 3$
 :::
 
@@ -2389,9 +2389,9 @@ Since $\small H$ = 7.318 in this example, we reject $\small H_0$.
 :::
 
 ::: textL20M20
-3\) In 『eStatU』, enter data as \<Figure 10.3.5\> and click the
+3\) In 『eStatU』, enter data as [Figure 10.3.5]{.figure-ref} and click the
 [Execute]{.button-ref} button. Then the sample statistics are calculated and the
-test result is shown as in \<Figure 10.3.6\>. The critical line for
+test result is shown as in [Figure 10.3.6]{.figure-ref}. The critical line for
 values containing 5 percentile of the significance level is shown here.
 For a discrete distribution, the choice of the final rejection region
 shall be determined by the analyst.
@@ -2412,7 +2412,7 @@ shall be determined by the analyst.
 ![](Figure/Fig100305.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.3.5\> 『eStatU』 Kruskal-Wallis test
+[Figure 10.3.5]{.figure-ref} 『eStatU』 Kruskal-Wallis test
 :::
 
 </div>
@@ -2422,24 +2422,24 @@ shall be determined by the analyst.
 ![](Figure/Fig100306.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.3.6\> Kruskal-Wallis test
+[Figure 10.3.6]{.figure-ref} Kruskal-Wallis test
 :::
 
 ::: textL20
 『eStat』 can also be used to conduct the Kruskal--Wallis $\small H$
-test. Enter data as \<Figure 10.3.1\> and click the ANOVA icon. Select
+test. Enter data as [Figure 10.3.1]{.figure-ref} and click the ANOVA icon. Select
 'Score' as 'Analysis Var' and 'Company' as 'by Group' variable in the
 variable selection box. Then a dot graph with the 95% confidence
 interval of the population mean in each company will appear as \<Figure
 10.3.2\>. If you press the \[Kruskal--Wallis test\] button in the
 options window below the graph, the same test graph and test result
-table will appear as in \<Figure 10.3.7\>.
+table will appear as in [Figure 10.3.7]{.figure-ref}.
 :::
 
 ![](Figure/Fig100307.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.3.7\> Result of the Kruskal-Wallis test
+[Figure 10.3.7]{.figure-ref} Result of the Kruskal-Wallis test
 :::
 
 ::: mainTable
@@ -2702,7 +2702,7 @@ types of cars are different with the significance level of 5%.
 **Answer**
 
 ::: textL20
-1\) Enter data in『eStat』as shown in \<Figure 10.3.8\>.
+1\) Enter data in『eStat』as shown in [Figure 10.3.8]{.figure-ref}.
 :::
 
 <div>
@@ -2720,7 +2720,7 @@ types of cars are different with the significance level of 5%.
 ![](Figure/Fig100308.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.3.8\> 『eStat』Data input
+[Figure 10.3.8]{.figure-ref} 『eStat』Data input
 :::
 
 </div>
@@ -2733,13 +2733,13 @@ Var' and 'Car' as 'by Group'. Then the dot graph by car type and the
 95% confidence interval for the population mean will appear. Again,
 clicking the \[Histogram\] button in the options window below the graph
 will show the histogram and normal distribution curve for each car type
-as shown in \<Figure 10.3.9\>.
+as shown in [Figure 10.3.9]{.figure-ref}.
 :::
 
 ![](Figure/Fig100309.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.3.9\> Histogram of fuel mileage by car
+[Figure 10.3.9]{.figure-ref} Histogram of fuel mileage by car
 :::
 
 ::: textL20
@@ -2796,7 +2796,7 @@ $\small S$ is statistically significant. Since the number of cases of
 ranking when $n$ = 5, $k$ = 3 is $(3!)^5 = 7776$, it is not easy to
 examine all of these possible rankings to obtain a distribution.
 『eStatU』 provides the distribution of the test statistic $\small S$ in
-the case of $n$ = 5, $k$ = 3 as in \<Figure 10.3.10\> and its
+the case of $n$ = 5, $k$ = 3 as in [Figure 10.3.10]{.figure-ref} and its
 distribution table as [Table 10.3.9]{.table-ref}. As shown in the graph, the
 distribution of $n$ = 5, $k$ = 3 is an asymmetrical distribution.
 :::
@@ -2816,7 +2816,7 @@ distribution of $n$ = 5, $k$ = 3 is an asymmetrical distribution.
 ![](Figure/Fig100310.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.3.10\> Friedman S distribution when ,
+[Figure 10.3.10]{.figure-ref} Friedman S distribution when ,
 :::
 
 </div>
@@ -2859,9 +2859,9 @@ Since $\small S$ = 10 in this example, $\small H_0$ is rejected.
 :::
 
 ::: textL20M20
-3\) Enter data in『eStatU』as in \<Figure 10.3.11\> and click the
+3\) Enter data in『eStatU』as in [Figure 10.3.11]{.figure-ref} and click the
 [Execute]{.button-ref} button. The sample statistics and test graph will be shown
-as in \<Figure 10.3.12\>. The critical line which contains 5% of the
+as in [Figure 10.3.12]{.figure-ref}. The critical line which contains 5% of the
 significance level is shown here. For a discrete distribution, the
 choice of the final rejection region should be determined by the
 analyst.
@@ -2882,7 +2882,7 @@ analyst.
 ![](Figure/Fig100311.png){.imgFig600400}
 
 ::: figText
-\<Figure 10.3.11\> Data input for Friedman test at『eStatU』
+[Figure 10.3.11]{.figure-ref} Data input for Friedman test at『eStatU』
 :::
 
 </div>
@@ -2892,7 +2892,7 @@ analyst.
 ![](Figure/Fig100312.svg){.imgFig600400}
 
 ::: figText
-\<Figure 10.3.12\> Result of Friedman test using『eStatU』
+[Figure 10.3.12]{.figure-ref} Result of Friedman test using『eStatU』
 :::
 :::
 

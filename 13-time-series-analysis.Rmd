@@ -89,13 +89,13 @@ shape of the time series displayed in numbers. The first step in time
 series analysis is to observe the time series by drawing a time series
 plot with the X axis as time and the Y axis as time series values. For
 example, the time series plot of the total population in Korea is shown
-in \<Figure 13.1.1\>.
+in [Figure 13.1.1]{.figure-ref}.
 
 +-----------------------------------------------------------------------+
 | ![](Figure/Fig130101.png){.imgFig600400}                           |
 |                                                                       |
 | ::: figText                                                           |
-| \<Figure 13.1.1\>Time Series of Korea Population                      |
+| [Figure 13.1.1]{.figure-ref}Time Series of Korea Population                      |
 | :::                                                                   |
 +-----------------------------------------------------------------------+
 
@@ -113,7 +113,7 @@ crop production, yearly export and import time series, and yearly
 national income and economic growth rate, and so on.
 
 [Table 13.1.2]{.table-ref} shows the percent increase in monthly sales of the US
-toy/game industry for the past 6 years, and \<Figure 13.1.2\> is a plot
+toy/game industry for the past 6 years, and [Figure 13.1.2]{.figure-ref} is a plot
 of this time series. As it is the rate of change from the previous
 month, it can be observed that it is seasonal data showing a large
 increase in November and December every year, moving up and down based
@@ -209,7 +209,7 @@ rate of change.
 | ![](Figure/Fig130102.png){.imgFig600400}                           |
 |                                                                       |
 | ::: figText                                                           |
-| \<Figure 13.1.2\>Percent Increase, Monthly Sales of Toy/Game in US(%) |
+| [Figure 13.1.2]{.figure-ref}Percent Increase, Monthly Sales of Toy/Game in US(%) |
 | :::                                                                   |
 +-----------------------------------------------------------------------+
 
@@ -226,14 +226,14 @@ factors generally have a short cycle, but fluctuations when the cycle
 occurs over a long period of time rather than due to the season is
 called a **cycle** factor. By observing these cyclical factors, it is
 possible to predict the boom or recession of a periodic economy.
-\<Figure 13.1.3\> shows the US S&P 500 Index from 1997 to 2016, and a
+[Figure 13.1.3]{.figure-ref} shows the US S&P 500 Index from 1997 to 2016, and a
 six-year cycle can be observed.
 
 +-----------------------------------------------------------------------+
 | ![](Figure/Fig130103.png){.imgFig600400}                           |
 |                                                                       |
 | ::: figText                                                           |
-| \<Figure 13.1.3\>\] US S&P500 Index (1997- 2016)                      |
+| [Figure 13.1.3]{.figure-ref}\] US S&P500 Index (1997- 2016)                      |
 | :::                                                                   |
 +-----------------------------------------------------------------------+
 
@@ -447,7 +447,7 @@ fluctuations caused by short-term causes.
 ![](Figure/Fig130201.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.2.1\> Price of Crude Oil and 5-point Moving Average
+[Figure 13.2.1]{.figure-ref} Price of Crude Oil and 5-point Moving Average
 :::
 
 </div>
@@ -469,7 +469,7 @@ $\qquad M_{1989} \,=\, \frac {Y_{1987} + Y_{1988} +Y_{1989} + Y_{1990} + Y_{1991
 $\qquad \qquad \quad =\, \frac {16.74 + 17.12 + 21.84 + 28.48 + 19.15} {5} \,=\, 20.6660$
 
 [Table 13.2.2]{.table-ref} shows the values ​​of all 5-points centered moving
-averages obtained in this way and \<Figure 13.2.1\> is the graph of
+averages obtained in this way and [Figure 13.2.1]{.figure-ref} is the graph of
 5-points moving average. Note that the moving averages for the first two
 years and the last two years cannot be obtained here. It can be seen
 that the graph of the moving average is better for grasping the
@@ -562,7 +562,7 @@ All data exponentially smoothed with $\alpha$ = 0.3 are given in \[Table
 13.2.2\]. It can be seen that, in the exponential smoothing method,
 there is no loss of data at both ends, unlike the moving average method.
 The crude oil price time series and exponentially smoothed data are
-shown in \<Figure 13.2.2\>. It can be seen that the smoothed data are
+shown in [Figure 13.2.2]{.figure-ref}. It can be seen that the smoothed data are
 not significantly different from the original data. If the value
 of$\alpha$ is small, more weight is given to the past data than to the
 present, making it less sensitive to sudden changes in the present data.
@@ -633,7 +633,7 @@ resembles the original data, and the smoothing effect disappears.
 ![](Figure/Fig130202.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.2.2\> Price of Crude Oil and Exponential Smoothing with
+[Figure 13.2.2]{.figure-ref} Price of Crude Oil and Exponential Smoothing with
 α=0.3
 :::
 
@@ -661,7 +661,7 @@ in [Table 13.2.3]{.table-ref} is as follows:
 $\qquad MovingMedian_{1989} \,=\, median \{ Y_{1987} , Y_{1988} ,Y_{1989} , Y_{1990} , Y_{1991} \}$
 $\qquad \qquad \qquad \qquad \qquad \;\;=\, median \{16.74, 17.12 , 21.84 , 28.48,19.15 \} \,=\, 19.15$
 
-[Table 13.2.3]{.table-ref} and \<Figure 13.2.3\> show all the five-point moving
+[Table 13.2.3]{.table-ref} and [Figure 13.2.3]{.figure-ref} show all the five-point moving
 median values obtained in this way and their graphs. Note that the
 moving median for the first two years and the last two years are not
 available here. Because the centered moving medians remove extreme
@@ -730,7 +730,7 @@ than the original data.
 ![](Figure/Fig130203.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.2.3\> Price of Crude Oil and 5-point Centered Moving Median
+[Figure 13.2.3]{.figure-ref} Price of Crude Oil and 5-point Centered Moving Median
 :::
 
 </div>
@@ -791,7 +791,7 @@ $Y_1 , Y_2 , ... , Y_n$ , the percentage increase or decrease $P_t$
 compared to the previous data is as follows. $$
           P_{t} \,=\, \frac {Y _{t} - Y_{t-1}} {Y_{t-1}} \times 100 , \quad t=2,3, ... , n
       $$ [Table 13.3.1]{.table-ref} shows the number of houses in Korea from 2010
-to 2020, and \<Figure 13.3.1\> shows the percentage increase or decrease
+to 2020, and [Figure 13.3.1]{.figure-ref} shows the percentage increase or decrease
 compared to the previous data. Looking at this rate of change, it can be
 easily observed that the original time series has an overall increasing
 trend, but the rate of change of the previous year has many changes. In
@@ -838,7 +838,7 @@ $\qquad P_{2014} \,=\, \frac{19161.2 - 18742.1} {18742.1} \times 100 \,=\, 2.23$
 ![](Figure/Fig130301.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.3.1\> Number of Houses in Korea and Percent Change
+[Figure 13.3.1]{.figure-ref} Number of Houses in Korea and Percent Change
 :::
 
 </div>
@@ -913,7 +913,7 @@ $\qquad Index_{2020} \,=\, \frac{Y _{2020}} {Y_{2010}} \times 100 \,=\, \frac{21
 ![](Figure/Fig130302.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.3.2\> Simple Index of Number of Houses in Korea
+[Figure 13.3.2]{.figure-ref} Simple Index of Number of Houses in Korea
 :::
 
 </div>
@@ -1037,7 +1037,7 @@ function** and are used to determine a time series model.
 
 [Table 13.3.4]{.table-ref} shows the monthly consumer price index for the past two
 years and time lag 1 to 12 for this data, and the autocorrelation
-coefficients are shown in [Table 13.3.5]{.table-ref}. \<Figure 13.3.3\> shows the
+coefficients are shown in [Table 13.3.5]{.table-ref}. [Figure 13.3.3]{.figure-ref} shows the
 original time series and the autocorrelation function.
 
 ::: textLeft
@@ -1111,7 +1111,7 @@ original time series and the autocorrelation function.
 ![](Figure/Fig130303.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.3.3\> Autocorrelation Function Graph
+[Figure 13.3.3]{.figure-ref} Autocorrelation Function Graph
 :::
 
 </div>
@@ -1138,7 +1138,7 @@ becomes the second-order difference as follows: $$
 second-order differencing of time series becomes a horizontal time
 series.
 
-\<Figure 13.3.4\> shows the first order differencing of [Table 13.3.4]{.table-ref}
+[Figure 13.3.4]{.figure-ref} shows the first order differencing of [Table 13.3.4]{.table-ref}
 time series and it becomes horizontal series.
 
 <div>
@@ -1156,7 +1156,7 @@ time series and it becomes horizontal series.
 ![](Figure/Fig130304.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.3.4\> 1st Order Differencing of Consumer Price Index
+[Figure 13.3.4]{.figure-ref} 1st Order Differencing of Consumer Price Index
 :::
 
 </div>
@@ -1184,7 +1184,7 @@ if p ≠ 0, else log(Y)
 but, as time goes on, dispersion of sales increases over time. It is not
 easy to apply a time series model to data with this increasing
 dispersion over time. In this case, log transformation $W = log(Y)$ can
-reduce the dispersion as time increases, as shown in \<Figure 13.3.5\>,
+reduce the dispersion as time increases, as shown in [Figure 13.3.5]{.figure-ref},
 so that a model can be applied. After predicting by applying the model
 to log-transformed data, exponential transformation $Y = exp(W)$ is
 performed again to predict the raw data.
@@ -1234,7 +1234,7 @@ performed again to predict the raw data.
 ![](Figure/Fig130305.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.3.5\> Log Transformation of Toy Sales
+[Figure 13.3.5]{.figure-ref} Log Transformation of Toy Sales
 :::
 
 </div>
@@ -1420,7 +1420,7 @@ model. However, additional validation of the model is required.
 ![](Figure/Fig130401.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.4.1\> GDP of Korea and Three Regression Model
+[Figure 13.4.1]{.figure-ref} GDP of Korea and Three Regression Model
 :::
 
 </div>
@@ -1513,7 +1513,7 @@ $\qquad M_{T} \;±\; 1.96 \sqrt{ \frac{MSE} {N} }$\
 The monthly sales for the last two years of a furniture company are as
 shown in [Table 13.5.1]{.table-ref}, and the residual between the raw data and the
 predicted value of one point in time was calculated by obtaining a
-six-point moving average. \<Figure 13.5.1\> shows the time series for
+six-point moving average. [Figure 13.5.1]{.figure-ref} shows the time series for
 this. This time series fluctuates up and down based on approximately 95,
 and such a time series is called a stationary time series.
 
@@ -1703,7 +1703,7 @@ $e_t = Y_t - {\hat Y}_t$
 ![](Figure/Fig130501.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.5.1\> Montly Sales of a Furniture Company and 6-point Moving
+[Figure 13.5.1]{.figure-ref} Montly Sales of a Furniture Company and 6-point Moving
 Average and One Time Forecast
 :::
 
@@ -1839,7 +1839,7 @@ $\qquad S_{T} \;±\; 1.96\; \sqrt { \frac{\alpha } {2- \alpha} } MSE$\
 $\qquad 98.66 \;±\; 1.96 \; \sqrt { \frac{0.1} {2-0.1} 269.72 }$\
 $\qquad [65.27, 132.05]$\
 
-[Table 13.5.2]{.table-ref} summarizes the above equations, and \<Figure 13.5.2\>
+[Table 13.5.2]{.table-ref} summarizes the above equations, and [Figure 13.5.2]{.figure-ref}
 shows the prediction after one time point and the prediction for the
 next 3 months using the single exponential smoothing model with $\alpha$
 = 0.1.
@@ -1897,7 +1897,7 @@ and Residual
 ![](Figure/Fig130502.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.5.2\> Exponential Smoothing with α = 0.1 and One Time
+[Figure 13.5.2]{.figure-ref} Exponential Smoothing with α = 0.1 and One Time
 Forecast
 :::
 
@@ -1962,7 +1962,7 @@ estimated value of the time series .
 ![](Figure/Fig130503.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.5.3\> 5-pt Moving Average of Consumer Price Index with
+[Figure 13.5.3]{.figure-ref} 5-pt Moving Average of Consumer Price Index with
 Linear Trend
 :::
 
@@ -2176,7 +2176,7 @@ One Time Forecast${\hat Y}_{(t-1)+1}$
 ![](Figure/Fig130504.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.5.4\> Forecast using Double Moving Average of Consumer Price
+[Figure 13.5.4]{.figure-ref} Forecast using Double Moving Average of Consumer Price
 Index
 :::
 
@@ -2389,7 +2389,7 @@ One Time Forecast${\hat Y}_{(t-1)+1}$
 107.97\
 108.19\
 
-\<Figure 13.5.5\> shows the predicted values using the Holt's double
+[Figure 13.5.5]{.figure-ref} shows the predicted values using the Holt's double
 exponential smoothing model.
 
 <div>
@@ -2407,7 +2407,7 @@ exponential smoothing model.
 ![](Figure/Fig130505.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.5.5\> Forecasting using Holt Double Exponential Smoothing
+[Figure 13.5.5]{.figure-ref} Forecasting using Holt Double Exponential Smoothing
 Model of CPI
 :::
 
@@ -2557,7 +2557,7 @@ normalized as in column 7. $$
 Column 6 of [Table 13.6.1]{.table-ref} shows the non-seasonal data $D_t$ obtained
 by dividing the original data by the seasonal index of each quarter. The
 linear regression line for this non-seasonal data is as follows
-(\<Figure 13.6.1\>)., $$
+([Figure 13.6.1]{.figure-ref})., $$
          D_{t} \;=\;  61.2000 \;+\; 1.6088 \cdot t  
       $$ Therefore, the forecast for the next one year is as follows. $$
         \begin{align}
@@ -2566,7 +2566,7 @@ linear regression line for this non-seasonal data is as follows
           & \text{Time 19 :} \quad{\hat Y}_{19} \;=\; (61.2000 \;+\; 1.6088 \times 19) \times 0.8472 \;=\; 77.721  \\
           & \text{Time 20 :} \quad{\hat Y}_{20} \;=\; (61.2000 \;+\; 1.6088 \times 20) \times 1.0378 \;=\; 93.853  \\
         \end{align}
-      $$ \<Figure 13.6.2\> is a graph of seasonal forecasts.
+      $$ [Figure 13.6.2]{.figure-ref} is a graph of seasonal forecasts.
 
 <div>
 
@@ -2583,7 +2583,7 @@ linear regression line for this non-seasonal data is as follows
 ![](Figure/Fig130601.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.6.1\> Forcasting Model of Deseasonal Sales of a Company
+[Figure 13.6.1]{.figure-ref} Forcasting Model of Deseasonal Sales of a Company
 :::
 
 </div>
@@ -2605,7 +2605,7 @@ linear regression line for this non-seasonal data is as follows
 ![](Figure/Fig130602.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.6.2\> Forcasting of Quarterly Sales of a Company
+[Figure 13.6.2]{.figure-ref} Forcasting of Quarterly Sales of a Company
 :::
 
 </div>
@@ -2730,7 +2730,7 @@ index are calculated by the model $Y \;=\; T \times S \times I$.
 
   ---------------------------------------------------------------------------------------------
 
-\<Figure 13.6.3\> is the Holt-Winters forecast for the next one year and
+[Figure 13.6.3]{.figure-ref} is the Holt-Winters forecast for the next one year and
 is calculated as follows: $$
         \begin{align}
           & \text{Time 17 :} \quad {\hat Y}_{16+1} \;=\;\; (l_{16} + 1 \times\;b_{16} ) \cdot s_{13} \;=\;(88.4618 + 1.8341)\times1.2074 \;=\;109.024   \\    
@@ -2755,7 +2755,7 @@ is calculated as follows: $$
 ![](Figure/Fig130603.png){.imgFig600400}
 
 ::: figText
-\<Figure 13.6.3\> Holt-Winters Forecasting of Quarterly Sales
+[Figure 13.6.3]{.figure-ref} Holt-Winters Forecasting of Quarterly Sales
 :::
 
 </div>

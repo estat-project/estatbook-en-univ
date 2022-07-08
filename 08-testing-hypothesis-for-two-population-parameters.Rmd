@@ -160,12 +160,12 @@ $$ \small
       $$ Since 1.457 \< 2.7707, $H_0$ can not be rejected.
 
 In 『eStatU』 menu, select 'Testing Hypothesis $\mu_1 , \mu_2$', In the
-window shown in \<Figure 8.1.1\>, check the alternative hypothesis of
+window shown in [Figure 8.1.1]{.figure-ref}, check the alternative hypothesis of
 not equal case at \[Hypothesis\], check the variance assumption of
 \[Test Type\] as the equal case, check the significance level of 1%,
 check the independent sample, and enter sample sizes $n_1 , n_2$, sample
 means $\overline x_1 , \overline x_2$, and sample variances as in
-\<Figure 8.1.1\>.
+[Figure 8.1.1]{.figure-ref}.
 
 ::: width:650
 <div>
@@ -181,7 +181,7 @@ means $\overline x_1 , \overline x_2$, and sample variances as in
 ![](Figure/Fig080101.png){.imgFig600400}
 
 ::: figText
-\<Figure 8.1.1\> Testing hypothesis for two population means using
+[Figure 8.1.1]{.figure-ref} Testing hypothesis for two population means using
 『eStatU』
 :::
 
@@ -189,12 +189,12 @@ means $\overline x_1 , \overline x_2$, and sample variances as in
 :::
 
 Click the [Execute]{.button-ref} button will show the result of testing hypothesis
-as \<Figure 8.1.2\>.
+as [Figure 8.1.2]{.figure-ref}.
 
 ![](Figure/Fig080102.png){.imgFig600400}
 
 ::: figText
-\<Figure 8.1.2\> Testing hypothesis for two population means -- case of
+[Figure 8.1.2]{.figure-ref} Testing hypothesis for two population means -- case of
 the same population variances
 :::
 :::
@@ -250,14 +250,14 @@ distribution is approximated as follows: $$ \small
       $$ Since 1.457 \< 2.773, $H_0$ can not be rejected.
 
 In order to practice using 『eStatU』, select the different population
-variances assumption of \[Test Type\] in the window of \<Figure 8.1.1\>
+variances assumption of \[Test Type\] in the window of [Figure 8.1.1]{.figure-ref}
 and click the [Execute]{.button-ref} button to see the result as shown in \<Figure
 8.1.3\>.
 
 ![](Figure/Fig080102.png){.imgFig600400}
 
 ::: figText
-\<Figure 8.1.3\> Testing hypothesis for two population means -- Case of
+[Figure 8.1.3]{.figure-ref} Testing hypothesis for two population means -- Case of
 two different population variances
 :::
 :::
@@ -293,11 +293,11 @@ for male and female is the same.
 
 ::: textL20M20
 1\) In 『eStat』, enter raw data of gender (M or F) and income as shown
-in \<Figure 8.1.4\> on the sheet. This type of data input is similar to
+in [Figure 8.1.4]{.figure-ref} on the sheet. This type of data input is similar to
 all statistical packages. After entering the data, click the icon for
 testing two population means and select 'Analysis Var' as V2 and 'By
 Group' variable as V1. A 95% confidence interval graph that compares
-sample means of two populations will be displayed as \<Figure 8.1.5\>.
+sample means of two populations will be displayed as [Figure 8.1.5]{.figure-ref}.
 :::
 
 ::: width:650
@@ -314,7 +314,7 @@ sample means of two populations will be displayed as \<Figure 8.1.5\>.
 ![](Figure/Fig080104.png){.imgFig150200}
 
 ::: figText
-\<Figure 8.1.4\> Data input for testing two population means
+[Figure 8.1.4]{.figure-ref} Data input for testing two population means
 :::
 
 </div>
@@ -323,34 +323,34 @@ sample means of two populations will be displayed as \<Figure 8.1.5\>.
 ![](Figure/Fig080105.png){.imgFig600540}
 
 ::: figText
-\<Figure 8.1.5\> Dot graph and confidence Intervals by gender for
+[Figure 8.1.5]{.figure-ref} Dot graph and confidence Intervals by gender for
 testing two population means
 :::
 
-In the options window as in \<Figure 8.1.6\> located at the below of the
+In the options window as in [Figure 8.1.6]{.figure-ref} located at the below of the
 Graph Area, enter the average difference $\small D = 0$ for the desired
 test, select the variance assumption $\sigma_1^2 = \sigma_2^2$, select
 the 5% significance level and click the \[t-test\] button. Then the
 graphical result of testing hypothesis for two population means will be
-shown as in \<Figure 8.1.7\> and the test result as in \<Figure 8.1.8\>.
+shown as in [Figure 8.1.7]{.figure-ref} and the test result as in [Figure 8.1.8]{.figure-ref}.
 
 ![](Figure/Fig080106.png){.imgFig400100}
 
 ::: figText
-\<Figure 8.1.6\> Options to test for two population means
+[Figure 8.1.6]{.figure-ref} Options to test for two population means
 :::
 
 ![](Figure/Fig080107.png){.imgFig600540}
 
 ::: figText
-\<Figure 8.1.7\> Testing hypothesis for and -- case of the same
+[Figure 8.1.7]{.figure-ref} Testing hypothesis for and -- case of the same
 population variances
 :::
 
 ![](Figure/Fig080108.png){.imgFig600540}
 
 ::: figText
-\<Figure 8.1.8\> result of testing hypothesis for two population means
+[Figure 8.1.8]{.figure-ref} result of testing hypothesis for two population means
 if population variances are the same
 :::
 
@@ -358,20 +358,20 @@ if population variances are the same
 2\) Select the variance assumption $\sigma_1^2 \ne \sigma_2^2$ at the
 option window and click \[t-test\] button under the graph to display the
 graph of the hypothesis test and the test result table as in \<Figure
-8.1.9\> and \<Figure 8.1.10\>.
+8.1.9\> and [Figure 8.1.10]{.figure-ref}.
 :::
 
 ![](Figure/Fig080109.png){.imgFig600540}
 
 ::: figText
-\<Figure 8.1.9\> Testing hypothesis for and -- case of the different
+[Figure 8.1.9]{.figure-ref} Testing hypothesis for and -- case of the different
 population variances
 :::
 
 ![](Figure/Fig080110.png){.imgFig600540}
 
 ::: figText
-\<Figure 8.1.10\> result of testing hypothesis for two population means
+[Figure 8.1.10]{.figure-ref} result of testing hypothesis for two population means
 if population variances are different
 :::
 :::
@@ -678,7 +678,7 @@ level, check 'paired sample' at \[Test Type\], and enter data of sample
 ![](Figure/Fig080111.png){.imgFig600400}
 
 ::: figText
-\<Figure 8.1.11\> Testing hypothesis for two population means using
+[Figure 8.1.11]{.figure-ref} Testing hypothesis for two population means using
 『eStatU』 - paired sample
 :::
 
@@ -687,20 +687,20 @@ level, check 'paired sample' at \[Test Type\], and enter data of sample
 
 Click the [Execute]{.button-ref} button to calculate the sample mean and sample
 standard deviation of differences ($\overline d$ and $s_d^2$ ) and to
-show the result of the hypothesis test as \<Figure 8.1.12\>.
+show the result of the hypothesis test as [Figure 8.1.12]{.figure-ref}.
 
 ![](Figure/Fig080112.png){.imgFig600400}
 
 ::: figText
-\<Figure 8.1.12\> Result of testing hypothesis for two population means
+[Figure 8.1.12]{.figure-ref} Result of testing hypothesis for two population means
 using 『eStatU』 - paired sample
 :::
 
 In 『eStat』, the paired data is entered in two columns as shown in
-\<Figure 8.1.13\>. Click the icon for testing two population means and
+[Figure 8.1.13]{.figure-ref}. Click the icon for testing two population means and
 select 'Analysis Var' as V1 and 'by Group' as V2 to show the dot
 graph and the confidence interval for differences of paired data as in
-\<Figure 8.1.14\>.
+[Figure 8.1.14]{.figure-ref}.
 
 Ex ⇨ eBook ⇨ EX080104_TypingSpeedEducation.csv.
 
@@ -718,7 +718,7 @@ Ex ⇨ eBook ⇨ EX080104_TypingSpeedEducation.csv.
 ![](Figure/Fig080113.png){.imgFig150200}
 
 ::: figText
-\<Figure 8.1.13\> Data input of paired sample
+[Figure 8.1.13]{.figure-ref} Data input of paired sample
 :::
 
 </div>
@@ -727,25 +727,25 @@ Ex ⇨ eBook ⇨ EX080104_TypingSpeedEducation.csv.
 ![](Figure/Fig080114.png){.imgFig600540}
 
 ::: figText
-\<Figure 8.1.14\> Dot graph of difference data of paired sample
+[Figure 8.1.14]{.figure-ref} Dot graph of difference data of paired sample
 :::
 
 Enter the mean difference $\small D$ = 0 for the desired test in the
 options window below the graph, select the 5% significance level, and
 press the \[t-test\] button to display the result of the hypothesis test
-for paired samples such as \<Figure 8.1.15\> and \<Figure 8.1.16\>.
+for paired samples such as [Figure 8.1.15]{.figure-ref} and [Figure 8.1.16]{.figure-ref}.
 
 ![](Figure/Fig080115.png){.imgFig600540}
 
 ::: figText
-\<Figure 8.1.15\> Testing hypothesis for two population means using
+[Figure 8.1.15]{.figure-ref} Testing hypothesis for two population means using
 『eStat』 - paired sample
 :::
 
 ![](Figure/Fig080116.png){.imgFig600600}
 
 ::: figText
-\<Figure 8.1.16\> Result of testing hypothesis for two population means
+[Figure 8.1.16]{.figure-ref} Result of testing hypothesis for two population means
 using 『eStat』 - paired sample
 :::
 :::
@@ -868,13 +868,13 @@ population variances.
 
 $F$-distribution is an asymmetrical distribution group with two
 parameters, the numerator degrees of freedom and denominator degrees of
-freedom. \<Figure 8.2.1\> shows $F$-distributions for different
+freedom. [Figure 8.2.1]{.figure-ref} shows $F$-distributions for different
 parameters.
 
 ![](Figure/Fig080201.png){.imgFig400300}
 
 ::: figText
-\<Figure 8.2.1\> $F$-distribution of different degrees of freedom.
+[Figure 8.2.1]{.figure-ref} $F$-distribution of different degrees of freedom.
 :::
 
 Testing hypothesis for two population variances can be performed using
@@ -927,10 +927,10 @@ percentile of $\small F$-distribution is as follows. $$ \small
 conclude that two variances are equal.
 
 In 『eStatU』 menu, select 'Testing Hypothesis
-$\sigma_1^2 , \sigma_2^2$. At the window shown in \<Figure 8.2.2\>,
+$\sigma_1^2 , \sigma_2^2$. At the window shown in [Figure 8.2.2]{.figure-ref},
 enter $n_1 = 12, n_2 = 10, s_1^2 = 0.0121, s_2^2 = 0.0169$. Click the
 [Execute]{.button-ref} button to reveal the hypothesis test result shown in
-\<Figure 8.2.3\>.
+[Figure 8.2.3]{.figure-ref}.
 
 ::: width:650
 <div>
@@ -946,7 +946,7 @@ enter $n_1 = 12, n_2 = 10, s_1^2 = 0.0121, s_2^2 = 0.0169$. Click the
 ![](Figure/Fig080202.png){.imgFig600400}
 
 ::: figText
-\<Figure 8.2.2\> Data input for testing hypothesis of two population
+[Figure 8.2.2]{.figure-ref} Data input for testing hypothesis of two population
 variances using 『eStatU』
 :::
 
@@ -956,7 +956,7 @@ variances using 『eStatU』
 ![](Figure/Fig080203.svg){.imgFig600400}
 
 ::: figText
-\<Figure 8.2.3\> Testing hypothesis for two population variances using
+[Figure 8.2.3]{.figure-ref} Testing hypothesis for two population variances using
 『eStatU』
 :::
 :::
@@ -984,11 +984,11 @@ Ex ⇨ eBook ⇨ EX080103_WageByGender.csv.
 **Answer**
 
 In 『eStat』, enter the gender and income in two columns on the sheet as
-shown in \<Figure 8.2.4\>. This type of data input is similar to all
+shown in [Figure 8.2.4]{.figure-ref}. This type of data input is similar to all
 statistical packages. Once you entered the data, click on the icon for
 testing two population variances and select 'Analysis Var' as V2 and
 'By Groups' as V1. Then a mean-standard deviation graph for each group
-will be appeared as in \<Figure 8.2.5\>.
+will be appeared as in [Figure 8.2.5]{.figure-ref}.
 
 ::: width:650
 <div>
@@ -1004,7 +1004,7 @@ will be appeared as in \<Figure 8.2.5\>.
 ![](Figure/Fig080204.png){.imgFig150200}
 
 ::: figText
-\<Figure 8.2.4\> Data input for testing two population variances
+[Figure 8.2.4]{.figure-ref} Data input for testing two population variances
 :::
 
 </div>
@@ -1013,25 +1013,25 @@ will be appeared as in \<Figure 8.2.5\>.
 ![](Figure/Fig080205.png){.imgFig600540}
 
 ::: figText
-\<Figure 8.2.5\> Dot graph and mean-standard deviation interval of each
+[Figure 8.2.5]{.figure-ref} Dot graph and mean-standard deviation interval of each
 group
 :::
 
 If you click the \[F-Test\] button int the options window below the
 graph, a test result graph using $F$-distribution such as \<Figure
 8.2.6\> is appeared in the Graph Area and the result table is appeared
-as in \<Figure 8.2.7\> appears in the Log Area.
+as in [Figure 8.2.7]{.figure-ref} appears in the Log Area.
 
 ![](Figure/Fig080206.png){.imgFig600540}
 
 ::: figText
-\<Figure 8.2.6\> Testing hypothesis for two population variances
+[Figure 8.2.6]{.figure-ref} Testing hypothesis for two population variances
 :::
 
 ![](Figure/Fig080207.png){.imgFig600400}
 
 ::: figText
-\<Figure 8.2.7\> Result table of testing two population variances
+[Figure 8.2.7]{.figure-ref} Result table of testing two population variances
 :::
 :::
 
@@ -1179,8 +1179,8 @@ of male and female are different.
 
 In 『eStatU』 menu, select 'Testing Hypothesis $p_1 , p_2$' and enter
 $n_1 = 225,\; {\hat p}_1 = 0.240,\; n_2 = 175,\; {\hat p}_2 = 0.297$ as
-shown in \<Figure 8.3.1\>. Clicking the [Execute]{.button-ref} button will show the
-result of the hypothesis test as shown in \<Figure 8.3.2\>.
+shown in [Figure 8.3.1]{.figure-ref}. Clicking the [Execute]{.button-ref} button will show the
+result of the hypothesis test as shown in [Figure 8.3.2]{.figure-ref}.
 
 ::: width:650
 <div>
@@ -1196,7 +1196,7 @@ result of the hypothesis test as shown in \<Figure 8.3.2\>.
 ![](Figure/Fig080301.png){.imgFig600400}
 
 ::: figText
-\<Figure 8.3.1\> Data input for testing two population proportions in
+[Figure 8.3.1]{.figure-ref} Data input for testing two population proportions in
 『eStatU』
 :::
 

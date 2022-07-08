@@ -71,7 +71,7 @@ is selected equally. We usually use a random number table which is a
 table of numbers from 0 to 9 without special regularity or partiality.
 Recently, a random number generator by using a computer which uses the
 uniform distribution on \[0, 1\] is widely used to produce a random
-number. \<Figure 6.1.1\> shows 10 random numbers from 0 to 9 generated
+number. [Figure 6.1.1]{.figure-ref} shows 10 random numbers from 0 to 9 generated
 using a random number generator in 『eStatU』.
 
 <div>
@@ -89,7 +89,7 @@ using a random number generator in 『eStatU』.
 ![](Figure/Fig060101.png){.imgFig300300}
 
 ::: figText
-\<Figure 6.1.1\> 『eStatU』 Uniform random number
+[Figure 6.1.1]{.figure-ref} 『eStatU』 Uniform random number
 :::
 
 </div>
@@ -111,7 +111,7 @@ students which assigned serial numbers from one to fifty must be made
 first. In order to collect samples, select 'Uniform Random Number' in
 『eStatU』 menu. Enter (1 and 50) at the box of 'Uniform', check
 'Integer', enter 10 at the box of 'Number of Data' and click the
-[Execute]{.button-ref} button as shown in \<Figure 6.1.2\>. These are the random
+[Execute]{.button-ref} button as shown in [Figure 6.1.2]{.figure-ref}. These are the random
 numbers to select students, but your computer might generate different
 numbers, because it depends on computer.
 
@@ -130,7 +130,7 @@ numbers, because it depends on computer.
 ![](Figure/Fig060102.png){.imgFig300300}
 
 ::: figText
-\<Figure 6.1.2\> 『eStatU』 Uniform(1,50) random number generation
+[Figure 6.1.2]{.figure-ref} 『eStatU』 Uniform(1,50) random number generation
 :::
 
 </div>
@@ -190,7 +190,7 @@ refers to a characteristic value of the population, such as the mean and
 variance which are called parameters. Since it is so difficult or costly
 to investigate the population parameters, they are usually estimated by
 using characteristic values of a set of samples such as the sample mean
-and sample variance. \<Figure 6.2.1\> is a simulation to show the
+and sample variance. [Figure 6.2.1]{.figure-ref} is a simulation to show the
 relationship between population data of size 10,000 and sample data
 (approximately 10%) using 『eStatU』 which shows characteristic values
 of a population are similar to characteristic values of a set of
@@ -211,7 +211,7 @@ samples.
 ![](Figure/Fig060201.png){.imgFig600600}
 
 ::: figText
-\<Figure 6.2.1\> Simulation to show the relationship between population
+[Figure 6.2.1]{.figure-ref} Simulation to show the relationship between population
 data and sample data
 :::
 
@@ -364,13 +364,13 @@ Table 6.2.2 Frequency table of sample means
 ![](Figure/Fig060202.png){.imgFig400300}
 
 ::: figText
-\<Figure 6.2.2\> Population distribution
+[Figure 6.2.2]{.figure-ref} Population distribution
 :::
 
 ![](Figure/Fig060203.png){.imgFig400300}
 
 ::: figText
-\<Figure 6.2.3\> Sampling distribution of 's
+[Figure 6.2.3]{.figure-ref} Sampling distribution of 's
 :::
 :::
 
@@ -438,7 +438,7 @@ $\overline {X} \sim N(μ, \frac {σ^2}{n} )$.
 
 ::: mainTable
 The central limit theorem is very important as a theory underlying
-modern statistics. \<Figure 6.2.4\> shows a simulation using 『eStatU』
+modern statistics. [Figure 6.2.4]{.figure-ref} shows a simulation using 『eStatU』
 that, when a population is a normal distribution, the distribution of
 sample means is also normal, but variances become smaller as the sample
 size increases. .
@@ -458,7 +458,7 @@ size increases. .
 ![](Figure/Fig060204.png){.imgFig600600}
 
 ::: figText
-\<Figure 6.2.4\> Sampling distribution of sample means with different
+[Figure 6.2.4]{.figure-ref} Sampling distribution of sample means with different
 sample sizes when population is not a normal distribution
 :::
 
@@ -466,7 +466,7 @@ sample sizes when population is not a normal distribution
 
 </div>
 
-\<Figure 6.2.5\> shows a simulation using 『eStatU』 that, although a
+[Figure 6.2.5]{.figure-ref} shows a simulation using 『eStatU』 that, although a
 population is skewed from its mean, the distribution of sample means is
 closer to normal as the sample size increases.
 
@@ -485,7 +485,7 @@ closer to normal as the sample size increases.
 ![](Figure/Fig060205.png){.imgFig600600}
 
 ::: figText
-\<Figure 6.2.5\> 『eStatU』 Simulation of the central limit theorem
+[Figure 6.2.5]{.figure-ref} 『eStatU』 Simulation of the central limit theorem
 :::
 
 </div>
@@ -706,7 +706,7 @@ that $Z$ is greater than $z_{α}$ is α, i.e., $$
       $$ For example, $z_{0.025;}$ = 1.96, $z_{0.95}$ = -1.645,
 $z_{0.005}$ = 2.575.
 
-\<Figure 6.2.6\> shows a simulation of the 95% confidence interval for
+[Figure 6.2.6]{.figure-ref} shows a simulation of the 95% confidence interval for
 the population mean by extracting 100 sets of samples with the sample
 size $n$ = 20 from a population of 10,000 numbers which follow the
 standard normal distribution N(0,1). In this case, 96 of the 100
@@ -730,7 +730,7 @@ experiments, the result may also vary slightly.
 ![](Figure/Fig060206.png){.imgFig600600}
 
 ::: figText
-\<Figure 6.2.6\> 『eStatU』 Simulation of the 95% confidence interval
+[Figure 6.2.6]{.figure-ref} 『eStatU』 Simulation of the 95% confidence interval
 :::
 
 </div>
@@ -874,7 +874,7 @@ $t_1 ,t_2 , ... , t_{30} , ...$
 
 The shape of the $t$ distribution is symmetrical about zero (y axis),
 similar to the standard normal distribution, but it has a tail that is
-flat and longer than the standard normal distribution. \<Figure 6.2.7\>
+flat and longer than the standard normal distribution. [Figure 6.2.7]{.figure-ref}
 shows the standard normal distribution N(0,1) and $t$ distribution with
 3 degrees of freedom at the same time by using the $t$ distribution
 module of 『eStatU』.
@@ -894,7 +894,7 @@ module of 『eStatU』.
 ![](Figure/Fig060207.png){.imgFig600400}
 
 ::: figText
-\<Figure 6.2.7\> Comparison of and N(0,1)
+[Figure 6.2.7]{.figure-ref} Comparison of and N(0,1)
 :::
 
 </div>
@@ -909,7 +909,7 @@ can be obtained approximately by using the standard normal distribution
 if the sample size is greater than 30. Denote $t_{n:α}$ as the 100(1-α)%
 percentile of the $t$ distribution with $n$ degrees of freedom. For
 example, $t_{7:0.05}$ is the 100(1-0.05)=95% percentile of the $t$
-distribution and its value is 1.895 as \<Figure 6.2.8\>. In the standard
+distribution and its value is 1.895 as [Figure 6.2.8]{.figure-ref}. In the standard
 normal distribution, this value was 1.645. Since the $t$ distribution is
 symmetrical, $t_{n:α} = -t_{n:1-α}$.
 
@@ -917,7 +917,7 @@ In order to find a percentile value of the $t_{7}$ distribution using
 『eStatU』, click on '$t$ distribution' in the main menu of 『eStatU』
 and then set the degree of freedom (df) to 7, and set the probability
 value in the fifth option below the $t$ distribution graph to 0.95, then
-$t_{7:0.05}$ = 1.895 will appear as \<Figure 6.2.8\>.
+$t_{7:0.05}$ = 1.895 will appear as [Figure 6.2.8]{.figure-ref}.
 
 <div>
 
@@ -934,7 +934,7 @@ $t_{7:0.05}$ = 1.895 will appear as \<Figure 6.2.8\>.
 ![](Figure/Fig060208.png){.imgFig600600}
 
 ::: figText
-\<Figure 6.2.8\> Upper 5 percentile of distribution = 1.8946
+[Figure 6.2.8]{.figure-ref} Upper 5 percentile of distribution = 1.8946
 :::
 
 </div>
@@ -1003,7 +1003,7 @@ of the college freshmen.
 **Answer**
 
 Click 'Estimation : μ Confidence Interval' on the menu of 『eStatU』 and
-enter data at the \[Sample Data\] box as \<Figure 6.2.9\>. Then the
+enter data at the \[Sample Data\] box as [Figure 6.2.9]{.figure-ref}. Then the
 confidence intervals \[170.68, 177.92\] are calculated using the $t_9$
 distribution.
 
@@ -1022,7 +1022,7 @@ distribution.
 ![](Figure/Fig060209.png){.imgFig600400}
 
 ::: figText
-\<Figure 6.2.9\> 『eStatU』 Estimation for population mean
+[Figure 6.2.9]{.figure-ref} 『eStatU』 Estimation for population mean
 :::
 
 </div>
@@ -1031,14 +1031,14 @@ distribution.
 
 In this module of 『eStatU』, a simulation experiment to investigate the
 size of the confidence interval can be done by changing the sample size
-$n$ and the confidence level 1 - α as in \<Figure 6.2.10\>. If you
+$n$ and the confidence level 1 - α as in [Figure 6.2.10]{.figure-ref}. If you
 increase $n$, the interval size becomes narrower. If you increase 1 -
 &alpah, the interval size becomes wider.
 
 ![](Figure/Fig060210.png){.imgFig500200}
 
 ::: figText
-\<Figure 6.2.10\> Simulation experiment to investigate the size of the
+[Figure 6.2.10]{.figure-ref} Simulation experiment to investigate the size of the
 confidence interval
 :::
 
@@ -1328,7 +1328,7 @@ estimate of the population variance.
 
 ::: textL20M20
 3\) [Table 6.3.2]{.table-ref} shows the frequency distribution of all possible sample
-variances and \<Figure 6.3.1\> is its bar graph. This is called the
+variances and [Figure 6.3.1]{.figure-ref} is its bar graph. This is called the
 sampling distribution of sample variances. The fact that can be observed
 in this Figure is that there are many small sample variances and there
 are few large sample variances. In addition, the average of all sample
@@ -1352,7 +1352,7 @@ Table 6.3.2 Frequency table of sample variances
 ![](Figure/Fig060301.png){.imgFig400300}
 
 ::: figText
-\<Figure 6.3.1\> Sampling distribution of sample variances
+[Figure 6.3.1]{.figure-ref} Sampling distribution of sample variances
 :::
 :::
 
@@ -1370,19 +1370,19 @@ freedom.
 This chi-square distribution is a family of distributions depending on
 the degree of freedom, such as
 $χ^2_{1} , χ^2_{2} , ... , χ^2_{27} , ...$ etc. The chi-square
-distribution is an asymmetrical distribution as \<Figure 6.3.2\>. If the
+distribution is an asymmetrical distribution as [Figure 6.3.2]{.figure-ref}. If the
 degree of freedom is small, the shape of the chi-square distribution is
 much skewed to the right.
 
 ![](Figure/Fig060302.png){.imgFig400300}
 
 ::: figText
-\<Figure 6.3.2\> Chi-square distributions for different degrees of
+[Figure 6.3.2]{.figure-ref} Chi-square distributions for different degrees of
 freedoms
 :::
 
 A cumulated probability and a percentile of the chi-square distribution
-can be calculated by using 『eStatU』 as in \<Figure 6.3.3\>.
+can be calculated by using 『eStatU』 as in [Figure 6.3.3]{.figure-ref}.
 
 <div>
 
@@ -1399,7 +1399,7 @@ can be calculated by using 『eStatU』 as in \<Figure 6.3.3\>.
 ![](Figure/Fig060303.png){.imgFig600600}
 
 ::: figText
-\<Figure 6.3.3\> 『eStatU』 Chi-square distribution
+[Figure 6.3.3]{.figure-ref} 『eStatU』 Chi-square distribution
 :::
 
 </div>
@@ -1565,7 +1565,7 @@ immediately by using the chi-square distribution.
 ![](Figure/Fig060304.png){.imgFig600400}
 
 ::: figText
-\<Figure 6.3.4\> 『eStatU』 Estimation of population variance
+[Figure 6.3.4]{.figure-ref} 『eStatU』 Estimation of population variance
 :::
 
 </div>
@@ -1574,14 +1574,14 @@ immediately by using the chi-square distribution.
 
 In this module of 『eStatU』, a simulation experiment to investigate the
 size of the confidence interval can be done by changing the sample size
-$n$ and the confidence level 1 - α as in \<Figure 6.3.5\>. If you
+$n$ and the confidence level 1 - α as in [Figure 6.3.5]{.figure-ref}. If you
 increase $n$, the interval size becomes narrower. If you increase 1 - α,
 the interval size becomes wider.
 
 ![](Figure/Fig060305.png){.imgFig500200}
 
 ::: figText
-\<Figure 6.3.5\> 『eStatU』 simulation for the confidence interval of
+[Figure 6.3.5]{.figure-ref} 『eStatU』 simulation for the confidence interval of
 the population variance
 :::
 
@@ -1708,12 +1708,12 @@ is not necessary to extract samples from such a small population.)
 **Answer**
 
 The population proportion is $p$ = 0.6 and the distribution of '1' and
-'0' in the population consisting of 10 persons is as \<Figure 6.4.1\>.
+'0' in the population consisting of 10 persons is as [Figure 6.4.1]{.figure-ref}.
 
 ![](Figure/Fig060401.png){.imgFig400300}
 
 ::: figText
-\<Figure 6.4.1\> Population distribution of employees' satisfaction, no
+[Figure 6.4.1]{.figure-ref} Population distribution of employees' satisfaction, no
 for 0 or yes for 1
 :::
 
@@ -1754,7 +1754,7 @@ Table 6.4.2. Sampling Distribution of Sample Proportions
   5 satisfactory (1,1,1,1,1)       1.0                          7776        0.07776
                                    Total                        100000      1.00000
 
-\<Figure 6.4.2\> shows the sampling distribution of all possible sample
+[Figure 6.4.2]{.figure-ref} shows the sampling distribution of all possible sample
 proportions. If the sample size is larger, sample proportions are
 symmetrical around the population proportion 0.6 which is similar to
 that of sample means, and is close to a normal distribution.
@@ -1762,7 +1762,7 @@ that of sample means, and is close to a normal distribution.
 ![](Figure/Fig060402.png){.imgFig400300}
 
 ::: figText
-\<Figure 6.4.2\> Sampling distribution of sample proportions
+[Figure 6.4.2]{.figure-ref} Sampling distribution of sample proportions
 :::
 :::
 
@@ -1900,7 +1900,7 @@ The 95% confidence interval is as follows: $$  \small
         \shoveleft ⇔ \left[ 0.532 , 0.668 \right]
         \end{multline}
       $$ In 『eStatU』, enter data in the \[Sample Data\] box as shown
-in \<Figure 6.4.3\> and click the [Execute]{.button-ref} button to calculate the
+in [Figure 6.4.3]{.figure-ref} and click the [Execute]{.button-ref} button to calculate the
 confidence interval \[0.5321, 0.6679\] using the normal distribution.
 
 <div>
@@ -1918,7 +1918,7 @@ confidence interval \[0.5321, 0.6679\] using the normal distribution.
 ![](Figure/Fig060403.png){.imgFig600400}
 
 ::: figText
-\<Figure 6.4.3\> 『eStatU』 Estimation of the population proportion
+[Figure 6.4.3]{.figure-ref} 『eStatU』 Estimation of the population proportion
 :::
 
 </div>
@@ -1927,14 +1927,14 @@ confidence interval \[0.5321, 0.6679\] using the normal distribution.
 
 In this module of 『eStatU』, a simulation experiment to investigate the
 size of the confidence interval can be done by changing the sample size
-$n$ and the confidence level 1 - α as in \<Figure 6.4.4\>. If you
+$n$ and the confidence level 1 - α as in [Figure 6.4.4]{.figure-ref}. If you
 increase $n$, the interval size becomes narrower. If you increase 1 - α,
 the interval size becomes wider.
 
 ![](Figure/Fig060404.png){.imgFig500200}
 
 ::: figText
-\<Figure 6.4.4\> Simulation for estimating the population proportion
+[Figure 6.4.4]{.figure-ref} Simulation for estimating the population proportion
 :::
 :::
 
@@ -2085,7 +2085,7 @@ Hence the sample size is 96 approximately.
 
 In 『eStatU』, select the menu 'Estimation : μ - Sample Size '. Enter
 the margin of Error $d$ = 20, the population standard deviation σ = 100
-and confidence level 1-α = 0.95 as in \<Figure 6.5.1\>, then click the
+and confidence level 1-α = 0.95 as in [Figure 6.5.1]{.figure-ref}, then click the
 [Execute]{.button-ref} button to calculate the sample size $n$.
 
 <div>
@@ -2103,7 +2103,7 @@ and confidence level 1-α = 0.95 as in \<Figure 6.5.1\>, then click the
 ![](Figure/Fig060501.png){.imgFig500200}
 
 ::: figText
-\<Figure 6.5.1\> Determination of sample size for estimating
+[Figure 6.5.1]{.figure-ref} Determination of sample size for estimating
 :::
 
 </div>
@@ -2196,7 +2196,7 @@ that the margin of error does not exceed 3 percent.
 In 『eStatU』, select the menu 'Estimation : $p$ - Sample Size $n$'.
 Enter the margin of Error $d$ = 0.025, the estimate of the sample
 proportion $\hat p$ = 0.5 (since we don't know $\hat p$, it is an
-estimate), and the confidence level 1 - α = 0.95 as in \<Figure 6.5.2\>,
+estimate), and the confidence level 1 - α = 0.95 as in [Figure 6.5.2]{.figure-ref},
 then click the [Execute]{.button-ref} button to calculate the sample size .
 
 <div>
@@ -2214,7 +2214,7 @@ then click the [Execute]{.button-ref} button to calculate the sample size .
 ![](Figure/Fig060502.png){.imgFig500200}
 
 ::: figText
-\<Figure 6.5.2\> Determination of sample size for estimating
+[Figure 6.5.2]{.figure-ref} Determination of sample size for estimating
 :::
 
 </div>

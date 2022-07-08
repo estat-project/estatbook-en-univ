@@ -129,11 +129,11 @@ interval of the population mean studied in Chapter 6 on each dot graph,
 you can see a more detailed comparison.\
 In order to draw a dot graph with data shown in [Table 9.1.1]{.table-ref} using
 『eStat』 , enter data on the sheet and set variable names to 'Grade'
-and 'Score' as shown in \<Figure 9.1.1\>. In the variable selection
+and 'Score' as shown in [Figure 9.1.1]{.figure-ref}. In the variable selection
 box which appears by clicking the ANOVA icon on the main menu of
 『eStat』 , select 'Analysis Var' as 'Score' and 'By Group' as
 'Grade'. The dot graph of English scores by each grade and the 95%
-confidence interval are displayed as shown in \<Figure 9.1.2\>.
+confidence interval are displayed as shown in [Figure 9.1.2]{.figure-ref}.
 :::
 
 ::: width:650px
@@ -150,7 +150,7 @@ confidence interval are displayed as shown in \<Figure 9.1.2\>.
 ![](Figure/Fig090101.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.1.1\> 『eStat』 data input for ANOVA
+[Figure 9.1.1]{.figure-ref} 『eStat』 data input for ANOVA
 :::
 
 </div>
@@ -159,31 +159,31 @@ confidence interval are displayed as shown in \<Figure 9.1.2\>.
 ![](Figure/Fig090102.svg){.imgFig600400}
 
 ::: figText
-\<Figure 9.1.2\> 95% Confidence Interval by grade
+[Figure 9.1.2]{.figure-ref} 95% Confidence Interval by grade
 :::
 
 ::: textL20
 To review the normality of the data, pressing the \[Histogram\] button
-under this graph (\<Figure 9.1.3\>) will draw the histogram and normal
-distribution together, as shown in \<Figure 9.1.4\>.
+under this graph ([Figure 9.1.3]{.figure-ref}) will draw the histogram and normal
+distribution together, as shown in [Figure 9.1.4]{.figure-ref}.
 :::
 
 ![](Figure/Fig090103.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.1.3\> Options of ANOVA
+[Figure 9.1.3]{.figure-ref} Options of ANOVA
 :::
 
 ![](Figure/Fig090104.svg){.imgFig600400}
 
 ::: figText
-\<Figure 9.1.4\> Histogram of English score by grade
+[Figure 9.1.4]{.figure-ref} Histogram of English score by grade
 :::
 
 \
 
 ::: textL20
-\<Figure 9.1.2\> shows sample means as ${\overline y}_{1\cdot}$= 78.3,
+[Figure 9.1.2]{.figure-ref} shows sample means as ${\overline y}_{1\cdot}$= 78.3,
 ${\overline y}_{2\cdot}$ = 74.5, ${\overline y}_{3\cdot}$ = 71.4,
 ${\overline y}_{1\cdot}$ = 87.5. The sample mean of the 4th grader is
 relatively large and the order of the sample means in English is
@@ -290,36 +290,36 @@ calculation.
   Total       SST = 1482.666   20                                             
 
 ::: textL20M20
-4\) In \<Figure 9.1.3\>, if you select the significance level of 5%,
+4\) In [Figure 9.1.3]{.figure-ref}, if you select the significance level of 5%,
 confidence level of 95%, and click \[ANOVA F test\] button, a graph
 showing the location of the test statistic in the F distribution is
-appeared as shown in \<Figure 9.1.5\>. Also, in the Log Area, the mean
+appeared as shown in [Figure 9.1.5]{.figure-ref}. Also, in the Log Area, the mean
 and confidence interval tables and test result for each grade are
-appeared as in\<Figure 9.1.6\>.
+appeared as in[Figure 9.1.6]{.figure-ref}.
 :::
 
 ::: textL20
 ![](Figure/Fig090105.svg){.imgFig600400}
 
 ::: figText
-\<Figure 9.1.5\> 『eStat』 ANOVA F test
+[Figure 9.1.5]{.figure-ref} 『eStat』 ANOVA F test
 :::
 
 ![](Figure/Fig090106.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.1.6\> 『eStat』 Basic Statistics and ANOVA table
+[Figure 9.1.6]{.figure-ref} 『eStat』 Basic Statistics and ANOVA table
 :::
 
 \
 The analysis of variance is also possible using 『eStatU』. Entering the
-data as \<Figure 9.1.7\> and clicking the [Execute]{.button-ref} button will have
-the same result as in \<Figure 9.1.5\>.
+data as [Figure 9.1.7]{.figure-ref} and clicking the [Execute]{.button-ref} button will have
+the same result as in [Figure 9.1.5]{.figure-ref}.
 
 ![](Figure/Fig090107.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.1.7\> ANOVA data input at 『eStatU』
+[Figure 9.1.7]{.figure-ref} ANOVA data input at 『eStatU』
 :::
 :::
 :::
@@ -602,7 +602,7 @@ $n_i$ and $n_j$ are the number of samples (repetitions) in $i^{th}$
 level and $j^{th}$ level, $MSE$ is the mean squared error,
 $q_{k,n-k; α}$ is the right tail 100$\times \alpha$ percentile of the
 studentized range distribution with parameter $k$ and $n-k$ degrees of
-freedom. (It can be found at『eStatU』 (\<Figure 9.1.8\>)).
+freedom. (It can be found at『eStatU』 ([Figure 9.1.8]{.figure-ref})).
 :::
 
 ::: width:650px
@@ -619,7 +619,7 @@ freedom. (It can be found at『eStatU』 (\<Figure 9.1.8\>)).
 ![](Figure/Fig090108.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.1.8\>『eStatU』HSD percentile table
+[Figure 9.1.8]{.figure-ref}『eStatU』HSD percentile table
 :::
 
 </div>
@@ -725,12 +725,12 @@ Therefore, reject $\small H_0$
 
 The result of the above multiple comparisons shows that there is a
 difference between $\mu_2$ and $\mu_4$, $\mu_3$ and $\mu_4$ as can be
-seen in the dot graph with average in \<Figure 9.1.1\>. It also shows
+seen in the dot graph with average in [Figure 9.1.1]{.figure-ref}. It also shows
 that $\mu_1$ has no significant difference from other means.
 
 If you click 'Multiple Comparison' in the options of the ANOVA as in
-\<Figure 9.1.3\>, 『eStat』shows the result of Tukey's multiple
-comparisons as shown in \<Figure 9.1.9\>. 『eStat』also shows the mean
+[Figure 9.1.3]{.figure-ref}, 『eStat』shows the result of Tukey's multiple
+comparisons as shown in [Figure 9.1.9]{.figure-ref}. 『eStat』also shows the mean
 difference and 95% HSD value for the sample mean combination after
 rearranging levels of rows and columns in ascending order of the sample
 means.
@@ -744,11 +744,11 @@ left blank.
 ![](Figure/Fig090109.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.1.9\> HSD Multiple Comarisons
+[Figure 9.1.9]{.figure-ref} HSD Multiple Comarisons
 :::
 
 For the analysis of mean differences, confidence intervals for each
-level may also be used. \<Figure 9.1.2\> shows the 95% confidence
+level may also be used. [Figure 9.1.2]{.figure-ref} shows the 95% confidence
 interval for the mean for each level. This confidence interval is
 created using the formula described in Chapter 6, but the only
 difference is that the estimate of the variance for the error,
@@ -812,8 +812,8 @@ the grade, apply the residual analysis using『eStat』.
 **Answer**
 
 If you click on 'Standardized Residual Plot' of the ANOVA option in
-\<Figure 9.1.3\>, a scatter plot of residuals versus fitted values
-appears as shown in \<Figure 9.1.10\>. In this scatter plot, if the
+[Figure 9.1.3]{.figure-ref}, a scatter plot of residuals versus fitted values
+appears as shown in [Figure 9.1.10]{.figure-ref}. In this scatter plot, if the
 residuals show no unusual tendency around zero and appear randomly, then
 the assumptions of independence and homoscedasticity are valid. There is
 no unusual tendency in this scatter plot. Normality of the residuals can
@@ -822,7 +822,7 @@ be checked by drawing the histogram of residuals.
 ![](Figure/Fig090110.svg){.imgFig600400}
 
 ::: figText
-\<Figure 9.1.10\> Residual plot of the ANOVA
+[Figure 9.1.10]{.figure-ref} Residual plot of the ANOVA
 :::
 :::
 
@@ -1244,7 +1244,7 @@ car types have the same fuel mileage.
 **Answer**
 
 ::: textL20M20
-1\) In 『eStat』, enter data as shown in \<Figure 9.2.1\> and click the
+1\) In 『eStat』, enter data as shown in [Figure 9.2.1]{.figure-ref} and click the
 icon of analysis of variance . Select 'Analysis Var' as Miles and 'By
 Group' as Car in the variable selection box, then the confidence
 interval graph for each type of cars will appear such as \<Figure
@@ -1264,7 +1264,7 @@ interval graph for each type of cars will appear such as \<Figure
 ![](Figure/Fig090201.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.2.1\> Data input for randomized block design for 『eStat』
+[Figure 9.2.1]{.figure-ref} Data input for randomized block design for 『eStat』
 ANOVA
 :::
 
@@ -1274,34 +1274,34 @@ ANOVA
 ![](Figure/Fig090202.svg){.imgFig600400}
 
 ::: figText
-\<Figure 9.2.2\> Dot graph and 95% confidence interval for population
+[Figure 9.2.2]{.figure-ref} Dot graph and 95% confidence interval for population
 mean of each car type
 :::
 :::
 
 ::: textL20
 Click the \[ANOVA F-test\] button in the option below the graph to
-reveal the ANOVA graph as in \<Figure 9.2.3\> and the ANOVA table as in
-\<Figure 9.2.4\>. The result of the ANOVA is that there is no difference
+reveal the ANOVA graph as in [Figure 9.2.3]{.figure-ref} and the ANOVA table as in
+[Figure 9.2.4]{.figure-ref}. The result of the ANOVA is that there is no difference
 in fuel mileage between the cars of each company. The same is true for
-the multiple comparison tests in \<Figure 9.2.5\>.
+the multiple comparison tests in [Figure 9.2.5]{.figure-ref}.
 
 ![](Figure/Fig090203.svg){.imgFig600400}
 
 ::: figText
-\<Figure 9.2.3\> ANOVA of gas milage
+[Figure 9.2.3]{.figure-ref} ANOVA of gas milage
 :::
 
 ![](Figure/Fig090204.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.2.4\> ANOVA table of gas milage
+[Figure 9.2.4]{.figure-ref} ANOVA table of gas milage
 :::
 
 ![](Figure/Fig090205.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.2.5\> Multiple comparisons by car
+[Figure 9.2.5]{.figure-ref} Multiple comparisons by car
 :::
 :::
 
@@ -1310,20 +1310,20 @@ the multiple comparison tests in \<Figure 9.2.5\>.
 the block sum of squares will be separated from the error sum of
 squares. Adding Driver variable to 'by Group' in the variable
 selection box of『eStat』will give you a scatter plot of driver-specific
-fuel mileage for each car type as shown in \<Figure 9.2.6\>. This
+fuel mileage for each car type as shown in [Figure 9.2.6]{.figure-ref}. This
 scatter plot shows a significant difference in fuel mileage per driver.
 
 ![](Figure/Fig090206.svg){.imgFig600400}
 
 ::: figText
-\<Figure 9.2.6\> Fuel mileages for each driver
+[Figure 9.2.6]{.figure-ref} Fuel mileages for each driver
 :::
 :::
 
 ::: textL20
 Click the \[ANOVA F-Test\] button in the options window below the graph
-to reveal the two-way mean table shown in \<Figure 9.2.7\> and the ANOVA
-table shown in \<Figure 9.2.8\>. This ANOVA table clearly shows a
+to reveal the two-way mean table shown in [Figure 9.2.7]{.figure-ref} and the ANOVA
+table shown in [Figure 9.2.8]{.figure-ref}. This ANOVA table clearly shows a
 decrease in error sum of squares and reduces significantly the mean
 squares of errors. This is due to the large variation between drivers
 being separated from the error variation. Factor B (driver) represents
@@ -1340,14 +1340,14 @@ term.
 ![](Figure/Fig090207.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.2.7\> Two-way mean table by car and driver\
+[Figure 9.2.7]{.figure-ref} Two-way mean table by car and driver\
 (There is no standard deviation of single data and denoted as NaN)
 :::
 
 ![](Figure/Fig090208.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.2.8\> ANOVA table for randomized block design
+[Figure 9.2.8]{.figure-ref} ANOVA table for randomized block design
 :::
 
 In average, car type A has the best fuel mileage than other car types.
@@ -1599,7 +1599,7 @@ kg)
 
 ::: textL20M20
 2\) To draw a scatter plot for the two-way ANOVA using 『eStat』, enter
-data as \<Figure 9.3.1\> where the fertilizer is variable 1, the rice
+data as [Figure 9.3.1]{.figure-ref} where the fertilizer is variable 1, the rice
 type is variable 2 and the rice yield is variable 3.
 
 ::: width:650px
@@ -1616,7 +1616,7 @@ type is variable 2 and the rice yield is variable 3.
 ![](Figure/Fig090301.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.3.1\> Data input for two-way ANOVA of 『eStat』
+[Figure 9.3.1]{.figure-ref} Data input for two-way ANOVA of 『eStat』
 :::
 
 </div>
@@ -1627,7 +1627,7 @@ type is variable 2 and the rice yield is variable 3.
 In the variable selection box which appears by clicking the ANOVA icon
 on the main menu, select 'Analysis Var' as Yield and 'By Group' as
 Rice and Fertilizer, then the scatter plot of the yield by rice type
-will appear as in \<Figure 9.3.2\>. In addition, the average yields at
+will appear as in [Figure 9.3.2]{.figure-ref}. In addition, the average yields at
 each rice type by fertilizer are marked as dots linking them with lines
 by fertilizer. In this graph, rice type 1 always yields more than rice
 type 3 regardless of the fertilizer used. Rice type 2 varies in yield
@@ -1638,7 +1638,7 @@ regardless of the rice types.
 ![](Figure/Fig090302.svg){.imgFig600400}
 
 ::: figText
-\<Figure 9.3.2\> Yields by rice types and fertilizer types
+[Figure 9.3.2]{.figure-ref} Yields by rice types and fertilizer types
 :::
 :::
 
@@ -1803,22 +1803,22 @@ fertilizer types
 
 ::: textL20M20
 4\) If you press the \[ANOVA F-test\] button in the options window below
-\<Figure 9.3.2\> of『eStat』, the two-dimensional table of means /
-standard deviations for each level combination as in \<Figure 9.3.3\>
-and the two-way analysis of variance table as in \<Figure 9.3.4\> will
+[Figure 9.3.2]{.figure-ref} of『eStat』, the two-dimensional table of means /
+standard deviations for each level combination as in [Figure 9.3.3]{.figure-ref}
+and the two-way analysis of variance table as in [Figure 9.3.4]{.figure-ref} will
 appear in the Log Area.
 :::
 
 ![](Figure/Fig090303.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.3.3\> Two dimensional mean / standard deviation table
+[Figure 9.3.3]{.figure-ref} Two dimensional mean / standard deviation table
 :::
 
 ![](Figure/Fig090304.png){.imgFig600400}
 
 ::: figText
-\<Figure 9.3.4\> two-way analysis of variance table
+[Figure 9.3.4]{.figure-ref} two-way analysis of variance table
 :::
 :::
 

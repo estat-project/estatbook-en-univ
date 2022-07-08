@@ -127,7 +127,7 @@ which is for opening a file in JSON format.
 ![](Figure/Fig040101.png){.imgFig300400}
 
 ::: figText
-\<Figure 4.1.1\> Input gender data of a class
+[Figure 4.1.1]{.figure-ref} Input gender data of a class
 :::
 
 </div>
@@ -137,26 +137,26 @@ which is for opening a file in JSON format.
 ![](Figure/Fig040102.png){.imgFig300400}
 
 ::: figText
-\<Figure 4.1.2\> Input variable name and value label
+[Figure 4.1.2]{.figure-ref} Input variable name and value label
 :::
 
 If you select the gender variable as the 'Analysis Var' in the
-variable selection box as shown in \<Figure 4.1.1\>, a bar graph of the
-gender is drawn as in \<Figure 4.1.3\>. Then, if you click the Frequency
+variable selection box as shown in [Figure 4.1.1]{.figure-ref}, a bar graph of the
+gender is drawn as in [Figure 4.1.3]{.figure-ref}. Then, if you click the Frequency
 Table icon, the frequency table of the gender variable will appear in
-the Log Area, as in \<Figure 4.1.4\>. This frequency table is used to
+the Log Area, as in [Figure 4.1.4]{.figure-ref}. This frequency table is used to
 draw the bar graph or the pie chart.
 
 ![](Figure/Fig040103.svg){.imgFig600540}
 
 ::: figText
-\<Figure 4.1.3\> Bar graph of the gender
+[Figure 4.1.3]{.figure-ref} Bar graph of the gender
 :::
 
 ![](Figure/Fig040104.png){.imgFig300200}
 
 ::: figText
-\<Figure 4.1.4\> Frequency table of the gender
+[Figure 4.1.4]{.figure-ref} Frequency table of the gender
 :::
 :::
 
@@ -235,12 +235,12 @@ Draw a histogram and frequency table of the otter lengths by using
 
 <div>
 
-Retrieve the data from 『eStat』 as in \<Figure 4.1.5\>.
+Retrieve the data from 『eStat』 as in [Figure 4.1.5]{.figure-ref}.
 
 ![](Figure/Fig040105.png){.imgFig300400}
 
 ::: figText
-\<Figure 4.1.5\> Data of Otter Length
+[Figure 4.1.5]{.figure-ref} Data of Otter Length
 :::
 
 </div>
@@ -248,46 +248,46 @@ Retrieve the data from 『eStat』 as in \<Figure 4.1.5\>.
 </div>
 
 Click the Histogram Icon and then select the variable name
-'OtterLength' to draw a histogram as shown in \<Figure 4.1.6\>.
+'OtterLength' to draw a histogram as shown in [Figure 4.1.6]{.figure-ref}.
 
 ![](Figure/Fig040106.svg){.imgFig600540}
 
 ::: figText
-\<Figure 4.1.6\> Histogram of the otter length
+[Figure 4.1.6]{.figure-ref} Histogram of the otter length
 :::
 
 Click on the \[Frequency Table\] button in the options window below the
-histogram (\<Figure 4.1.7\>). Then a frequency table of the histogram
-intervals is shown as in \<Figure 4.1.8\> in the Log Area.
+histogram ([Figure 4.1.7]{.figure-ref}). Then a frequency table of the histogram
+intervals is shown as in [Figure 4.1.8]{.figure-ref} in the Log Area.
 
 ![](Figure/Fig040107.png){.imgFig30050}
 
 ::: figText
-\<Figure 4.1.7\> Options of the histogram
+[Figure 4.1.7]{.figure-ref} Options of the histogram
 :::
 
 ![](Figure/Fig040108.png){.imgFig300400}
 
 ::: figText
-\<Figure 4.1.8\> Frequency table of histogram for otter length
+[Figure 4.1.8]{.figure-ref} Frequency table of histogram for otter length
 :::
 
 If you want to adjust the histogram intervals from 60kg with an interval
 length of 5kg, set 'Interval Start' to 60 and 'Interval Width' to 5 in
 the graph options. Press \[Execute New Interval\] button to display the
-adjusted histogram as shown in \<Figure 4.1.9\>. Click on \[Frequency
-Table\] button to reveal a new frequency table as in \<Figure 4.1.10\>.
+adjusted histogram as shown in [Figure 4.1.9]{.figure-ref}. Click on \[Frequency
+Table\] button to reveal a new frequency table as in [Figure 4.1.10]{.figure-ref}.
 
 ![](Figure/Fig040109.svg){.imgFig600540}
 
 ::: figText
-\<Figure 4.1.9\> Adjusted histogram of otter length
+[Figure 4.1.9]{.figure-ref} Adjusted histogram of otter length
 :::
 
 ![](Figure/Fig040110.png){.imgFig300300}
 
 ::: figText
-\<Figure 4.1.10\> Adjusted frequency table of the otter length
+[Figure 4.1.10]{.figure-ref} Adjusted frequency table of the otter length
 :::
 :::
 
@@ -419,7 +419,7 @@ Table 4.2.1 Survey data on gender and marital status
 <div>
 
 Enter the data of the gender and the marital status in [Table 4.2.1]{.table-ref} to
-the sheet of 『eStat』 as in \<Figure 4.2.1\>. Use [Edit Var]{.button-ref} button
+the sheet of 『eStat』 as in [Figure 4.2.1]{.figure-ref}. Use [Edit Var]{.button-ref} button
 to enter a variable name 'Gender' and value labels 'Male' for 1 and
 'Female' for 2. In the same way, enter a variable name 'Marital' and
 value labels 'Single' for 1, 'Married' for 2 and 'Other' for 3.
@@ -431,7 +431,7 @@ for loading a file in JSON format.
 ![](Figure/Fig040201.png){.imgFig300300}
 
 ::: figText
-\<Figure 4.2.1\> Data input on gender and marital status
+[Figure 4.2.1]{.figure-ref} Data input on gender and marital status
 :::
 
 </div>
@@ -440,24 +440,24 @@ for loading a file in JSON format.
 
 Click on the variable name 'Marital' ('Analysis Var'), and then the
 variable name 'Gender' ('by Group'). Then you will see a bar graph of
-the marital status by gender as in \<Figure 4.2.2\> which is a default
+the marital status by gender as in [Figure 4.2.2]{.figure-ref} which is a default
 graph. Click the Frequency Table icon to display a contingency table of
-the marital status by gender in the Log Area as in \<Figure 4.2.3\>. In
+the marital status by gender in the Log Area as in [Figure 4.2.3]{.figure-ref}. In
 this contingency table, the 'by Group' variable becomes the row variable
 and the 'Analysis Var' becomes the column variable. This contingency
 table was used to draw the bar graph of the marital status by gender as
-in \<Figure 4.2.2\>.
+in [Figure 4.2.2]{.figure-ref}.
 
 ![](Figure/Fig040202.svg){.imgFig600540}
 
 ::: figText
-\<Figure 4.2.2\> Bar graph on marital status by gender
+[Figure 4.2.2]{.figure-ref} Bar graph on marital status by gender
 :::
 
 ![](Figure/Fig040203.png){.imgFig400300}
 
 ::: figText
-\<Figure 4.2.3\> Contingency table on marital status and gender
+[Figure 4.2.3]{.figure-ref} Contingency table on marital status and gender
 :::
 :::
 
@@ -529,13 +529,13 @@ of the age by gender.
 
 <div>
 
-Retrieve the data from 『eStat』 as in \<Figure 4.2.4\> and enter value
+Retrieve the data from 『eStat』 as in [Figure 4.2.4]{.figure-ref} and enter value
 labels of 'Gender' as 'Male' for 1 and 'Female' for 2.
 
 ![](Figure/Fig040204.png){.imgFig300400}
 
 ::: figText
-\<Figure 4.2.4\> Data input on gender and age
+[Figure 4.2.4]{.figure-ref} Data input on gender and age
 :::
 
 </div>
@@ -544,48 +544,48 @@ labels of 'Gender' as 'Male' for 1 and 'Female' for 2.
 
 After clicking the histogram icon, select the 'Age' variable as
 'Analysis Var', and then the 'Gender' variable as 'by Group'. A
-histogram will appear as shown in \<Figure 4.2.5\>.
+histogram will appear as shown in [Figure 4.2.5]{.figure-ref}.
 
 ![](Figure/Fig040205.svg){.imgFig600540}
 
 ::: figText
-\<Figure 4.2.5\> Histogram on age by gender
+[Figure 4.2.5]{.figure-ref} Histogram on age by gender
 :::
 
 If you click the button of 'Frequency Table' in the options window
-below the graph (\<Figure 4.2.6\>), a contingency table will appear in
-the Log Area as shown in \<Figure 4.2.7\>.
+below the graph ([Figure 4.2.6]{.figure-ref}), a contingency table will appear in
+the Log Area as shown in [Figure 4.2.7]{.figure-ref}.
 
 ![](Figure/Fig040206.png){.imgFig30050}
 
 ::: figText
-\<Figure 4.2.6\> Options of the histogram
+[Figure 4.2.6]{.figure-ref} Options of the histogram
 :::
 
 ![](Figure/Fig040207.png){.imgFig300400}
 
 ::: figText
-\<Figure 4.2.7\> Contingency table of age by gender
+[Figure 4.2.7]{.figure-ref} Contingency table of age by gender
 :::
 
-If the intervals of the histogram in \<Figure 4.2.5\> are to be
+If the intervals of the histogram in [Figure 4.2.5]{.figure-ref} are to be
 readjusted, for example, from 20 to 10 years apart, set 'Interval
 Start' to 20 and 'Interval Width' to 10 in the graph options and press
 \[Execute New Interval\] button. Then a histogram with the adjusted
-intervals is appeared as in \<Figure 4.2.8\>, and a contingency table
+intervals is appeared as in [Figure 4.2.8]{.figure-ref}, and a contingency table
 with the adjusted intervals can be obtained by clicking on \[Frequency
-Table\] button as shown in \<Figure 4.2.9\>.
+Table\] button as shown in [Figure 4.2.9]{.figure-ref}.
 
 ![](Figure/Fig040208.svg){.imgFig600540}
 
 ::: figText
-\<Figure 4.2.8\> Histogram with adjusted intervals
+[Figure 4.2.8]{.figure-ref} Histogram with adjusted intervals
 :::
 
 ![](Figure/Fig040209.png){.imgFig300300}
 
 ::: figText
-\<Figure 4.2.9\> Contingency table with adjusted intervals
+[Figure 4.2.9]{.figure-ref} Contingency table with adjusted intervals
 :::
 :::
 
@@ -761,15 +761,15 @@ arranged data as above which is 6.
 <div>
 
 In order to use 『eStat』 , enter the data in column V1 of the sheet as
-in \<Figure 4.3.1\>. Click the Dot Graph icon and click the variable
-name 'Quiz' to see the dot graph of data as in \<Figure 4.3.2\>. If you
+in [Figure 4.3.1]{.figure-ref}. Click the Dot Graph icon and click the variable
+name 'Quiz' to see the dot graph of data as in [Figure 4.3.2]{.figure-ref}. If you
 check the option 'Mean/StdDev', you can see the location of mean and the
 length of standard deviation.
 
 ![](Figure/Fig040301.png){.imgFig300200}
 
 ::: figText
-\<Figure 4.3.1\> Data input
+[Figure 4.3.1]{.figure-ref} Data input
 :::
 
 </div>
@@ -779,7 +779,7 @@ length of standard deviation.
 ![](Figure/Fig040302.svg){.imgFig600540}
 
 ::: figText
-\<Figure 4.3.2\> Dot graph with mean and standard deviation.
+[Figure 4.3.2]{.figure-ref} Dot graph with mean and standard deviation.
 :::
 
 If you click the Descriptive Statistics icon , then a table of all
@@ -790,25 +790,25 @@ such as the standard deviation, minimum, and maximum etc.
 ![](Figure/Fig040303.png){.imgFig500100}
 
 ::: figText
-\<Figure 4.3.3\> Basic statistics of data
+[Figure 4.3.3]{.figure-ref} Basic statistics of data
 :::
 
 You can also use 『eStatU』 to calculate the descriptive statistics and
 simulate an influence of extreme point. Select 'Dot Graph -- Box Plot --
 Descriptive Statistics' from the menu of 『eStatU』 and enter data as in
-\<Figure 4.3.4\>. 『eStatU』 calculates all statistics while you are
+[Figure 4.3.4]{.figure-ref}. 『eStatU』 calculates all statistics while you are
 entering data.
 
 ![](Figure/Fig040304.png){.imgFig500200}
 
 ::: figText
-\<Figure 4.3.4\> 『eStatU』 basic statistics of data
+[Figure 4.3.4]{.figure-ref} 『eStatU』 basic statistics of data
 :::
 
 If you click the [Execute]{.button-ref} button, two sets of dot graph and box plot
-appear as in \<Figure 4.3.5\>. The first graph is for the data you
+appear as in [Figure 4.3.5]{.figure-ref}. The first graph is for the data you
 entered and the second one is for simulation. On the second bar graph of
-\<Figure 4.3.5\>. you can click a point (circle) using your mouse and
+[Figure 4.3.5]{.figure-ref}. you can click a point (circle) using your mouse and
 move to other far side location of axis (make an extreme point) to check
 its influence on mean and median. You can see that the mean is changed a
 lot by the extreme point, but the median is not changed by the extreme
@@ -817,7 +817,7 @@ point.
 ![](Figure/Fig040305.svg){.imgFig600400}
 
 ::: figText
-\<Figure 4.3.5\> 『eStatU』 with simulation of an extreme point
+[Figure 4.3.5]{.figure-ref} 『eStatU』 with simulation of an extreme point
 :::
 :::
 
@@ -1163,14 +1163,14 @@ different as follows. $$
 calculating the sample variance which will be discussed in Chapter 6.
 Meaning of the population variance, which is an average of all squared
 distances from each data to the population mean, is illustrated in
-\<Figure 4.3.6\>. In this Figure, dot mark represents each data value.
+[Figure 4.3.6]{.figure-ref}. In this Figure, dot mark represents each data value.
 $\sigma^2$ = 2.5 is calculated as the sum of squared distances (10)
 divided by the number of data, $n$ = 4 in this example.
 
 ![](Figure/Fig040306.png){.imgFig400300}
 
 ::: figText
-\<Figure 4.3.6\> Calculation of a population variance
+[Figure 4.3.6]{.figure-ref} Calculation of a population variance
 :::
 
 A standard deviation is defined as the square root of the variance. A
@@ -1226,8 +1226,8 @@ The sample standard deviation is the square root of the sample variance
 
 $\small \qquad  s~=~ \sqrt {s ^{2}} ~=~ \sqrt {4.667} ~=~2.16$
 
-These values coincide with the output of 『eStat』 in \<Figure 4.3.3\>
-and the output of 『eStatU』 in \<Figure 4.3.4\>.
+These values coincide with the output of 『eStat』 in [Figure 4.3.3]{.figure-ref}
+and the output of 『eStatU』 in [Figure 4.3.4]{.figure-ref}.
 :::
 
 ::: mainTable
@@ -1406,7 +1406,7 @@ So, the inter-quartile range IQR is as follows.
 $\qquad \small  \text{IQR = Q3 - Q1 = 7.5 – 4.5 = 3.}$
 
 These values of Q1, Q3 and IQR coincide with the output of 『eStat』 in
-\<Figure 4.3.3\> and the output of 『eStatU』 in \<Figure 4.3.4\>.
+[Figure 4.3.3]{.figure-ref} and the output of 『eStatU』 in [Figure 4.3.4]{.figure-ref}.
 :::
 
 ::: mainTable
@@ -1418,18 +1418,18 @@ the 3rd quartile (Q3) at a horizontal line and connects with a square
 box. Then displays the median (Q2) at the location proportional to Q1
 and Q3 in the box and connects the box with the minimum and the maximum.
 Also, draw a vertical line at (minimum - 1.5 IQR) and at (maximum + 1.5
-IQR) as in \<Figure 4.3.3\>. Using the box plot, you can check a
+IQR) as in [Figure 4.3.3]{.figure-ref}. Using the box plot, you can check a
 symmetry of data, a central location of data (median), and a degree of
 dispersion (IQR). Data which are less than the line (minimum - 1.5 IQR)
 or greater than (maximum + 1.5 IQR) are considered as extremes (marked
-\* in \<Figure 4.3.7\>). Some statistical packages display the left line
+\* in [Figure 4.3.7]{.figure-ref}). Some statistical packages display the left line
 which is to check an extreme point as Max(minimum, Q1 - 1.5 IQR) and the
 right line as Min( maximum, Q3 + 1.5 IQR).
 
 ![](Figure/Fig040307.png){.imgFig500100}
 
 ::: figText
-\<Figure 4.3.7\> box plot
+[Figure 4.3.7]{.figure-ref} box plot
 :::
 :::
 
@@ -1452,12 +1452,12 @@ plot using 『eStatU』.
 
 Using the menu 'Dot Graph -- Box Plot -- Descriptive Statistics' in
 『eStatU』 , if you enter the data and click the [Execute]{.button-ref} button, the
-dot plot and the box plot appear as in \<Figure 4.3.8\>.
+dot plot and the box plot appear as in [Figure 4.3.8]{.figure-ref}.
 
 ![](Figure/Fig040308.png){.imgFig600400}
 
 ::: figText
-\<Figure 4.3.8\> Dot graph and box plot of the data
+[Figure 4.3.8]{.figure-ref} Dot graph and box plot of the data
 :::
 :::
 
@@ -1496,9 +1496,9 @@ medians, ranges, quartiles and IQRs by gender.
 1\) After loading the data to 『eStat』 , enter the value labels of
 'Gender' as 'Male' for 1 and 'Female' for 2 using \[EditVar\] button.
 Click on the box plot icon and then 'Age' variable, then the
-horizontal box plot is appeared as in \<Figure 4.3.9\>. If you select
+horizontal box plot is appeared as in [Figure 4.3.9]{.figure-ref}. If you select
 'Vertical' from the options below the graph, the vertical box plot shown
-as in \<Figure 4.3.10\> is appeared. Based on this box plot, we can see
+as in [Figure 4.3.10]{.figure-ref} is appeared. Based on this box plot, we can see
 that the upper half of data is more scattered than the lower half of
 data which implies there are more aged teachers.
 :::
@@ -1510,31 +1510,31 @@ data which implies there are more aged teachers.
 ![](Figure/Fig040309.svg){.imgFig600540}
 
 ::: figText
-\<Figure 4.3.9\> Horizontal box plot of age variable
+[Figure 4.3.9]{.figure-ref} Horizontal box plot of age variable
 :::
 
 ![](Figure/Fig040310.svg){.imgFig600540}
 
 ::: figText
-\<Figure 4.3.10\> Vertical box plot of age variable
+[Figure 4.3.10]{.figure-ref} Vertical box plot of age variable
 :::
 
 ::: textL20
 If you click button of \[Descriptive Statistics\] in the options, the
-basic statistics of the age is displayed as shown in \<Figure 4.3.11\>.
+basic statistics of the age is displayed as shown in [Figure 4.3.11]{.figure-ref}.
 :::
 
 ![](Figure/Fig040311.png){.imgFig400100}
 
 ::: figText
-\<Figure 4.3.11\> Descriptive statistics of age variable
+[Figure 4.3.11]{.figure-ref} Descriptive statistics of age variable
 :::
 
 ::: textL20M20
 2\) If you click on 'Gender' after 'Age' variable, the horizontal
-box plot by gender appears as shown in \<Figure 4.3.12\>. If you select
+box plot by gender appears as shown in [Figure 4.3.12]{.figure-ref}. If you select
 'Vertical' from the options below the graph, the vertical box plot by
-gender appears as shown in \<Figure 4.3.13\>. You can observe that
+gender appears as shown in [Figure 4.3.13]{.figure-ref}. You can observe that
 dispersion of female teachers' ages is greater than that of male
 teachers'.
 :::
@@ -1542,25 +1542,25 @@ teachers'.
 ![](Figure/Fig040312.svg){.imgFig600540}
 
 ::: figText
-\<Figure 4.3.12\> Horizontal box plot of age by gender
+[Figure 4.3.12]{.figure-ref} Horizontal box plot of age by gender
 :::
 
 ![](Figure/Fig040313.svg){.imgFig600540}
 
 ::: figText
-\<Figure 4.3.13\> Vertical box plot of age by gender
+[Figure 4.3.13]{.figure-ref} Vertical box plot of age by gender
 :::
 
 ::: textL20
 If you click the button of \[Basic Statistics\] in the options, the
 basic statistics of the age by gender is displayed in the Log Area as in
-\<Figure 4.3.14\>.
+[Figure 4.3.14]{.figure-ref}.
 :::
 
 ![](Figure/Fig040314.png){.imgFig600200}
 
 ::: figText
-\<Figure 4.3.14\> Descriptive statistics of age by gender
+[Figure 4.3.14]{.figure-ref} Descriptive statistics of age by gender
 :::
 :::
 

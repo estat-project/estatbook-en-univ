@@ -114,12 +114,12 @@ null hypothesis $H_0$ will be chosen, else reject $H_0$'} \\)
 
 The area of {$\small \overline X < C$} is called an acceptance region of
 $\small H_0$ and the area {$\small \overline X ≥ C$} is called a
-rejection region of $\small H_0$ (\<Figure 7.1.1\>).
+rejection region of $\small H_0$ ([Figure 7.1.1]{.figure-ref}).
 
 ![](Figure/Fig070101.png){.imgFig400300}
 
 ::: figText
-\<Figure 7.1.1\> Acceptance and rejection region of $H_{0}$
+[Figure 7.1.1]{.figure-ref} Acceptance and rejection region of $H_{0}$
 :::
 
 If a hypothesis is chosen by this decision rule, there are always two
@@ -158,14 +158,14 @@ expressed as β.
 
 If the significance level is established, the decision rule for the two
 hypotheses can be tested using the sampling distribution of all possible
-sample means in Chapter 6. \<Figure 7.1.2\> shows the distribution of
+sample means in Chapter 6. [Figure 7.1.2]{.figure-ref} shows the distribution of
 populations for two hypotheses, and the distribution of all possible
 sample means for each population.
 
 ![](Figure/Fig070102.png){.imgFig400300}
 
 ::: figText
-\<Figure 7.1.2\> Testing Hypothesis
+[Figure 7.1.2]{.figure-ref} Testing Hypothesis
 :::
 
 If the population corresponds to the distribution of $\small H_0$ : μ =
@@ -445,7 +445,7 @@ $\small  \qquad \qquad p\text{-value} = 2 P(\overline X \gt 253) = 2 P(\overline
 ::: textL20M20
 3\) In 『eStatU』 menu, select 'Testing Hypothesis μ', enter 250 at
 the box of on \[Hypothesis\] and select the alternative hypothesis as
-the right test in the window shown in \<Figure 7.1.3\>. Check \[Test
+the right test in the window shown in [Figure 7.1.3]{.figure-ref}. Check \[Test
 Type\] as Z test and check the significance level at 5%. At the \[Sample
 Statistics\], enter sample size 100, sample mean 253, and sample
 variance $10^2 = 100$. For the Z test, you must enter the population
@@ -468,7 +468,7 @@ is large enough.
 ![](Figure/Fig070103.png){.imgFig600400}
 
 ::: figText
-\<Figure 7.1.3\> 『eStatU』 Testing Hypothes for μ
+[Figure 7.1.3]{.figure-ref} 『eStatU』 Testing Hypothes for μ
 :::
 
 </div>
@@ -478,24 +478,24 @@ is large enough.
 ::: textL20
 If you click the [Execute]{.button-ref} button, the confidence Interval for μ is
 calculated and the testing result using 『eStatU』 will appear as in
-\<Figure 7.1.4\>.
+[Figure 7.1.4]{.figure-ref}.
 :::
 
 ![](Figure/Fig070104.png){.imgFig600400}
 
 ::: figText
-\<Figure 7.1.4\> 『eStatU』 Testing Hypothes for μ - Right Tail Test
+[Figure 7.1.4]{.figure-ref} 『eStatU』 Testing Hypothes for μ - Right Tail Test
 :::
 
 ::: textL20
-If you select the two-tail test at \[Hypothesis\] of \<Figure 7.1.3\>,
-testing result using 『eStatU』 is as \<Figure 7.1.5\>.
+If you select the two-tail test at \[Hypothesis\] of [Figure 7.1.3]{.figure-ref},
+testing result using 『eStatU』 is as [Figure 7.1.5]{.figure-ref}.
 :::
 
 ![](Figure/Fig070105.png){.imgFig600400}
 
 ::: figText
-\<Figure 7.1.5\> 『eStatU』 Testing Hypothes for μ - Two Tails Test
+[Figure 7.1.5]{.figure-ref} 『eStatU』 Testing Hypothes for μ - Two Tails Test
 :::
 :::
 
@@ -520,9 +520,9 @@ rule can be written as follows.
 
 $\small  \qquad \qquad\text{'If } \overline X > 250 + 2.602 \frac {10}{\sqrt{16}} , \text{ then reject } H_0 \text{ else accept } H_0 ’ \\ $
 
-In \<Figure 7.1.3\> of 『eStatU』 , select the right-sided test of
+In [Figure 7.1.3]{.figure-ref} of 『eStatU』 , select the right-sided test of
 \[Hypothesis\], select the $t$-test on \[Test Type\] and enter sample
-size $n$ = 16, then the test result is as \<Figure 7.1.6\> if you click
+size $n$ = 16, then the test result is as [Figure 7.1.6]{.figure-ref} if you click
 the [Execute]{.button-ref} button.
 
 <div>
@@ -540,7 +540,7 @@ the [Execute]{.button-ref} button.
 ![](Figure/Fig070106.png){.imgFig600400}
 
 ::: figText
-\<Figure 7.1.6\> Testing hypothesis for μ with $t$ distribution using
+[Figure 7.1.6]{.figure-ref} Testing hypothesis for μ with $t$ distribution using
 『eStatU』
 :::
 
@@ -572,7 +572,7 @@ the significance level of 5%.
 
 **Answer**
 
-After entering data on a sheet as shown in \<Figure 7.1.7\> in 『eStat』
+After entering data on a sheet as shown in [Figure 7.1.7]{.figure-ref} in 『eStat』
 , clicking the testing hypothesis for the population mean and then
 clicking variable name V1 for 'Analysis Var' in variable selection box
 will result in a dot graph with 95% confidence interval as in \<Figure
@@ -593,7 +593,7 @@ will result in a dot graph with 95% confidence interval as in \<Figure
 ![](Figure/Fig070107.png){.imgFig150200}
 
 ::: figText
-\<Figure 7.1.7\> Data input
+[Figure 7.1.7]{.figure-ref} Data input
 :::
 
 </div>
@@ -603,11 +603,11 @@ will result in a dot graph with 95% confidence interval as in \<Figure
 ![](Figure/Fig070108.png){.imgFig600540}
 
 ::: figText
-\<Figure 7.1.8\> Dot graph and confidence interval
+[Figure 7.1.8]{.figure-ref} Dot graph and confidence interval
 :::
 
 If you click \[Histogram\] button from option menu below the graph as in
-\<Figure 7.1.9\>, the corresponding histogram is appeared as in \<Figure
+[Figure 7.1.9]{.figure-ref}, the corresponding histogram is appeared as in \<Figure
 7.1.10\>. The histogram together with the normal distribution graph can
 be used to check whether the sample data comes from a normal
 distribution. The options such as \[Normal Q-Q Plot\] and \[Normality
@@ -616,30 +616,30 @@ Test\] will be explained in chapter 11.
 ![](Figure/Fig070109.png){.imgFig400100}
 
 ::: figText
-\<Figure 7.1.9\> Options for testing hypothesis of population mean
+[Figure 7.1.9]{.figure-ref} Options for testing hypothesis of population mean
 :::
 
 ![](Figure/Fig070110.png){.imgFig600540}
 
 ::: figText
-\<Figure 7.1.10\> Histogram and Normal Distribution
+[Figure 7.1.10]{.figure-ref} Histogram and Normal Distribution
 :::
 
 Enter $μ_0$ = 175 at the box of option menu, select the right sided test
 and the significance level of 5%. Then press the \[t-Test\] button to
-display the hypothesis test graph as shown in \<Figure 7.1.11\> and a
-test result in the Log Area as in \<Figure 7.1.12\>.
+display the hypothesis test graph as shown in [Figure 7.1.11]{.figure-ref} and a
+test result in the Log Area as in [Figure 7.1.12]{.figure-ref}.
 
 ![](Figure/Fig070111.png){.imgFig600540}
 
 ::: figText
-\<Figure 7.1.11\> Testing hypothesis for population mean
+[Figure 7.1.11]{.figure-ref} Testing hypothesis for population mean
 :::
 
 ![](Figure/Fig070112.png){.imgFig400300}
 
 ::: figText
-\<Figure 7.1.12\> Testing hypothesis for population mean
+[Figure 7.1.12]{.figure-ref} Testing hypothesis for population mean
 :::
 
 You can select Z-test in the option menu, but you have to enter the
@@ -945,7 +945,7 @@ $\small H_0$ is rejected.
 ::: textL20M20
 2\) Select 'Testing Hypothesis $\sigma^2$' in 『eStatU』. Enter
 $\sigma^2_{0} = 0.1^2 = 0.01$, select the right sided test and the 5%
-significance level as \<Figure 7.2.1\> in the input box. Then enter the
+significance level as [Figure 7.2.1]{.figure-ref} in the input box. Then enter the
 sample size $n$ = 25 and sample variance $\small s^2 = 0.15^2 = 0.0225$.
 :::
 
@@ -964,7 +964,7 @@ sample size $n$ = 25 and sample variance $\small s^2 = 0.15^2 = 0.0225$.
 ![](Figure/Fig070201.png){.imgFig600400}
 
 ::: figText
-\<Figure 7.2.1\> Testing hypothesis for $\sigma^2$ using 『eStatU』
+[Figure 7.2.1]{.figure-ref} Testing hypothesis for $\sigma^2$ using 『eStatU』
 :::
 
 </div>
@@ -980,7 +980,7 @@ $\sigma^2$ is calculated and testing result will be shown as \<Figure
 ![](Figure/Fig070202.png){.imgFig600400}
 
 ::: figText
-\<Figure 7.2.2\> Testing hypothesis for $\sigma^2$
+[Figure 7.2.2]{.figure-ref} Testing hypothesis for $\sigma^2$
 :::
 :::
 
@@ -999,10 +999,10 @@ at the significance level of 5%.
 
 **Answer**
 
-After entering data as shown in \<Figure 7.2.3\> on the sheet in
+After entering data as shown in [Figure 7.2.3]{.figure-ref} on the sheet in
 『eStat』 , click the icon of testing hypothesis for variance and select
 'Height' as the Analysis Var to display a dot graph of data with
-(average) ± (standard deviation) interval as in\<Figure 7.2.4\>.
+(average) ± (standard deviation) interval as in[Figure 7.2.4]{.figure-ref}.
 
 <div>
 
@@ -1019,7 +1019,7 @@ After entering data as shown in \<Figure 7.2.3\> on the sheet in
 ![](Figure/Fig070203.png){.imgFig150200}
 
 ::: figText
-\<Figure 7.2.3\> 『eStat』 data input
+[Figure 7.2.3]{.figure-ref} 『eStat』 data input
 :::
 
 </div>
@@ -1029,32 +1029,32 @@ After entering data as shown in \<Figure 7.2.3\> on the sheet in
 ![](Figure/Fig070204.png){.imgFig600400}
 
 ::: figText
-\<Figure 7.2.4\> Dot graph and (Mean) ± (Std Dev) for Testing hypothesis
+[Figure 7.2.4]{.figure-ref} Dot graph and (Mean) ± (Std Dev) for Testing hypothesis
 of $σ^2$
 :::
 
-In the option box under the Graph Area (\<Figure 7.2.5\>), enter
+In the option box under the Graph Area ([Figure 7.2.5]{.figure-ref}), enter
 $\sigma^2_{0}$ = 25, and select the alternative hypothesis as
 right-sided test, significance level as 5%. By clicking \[$\chi^2$
 test\] button, the result of the testing hypothesis will be shown as
-\<Figure 7.2.6\> and the result table as \<Figure 7.2.7\>.
+[Figure 7.2.6]{.figure-ref} and the result table as [Figure 7.2.7]{.figure-ref}.
 
 ![](Figure/Fig070205.png){.imgFig500100}
 
 ::: figText
-\<Figure 7.2.5\> Option menu for testing hypothesis for $\sigma^2$
+[Figure 7.2.5]{.figure-ref} Option menu for testing hypothesis for $\sigma^2$
 :::
 
 ![](Figure/Fig070206.png){.imgFig600540}
 
 ::: figText
-\<Figure 7.2.6\> Testing hypothesis for $\sigma^2$
+[Figure 7.2.6]{.figure-ref} Testing hypothesis for $\sigma^2$
 :::
 
 ![](Figure/Fig070207.png){.imgFig600400}
 
 ::: figText
-\<Figure 7.2.7\> Testing hypothesis for $\sigma^2$
+[Figure 7.2.7]{.figure-ref} Testing hypothesis for $\sigma^2$
 :::
 :::
 
@@ -1064,7 +1064,7 @@ test the hypothesis of the population variance. Testing whether the
 population is normally distributed using sample data is called a
 goodness of fit test which will be discussed in Chapter 11. You may test
 the normality approximately by using a histogram with a normal
-distribution which can be drawn from the option box in \<Figure 7.2.5\>.
+distribution which can be drawn from the option box in [Figure 7.2.5]{.figure-ref}.
 In addition, \[Normal Q-Q Plot\] can be used to test the normality.
 :::
 
@@ -1219,10 +1219,10 @@ and $z_{0.05/2} = z_{0.025}$ = 1.96, hence $\small H_0$ is accepted.
 ::: textL20M20
 2\) Select 'Testing Hypothesis $p$' at 『eStatU』 menu. Enter
 $p_0 =0.6$, select the two sided test and the 5% significance level as
-\<Figure 7.3.1\> in the input box window. Then enter the sample size $n$
+[Figure 7.3.1]{.figure-ref} in the input box window. Then enter the sample size $n$
 = 100, and the sample proportion $\hat p = 0.55$. If you click the
 [Execute]{.button-ref} button, the confidence interval of $p$ is calculated and
-testing result will be shown as in \<Figure 7.3.2\>.
+testing result will be shown as in [Figure 7.3.2]{.figure-ref}.
 :::
 
 <div>
@@ -1240,7 +1240,7 @@ testing result will be shown as in \<Figure 7.3.2\>.
 ![](Figure/Fig070301.png){.imgFig600400}
 
 ::: figText
-\<Figure 7.3.1\> Data input for testing hypothesis of $p$ using
+[Figure 7.3.1]{.figure-ref} Data input for testing hypothesis of $p$ using
 『eStatU』
 :::
 
@@ -1251,7 +1251,7 @@ testing result will be shown as in \<Figure 7.3.2\>.
 ![](Figure/Fig070302.png){.imgFig600400}
 
 ::: figText
-\<Figure 7.3.2\> Testing hypothesis for $p$ using 『eStatU』
+[Figure 7.3.2]{.figure-ref} Testing hypothesis for $p$ using 『eStatU』
 :::
 :::
 
@@ -1372,7 +1372,7 @@ $\small \qquad \;\; = 0.137$
 
 Select 'Testing $\mu - C, \beta$ ' at 『eStatU』 menu. Enter
 $\small \mu_0 = 1500 , \mu_1 = 1600,  \sigma = 200, \alpha = 0.05, n = 30$
-in the input box window as \<Figure 7.4.1\> and click the [Execute]{.button-ref}
+in the input box window as [Figure 7.4.1]{.figure-ref} and click the [Execute]{.button-ref}
 button. The result of the testing hypothesis, the critical value $C$ and
 the probability of the type 2 error β, will be shown as in \<Figure
 7.4.2\>.
@@ -1392,7 +1392,7 @@ the probability of the type 2 error β, will be shown as in \<Figure
 ![](Figure/Fig070401.png){.imgFig400300}
 
 ::: figText
-\<Figure 7.4.1\> Testing hypothesis for μ with α using 『eStatU』
+[Figure 7.4.1]{.figure-ref} Testing hypothesis for μ with α using 『eStatU』
 :::
 
 </div>
@@ -1402,7 +1402,7 @@ the probability of the type 2 error β, will be shown as in \<Figure
 ![](Figure/Fig070402.png){.imgFig600400}
 
 ::: figText
-\<Figure 7.4.2\> Calculation of β and power using 『eStatU』
+[Figure 7.4.2]{.figure-ref} Calculation of β and power using 『eStatU』
 :::
 :::
 
@@ -1455,7 +1455,7 @@ $\qquad \small \;\;= P( Z \lt -0.546 ) = 0.283$
 
 ::: textL20M20
 2\) In order to calculate β using 『eStatU』 , enter $\mu_1 = 1580$ in
-\<Figure 7.4.1\> and click the [Execute]{.button-ref} button.
+[Figure 7.4.1]{.figure-ref} and click the [Execute]{.button-ref} button.
 :::
 
 </div>
@@ -1619,12 +1619,12 @@ Hence if we calculate the probability of the type 2 error as \[Example
   ----------------------------------------------------------------------------
 
 The power function can be approximated by connecting points of (, 1 - )
-in each test as \<Figure 7.4.3\>.
+in each test as [Figure 7.4.3]{.figure-ref}.
 
 ![](Figure/Fig070403.png){.imgFig600400}
 
 ::: figText
-\<Figure 7.4.3\> Power function of \[Example 7.4.1\]
+[Figure 7.4.3]{.figure-ref} Power function of \[Example 7.4.1\]
 :::
 :::
 
@@ -1725,7 +1725,7 @@ $$ \small
         \end{multline}
       $$ Select 'Testing μ - $C, n$' at 『eStatU』 menu. Enter
 $\mu_0 = 1500 ,\mu_1 = 1570 , \alpha = 0.05$, $\beta = 0.10$ in the
-input box window as \<Figure 7.4.4\>.
+input box window as [Figure 7.4.4]{.figure-ref}.
 
 <div>
 
@@ -1742,7 +1742,7 @@ input box window as \<Figure 7.4.4\>.
 ![](Figure/Fig070404.png){.imgFig400300}
 
 ::: figText
-\<Figure 7.4.4\> Testing hypothesis for with using 『eStatU』
+[Figure 7.4.4]{.figure-ref} Testing hypothesis for with using 『eStatU』
 :::
 
 </div>
@@ -1750,13 +1750,13 @@ input box window as \<Figure 7.4.4\>.
 </div>
 
 If you click the [Execute]{.button-ref} button, you will see the test result of
-『eStatU』 as in \<Figure 7.4.5\>. The critical value and the sample
+『eStatU』 as in [Figure 7.4.5]{.figure-ref}. The critical value and the sample
 size are calculated.
 
 ![](Figure/Fig070405.png){.imgFig600400}
 
 ::: figText
-\<Figure 7.4.5\> Testing hypothesis for μ with α, β using 『eStatU』
+[Figure 7.4.5]{.figure-ref} Testing hypothesis for μ with α, β using 『eStatU』
 :::
 :::
 
