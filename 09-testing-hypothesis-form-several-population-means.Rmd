@@ -1,6 +1,6 @@
 
  
-# Chapter 9. Testing Hypothesis for Several Population Means
+# Testing Hypothesis for Several Population Means
 
 [book](pdf/book09.pdf){target="_blank"}
 [eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
@@ -35,7 +35,7 @@ introduced.
 
       
 
-## 9.1 Analysis of Variance for Single Factor Experiments
+## Analysis of Variance for Single Factor Experiments
 
 ::: presentation-video-link
 [presentation](pdf/0901.pdf){.presentation-link target="_blank"}   
@@ -562,7 +562,7 @@ followings using 『eStat』 ,
 
              
 
-### 9.1.1 Multiple Comparison
+### Multiple Comparison
 
 ::: presentation-video-link
 [presentation](pdf/090101-02.pdf){.presentation-link target="_blank"}   
@@ -787,7 +787,7 @@ Use『eStat』 .
 :::
 :::
 
-### 9.1.2 Residual Analysis
+### Residual Analysis
 
 ::: mainTable
 Another statistical analysis related to the ANOVA is a residual
@@ -1016,7 +1016,7 @@ ANOVA table, what is your conclusion with the 5％ significance level?
 
              
 
-## 9.2 Design of Experiments for Sampling
+## Design of Experiments for Sampling
 
 ::: presentation-video-link
 [presentation](pdf/0902.pdf){.presentation-link target="_blank"}   
@@ -1033,7 +1033,7 @@ cautious about sampling. This section discusses how to design
 experiments for collecting small number of data from experiments.
 
 ::: mainTable
-### 9.2.1 Completely Randomized Design
+### Completely Randomized Design
 
 ::: mainTable
 In order to identify the differences accurately that may exist among
@@ -1082,7 +1082,7 @@ analysis of variance technique is called an analysis of the single
 factor design.
 :::
 
-### 9.2.2 Randomized Block Design
+### Randomized Block Design
 
 ::: mainTable
 In the experiments of completely randomized design for measuring the
@@ -1467,7 +1467,7 @@ experimental design is used to reduce the effect of drivers?
 
              
 
-## 9.3 Analysis of Variance for Two Factors
+## Analysis of Variance for Two Factors
 
 ::: presentation-video-link
 [presentation](pdf/0903.pdf){.presentation-link target="_blank"}   
@@ -2041,7 +2041,7 @@ the level of the factor B?
 
 
 
-## 9.4 Exercise
+## Exercise
 
 ::: mainTablePink
 ::: textL30M30

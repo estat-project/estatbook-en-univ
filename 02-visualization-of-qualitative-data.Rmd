@@ -1,5 +1,5 @@
 
-# Chapter 2. Visualization of Qualitative Data
+# Visualization of Qualitative Data
 
 [book](pdf/book02.pdf){target="_blank"}
 [eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
@@ -26,7 +26,7 @@ variable by a group is also discussed.
 
              
 
-## 2.1 Visualization of Qualitative Data
+## Visualization of Qualitative Data
 
 ::: presentation-video-link
 [presentation](pdf/0201.pdf){.presentation-link target="_blank"}   
@@ -169,7 +169,7 @@ and the case of an analysis varible with the group variable.
 
       
 
-## 2.2 Visualization of Summary Data
+## Visualization of Summary Data
 
 ::: presentation-video-link
 [presentation](pdf/0202.pdf){.presentation-link target="_blank"}   
@@ -179,7 +179,7 @@ and the case of an analysis varible with the group variable.
 In this section visualization of summary data without a group variable
 and visualization of summary data with a group variable are discussed.
 
-### 2.2.1 Summary Data of Categorical Variable
+### Summary Data of Categorical Variable
 
 ::: mainTable
 If you investigated a gender of students in a class and reported the
@@ -544,7 +544,7 @@ analyze the graph.
 </div>
 :::
 
-### 2.2.2 Summary Data of Categorical Variable with Group
+### Summary Data of Categorical Variable with Group
 
 ::: mainTable
 The summary data as in Table 2.2.1 can be easily extended if you survey
@@ -1033,7 +1033,7 @@ characteristics.
 
              
 
-## 2.3 Visualization of Raw Data
+## Visualization of Raw Data
 
 ::: presentation-video-link
 [presentation](pdf/0203.pdf){.presentation-link target="_blank"}   
@@ -1052,7 +1052,7 @@ This section describes how to visualize the raw data in the case of
 qualitative data without groups and with groups.
 :::
 
-### 2.3.1 Raw Data of Categorical Variable
+### Raw Data of Categorical Variable
 
 ::: mainTableGrey
 **Example 2.3.1** **(Survey on Gender -- Raw Data)**
@@ -1199,7 +1199,7 @@ Draw a bar graph, a pie chart, a band graph of the math preference.
 </div>
 :::
 
-### 2.3.2 Raw Data of Categorical Variable with Group
+### Raw Data of Categorical Variable with Group
 
 ::: mainTableGrey
 **Example 2.3.2** **(Survey on Gender and Marital Status -- Raw Data
@@ -1417,7 +1417,7 @@ gender.
 
              
 
-## 2.4 Word Cloud
+## Word Cloud
 
 ::: presentation-video-link
 [presentation](pdf/0204.pdf){.presentation-link target="_blank"}   
@@ -1554,7 +1554,7 @@ president John F. Kennedy and analyze important words.
 
 
 
-## 2.5 Exercise
+## Exercise
 
 ::: mainTablePink
 ### Multiple Choice Exercise

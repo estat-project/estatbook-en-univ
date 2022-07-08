@@ -1,5 +1,5 @@
 
-# Chapter 5. Probability Distribution
+# Probability Distribution
 
 [book](pdf/book05.pdf){target="_blank"}
 [eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
@@ -35,7 +35,7 @@ such as Normal Distribution, and Exponential Distribution are described.
 
              
 
-## 5.1 Definition of Probability
+## Definition of Probability
 
 ::: presentation-video-link
 [presentation](pdf/0501.pdf){.presentation-link target="_blank"}   
@@ -246,7 +246,7 @@ large numbers**.
 
              
 
-## 5.2 Calculation of Probability
+## Calculation of Probability
 
 ::: presentation-video-link
 [presentation](pdf/0502.pdf){.presentation-link target="_blank"}   
@@ -963,7 +963,7 @@ P(B\|A)?
 
              
 
-## 5.3 Discrete Random Variable
+## Discrete Random Variable
 
 ::: presentation-video-link
 [presentation](pdf/0503.pdf){.presentation-link target="_blank"}   
@@ -1426,7 +1426,7 @@ $\small E(X^2)$=25, and what is the variance $\small V(X)$?
 
              
 
-### 5.3.1 Binomial Distribution
+### Binomial Distribution
 
 ::: presentation-video-link
 [presentation](pdf/050301.pdf){.presentation-link target="_blank"}   
@@ -2021,7 +2021,7 @@ are correct when answering 10 questions?
 
              
 
-### 5.3.2 Poisson Distribution
+### Poisson Distribution
 
 ::: presentation-video-link
 [presentation](pdf/050302.pdf){.presentation-link target="_blank"}   
@@ -2283,7 +2283,7 @@ book of mathematical statistics.
 
              
 
-### 5.3.3 Geometric Distribution
+### Geometric Distribution
 
 ::: presentation-video-link
 [presentation](pdf/050303.pdf){.presentation-link target="_blank"}   
@@ -2510,7 +2510,7 @@ trial.
 
              
 
-### 5.3.4 Hypergeometric Distribution
+### Hypergeometric Distribution
 
 ::: presentation-video-link
 [presentation](pdf/050304.pdf){.presentation-link target="_blank"}   
@@ -2709,7 +2709,7 @@ products in the sample using 『eStatU』.
 
              
 
-## 5.4 Continuous Random Variable
+## Continuous Random Variable
 
 ::: presentation-video-link
 [presentation](pdf/0504.pdf){.presentation-link target="_blank"}   
@@ -3020,7 +3020,7 @@ the value of the cumulative distribution function F(x) if 1 ≤ x \< 2?
 
              
 
-### 5.4.1 Normal Distribution
+### Normal Distribution
 
 ::: presentation-video-link
 [presentation](pdf/050401.pdf){.presentation-link target="_blank"}   
@@ -3818,7 +3818,7 @@ $P( -∞ < Z < z )$
 
              
 
-### 5.4.2 Exponential Distribution
+### Exponential Distribution
 
 ::: presentation-video-link
 [presentation](pdf/050402.pdf){.presentation-link target="_blank"}   
@@ -3998,7 +3998,7 @@ hours or more?
 
 
 
-## 5.5 Exercise
+## Exercise
 
 ::: mainTablePink
 5.1   Calculate the following.

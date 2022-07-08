@@ -1,6 +1,6 @@
 
 
-# Chapter 7. Testing Hypothesis for Single Population Parameter
+# Testing Hypothesis for Single Population Parameter
 
 [book](pdf/book07.pdf){target="_blank"}
 [eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
@@ -35,7 +35,7 @@ error is also introduced.
 
       
 
-## 7.1 Testing Hypothesis for a Population Mean
+## Testing Hypothesis for a Population Mean
 
 ::: presentation-video-link
 [presentation](pdf/0701.pdf){.presentation-link target="_blank"}   
@@ -852,7 +852,7 @@ region
 
       
 
-## 7.2 Testing Hypothesis for a Population Variance
+## Testing Hypothesis for a Population Variance
 
 ::: presentation-video-link
 [presentation](pdf/0702.pdf){.presentation-link target="_blank"}   
@@ -1126,7 +1126,7 @@ of the two sided test with the significance level of α?
 
              
 
-## 7.3 Testing Hypothesis for a Population Proportion
+## Testing Hypothesis for a Population Proportion
 
 ::: presentation-video-link
 [presentation](pdf/0703.pdf){.presentation-link target="_blank"}   
@@ -1318,7 +1318,7 @@ hypothesis you want to test?
 
              
 
-## 7.4 Testing Hypothesis with α and β simultaneously
+## Testing Hypothesis with α and β simultaneously
 
 ::: presentation-video-link
 [presentation](pdf/0704.pdf){.presentation-link target="_blank"}   
@@ -1341,7 +1341,7 @@ size, a testing hypothesis that takes into account both α and β can be
 performed.
 :::
 
-### 7.4.1 Type 2 Error and Power of a Test
+### Type 2 Error and Power of a Test
 
 ::: mainTable
 Consider the following example to find out how to calculate the
@@ -1682,7 +1682,7 @@ approximate the power function.
 </div>
 :::
 
-### 7.4.2 Testing Hypothesis with α and β
+### Testing Hypothesis with α and β
 
 ::: mainTable
 If the sample size is not predetermined and the analyst can determine
@@ -1829,7 +1829,7 @@ Choose one answer and click Submit button
 
 
 
-## 7.5 Exercise
+## Exercise
 
 ::: mainTablePink
 ::: textL30M30

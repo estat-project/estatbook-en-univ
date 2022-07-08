@@ -1,5 +1,5 @@
 
-# Chapter 6. Sampling Distribution and Estimation
+# Sampling Distribution and Estimation
 
 [book](pdf/book06.pdf){target="_blank"}
 [eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
@@ -32,7 +32,7 @@ population mean and population proportion.
 
              
 
-## 6.1 Simple Random Sampling
+## Simple Random Sampling
 
 ::: presentation-video-link
 [presentation](pdf/0601.pdf){.presentation-link target="_blank"}   
@@ -176,7 +176,7 @@ Select ten students randomly using 『eStatU』 without replacement.
 
              
 
-## 6.2 Sampling Distribution of Sample Means and Estimation of the Population Mean
+## Sampling Distribution of Sample Means and Estimation of the Population Mean
 
 ::: presentation-video-link
 [presentation](pdf/060201.pdf){.presentation-link target="_blank"}   
@@ -228,7 +228,7 @@ let\'s first look at the sampling distribution of sample means and find
 out how to estimate the population mean.
 :::
 
-### 6.2.1 Sampling Distribution of Sample Means
+### Sampling Distribution of Sample Means
 
 ::: mainTable
 The following example is to find out the sampling distribution of sample
@@ -559,7 +559,7 @@ population?
 
              
 
-### 6.2.2 Estimation of the Population Mean
+### Estimation of the Population Mean
 
 ::: presentation-video-link
 [presentation](pdf/060202.pdf){.presentation-link target="_blank"}   
@@ -1221,7 +1221,7 @@ $t_{24: 0.05} = 2.064, t_{24: 0.01} = 2.797, t_{25: 0.05} = 2.060, t_{25: 0.01} 
 
              
 
-## 6.3 Sampling Distribution of Sample Variances and Estimation of the Population Variance
+## Sampling Distribution of Sample Variances and Estimation of the Population Variance
 
 ::: presentation-video-link
 [presentation](pdf/060301.pdf){.presentation-link target="_blank"}   
@@ -1236,7 +1236,7 @@ discussed in section 6.3.1 and the estimation of the population variance
 using the sample variance is discussed in section 6.3.2.
 :::
 
-### 6.3.1 Sampling Distribution of Sample Variances
+### Sampling Distribution of Sample Variances
 
 ::: mainTable
 Consider the following example to understand the sampling distribution
@@ -1433,7 +1433,7 @@ distribution with $n-1$ degrees of freedom as follows. $$
 
       
 
-### 6.3.2 Estimation of the Population Variance
+### Estimation of the Population Variance
 
 ::: presentation-video-link
 [presentation](pdf/060302.pdf){.presentation-link target="_blank"}   
@@ -1669,7 +1669,7 @@ the following is an unbiased estimator of the population variance?
 
              
 
-## 6.4 Sampling Distribution of Sample Proportions and Estimation of the Population Proportion
+## Sampling Distribution of Sample Proportions and Estimation of the Population Proportion
 
 ::: presentation-video-link
 [presentation](pdf/060401.pdf){.presentation-link target="_blank"}   
@@ -1684,7 +1684,7 @@ discussed in section 6.4.1 and the estimation of the population
 proportion using the sample proportion is discussed in section 6.4.2.
 :::
 
-### 6.4.1 Sampling Distribution of Sample Proportions
+### Sampling Distribution of Sample Proportions
 
 ::: mainTable
 Consider the sampling distribution of all possible sample proportions by
@@ -1817,7 +1817,7 @@ $\quad \small P(\hat p \gt 0.02) = P( Z \gt \frac{0.02-0.03}{0.00985} ) = P(Z \g
 
              
 
-### 6.4.2 Estimation of the Population Proportion
+### Estimation of the Population Proportion
 
 ::: presentation-video-link
 [presentation](pdf/060402.pdf){.presentation-link target="_blank"}   
@@ -2012,7 +2012,7 @@ interval that support the candidate A?
 
              
 
-## 6.5 Determination of the Sample Size
+## Determination of the Sample Size
 
 ::: presentation-video-link
 [presentation](pdf/0605.pdf){.presentation-link target="_blank"}   
@@ -2030,7 +2030,7 @@ costly, it usually determines the minimum sample size required to
 achieve this precision that would satisfy the researcher.
 :::
 
-### 6.5.1 Determination of the Sample Size to Estimate the Population Mean
+### Determination of the Sample Size to Estimate the Population Mean
 
 ::: mainTable
 The 100(1-α)% confidence interval of a population mean μ is as follows
@@ -2136,7 +2136,7 @@ should be extracted?
 </div>
 :::
 
-### 6.5.2 Determination of the Sample Size to Estimate the Population Proportion
+### Determination of the Sample Size to Estimate the Population Proportion
 
 ::: mainTable
 As explained in section 6.4, the 100(1-α)% confidence interval of a
@@ -2255,7 +2255,7 @@ should be surveyed to keep the maximum allowable error bound within
 
 
 
-## 6.6 Exercise
+## Exercise
 
 ::: mainTablePink
 6.1 There are 70 workers in a factory. Ten persons will be selected by

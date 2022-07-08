@@ -1,6 +1,6 @@
 
 
-# Chapter 11. Testing Hypothesis for Categorical Data
+# Testing Hypothesis for Categorical Data
 
 [book](pdf/book11.pdf){target="_blank"}
 [eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
@@ -26,7 +26,7 @@ contingence table of two categorical data.
 
              
 
-## 11.1 Goodness of Fit Test
+## Goodness of Fit Test
 
 ::: presentation-video-link
 [presentation](pdf/1101.pdf){.presentation-link target="_blank"}   
@@ -45,7 +45,7 @@ distributions (Section 11.1.1) and the goodness of fit test for
 continuous distribution (Section 11.1.2).
 :::
 
-### 11.1.1 Goodness of Fit Test for Categorical Distribution
+### Goodness of Fit Test for Categorical Distribution
 
 ::: mainTable
 Consider the goodness of fit test for a categorical distribution using
@@ -332,7 +332,7 @@ from these data that the known market share is incorrect? Use
 
              
 
-### 11.1.2 Goodness of Fit Test for Continuous Distribution
+### Goodness of Fit Test for Continuous Distribution
 
 ::: presentation-video-link
 [presentation](pdf/110102.pdf){.presentation-link target="_blank"}   
@@ -714,7 +714,7 @@ of fit test?
 
              
 
-## 11.2 Testing Hypothesis for Contingency Table
+## Testing Hypothesis for Contingency Table
 
 ::: presentation-video-link
 [presentation](pdf/1102.pdf){.presentation-link target="_blank"}   
@@ -734,7 +734,7 @@ and homogeneity test according to the sampling method for obtaining the
 data.
 :::
 
-### 11.2.1 Independence Test
+### Independence Test
 
 ::: mainTable
 The independence test of the contingency table is to investigate whether
@@ -1281,7 +1281,7 @@ viewing are related? Check the test result using『eStatU』.
 
              
 
-### 11.2.2 Homogeneity Test
+### Homogeneity Test
 
 ::: presentation-video-link
 [presentation](pdf/110202.pdf){.presentation-link target="_blank"}   
@@ -1523,7 +1523,7 @@ for a contingency table?
 
 
 
-## 11.3 Exercise
+## Exercise
 
 ::: mainTablePink
 ::: textL30M30

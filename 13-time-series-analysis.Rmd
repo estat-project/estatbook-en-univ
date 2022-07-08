@@ -1,6 +1,6 @@
 
 
-# Chapter 13. Time Series Analysis
+# Time Series Analysis
 
 
 
@@ -41,7 +41,7 @@ not be discussed.
 
              
 
-## 13.1 What is Time Series Analysis?
+## What is Time Series Analysis?
 
 ::: mainTable
 **Time series** refers to data recorded according to changes in time. In
@@ -243,7 +243,7 @@ variable factors that appear due to random causes regardless of regular
 movement over time.
 :::
 
-### 13.1.1 Time Series Model
+### Time Series Model
 
 By observing the time series, you can predict how this time series will
 change in the future by building a time series model that fits the
@@ -328,7 +328,7 @@ necessary to establish and compare several models, combine different
 models, or make an effort to determine the final model by combining
 opinions of experts familiar with the time series.
 
-### 13.1.2 Evaluation of Time Series Model
+### Evaluation of Time Series Model
 
 Let the time series be the observed values of the random variables
 $Y_1 , Y_2 , ... , Y_n$ and $\hat Y_1 , \hat Y_2 , ... , \hat Y_n$ be
@@ -359,7 +359,7 @@ the root mean squared error (RMSE) is often used. $$
 
              
 
-## 13.2 Smoothing of Time Series
+## Smoothing of Time Series
 
 ::: mainTable
 Original time series data can be used to make a time series model by
@@ -373,7 +373,7 @@ fluctuations. The centered moving average method and the exponential
 smoothing method are widely used.
 :::
 
-### 13.2.1 Centered Moving Average
+### Centered Moving Average
 
 ::: mainTable
 The time series in \[Table 13.2.1\] is the world crude oil price based
@@ -512,7 +512,7 @@ average or a 12-point central moving average is an average of one year,
 so it is often used to observe data without seasonality.
 :::
 
-### 13.2.2 Exponential Smoothing
+### Exponential Smoothing
 
 ::: mainTable
 3-point moving average can be considered the weighted average of three
@@ -642,7 +642,7 @@ resembles the original data, and the smoothing effect disappears.
 </div>
 :::
 
-### 13.2.3 Filtering by Moving Median
+### Filtering by Moving Median
 
 ::: mainTable
 The N-point **centered moving median** of a time series refers to the
@@ -765,7 +765,7 @@ $MovingMedian_{1988.5}$ and $MovingMedian_{1989.5}$.
 
              
 
-## 13.3 Transformation of Time Series
+## Transformation of Time Series
 
 ::: mainTable
 Time series can be viewed by drawing the raw data directly, but in order
@@ -779,7 +779,7 @@ form suitable for applying the time series model by using logarithmic,
 square root, or Box-Cox transformation.
 :::
 
-### 13.3.1 Percentage Change
+### Percentage Change
 
 ::: mainTable
 ##### A. Percent Change
@@ -1014,7 +1014,7 @@ known, the Pasche index can be said to be the best index because it
 appropriately reflects the price change at that time.
 :::
 
-### 13.3.2 Time Lag and Difference
+### Time Lag and Difference
 
 ##### A. Time Lag
 
@@ -1164,7 +1164,7 @@ time series and it becomes horizontal series.
 </div>
 :::
 
-### 13.3.3 Mathematical Transformation
+### Mathematical Transformation
 
 ::: mainTable
 If the original data of the time series is used as it is, modeling may
@@ -1255,7 +1255,7 @@ decreases with time. The Box-Cox transform is a general transformation.
 
              
 
-## 13.4 Regression Model and Forecasting
+## Regression Model and Forecasting
 
 ::: mainTable
 If there is a trend factor that shows a continuous increase or decrease
@@ -1437,7 +1437,7 @@ model. However, additional validation of the model is required.
 
              
 
-## 13.5 Exponential Smoothing Model and Forecasting
+## Exponential Smoothing Model and Forecasting
 
 ::: mainTable
 When the time series moves in a trend, the future can be predicted well
@@ -1448,7 +1448,7 @@ used. The time series model is explained into two cases where the trend
 is stationary and linear.
 :::
 
-### 13.5.1 Stationary Time Series
+### Stationary Time Series
 
 ::: mainTable
 A time series is called **stationary** if the statistical properties
@@ -1925,7 +1925,7 @@ initial value $S_0$.
 $\qquad \alpha_t \;=\; \frac{1}{t} , \quad until \; \alpha_t \; reaches\; \alpha$
 :::
 
-### 13.5.2 Linear Trend Time Series
+### Linear Trend Time Series
 
 ##### A. Double Moving Average Model
 
@@ -2423,14 +2423,14 @@ Model of CPI
 
              
 
-## 13.6 Seasonal Model and Forecasting
+## Seasonal Model and Forecasting
 
 ::: mainTable
 As a seasonal time series model, a multiplicative model using a central
 moving average and a Holt-Winters model are introduced.
 :::
 
-### 13.6.1 Seasonal Multiplicative Model
+### Seasonal Multiplicative Model
 
 ::: mainTable
 Assume that a time series $Y_t$ with a seasonal period $L$ can be
@@ -2613,7 +2613,7 @@ linear regression line for this non-seasonal data is as follows
 </div>
 :::
 
-### 13.6.2 Holt-Winters Model
+### Holt-Winters Model
 
 ::: mainTable
 Assume that a time series with a seasonal period $L$ is observed over
@@ -2770,7 +2770,7 @@ is calculated as follows: $$
 
       
 
-## 13.7 Exercise
+## Exercise
 
 For the next exercise (13.1 -- 13.4), draw graph of the time series
 data, Apply an appropriate smoothing method and transformation, Find an

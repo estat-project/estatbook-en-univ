@@ -1,5 +1,5 @@
 
-# Chapter 3. Visualization of Quantitative Data
+# Visualization of Quantitative Data
 
 [book](pdf/book03.pdf){target="_blank"}
 [eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
@@ -25,7 +25,7 @@ using the scatter plot of 『eStat』.
 
       
 
-## 3.1 Visualization of Quantitative Data
+## Visualization of Quantitative Data
 
 ::: presentation-video-link
 [presentation](pdf/0301.pdf){.presentation-link target="_blank"}   
@@ -133,7 +133,7 @@ an extension of the dot graph.
 
              
 
-## 3.2 Visualization of Single Quantitative Variable
+## Visualization of Single Quantitative Variable
 
 ::: presentation-video-link
 [presentation](pdf/0302.pdf){.presentation-link target="_blank"}   
@@ -144,7 +144,7 @@ In case of the quantitative data, raw data are directly used to
 visualize the data. Visualization of the quantitative data is discussed
 by separating cases of the data without group and with group.
 
-### 3.2.1 Visualization of Quantitative Data without Group
+### Visualization of Quantitative Data without Group
 
 ::: mainTable
 If the quantitative data are the sample data from a population,
@@ -372,7 +372,7 @@ Analyze the graphs.
 </div>
 :::
 
-### 3.2.2 Visualization of Quantitative Data with Group
+### Visualization of Quantitative Data with Group
 
 ::: mainTable
 If you can visualize the quantitative data by several groups using the
@@ -714,7 +714,7 @@ the insect counts by the types of sprays.
 
              
 
-## 3.3 Visualization of Two Quantitative Varaibles
+## Visualization of Two Quantitative Varaibles
 
 ::: presentation-video-link
 [presentation](pdf/0303.pdf){.presentation-link target="_blank"}   
@@ -952,7 +952,7 @@ the number of cylinders.
 
 
 
-## 3.4 Exercise
+## Exercise
 
 ::: mainTablePink
 ### Multiple Choice Exercise

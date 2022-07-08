@@ -1,5 +1,5 @@
 
-# Chapter 4. Data Summary Using Tables and Measures
+# Data Summary Using Tables and Measures
 
 [book](pdf/book04.pdf){target="_blank"}
 [eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
@@ -30,7 +30,7 @@ data and a box plot.
 
              
 
-## 4.1 Frequency Table for Single Variable
+## Frequency Table for Single Variable
 
 ::: presentation-video-link
 [presentation](pdf/0401.pdf){.presentation-link target="_blank"}   
@@ -74,7 +74,7 @@ of data whether data follow a particular distribution as described in
 Chapter 11.
 :::
 
-### 4.1.1 Frequency Table for Categorical Variable
+### Frequency Table for Categorical Variable
 
 ::: mainTableGrey
 **Example 4.1.1** **(Gender Raw Data)**
@@ -188,7 +188,7 @@ By using 『eStat』 , find a frequency table of the vegetable preference.
 </div>
 :::
 
-### 4.1.2 Frequency Table for Quantitative Variable
+### Frequency Table for Quantitative Variable
 
 ::: mainTable
 The quantitative data can have too many possible values and a frequency
@@ -335,7 +335,7 @@ table using 『eStat』.
 
              
 
-## 4.2 Contingency Table for Two Variables
+## Contingency Table for Two Variables
 
 ::: presentation-video-link
 [presentation](pdf/0402.pdf){.presentation-link target="_blank"}   
@@ -373,7 +373,7 @@ qualitative data by using intervals, and then a contingency table for
 these qualitative data can be created.
 :::
 
-### 4.2.1 Contingency Table for Two Categorical Variables
+### Contingency Table for Two Categorical Variables
 
 ::: mainTable
 Let us discuss how to create a contingency table from the raw data of
@@ -491,7 +491,7 @@ Create a contingency table of the favorite vegetable by gender.
 </div>
 :::
 
-### 4.2.2 Contingency Table for Two Quantitative Variables
+### Contingency Table for Two Quantitative Variables
 
 ::: mainTable
 In order to create a contingency table for two quantitative variables,
@@ -625,7 +625,7 @@ Create a contingency table of oral cleanliness by brushing method.
 
              
 
-## 4.3 Summary Measures for Quantitative Variable
+## Summary Measures for Quantitative Variable
 
 ::: presentation-video-link
 [presentation](pdf/040301.pdf){.presentation-link target="_blank"}   
@@ -637,7 +637,7 @@ The quantitative data can be summarized by using measures of central
 tendancy in section 4.3.1 and measures of dispersion in 4.3.2.
 :::
 
-### 4.3.1 Measures of Central Tendency
+### Measures of Central Tendency
 
 ::: mainTable
 Average, median and mode are the most frequently used measures of
@@ -1130,7 +1130,7 @@ weights?
 
              
 
-### 4.3.2 Measures of Dispersion
+### Measures of Dispersion
 
 ::: presentation-video-link
 [presentation](pdf/040302.pdf){.presentation-link target="_blank"}   
@@ -1669,7 +1669,7 @@ which has different units?
 
 
 
-## 4.4 Exercise
+## Exercise
 
 ::: mainTablePink
 4.1 Mid term scores of a Statistics course are 70, 60, 80, 90, 90, 70.

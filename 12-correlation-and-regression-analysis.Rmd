@@ -1,5 +1,5 @@
 
-# Chapter 12. Correlation and Regression Analysis
+# Correlation and Regression Analysis
 
 
 [book](pdf/book12.pdf){target="_blank"}
@@ -26,7 +26,7 @@ regression analysis and multiple regression analysis are discussed.
 
              
 
-## 12.1 Correlation Analysis
+## Correlation Analysis
 
 ::: presentation-video-link
 [presentation](pdf/1201.pdf){.presentation-link target="_blank"}   
@@ -838,7 +838,7 @@ correlation coefficient $r$?
 
              
 
-## 12.2 Simple Linear Regression Analysis
+## Simple Linear Regression Analysis
 
 ::: presentation-video-link
 [presentation](pdf/1202.pdf){.presentation-link target="_blank"}   
@@ -889,7 +889,7 @@ number of independent variables are two or more, it is called a
 **multiple linear regression**.
 :::
 
-### 12.2.1 Simple Linear Regression Model
+### Simple Linear Regression Model
 
 ::: mainTable
 Simple linear regression analysis has only one independent variable and
@@ -938,7 +938,7 @@ they are used to investigate the validity of these assumptions. (Refer
 to Section 12.2.6 for residual analysis.)
 :::
 
-### 12.2.2 Estimation of Regression Coefficient
+### Estimation of Regression Coefficient
 
 ::: mainTable
 When sample data, $(X_1 , Y_1 ) , (X_2 , Y_2 ) , ... , (X_n , Y_n )$,
@@ -1051,7 +1051,7 @@ the mid-term score is an independent variable. Predict the final exam
 score when you have a mid-term score of 80.
 :::
 
-### 12.2.3 Goodness of Fit for Regression Line
+### Goodness of Fit for Regression Line
 
 ::: mainTable
 After estimating the regression line, it should be investigated how
@@ -1364,7 +1364,7 @@ mid-term and final exam scores, calculate the value of the residual
 standard error and coefficient of determination.
 :::
 
-### 12.2.4 Analysis of Variance for Regression
+### Analysis of Variance for Regression
 
 ::: mainTable
 If we divide three sums of squares obtained in the above example by its
@@ -1459,7 +1459,7 @@ mid-term and final exam scores, prepare an ANOVA table and test it using
 the 5% significance level.
 :::
 
-### 12.2.5 Inference for Regression
+### Inference for Regression
 
 ::: mainTable
 One assumption of the error term $\epsilon$ in the population regression
@@ -1695,7 +1695,7 @@ mid-term and final exam scores, make inferences about each parameter
 using 『eStat』 and draw the confidence band.
 :::
 
-### 12.2.6 Residual Analysis
+### Residual Analysis
 
 ::: mainTable
 The inference for each regression parameter in the previous section is
@@ -1993,7 +1993,7 @@ what is the value of the sample correlation coefficient $r$?
 
              
 
-## 12.3 Multiple Linear Regression Analysis
+## Multiple Linear Regression Analysis
 
 ::: presentation-video-link
 [presentation](pdf/1203.pdf){.presentation-link target="_blank"}   
@@ -2018,7 +2018,7 @@ analysis differ only in the number of independent variables involved,
 and there is no difference in the method of analysis.
 :::
 
-### 12.3.1 Multiple Linear Regression Model
+### Multiple Linear Regression Model
 
 ::: mainTable
 In the multiple linear regression model, it is assumed that the
@@ -2220,7 +2220,7 @@ follows: $$
       $$
 :::
 
-### 12.3.2 Estimation of Regression Coefficient
+### Estimation of Regression Coefficient
 
 ::: mainTable
 In a multiple regression analysis, it is necessary to estimate the $k+1$
@@ -2257,7 +2257,7 @@ defined as follows: $$
       $$
 :::
 
-### 12.3.3 Goodness of Fit for Regression and Analysis of Variance
+### Goodness of Fit for Regression and Analysis of Variance
 
 ::: mainTable
 In order to investigate the validity of the estimated regression line in
@@ -2319,7 +2319,7 @@ to test. That is, if the $p$-value is less than the significance level,
 the null hypothesis is rejected.)
 :::
 
-### 12.3.4 Inference for Multiple Linear Regression
+### Inference for Multiple Linear Regression
 
 ::: mainTable
 Parameters that are of interest in multiple linear regression, as in the
@@ -2453,7 +2453,7 @@ regression coefficients.
 
 
 
-## 12.4 Exercise
+## Exercise
 
 ::: mainTablePink
 ::: textL30M30

@@ -1,5 +1,5 @@
 
-# Chapter 8. Testing Hypothesis for Two Population Parameters
+# Testing Hypothesis for Two Population Parameters
 
 [book](pdf/book08.pdf){target="_blank"}
 [eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
@@ -30,7 +30,7 @@ proportions when samples are large enough.
 
              
 
-## 8.1 Testing Hypothesis for Two Population Means
+## Testing Hypothesis for Two Population Means
 
 ::: presentation-video-link
 [presentation](pdf/080101.pdf){.presentation-link target="_blank"}   
@@ -59,7 +59,7 @@ independently from each population or not (referred to as paired
 samples).
 :::
 
-### 8.1.1 Two Independent Samples
+### Two Independent Samples
 
 ::: mainTable
 Generally, testing hypothesis for two population means can be divided
@@ -520,7 +520,7 @@ means are equal or not when sample sizes are small?
 
              
 
-### 8.1.2 Paired Sample
+### Paired Sample
 
 ::: presentation-video-link
 [presentation](pdf/080102.pdf){.presentation-link target="_blank"}   
@@ -825,7 +825,7 @@ What is the name of this kind of data?
 
              
 
-## 8.2 Testing Hypothesis for Two Population Variances
+## Testing Hypothesis for Two Population Variances
 
 ::: presentation-video-link
 [presentation](pdf/0802.pdf){.presentation-link target="_blank"}   
@@ -1092,7 +1092,7 @@ variances are equal or not when populations are normally distributed?
 
              
 
-## 8.3 Testing Hypothesis for Two Population Proportions
+## Testing Hypothesis for Two Population Proportions
 
 ::: presentation-video-link
 [presentation](pdf/0803.pdf){.presentation-link target="_blank"}   
@@ -1368,7 +1368,7 @@ two groups?
 
 
 
-## 8.4 Exercise
+## Exercise
 
 ::: mainTablePink
 ::: textL30M30

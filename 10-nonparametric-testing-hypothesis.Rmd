@@ -1,6 +1,6 @@
 
 
-# Chapter 10. Nonparametric Testing Hypothesis
+# Nonparametric Testing Hypothesis
 
 [book](pdf/book10.pdf){target="_blank"}
 [eStat YouTube Channel](https://www.youtube.com/channel/UCw2Rzl9A4rXMcT8ue8GH3IA){target="_blank"}
@@ -35,7 +35,7 @@ several populations such as the Kruskal-Wallis Test and Friedman Test.
 
              
 
-## 10.1 Nonparametric Test for Location of Single Population
+## Nonparametric Test for Location of Single Population
 
 ::: presentation-video-link
 [presentation](pdf/1001.pdf){.presentation-link target="_blank"}   
@@ -86,7 +86,7 @@ hypothesis tests. Those interested in the nonparametric estimation
 should refer to the relevant literature.
 :::
 
-### 10.1.1 Sign Test
+### Sign Test
 
 ::: mainTable
 Let\'s take a look at the sign test with the following examples.
@@ -459,7 +459,7 @@ Table 10.1.2 Decision rule of the sign test (large sample case)
 
              
 
-### 10.1.2 Wilcoxon Signed Rank Sum Test
+### Wilcoxon Signed Rank Sum Test
 
 ::: presentation-video-link
 [presentation](pdf/100102.pdf){.presentation-link target="_blank"}   
@@ -967,7 +967,7 @@ nonparametric tests?
 
              
 
-## 10.2 Nonparametric Test for Comparing Locations of Two Populations
+## Nonparametric Test for Comparing Locations of Two Populations
 
 ::: presentation-video-link
 [presentation](pdf/1002.pdf){.presentation-link target="_blank"}   
@@ -997,7 +997,7 @@ location parameters of two populations for the samples drawn
 independently from each population and for the samples drawn as paired.
 :::
 
-### 10.2.1 Independent Samples: Wilcoxon Rank Sum Test
+### Independent Samples: Wilcoxon Rank Sum Test
 
 ::: mainTable
 Let\'s take a look at the Wilcoxon rank sum test with the following
@@ -1505,7 +1505,7 @@ tie, size of $j^{th}$ tie group is 1 and $t_j$ = 1.
 
              
 
-### 10.2.2 Paired Samples: Wilcoxon Signed Rank Sum Test
+### Paired Samples: Wilcoxon Signed Rank Sum Test
 
 ::: presentation-video-link
 [presentation](pdf/100202.pdf){.presentation-link target="_blank"}   
@@ -1974,7 +1974,7 @@ of two populations using a nonparametric test?
 
              
 
-## 10.3 Nonparametric Test for Comparing Locations of Several Populations
+## Nonparametric Test for Comparing Locations of Several Populations
 
 ::: presentation-video-link
 [presentation](pdf/1003.pdf){.presentation-link target="_blank"}   
@@ -2003,7 +2003,7 @@ appropriate method if data were selected from a population that did not
 follow a normal distribution.
 :::
 
-### 10.3.1 Completely Randomized Design: Kruskal-Wallis Test
+### Completely Randomized Design: Kruskal-Wallis Test
 
 ::: mainTable
 The Kruskal--Wallis test extends the Wilcoxon rank sum test for two
@@ -2636,7 +2636,7 @@ Method C: 94 94 88 87 89
 
              
 
-### 10.3.2 Randomized block design: Friedman Test
+### Randomized block design: Friedman Test
 
 ::: presentation-video-link
 [presentation](pdf/100302.pdf){.presentation-link target="_blank"}   
@@ -3139,7 +3139,7 @@ Kruskal-Wallis test?
 
 
 
-## 10.4 Exercise
+## Exercise
 
 ::: mainTablePink
 ::: textL30M30
