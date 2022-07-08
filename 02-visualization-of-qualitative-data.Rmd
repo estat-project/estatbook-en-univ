@@ -512,7 +512,7 @@ the second and Latvia is the shortest.
 Draw a bar graph using the following data in 『eStat』 system and
 analyze the graph.
 
-\[Ex\] ⇨ eBook ⇨ PR020201_OECD_AlcoholExpenditure_2013.csv
+ Ex  ⇨ eBook ⇨ PR020201_OECD_AlcoholExpenditure_2013.csv
 
 </div>
 
@@ -537,7 +537,7 @@ analyze the graph.
 Draw a bar graph using the following data in 『eStat』 system and
 analyze the graph.
 
-\[Ex\] ⇨ eBook ⇨ PR020202_WORLD_ObesityRatio_Age15over\_\_2017
+ Ex  ⇨ eBook ⇨ PR020202_WORLD_ObesityRatio_Age15over\_\_2017
 
 </div>
 
@@ -567,7 +567,7 @@ Table 2.2.2 Summary data of two classes
 A file of the summary data in Table 2.2.2 is saved at the following
 location of 『eStat』 system.
 
-\[Ex\] ⇨ eBook ⇨ EX020203_Summary_StudentByGender
+ Ex  ⇨ eBook ⇨ EX020203_Summary_StudentByGender
 
 Using this data, draw a bar graph, a pie chart and a band graph. Use
 『eStat』.
@@ -790,7 +790,7 @@ The data of Table 2.2.3 can be loaded from 『eStat』 using the following
 address.
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX020204_Summary_PopulationByGender.csv.
+ Ex  ⇨ eBook ⇨ EX020204_Summary_PopulationByGender.csv.
 :::
 
 </div>
@@ -891,7 +891,7 @@ are cross-classified by population group such as Rural/Male,
 Rural/Female, Urban/Male and Urban/Female. This data are saved at the
 following location of 『eStat』system.
 
-\[Ex\] ⇨ eBook ⇨ PR020203_Rdatasets_VADeaths.csv
+ Ex  ⇨ eBook ⇨ PR020203_Rdatasets_VADeaths.csv
 
 Draw appropriate graphs to analyze characteristics of the data.
 
@@ -921,7 +921,7 @@ points are connected with a line.
 In 2017, import and export data of OECD countries are stored at the
 following location of 『eStat』 system.
 
-\[Ex\] ⇨ eBook ⇨ EX020205_OECD_ExportImport_2017.csv.
+ Ex  ⇨ eBook ⇨ EX020205_OECD_ExportImport_2017.csv.
 
 Draw a line graph to find out characteristics of export and import by
 country.
@@ -986,7 +986,7 @@ surplus in trade and USA has lots of loss.
 National incomes of OECD countries in 2000, 2005, 2010 and 2015 are
 saved at the following location of 『eStat』 system.
 
-\[Ex\] ⇨ OECD ⇨ PR020204_OECD_NationalIncome_2017.csv.
+ Ex  ⇨ OECD ⇨ PR020204_OECD_NationalIncome_2017.csv.
 
 Draw a line graph of the national incomes for each country.
 
@@ -1013,7 +1013,7 @@ Draw a line graph of the national incomes for each country.
 Average temperatures of each season were observed from 1973 to 2016 in
 Korea and data are saved at the following location of 『eStat』 system.
 
-\[Ex\] ⇨ eBook ⇨ PR020205_Summary_TemperatureBySeason.csv
+ Ex  ⇨ eBook ⇨ PR020205_Summary_TemperatureBySeason.csv
 
 Draw a line graph of the temperatures by season and observe their
 characteristics.
@@ -1086,7 +1086,7 @@ Table 2.3.1 Gender Survey (1:Male, 2:Female)
 Data of Table 2.3.1 are saved at the following address in 『eStat』
 system.
 
-\[Ex\] ⇨ eBook ⇨ EX020301_Raw_Gender.csv
+ Ex  ⇨ eBook ⇨ EX020301_Raw_Gender.csv
 
 Use 『eStat』 to draw a bar graph, a pie chart, and a band graph to find
 out characteristics of the raw data.
@@ -1094,7 +1094,7 @@ out characteristics of the raw data.
 **Answer**
 
 Enter the gender data of Table 2.3.1 on the sheet of 『eStat』 system or
-load the file from \[Ex\] ⇨ eBook ⇨ EX020301_Raw_Gender.csv.
+load the file from  Ex  ⇨ eBook ⇨ EX020301_Raw_Gender.csv.
 
 If you enter the data, give a variable name \'Gender\' using \[Edit
 Var\] button as shown in \<Figure 2.3.1\> and provide value labels to
@@ -1190,7 +1190,7 @@ In an elementary school, gender (1: male, 2: female) and math preference
 (1: good, 2: ordinary, 3: no) of students were surveyed and saved at the
 following location of 『eStat』 system.
 
-\[Ex\] ⇨ eBook ⇨ PR020301_Raw_MathPreferenceByGender.csv.
+ Ex  ⇨ eBook ⇨ PR020301_Raw_MathPreferenceByGender.csv.
 
 Draw a bar graph, a pie chart, a band graph of the math preference.
 
@@ -1211,7 +1211,7 @@ Compare characteristics of marital status by gender (male and female)
 using a bar graph, a pie chart, a band graph, and a line graph. Data are
 saved at the following location of 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ EX020302_Raw_MaritalByGender.csv
+ Ex  ⇨ eBook ⇨ EX020302_Raw_MaritalByGender.csv
 
 Table 2.3.2 Survey of gender and Marital status
 
@@ -1397,7 +1397,7 @@ n an elementary school, gender (1: male, 2: female) and math preference
 following location of 『eStat』 system.
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR020302_Raw_MathPreferenceByGender.csv.
+ Ex  ⇨ eBook ⇨ PR020302_Raw_MathPreferenceByGender.csv.
 :::
 
 Draw a bar graph, a pie chart and a band graph of the math preference by

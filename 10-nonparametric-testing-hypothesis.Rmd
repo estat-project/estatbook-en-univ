@@ -103,7 +103,7 @@ bag as the weight marked?
 :::
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX100101_CookieWeight.csv
+ Ex  ⇨ eBook ⇨ EX100101_CookieWeight.csv
 :::
 
 ::: textL20M20
@@ -358,7 +358,7 @@ mean.
 :::
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR100101_CompetencyScore.csv
+ Ex  ⇨ eBook ⇨ PR100101_CompetencyScore.csv
 :::
 
 ::: textL20M20
@@ -492,7 +492,7 @@ is 200g or not with the significance level of 5%
 :::
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX100101_CookieWeight.csv
+ Ex  ⇨ eBook ⇨ EX100101_CookieWeight.csv
 :::
 
 Check the result of the signed rank test using『eStatU』.
@@ -771,7 +771,7 @@ mean.
 :::
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR100101_CompetencyScore.csv
+ Ex  ⇨ eBook ⇨ PR100101_CompetencyScore.csv
 :::
 
 ::: textL20M20
@@ -1021,7 +1021,7 @@ Department of Management 57 85 90 83 87 71
 :::
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX100201_ScoreByDepartment.csv
+ Ex  ⇨ eBook ⇨ EX100201_ScoreByDepartment.csv
 :::
 
 ::: textL20M20
@@ -1384,7 +1384,7 @@ Method B: 52 54 58 78 65 61 60 72
 :::
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR100201_ScoreByMethod.csv
+ Ex  ⇨ eBook ⇨ PR100201_ScoreByMethod.csv
 :::
 
 ::: textL20M20
@@ -1566,7 +1566,7 @@ recorded.
 :::
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX100202_AgeOfCouple.csv
+ Ex  ⇨ eBook ⇨ EX100202_AgeOfCouple.csv
 :::
 
 ::: textL20M20
@@ -1915,7 +1915,7 @@ Difference\
 0.9
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR100202_DifferenceOfMileage.csv
+ Ex  ⇨ eBook ⇨ PR100202_DifferenceOfMileage.csv
 :::
 
 Apply a nonparametric test to check whether the additive increase fuel
@@ -2029,7 +2029,7 @@ Company C 71 72 70
 :::
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX100301_JobSatisfaction.csv
+ Ex  ⇨ eBook ⇨ EX100301_JobSatisfaction.csv
 :::
 
 ::: textL20M20
@@ -2620,7 +2620,7 @@ Method C: 94 94 88 87 89
 :::
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR100301_ScoreByMixingMethod.csv
+ Ex  ⇨ eBook ⇨ PR100301_ScoreByMixingMethod.csv
 :::
 
 </div>
@@ -2681,7 +2681,7 @@ Table 10.3.7 Fuel mileage of the three types of cars
   Driver 5   24.5    21.0    23.8
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX090201_GasMileage.csv
+ Ex  ⇨ eBook ⇨ EX090201_GasMileage.csv
 :::
 
 ::: textL20M20
@@ -3065,7 +3065,7 @@ Table 10.3.8 Ranking in each of the block
   Wheat Type D   58       58       55
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR100302_WheatAreaYield.csv
+ Ex  ⇨ eBook ⇨ PR100302_WheatAreaYield.csv
 :::
 
 </div>

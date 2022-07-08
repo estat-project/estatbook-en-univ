@@ -363,7 +363,7 @@ normally distributed at the significance level of 5%.
 :::
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX110102_AgeOfLibraryVisitor.csv
+ Ex  ⇨ eBook ⇨ EX110102_AgeOfLibraryVisitor.csv
 :::
 
 **Answer**
@@ -653,7 +653,7 @@ Data of 30 otter lengths can be found at the following location
 of『eStat』.
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR110102_OtterLength.csv
+ Ex  ⇨ eBook ⇨ PR110102_OtterLength.csv
 :::
 
 Test the hypothesis that the population is normally distributed at the
@@ -759,7 +759,7 @@ Table 11.2.1 Wearing glasses by gender
   Total   60             40           100
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX110201_GlassesByGender.csv.
+ Ex  ⇨ eBook ⇨ EX110201_GlassesByGender.csv.
 :::
 
 ::: textL20M20
@@ -1080,7 +1080,7 @@ Table 11.2.6 Survey for preference of beverage by region
   Total                162   188   150   500
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX110202_BeverageByRegion.csv.
+ Ex  ⇨ eBook ⇨ EX110202_BeverageByRegion.csv.
 :::
 
 ::: textL20M20
@@ -1264,7 +1264,7 @@ viewing are related? Check the test result using『eStatU』.
   Total                71     29    100
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX110201_TV_Reading.csv.
+ Ex  ⇨ eBook ⇨ EX110201_TV_Reading.csv.
 :::
 
 </div>

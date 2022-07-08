@@ -100,7 +100,7 @@ Table 4.1.1 Gender raw data
   1
   2
 
-\[Ex\] ⇨ eBook ⇨ EX040101_Categorical_Gender.csv.
+ Ex  ⇨ eBook ⇨ EX040101_Categorical_Gender.csv.
 
 **Answer**
 
@@ -179,7 +179,7 @@ preference(1: lettuce, 2: spinach, 3: pumpkin, 4: eggplant) of an
 elementary school class can be found at the following location of
 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ PR040101_Categorical_VegetablePrefByGender.csv.
+ Ex  ⇨ eBook ⇨ PR040101_Categorical_VegetablePrefByGender.csv.
 
 By using 『eStat』 , find a frequency table of the vegetable preference.
 
@@ -216,7 +216,7 @@ $a$\'to less than (\<) $b$ ' which means a one-sided closed interval
 Data of 30 otter lengths can be found at the following location of
 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ EX040120_Continuous_OtterLength.csv.
+ Ex  ⇨ eBook ⇨ EX040120_Continuous_OtterLength.csv.
 
 Draw a histogram and frequency table of the otter lengths by using
 『eStat』.
@@ -318,7 +318,7 @@ table using 『eStat』.
 :::
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR040102_Continuous_LibraryVisitorAge.csv.
+ Ex  ⇨ eBook ⇨ PR040102_Continuous_LibraryVisitorAge.csv.
 :::
 
 </div>
@@ -402,7 +402,7 @@ Table 4.2.1 Survey data on gender and marital status
   1        3
   2        1
 
-\[Ex\] ⇨ eBook ⇨ EX040201_Categorical_MaritalByGender.csv.
+ Ex  ⇨ eBook ⇨ EX040201_Categorical_MaritalByGender.csv.
 
 **Answer**
 
@@ -481,7 +481,7 @@ eggplant) was conducted. The survey data can be found at the following
 location of 『eStat』.
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR040201_Categorical_VegetablePrefByGender.csv.
+ Ex  ⇨ eBook ⇨ PR040201_Categorical_VegetablePrefByGender.csv.
 :::
 
 Create a contingency table of the favorite vegetable by gender.
@@ -510,7 +510,7 @@ by using 『eStat』. Let\'s take a look at the following example.
 In a middle school, the age and gender of all teachers are surveyed. The
 data are saved at the following location of 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ EX040202 Continuous_TeacherAgeByGender.csv.
+ Ex  ⇨ eBook ⇨ EX040202 Continuous_TeacherAgeByGender.csv.
 
 By using the histogram module of 『eStat』 , create a contingency table
 of the age by gender.
@@ -607,7 +607,7 @@ Oral cleanliness scores according to the brushing method (1:basic
 method, 2: rotation method) are examined and stored at the following
 location of 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ PR040202_Continuous_ToothCleanByBrushMethod.csv.
+ Ex  ⇨ eBook ⇨ PR040202_Continuous_ToothCleanByBrushMethod.csv.
 
 Create a contingency table of oral cleanliness by brushing method.
 
@@ -725,7 +725,7 @@ randomly as follows.
 :::
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX040301_Continuous_QuizScore.csv.
+ Ex  ⇨ eBook ⇨ EX040301_Continuous_QuizScore.csv.
 :::
 
 Calculate the mean and median of this data and compare the result with
@@ -839,7 +839,7 @@ The lengths of 30 otters are measured (in cm) and the data are saved at
 the following location of 『eStat』.
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR040301_Continuous_OtterLength.csv
+ Ex  ⇨ eBook ⇨ PR040301_Continuous_OtterLength.csv
 :::
 
 ::: textL20M20
@@ -1466,7 +1466,7 @@ dot plot and the box plot appear as in \<Figure 4.3.8\>.
 In a middle school, ages of all teachers with their gender were surveyed
 and the data can be found at the following location of 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ EX040310Continous_TeacherAgeByGender.csv
+ Ex  ⇨ eBook ⇨ EX040310Continous_TeacherAgeByGender.csv
 
 ::: textL20M20
 1\) Draw a box plot of the age using 『eStat』 and examine a median, a
@@ -1586,7 +1586,7 @@ of vitamin C (0.5, 1, and 2 mg/day) by one of two delivery methods,
 orange juice or ascorbic acid (a form of vitamin C and coded as VC).
 Data can be found at the following location of 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ PR040302_Rdatasets_ToothGrowth.csv
+ Ex  ⇨ eBook ⇨ PR040302_Rdatasets_ToothGrowth.csv
 
 Data format:
 

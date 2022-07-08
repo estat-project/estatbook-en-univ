@@ -67,7 +67,7 @@ Table 12.1.1 Advertising costs and sales (unit: 1 million USD)
   10        12              60
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX120101_SalesByAdvertise.csv.
+ Ex  ⇨ eBook ⇨ EX120101_SalesByAdvertise.csv.
 :::
 
 **Answer**
@@ -372,7 +372,7 @@ follows:
   10   68           60
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR120101_MidtermFinal.csv.
+ Ex  ⇨ eBook ⇨ PR120101_MidtermFinal.csv.
 :::
 
 ::: textL20M20
@@ -409,7 +409,7 @@ coefficient matrix using four variables of the iris data saved in the
 following location of 『eStat』.
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX120104_Iris.csv
+ Ex  ⇨ eBook ⇨ EX120104_Iris.csv
 :::
 
 The variables are Sepal.Length, Sepal.Width, Petal.Length, and
@@ -532,7 +532,7 @@ certain intensity.
   -----------------------------------------------------------------------
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR120102_SmokingObesityExercis.csv.
+ Ex  ⇨ eBook ⇨ PR120102_SmokingObesityExercis.csv.
 :::
 
 </div>
@@ -2069,7 +2069,7 @@ Table 12.3.1 Diameter, height and volume of tree
   40.6             21.94         1.084
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX120301_TreeVolume.csv.
+ Ex  ⇨ eBook ⇨ EX120301_TreeVolume.csv.
 :::
 
 **Answer**
@@ -2077,7 +2077,7 @@ Table 12.3.1 Diameter, height and volume of tree
 Load the data saved at the following location of 『eStat』.
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX120301_TreeVolume.csv
+ Ex  ⇨ eBook ⇨ EX120301_TreeVolume.csv
 :::
 
 In the variable selection box which appears by selecting the regression
@@ -2190,7 +2190,7 @@ matrix of this data and consider a regression model for this problem.
   -----------------------------------------------------------------------
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR120301_SmokingObesityExercis.csv.
+ Ex  ⇨ eBook ⇨ PR120301_SmokingObesityExercis.csv.
 :::
 
 </div>

@@ -188,7 +188,7 @@ Enter all 30 data into V1 column of the sheet in 『eStat』 system and
 specify the variable name of V1 as 'OtterLength'. This data can also be
 found at the following location
 
-\[Ex\] ⇨ eBook ⇨ EX030201_Continuous_OtterLength.csv
+ Ex  ⇨ eBook ⇨ EX030201_Continuous_OtterLength.csv
 
 Click on the dot graph icon
 ![](Icon/eStat_icon13_dot.png){.imgIcon} and click the variable
@@ -309,7 +309,7 @@ a histogram, a stem and leaf plot. Analyze the graphs.
 (unit km, Seoul City information system, 2016)
 :::
 
-Saved at \[Ex\] ⇨ eBook ⇨ PR030201_Continuous_BikeRoad.csv
+Saved at  Ex  ⇨ eBook ⇨ PR030201_Continuous_BikeRoad.csv
 
 </div>
 
@@ -334,7 +334,7 @@ The lengths (in miles) of 141 major rivers in North America compiled by
 the US ecological Survey are saved at the following location of
 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ PR030202_Rdatasets_rivers.csv
+ Ex  ⇨ eBook ⇨ PR030202_Rdatasets_rivers.csv
 
 Use 『eStat』 to draw a dot graph, a histogram, a stem and leaf plot.
 Analyze the graphs.
@@ -362,7 +362,7 @@ The average amount of precipitation (rainfall) in inches for each of 70
 United States (and Puerto Rico) cities are saved at the following
 location of 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ PR030203_Rdatasets_Precip.csv
+ Ex  ⇨ eBook ⇨ PR030203_Rdatasets_Precip.csv
 
 Use 『eStat』 to draw a dot graph, a histogram, a stem and leaf plot.
 Analyze the graphs.
@@ -387,7 +387,7 @@ analysis for testing hypothesis in Chapter 8 and Chapter 9.
 In a middle school, the age and gender of all teachers are surveyed. The
 data are saved at the following location of 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ EX030202 Continuous_TeacherAgeByGender.csv.
+ Ex  ⇨ eBook ⇨ EX030202 Continuous_TeacherAgeByGender.csv.
 
 Using this data, draw a dot graph, a histogram, a stem and leaf plot of
 the age by gender.
@@ -408,7 +408,7 @@ the age by gender.
 
 Select the file from 『eStat』 by clicking
 
-\[Ex\] ⇨ eBook ⇨ EX030202 Continuous_TeacherAgeByGender.csv.
+ Ex  ⇨ eBook ⇨ EX030202 Continuous_TeacherAgeByGender.csv.
 
 or scan the QR.
 
@@ -511,7 +511,7 @@ The calorie data of the hot dogs made by three ingredients (1: beef, 2:
 pork, 3: chicken) are surveyed and saved at the following location of
 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ EX030203_Continuous_CalorieByHotdog.csv.
+ Ex  ⇨ eBook ⇨ EX030203_Continuous_CalorieByHotdog.csv.
 
 Using 『eStat』 , compare the calories of the three hotdog types using a
 dot graph, a histogram and, a stem and leaf plot.
@@ -532,7 +532,7 @@ dot graph, a histogram and, a stem and leaf plot.
 
 Retrieve the file from 『eStat』 by clicking
 
-\[Ex\] ⇨ eBook ⇨ EX030203_Continuous_CalorieByHotdog.csv.
+ Ex  ⇨ eBook ⇨ EX030203_Continuous_CalorieByHotdog.csv.
 
 or scan the QR on the left.
 
@@ -635,7 +635,7 @@ Oral cleanliness scores according to the brushing method (1:basic
 method, 2: rotation method) are examined and stored at the following
 location of 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ PR030204_Continuous_ToothCleanByBrushMethod.csv.
+ Ex  ⇨ eBook ⇨ PR030204_Continuous_ToothCleanByBrushMethod.csv.
 
 Using 『eStat』 , draw a dot graph, a histogram, a stem and leaf plot of
 the oral cleanliness by the brushing method.
@@ -665,7 +665,7 @@ different treatment conditions (leveled 'trt1' and 'trt2'). The weights
 data with 30 observations on each of control and two treatments ('crtl',
 'trt1', 'trt2') are saved at the following location of 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ PR030205_Rdatasets_PlantGrowth.csv
+ Ex  ⇨ eBook ⇨ PR030205_Rdatasets_PlantGrowth.csv
 
 Use 『eStat』 to draw a dot graph, a histogram, a stem and leaf plot of
 the weights by three groups.
@@ -695,7 +695,7 @@ insect count and sprays (A, B, C, D, E, F), are saved at the following
 location of 『eStat』. (Source: Beall, G., (1942) The Transformation of
 data from entomological field experiments, Biometrika, 29, 243--262.)
 
-\[Ex\] ⇨ eBook ⇨ PR030206_Rdatasets_InsectSprays.csv
+ Ex  ⇨ eBook ⇨ PR030206_Rdatasets_InsectSprays.csv
 
 Use 『eStat』 to draw a dot graph, a histogram, a stem and leaf plot of
 the insect counts by the types of sprays.
@@ -744,7 +744,7 @@ analyze correlation and regression which will be discussed in Chapter
 Data on gender, height and weight of 10 elementary school students are
 saved at the following location of 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ EX030301_Continuous_HeightWeightByGender.csv.
+ Ex  ⇨ eBook ⇨ EX030301_Continuous_HeightWeightByGender.csv.
 
 1\) Draw a scatter plot of height and weight using 『eStat』.\
 2) Draw a scatter plot of height and weight by gender using 『eStat』.
@@ -765,7 +765,7 @@ saved at the following location of 『eStat』.
 
 Retrieve the file from 『eStat』 by clicking
 
-\[Ex\] ⇨ eBook ⇨ EX030301_Continuous_HeightWeightByGender.csv.
+ Ex  ⇨ eBook ⇨ EX030301_Continuous_HeightWeightByGender.csv.
 
 or scan the QR on the left.
 
@@ -858,7 +858,7 @@ collected. There are 272 observations on 2 variables, time between
 eruptions (in seconds) and waiting time to next eruption (in mins). The
 data are saved at the following location of 『eStat』.****
 
-\[Ex\] ⇨ eBook ⇨ PR030301_Rdatasets_Faithful.csv\
+ Ex  ⇨ eBook ⇨ PR030301_Rdatasets_Faithful.csv\
 (Source: Applied Statistics, 39, 357--365. doi: 10.2307/2347385)
 
 Draw a scatter plot of the time between eruptions and the waiting time
@@ -886,7 +886,7 @@ to next eruption.
 A survey of age, monthly income and gender (1: man, 2: woman) was
 conducted and the data are saved at the following location of 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ PR030302_Continuous_IncomeAge.csv.
+ Ex  ⇨ eBook ⇨ PR030302_Continuous_IncomeAge.csv.
 
 Draw a scatter plot of the age and the monthly income by gender.
 
@@ -933,7 +933,7 @@ models interactively. Biometrics, 37, 391--411.)
 
 This data are saved at the following location of 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ PR030303_Rdatasets_Mtcars.csv
+ Ex  ⇨ eBook ⇨ PR030303_Rdatasets_Mtcars.csv
 
 Draw a scatter plot of the miles per gallon and the weight of a car by
 the number of cylinders.
@@ -1053,7 +1053,7 @@ variable?
 
 3.1 Consider the data at the following location of 『eStat』.
 
-\[Ex\] ⇨ eBook ⇨ Ch3_Ex_Mixed_Survey.csv.
+ Ex  ⇨ eBook ⇨ Ch3_Ex_Mixed_Survey.csv.
 
 ::: textL50M30
 1\) Draw a dot graph, a histogram, a stem and leaf plot of the age.

@@ -98,7 +98,7 @@ Table 9.1.1 English Proficiency Score by Grade
   Grade 3   72          67          62          76          80                      ${\overline y}_{3\cdot}$=71.4
   Grade 4   89          94          79          88                                  ${\overline y}_{4\cdot}$=87.5
 
-\[Ex\] ⇨ eBook ⇨ EX090101_EnglishScoreByGrade.csv.
+ Ex  ⇨ eBook ⇨ EX090101_EnglishScoreByGrade.csv.
 
 ::: textL20M20
 1\) Using 『eStat』 , draw a dot graph of test scores for each grade and
@@ -536,7 +536,7 @@ data with 30 observations on control and two treatments ('crtl', 'trt1',
 followings using 『eStat』 ,
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR090101_Rdatasets_PlantGrowth.csv
+ Ex  ⇨ eBook ⇨ PR090101_Rdatasets_PlantGrowth.csv
 :::
 
 ::: textL20M20
@@ -776,7 +776,7 @@ same conclusion can be obtained as in the previous HSD test.
 **Practice 9.1.2** By using the data of \[Practice 9.1.1\]
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR090101_Rdatasets_PlantGrowth.csv
+ Ex  ⇨ eBook ⇨ PR090101_Rdatasets_PlantGrowth.csv
 :::
 
 apply the multiple comparisons to check where differences exist among
@@ -841,7 +841,7 @@ be checked by drawing the histogram of residuals.
 **Practice 9.1.3** By using the data of \[Practice 9.1.1\]
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR090101_Rdatasets_PlantGrowth.csv
+ Ex  ⇨ eBook ⇨ PR090101_Rdatasets_PlantGrowth.csv
 :::
 
 apply the residual analysis using 『eStat』.
@@ -1226,7 +1226,7 @@ Table 9.2.4 Fuel mileage data by five drivers and three car types
   Average($\overline y_{\cdot j}$)   19.63   14.63   18.10   19.27   23.10   18.947
 
 ::: figText
-\[Ex\] ⇨ eBook ⇨ EX090201_GasMilage.csv
+ Ex  ⇨ eBook ⇨ EX090201_GasMilage.csv
 :::
 
 ::: textL20M20
@@ -1391,7 +1391,7 @@ level.
   Wheat Type D   58       58       55
 
 ::: figText
-\[Ex\] ⇨ eBook ⇨ PR090201_WheatAreaYield.csv
+ Ex  ⇨ eBook ⇨ PR090201_WheatAreaYield.csv
 :::
 
 </div>
@@ -1532,7 +1532,7 @@ Table 9.3.1 Yield of rice by fertilizers and types of rice (unit kg)
   4            58, 50, 49    57, 61, 53    53, 59, 38
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ EX090301_YieldByRiceFertilzer.csv
+ Ex  ⇨ eBook ⇨ EX090301_YieldByRiceFertilzer.csv
 :::
 
 ::: textL20M20
@@ -1987,7 +1987,7 @@ significance level.
   -----------------------------------------------------------------------
 
 ::: textLeft
-\[Ex\] ⇨ eBook ⇨ PR090301_LifeByTemperatureHumidity.csv
+ Ex  ⇨ eBook ⇨ PR090301_LifeByTemperatureHumidity.csv
 :::
 
 </div>
