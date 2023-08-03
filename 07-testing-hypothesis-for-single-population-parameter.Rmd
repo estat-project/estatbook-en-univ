@@ -465,7 +465,7 @@ is large enough.
 
 <div>
 
-![](Figure/Fig070103.png){.imgFig600400}
+![](Figure/Fig070103.png){.imgPhoto}
 
 ::: figText
 [Figure 7.1.3]{.figure-ref} 『eStatU』 Testing Hypothes for μ

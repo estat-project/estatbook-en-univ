@@ -33,6 +33,15 @@ pre code {
 }
 
 
+iframe.example {
+    display: block;
+    border: none;
+    width: 100vw;
+    height: 100vh;
+}
+
+
+
 .qrBtn {
   float: left;
   background-color: black; // #4CAF50; /* green */
